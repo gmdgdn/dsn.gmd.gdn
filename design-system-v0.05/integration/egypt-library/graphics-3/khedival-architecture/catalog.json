@@ -1,0 +1,83 @@
+{
+  "collection": "Khedival Cairo architecture references",
+  "sourceFolder": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\khedival cairo architecture",
+  "count": 5,
+  "scope": "Two complete building elevations plus three supplied close-ups. Full elevations are primary reconstruction references; detail photos support pattern/bay/fenestration decisions. No historical identity/date inferred beyond supplied folder label.",
+  "entries": [
+    {
+      "id": "KA-001",
+      "filename": "khedival cairo architecture 1 closeup.jpg",
+      "building": "building 1",
+      "role": "facade detail crop",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\khedival cairo architecture\\khedival cairo architecture 1 closeup.jpg",
+      "reviewCopy": "khedival-architecture/sources/KA-001.jpg",
+      "sourceSHA256": "8ada31e1de902228142de1e81316042a520f0b4dd67a5cae64f27ef092c7f7b7",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 383203,
+      "visibleEvidence": "Close crop from building 1 showing repeated balcony balustrades, festoons, window surrounds, cornices, pilasters and façade paneling; use as detail reference for its complete elevation.",
+      "orientation": "upright portrait page as supplied",
+      "status": "reviewed; parent creates editable reconstruction; no redraw here"
+    },
+    {
+      "id": "KA-002",
+      "filename": "khedival cairo architecture 1.jpg",
+      "building": "building 1",
+      "role": "whole-building elevation",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\khedival cairo architecture\\khedival cairo architecture 1.jpg",
+      "reviewCopy": "khedival-architecture/sources/KA-002.jpg",
+      "sourceSHA256": "3dc4882f7320a40c14a9227f80f83f0d9dff7fcbe6ad66ab3ec8f24899750d34",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 340398,
+      "visibleEvidence": "Portrait-oriented elevation drawing photographed on an open book page; long façade with repeated balconies/windows, lower arched arcade and a domed corner tower. User asked to recreate both complete buildings editable.",
+      "orientation": "upright portrait page as supplied",
+      "status": "reviewed; parent creates editable reconstruction; no redraw here"
+    },
+    {
+      "id": "KA-003",
+      "filename": "khedival cairo architecture 2 closeup 1.jpg",
+      "building": "building 2",
+      "role": "facade detail crop",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\khedival cairo architecture\\khedival cairo architecture 2 closeup 1.jpg",
+      "reviewCopy": "khedival-architecture/sources/KA-003.jpg",
+      "sourceSHA256": "9afea2645375b79a348d549c2cd85d98c78665cbc6edc1b2fc57c0fafe314595",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 434839,
+      "visibleEvidence": "Close crop from building 2 showing repeated pointed/ogive window surrounds, balcony rail motifs, paired windows, pilaster-like verticals, and lower arched arcade; use as detail reference for its complete elevation.",
+      "orientation": "upright portrait page as supplied",
+      "status": "reviewed; parent creates editable reconstruction; no redraw here"
+    },
+    {
+      "id": "KA-004",
+      "filename": "khedival cairo architecture 2 closeup 2.jpg",
+      "building": "building 2",
+      "role": "facade detail crop",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\khedival cairo architecture\\khedival cairo architecture 2 closeup 2.jpg",
+      "reviewCopy": "khedival-architecture/sources/KA-004.jpg",
+      "sourceSHA256": "f93055493d64dd9948ec473250f4b2aeb469dcf25dc67034db48afbdac440df5",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 464141,
+      "visibleEvidence": "Close crop from building 2 showing repeated pointed/ogive window surrounds, balcony rail motifs, paired windows, pilaster-like verticals, and lower arched arcade; use as detail reference for its complete elevation.",
+      "orientation": "upright portrait page as supplied",
+      "status": "reviewed; parent creates editable reconstruction; no redraw here"
+    },
+    {
+      "id": "KA-005",
+      "filename": "khedival cairo architecture 2.jpg",
+      "building": "building 2",
+      "role": "whole-building elevation",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\khedival cairo architecture\\khedival cairo architecture 2.jpg",
+      "reviewCopy": "khedival-architecture/sources/KA-005.jpg",
+      "sourceSHA256": "f9caecd72846d2bb777fc9c79f0ab2132401fdc9bac182175d4ae224b1c32613",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 359615,
+      "visibleEvidence": "Portrait-oriented complete stepped façade elevation photographed on a book page: central raised arched crown, repeated pointed-arch/window bays, balconies, and lower arcade. User asked to recreate both complete buildings editable.",
+      "orientation": "upright portrait page as supplied",
+      "status": "reviewed; parent creates editable reconstruction; no redraw here"
+    }
+  ]
+}

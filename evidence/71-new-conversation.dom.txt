@@ -1,0 +1,161 @@
+- main:
+  - complementary:
+    - navigation:
+      - link "Go to Home Page":
+        - /url: /dev/home
+      - link "New PAL":
+        - /url: /dev/pals/create
+        - generic: New PAL
+      - list:
+        - link "Home":
+          - /url: /dev/home
+          - generic: Home
+        - link "PALs":
+          - /url: /dev/pals
+          - generic: PALs
+        - link "Deployments":
+          - /url: /dev/deployments
+          - generic: Deployments
+        - link "Conversations":
+          - /url: /dev/conversations
+          - generic: Conversations
+      - heading "ASSETS" [level=3]
+      - list:
+        - link "Starter Kits":
+          - /url: /dev/starter-kits
+          - generic: Starter Kits
+        - link "Faces":
+          - /url: /dev/faces
+          - generic: Faces
+        - link "Voices":
+          - /url: /dev/voices
+          - generic: Voices
+        - link "Knowledge Base":
+          - /url: /dev/documents
+          - generic: Knowledge Base
+        - link "Memories":
+          - /url: /dev/memories
+          - generic: Memories
+        - link "Connectors & Tools":
+          - /url: /dev/connectors
+          - generic: Connectors & Tools
+        - link "Guardrails":
+          - /url: /dev/guardrails
+          - generic: Guardrails
+        - link "Pronunciations":
+          - /url: /dev/pronunciation-dictionaries
+          - generic: Pronunciations
+    - list:
+      - link "Get 2× minutes when you upgrade":
+        - /url: /dev/billing
+        - generic: Get 2× minutes when you upgrade
+      - list:
+        - link "API Keys":
+          - /url: /dev/api-keys
+          - generic: API Keys
+        - button "Support":
+          - generic: Support
+      - button "gg gmd gdn":
+        - generic: gg
+        - generic: gmd gdn
+  - complementary "Griffin announcement":
+    - paragraph: "Coming soon: Griffin"
+    - paragraph: The first Human Interaction Model
+    - link "Read the research":
+      - /url: https://www.tavus.io/griffin
+      - text: Read the research
+    - link "Join the waitlist":
+      - /url: https://griffin.tavus.io/waitlist
+      - text: Join the waitlist
+    - button "Dismiss the Griffin announcement":
+  - heading "New Conversation" [level=1]
+  - button "History":
+    - text: History
+  - button "View Code"
+  - link "Read Docs":
+    - /url: https://docs.tavus.io/api-reference/personas/create-persona
+  - generic: Basics
+  - generic: PAL
+  - button "Default PAL":
+    - paragraph: Default PAL
+  - generic: Face
+  - button "Anna - Professional Anna - Professional(default)":
+    - img "Anna - Professional"
+    - paragraph: Anna - Professional(default)
+  - generic: Conversation Language
+  - button "More info":
+  - combobox:
+    - generic: english
+  - combobox
+  - generic: Conversation Name (optional)
+  - textbox "Enter a name for your conversation"
+  - generic: Custom Greeting (optional)
+  - generic: Dynamic Greeting
+  - button "More info":
+  - switch
+  - checkbox
+  - textbox "Hi there, welcome from the Tavus team!"
+  - generic: Conversation Context (optional)
+  - button "More info":
+  - textbox "Describe the context of the conversation"
+  - generic: Properties
+  - heading "Properties" [level=3]:
+    - text: Properties
+  - paragraph: Configure call duration, timeouts, media settings, recording options, and other conversation properties.
+  - generic: Audio-Only
+  - generic: Start a conversation in audio-only mode, perfect for voice-only or low-bandwidth environments.
+  - switch
+  - checkbox
+  - generic: Memory participant tag (optional)
+  - generic: Stable identifier for this participant. Tavus finds or creates their memory store with this PAL and carries it into this conversation.
+  - textbox "user_12345"
+  - generic: Legacy memory tags
+  - generic: Existing tag-based memory integrations. New integrations should use the participant tag above instead. The two can't be combined.
+  - status
+  - alert
+  - generic: Multi-select dropdown. Use arrow keys to navigate, Enter to select, and Escape to close.
+  - generic: No options selected
+  - 'combobox "Multi-select: 0 of 0 options selected. Select memories or type to add custom…"':
+    - generic: Select memories or type to add custom…
+  - generic: Knowledge Base
+  - generic: Enable your PAL to reference information from any previously uploaded documents during conversations.
+  - button "Add"
+  - generic: Document Retrieval Strategy
+  - text: Strategy used to retrieve relevant documents during the conversation.
+  - strong: Balanced
+  - text: is recommended for most cases.
+  - combobox:
+    - generic: Balanced
+  - combobox
+  - generic: Policy
+  - text: The compliance policy this conversation runs under.
+  - strong: EU
+  - text: resolves PAL fields left on Auto to their EU AI Act behavior — limited emotion recognition, and AI disclosure delivered both spoken and on-screen. Unset sends no policy, so the API applies its own default. Read more
+  - link "here":
+    - /url: https://docs.tavus.io/api-reference/conversations/create-conversation#body-policy
+  - text: .
+  - combobox "Policy":
+    - generic: Unset
+  - combobox
+  - generic: Require Auth
+  - text: If enabled, creates a private room requiring authentication. A
+  - code: meeting_token
+  - text: will be returned in the response that must be appended as
+  - code: "?t=TOKEN"
+  - text: to the conversation URL.
+  - switch
+  - checkbox
+  - generic: Test Mode
+  - text: If enabled, the conversation is created but the replica won't join. The conversation is created with status
+  - code: ended
+  - text: and does not affect concurrency limits or incur costs.
+  - switch
+  - checkbox
+  - generic: Callback URL (optional)
+  - generic: A URL that will receive webhooks with updates regarding the conversation state.
+  - textbox "https://yourwebsite.com/webhook"
+  - button "Create Conversation":
+    - text: Create Conversation
+- region "Notifications (F8)":
+  - list
+- iframe [id="I0_1791015854049"] [name="I0_1791015854049"]

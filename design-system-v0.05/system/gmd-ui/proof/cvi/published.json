@@ -1,0 +1,10 @@
+{
+  "url": "https://gmd-ui-registry.anagmdgdn.workers.dev/catalog/?study=cvi",
+  "status": 200,
+  "name": "cvi-sections",
+  "files": 13,
+  "title": "GMD UI · Component catalog",
+  "h1": "Every record has a voice.",
+  "fields": 12,
+  "missing": []
+}

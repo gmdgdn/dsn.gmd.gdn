@@ -1,0 +1,240 @@
+{
+  "accepted_scroll_routes": [
+    "/",
+    "/video-agents",
+    "/cvi",
+    "/pricing",
+    "/research",
+    "/vision",
+    "/griffin"
+  ],
+  "scroll_sweeps": [
+    {
+      "route": "/",
+      "screen_sequence": [
+        "01-public-home-viewport.png",
+        "49-public-home-section-02.png",
+        "50-public-home-section-03.png",
+        "51-public-home-section-04.png",
+        "home-section-05.png",
+        "home-section-06.png",
+        "home-section-07.png",
+        "home-section-08.png",
+        "home-section-09.png",
+        "home-section-10.png",
+        "home-section-11.png",
+        "home-section-12.png",
+        "home-section-13.png",
+        "home-section-14.png",
+        "home-section-15.png",
+        "home-section-16.png"
+      ],
+      "review_status": "visually reviewed via contact sheet; all saved frames accepted as source states",
+      "contact_sheet": "contact-sheets/home-sections.jpg"
+    },
+    {
+      "route": "/video-agents",
+      "screen_sequence": [
+        "enterprise-section-00.png",
+        "enterprise-section-01.png",
+        "enterprise-section-02.png",
+        "enterprise-section-03.png",
+        "enterprise-section-04.png",
+        "enterprise-section-05.png",
+        "enterprise-section-06.png",
+        "enterprise-section-07.png",
+        "enterprise-section-08.png",
+        "enterprise-section-09.png",
+        "enterprise-section-10.png",
+        "enterprise-section-11.png",
+        "enterprise-section-12.png",
+        "enterprise-section-13.png",
+        "enterprise-section-14.png",
+        "enterprise-section-15.png"
+      ],
+      "review_status": "visually reviewed via contact sheet; all saved frames accepted as source states",
+      "contact_sheet": "contact-sheets/enterprise-sections.jpg"
+    },
+    {
+      "route": "/cvi",
+      "screen_sequence": [
+        "api-platform-section-00.png",
+        "api-platform-section-01.png",
+        "api-platform-section-02.png",
+        "api-platform-section-03.png",
+        "api-platform-section-04.png",
+        "api-platform-section-05.png",
+        "api-platform-section-06.png",
+        "api-platform-section-07.png",
+        "api-platform-section-08.png",
+        "api-platform-section-09.png",
+        "api-platform-section-10.png",
+        "api-platform-section-11.png",
+        "api-platform-section-12.png",
+        "api-platform-section-13.png",
+        "api-platform-section-14.png",
+        "api-platform-section-15.png",
+        "api-platform-section-16.png",
+        "api-platform-section-17.png",
+        "api-platform-section-18.png",
+        "api-platform-section-19.png"
+      ],
+      "review_status": "visually reviewed via contact sheet; all saved frames accepted as source states",
+      "contact_sheet": "contact-sheets/api-platform-sections.jpg"
+    },
+    {
+      "route": "/pricing",
+      "screen_sequence": [
+        "pricing-section-00.png",
+        "pricing-section-01.png",
+        "pricing-section-02.png",
+        "pricing-section-03.png",
+        "pricing-section-04.png",
+        "pricing-section-05.png",
+        "pricing-section-06.png",
+        "pricing-section-07.png",
+        "pricing-section-08.png",
+        "pricing-section-09.png",
+        "pricing-section-10.png",
+        "pricing-section-11.png",
+        "pricing-section-12.png"
+      ],
+      "review_status": "visually reviewed via contact sheet; all saved frames accepted as source states",
+      "contact_sheet": "contact-sheets/pricing-sections.jpg"
+    },
+    {
+      "route": "/research",
+      "screen_sequence": [
+        "research-section-00.png",
+        "research-section-01.png",
+        "research-section-02.png",
+        "research-section-03.png",
+        "research-section-04.png",
+        "research-section-05.png",
+        "research-section-06.png",
+        "research-section-07.png",
+        "research-section-08.png",
+        "research-section-09.png",
+        "research-section-10.png",
+        "research-section-11.png",
+        "research-section-12.png"
+      ],
+      "review_status": "visually reviewed via contact sheet; all saved frames accepted as source states",
+      "contact_sheet": "contact-sheets/research-sections.jpg"
+    },
+    {
+      "route": "/vision",
+      "screen_sequence": [
+        "vision-section-00.png",
+        "vision-section-01.png",
+        "vision-section-02.png",
+        "vision-section-03.png",
+        "vision-section-04.png",
+        "vision-section-05.png",
+        "vision-section-06.png",
+        "vision-section-07.png",
+        "vision-section-08.png",
+        "vision-section-09.png",
+        "vision-section-10.png",
+        "vision-section-11.png",
+        "vision-section-12.png",
+        "vision-section-13.png",
+        "vision-section-14.png",
+        "vision-section-15.png"
+      ],
+      "review_status": "visually reviewed via contact sheet; all saved frames accepted as source states",
+      "contact_sheet": "contact-sheets/vision-sections.jpg"
+    },
+    {
+      "route": "/griffin",
+      "screen_sequence": [
+        "griffin-section-00.png",
+        "griffin-section-01.png",
+        "griffin-section-02.png",
+        "griffin-section-03.png",
+        "griffin-section-04.png",
+        "griffin-section-05.png",
+        "griffin-section-06.png",
+        "griffin-section-07.png",
+        "griffin-section-08.png",
+        "griffin-section-09.png",
+        "griffin-section-10.png",
+        "griffin-section-11.png",
+        "griffin-section-12.png",
+        "griffin-section-13.png",
+        "griffin-section-14.png",
+        "griffin-section-15.png",
+        "griffin-section-16.png",
+        "griffin-section-17.png",
+        "griffin-section-18.png",
+        "griffin-section-19.png",
+        "griffin-section-20.png",
+        "griffin-section-21.png",
+        "griffin-section-22.png",
+        "griffin-section-23.png",
+        "griffin-section-24.png",
+        "griffin-section-25.png",
+        "griffin-section-26.png",
+        "griffin-section-27.png",
+        "griffin-section-28.png",
+        "griffin-section-29.png",
+        "griffin-section-30.png",
+        "griffin-section-31.png",
+        "griffin-section-32.png",
+        "griffin-section-33.png",
+        "griffin-section-34.png",
+        "griffin-section-35.png",
+        "griffin-section-36.png",
+        "griffin-section-37.png",
+        "griffin-section-38.png",
+        "griffin-section-39.png",
+        "griffin-section-40.png",
+        "griffin-section-41.png",
+        "griffin-section-42.png",
+        "griffin-section-43.png",
+        "griffin-section-44.png",
+        "griffin-section-45.png"
+      ],
+      "review_status": "visually reviewed in two contact sheets; all 46 frames accepted",
+      "contact_sheet": "contact-sheets/griffin-sections-1.jpg; contact-sheets/griffin-sections-2.jpg"
+    }
+  ],
+  "contact_sheets": [
+    "contact-sheets/api-platform-sections.jpg",
+    "contact-sheets/brand-kit-logos.png",
+    "contact-sheets/brand-kit-social.png",
+    "contact-sheets/dashboard-new-conversation-video.png",
+    "contact-sheets/dashboard-new-states.png",
+    "contact-sheets/enterprise-sections.jpg",
+    "contact-sheets/home-sections.jpg",
+    "contact-sheets/pricing-sections.jpg",
+    "contact-sheets/research-sections.jpg",
+    "contact-sheets/vision-sections.jpg"
+  ],
+  "invalid_mobile_attempts": [
+    {
+      "evidence_stem": "48-public-home-mobile",
+      "actual_viewport_css_px": {
+        "width": 1026,
+        "height": 668
+      },
+      "requested_viewport_css_px": {
+        "width": 390,
+        "height": 844
+      },
+      "reason": "In-app browser viewport capability did not apply; retain the raw capture for traceability but do not count it as mobile evidence."
+    }
+  ],
+  "review": "Reviewed the saved source frames via contact sheets for all six listed sweeps; every source frame shown is an accepted source screenshot. Contact sheets summarize and do not replace original PNGs.",
+  "rejected_screenshots": [
+    "starter-candidate-interviewer.png",
+    "starter-casting-director.png",
+    "starter-customer-service-coaching.png",
+    "starter-front-desk-receptionist.png",
+    "starter-gdpr.png",
+    "starter-medical-intake.png",
+    "starter-phishing.png",
+    "starter-sales-development-representative.png",
+    "starter-trivia-master.png"
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "timestamp": "2026-10-05T16:06:37.228Z",
+  "base": "http://127.0.0.1:8766/design-system-v0.05/system/gmd-ui/registry-dist/catalog/",
+  "summary": {
+    "pass": 28,
+    "fail": 0
+  },
+  "results": [
+    {
+      "name": "page/en/1280/home",
+      "status": "pass"
+    },
+    {
+      "name": "page/en/1280/services",
+      "status": "pass"
+    },
+    {
+      "name": "page/en/1280/data",
+      "status": "pass"
+    },
+    {
+      "name": "page/en/1280/collection",
+      "status": "pass"
+    },
+    {
+      "name": "page/en/1280/about",
+      "status": "pass"
+    },
+    {
+      "name": "page/en/1280/contact",
+      "status": "pass"
+    },
+    {
+      "name": "page/en/390/home",
+      "status": "pass"
+    },
+    {
+      "name": "page/en/390/services",
+      "status": "pass"
+    },
+    {
+      "name": "page/en/390/data",
+      "status": "pass"
+    },
+    {
+      "name": "page/en/390/collection",
+      "status": "pass"
+    },
+    {
+      "name": "page/en/390/about",
+      "status": "pass"
+    },
+    {
+      "name": "page/en/390/contact",
+      "status": "pass"
+    },
+    {
+      "name": "page/ar/1280/home",
+      "status": "pass"
+    },
+    {
+      "name": "page/ar/1280/services",
+      "status": "pass"
+    },
+    {
+      "name": "page/ar/1280/data",
+      "status": "pass"
+    },
+    {
+      "name": "page/ar/1280/collection",
+      "status": "pass"
+    },
+    {
+      "name": "page/ar/1280/about",
+      "status": "pass"
+    },
+    {
+      "name": "page/ar/1280/contact",
+      "status": "pass"
+    },
+    {
+      "name": "page/ar/390/home",
+      "status": "pass"
+    },
+    {
+      "name": "page/ar/390/services",
+      "status": "pass"
+    },
+    {
+      "name": "page/ar/390/data",
+      "status": "pass"
+    },
+    {
+      "name": "page/ar/390/collection",
+      "status": "pass"
+    },
+    {
+      "name": "page/ar/390/about",
+      "status": "pass"
+    },
+    {
+      "name": "page/ar/390/contact",
+      "status": "pass"
+    },
+    {
+      "name": "pages/data/filter-empty-reset-navigation",
+      "status": "pass"
+    },
+    {
+      "name": "pages/contact/native-invalid-success",
+      "status": "pass"
+    },
+    {
+      "name": "pages/header-keyboard-navigation",
+      "status": "pass"
+    },
+    {
+      "name": "pages/console",
+      "status": "pass"
+    }
+  ],
+  "pageErrors": []
+}

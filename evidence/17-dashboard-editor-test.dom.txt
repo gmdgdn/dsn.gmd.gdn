@@ -1,0 +1,37 @@
+- main:
+  - button "Exit":
+    - generic: Exit
+  - generic: U
+  - generic: Untitled PAL
+  - group "Builder mode":
+    - radio "BUILD"
+    - radio "TEST" [checked] [active]
+    - radio "DEPLOY"
+  - button "Version history":
+  - generic: Not yet saved
+  - status:
+    - generic: Changes in this draft haven't gone out yet.
+    - button: Update
+  - complementary "Griffin announcement":
+    - paragraph: "Coming soon: Griffin"
+    - paragraph: The first Human Interaction Model
+    - link "Read the research":
+      - /url: https://www.tavus.io/griffin
+      - text: Read the research
+    - link "Join the waitlist":
+      - /url: https://griffin.tavus.io/waitlist
+      - text: Join the waitlist
+    - button "Dismiss the Griffin announcement":
+  - button "Charlie is listening during testing":
+    - img "Charlie"
+    - generic: Charlie
+    - generic: Watching this call...
+  - text: Untitled PAL Add a short description Start typing here…
+  - paragraph: 20 conversation minutes remaining
+  - button "Set conversational context"
+  - paragraph: Choose a face to start testing
+  - paragraph: Your agent needs a face before you can run a test call.
+  - button "Choose a face"
+- region "Notifications (F8)":
+  - list
+- iframe [id="I0_1791015854049"] [name="I0_1791015854049"]

@@ -1,0 +1,112 @@
+[
+ {
+  "tiling": "4.8.8 octagon-square",
+  "area_ratio": 1.0,
+  "overlap_area": 0.0,
+  "unmatched_edges": 0,
+  "case": "4.8.8 acute, octagon {8/3} chords (alpha 45 / theta 67.5)",
+  "unpaired_rays": 0,
+  "interior_seam_breaks": 0,
+  "node_degrees": {
+   "2": 358,
+   "4": 521
+  },
+  "strands": 58,
+  "interlace_conflicts": 0
+ },
+ {
+  "tiling": "4.8.8 octagon-square",
+  "area_ratio": 1.0,
+  "overlap_area": 0.0,
+  "unmatched_edges": 0,
+  "case": "4.8.8 median (alpha 90 / theta 45)",
+  "unpaired_rays": 0,
+  "interior_seam_breaks": 0,
+  "node_degrees": {
+   "2": 358,
+   "4": 121
+  },
+  "strands": 58,
+  "interlace_conflicts": 0
+ },
+ {
+  "tiling": "4.8.8 octagon-square",
+  "area_ratio": 1.0,
+  "overlap_area": 0.0,
+  "unmatched_edges": 0,
+  "case": "4.8.8 obtuse (alpha 135 / theta 22.5)",
+  "unpaired_rays": 0,
+  "interior_seam_breaks": 0,
+  "node_degrees": {
+   "2": 358,
+   "4": 121
+  },
+  "strands": 58,
+  "interlace_conflicts": 0
+ },
+ {
+  "tiling": "4.6.12 dodecagon-hexagon-square",
+  "area_ratio": 1.0,
+  "overlap_area": 0.0,
+  "unmatched_edges": 0,
+  "case": "4.6.12 median (theta 60)",
+  "unpaired_rays": 0,
+  "interior_seam_breaks": 0,
+  "node_degrees": {
+   "2": 1014,
+   "4": 393
+  },
+  "strands": 114,
+  "interlace_conflicts": 0
+ },
+ {
+  "tiling": "12/8 edge-to-edge dodecagon-octagon",
+  "area_ratio": 1.0,
+  "overlap_area": 0.0,
+  "unmatched_edges": 0,
+  "case": "12/8 edge-to-edge acute, extended (theta 67.5)",
+  "unpaired_rays": 0,
+  "interior_seam_breaks": 0,
+  "node_degrees": {
+   "2": 898,
+   "4": 1051
+  },
+  "strands": 114,
+  "interlace_conflicts": 0
+ },
+ {
+  "tiling": "12/8 edge-to-edge dodecagon-octagon",
+  "area_ratio": 1.0,
+  "overlap_area": 0.0,
+  "unmatched_edges": 0,
+  "case": "12/8 edge-to-edge acute, first intersection (theta 67.5)",
+  "unpaired_rays": 0,
+  "interior_seam_breaks": 0,
+  "node_degrees": {
+   "2": 898,
+   "4": 351
+  },
+  "strands": 98,
+  "interlace_conflicts": 0
+ },
+ {
+  "case": "radial fivefold median alpha 72",
+  "tiles": 21,
+  "union_is_single_polygon": true,
+  "holes": 0,
+  "overlap_area": 0.0,
+  "rim_edges": 20,
+  "unpaired_rays": 0,
+  "rays_capped_at_rim": 20
+ },
+ {
+  "case": "radial fivefold acute alpha 36",
+  "tiles": 21,
+  "union_is_single_polygon": true,
+  "holes": 0,
+  "overlap_area": 0.0,
+  "rim_edges": 20,
+  "unpaired_rays": 0,
+  "rays_capped_at_rim": 40
+ }
+]

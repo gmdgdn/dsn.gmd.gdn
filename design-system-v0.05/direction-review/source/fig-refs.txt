@@ -1,0 +1,115 @@
+
+=== Fig 123 ===
+[pdf276/p254] Figure 123 demonstrates these two polygonal modules with a variety of applied pattern lines that were used to a greater or lesser extend by artists throughout Muslim cultures.
+[pdf277/p255] Figure 126b places eight-pointed stars within the square modules, and extends the pattern lines within the octagonal modules from midpoint to midpoint of the underlying polygonal edges, thereby transforming the more common eight-pointed star into an Acute with 45° angles Median with 90° angles Obtuse with 135° angles 2-Point with reflected 22.5°  angles 2-Point with alternating  45° angles 2-Point with  reflected 45°  angles 2-Point with  alternating reflected 45° angles 2-point with perpendicular  pattern lines Median with 60° angles Median with 90° angles Obtuse with 135° angles 2-Point with perpendicular  pattern lines Fig. 123 3.1 Background to the Polygonal Technique 255
+
+=== Fig 126 ===
+[pdf211/p189] including a Timurid variation of the classic star-and-cross pattern from the Ghiyathiyya madrasa in Khargird, Iran (1438-40) [Fig. 126d].
+[pdf277/p255] Figure 126 illustrates eight variations to the median design of Fig. 124b.
+[pdf277/p255] Figure 126a employs 60 crossing pattern lines rather than the more typical 90 of the classic star-and cross pattern.
+[pdf277/p255] Figure 126b places eight-pointed stars within the square modules, and extends the pattern lines within the octagonal modules from midpoint to midpoint of the underlying polygonal edges, thereby transforming the more common eight-pointed star into an Acute with 45° angles Median with 90° angles Obtuse with 135° angles 2-Point with reflected 22.5°  angles 2-Point with alternating  45° angles 2-Point with  reflected 45°  angles 2-Point with  alternating reflected 45° angles 2-point with perpendicular  pattern lines Median with 60° angles Median with 90° angles Obtuse with 135° angles 2-Point with perpendicular  pattern lines Fig. 123 3.1 Background to the Polygonal Technique 255
+[pdf278/p256] Figures 126c and d place a ring of squares within the octagonal modules.
+[pdf278/p256] Figure 126c is an Umayyad variation from the mosaics at the Great Mosque of Co´rdoba (971), and Fig. 126b is a Timurid variation from the Ghiyathiyya madrasa in Khargird, Iran (1438-44).
+[pdf278/p256] Figure 126e arbitrarily adds eight-pointed stars within the square modules and an eight-pointed star rosette within the octagons.
+[pdf278/p256] Figure 126f is a frequently used subtractive pattern that radically disguises its star-and-cross origins, and historical examples include A Qarakhanid A B C D Fig. 124 A B C D Fig. 125 256 3 Polygonal Design Methodology
+[pdf279/p257] The design variations in Figs. 126g and h are typical to the Maghreb.
+[pdf279/p257] Figure 127c can also be created as a two-point pattern [Fig. 128d], and this design was used by Ibn al-Bawwab in his celebrated Baghdad A B C D E F G H Fig. 126 3.1 Background to the Polygonal Technique 257
+[pdf554/p532] The pattern in this lower section of the dome is a median design with 60 angular openings applied to the 4.82 tessellation of octagons and squares [Fig. 126a].
+
+=== Fig 130 ===
+[pdf282/p260] Figure 130 illustrates the polygonal modules of this system, along with their associated pattern lines in each of the four pattern families.
+[pdf283/p261] The outer long edges of the rotated clusters of triangles must be coincident with the long edges, be they other triangles in 180 rotation Large Octagon Square Pentagon Large Hexagon Small Hexagon Tranezoid Triangle Small Octagon Rhombus Median with 90° contact angles Obtuse with 135° contact angles 2-Point with 45°/135° supplementary angles Acute with 45° contact angles Fig. 130 3.1 Background to the Polygonal Technique 261
+
+=== Fig 187 ===
+[pdf318/p296] Figure 187 demonstrates how the angular openings of the acute family are 36, those of the median family are 72, and those of the obtuse family are 108.
+[pdf318/p296] Figure 187 illustrates the modules from this system that have only the short edge length.
+[pdf321/p299] of speciﬁc pattern families [Figs. 187 and 188], it is also important to note that the standard pattern line applications do not always work well in all modular conﬁgurations.
+[pdf321/p299] The problems with the pattern lines within these two latter families are the multiple small Acute Family  with 36°  contact angles Median Family  with 72°  contact angles Obtuse Family with 108° contact angles 2-Point Family with 36°/144°  supplimentary   angles Decagon Pentagon Octagon Concave  Hexagon Barrel  Hexagon Long  Hexagon Wide Rhombus Thin Rhombus Fig. 187 3.1 Background to the Polygonal Technique 299
+[pdf361/p339] As highlighted previously, a case in point is the long hexagon within the acute family [Fig. 187].
+[pdf368/p346] By only using this limited region of the overall design, the artist successfully circumvented the problem of the tightly constrained parallel pattern lines that result from the application of twopoint pattern lines to the underlying wide rhombi [Fig. 187].
+[pdf374/p352] The two underlying long hexagons (green) in the second repetitive hexagonal cell produce pattern lines that are not generally acceptable within the acute family [Fig. 187].
+[pdf584/p562] As seen previously in Fig. 187, the correct motif for this tile and contact angle is a pair of kite-shaped quadrilaterals, in which the long edges of the bowtie extend rays to opposite edges rather than their neighbors.
+
+=== Fig 189 ===
+[pdf318/p296] Figure 189 demonstrates the simplicity of constructing the more common polygonal modules of this system from the dodecagon.
+[pdf323/p301] A B Fig. 190 Fig. 189 3.1 Background to the Polygonal Technique 301
+
+=== Fig 258 ===
+[pdf368/p346] Figure 258b shows a Mamluk two-point pattern that repeats upon a hexagonal grid.
+[pdf368/p346] The underlying tessellation shown in Fig. 258a places the decagons at each vertex of the repeat unit, with edge-to-edge decagons at the two short edges of the repeat, and decagons separated by two mirrored pentagons along the other four longer edges.
+[pdf368/p346] The small highlighted rectangular region in Fig. 258b represents the isolated region of this design that was used in the entry portal of the Ashraﬁyya madrasa in Jerusalem (1482).
+[pdf369/p347] This variety of design was afforded four distinct B A C Fig. 257 A B Fig. 258 3.1 Background to the Polygonal Technique 347
+
+=== Fig 270 ===
+[pdf356/p334] scale of the underlying polygonal modules [Figs. 269 and 270].
+[pdf358/p336] It is worth noting that the generative schema of a much later Ottoman design from a door of the Sultan Bayezid II Kulliyesi in Istanbul (1501-06) is remarkably similar to this design from Baghdad [Fig. 270].
+[pdf379/p357] Figure 270c shows a design from the Sultan Bayezid II Kulliyesi in Istanbul (1501-06) that is also created from an underlying tessellation with variable scaled polygonal modules, and also transitions between two different pattern families.
+[pdf379/p357] Figure 270b demonstrates how the smaller scale polygons have pattern lines from the acute family, while the larger scale polygons are populated with the two-point family, with two sets of crossing pattern lines with 72 angular openings.
+[pdf379/p357] Figure 270a demonstrates how the proportional relationship between both scales of the underlying polygonal modules is derived from a ring of ten smaller pentagons ﬁtting precisely within the larger scaled decagon.
+[pdf379/p357] The black lines in Fig. 270a illustrate the truncation lines that create the trapezoids in Fig. 270b.
+[pdf380/p358] Considering the paucity of historical examples, it is impossible to know for certain to what extent artists working with sevenfold patterns were aware of this as a design system per se, or were merely applying the methodology of the polygonal technique to sevenfold geometry to C B A Fig. 270 358 3 Polygonal Design Methodology
+[pdf548/p526] Figures 269 and 270 illustrate two of the exceedingly rare historical ﬁvefold patterns that make use of underlying generative tessellations comprised of systematic modules that have more than a single scale.
+
+=== Fig 379 ===
+[pdf199/p177] This particular version of this well-known design is located at the Kale mosque in Divrigi (1180-81) [Fig. 379b].
+[pdf211/p189] This particular nonsystematic tessellation is one of the most commonly employed historically, and was used to produce innumerable geometric designs in all four of the principal pattern families throughout the Islamic world [Figs. 379–382].
+[pdf221/p199] families [Figs. 379–382].
+[pdf419/p397] This dual-level design combines this triangular pattern with the square pattern in Fig. 379f.
+[pdf461/p439] Figures 379–382 illustrate the derivation of patterns from each of the four pattern families from both of these two closely related A B Fig. 374 62 Necipog˘lu (1995), diagram no. 35 is a hybrid design with both square and triangular repetitive cells.
+[pdf462/p440] The three acute patterns with 8- and 12-pointed stars in Fig. 379 demonstrate how subtle differences in the angles of the applied pattern lines can change the overall character of what is otherwise the same design.
+[pdf462/p440] The Mengujekid example in Fig. 379b is from the Kale mosque in Divrigi, Turkey (1180-81), and has wider interweaving lines and slightly more acute angles in the ﬁvepointed stars.
+[pdf462/p440] All of these features produce a visual quality that is distinct from the version of this acute pattern in Fig. 379e.
+[pdf462/p440] The slightly less acute angles of the ﬁve-pointed stars combined with narrower widened lines creates a more open design with background elements that are proportionally larger than those of Fig. 379b.
+[pdf463/p441] The pattern lines of the 12-pointed stars of Fig. 379h are comprised of 12 parallel sets.
+[pdf463/p441] This pulls the crossing pattern lines inward from the midpoints of the underlying dodecagon in Fig. 379i.
+[pdf463/p441] While both underlying tessellations in Fig. 379 will make all three variations of the acute design, the tessellation with the ring of pentagons and barrel hexagons provide contact points for all of the key pattern line placements.
+[pdf466/p444] The arrangement of underlying polygons that surround the region with eightfold local symmetry in the two designs in this ﬁgure are analogous to a type A B C D E F G H I Fig. 379 444 3 Polygonal Design Methodology
+
+=== Fig 380 ===
+[pdf463/p441] Figure 380 demonstrates the construction of two median patterns from these two underlying tessellations.
+[pdf463/p441] Figure 380b shows the standard median derivation without design modiﬁcation.
+[pdf463/p441] The design in Fig. 380e was employed in the triangular side panels of the minbar at the Sultan Mu’ayyad mosque in Cairo (1415-21).
+[pdf464/p442] As with the acute patterns created from the underlying tessellation of edge-to-edge dodecagons and octagons, not all of the crossing pattern lines of the median 12-pointed stars are ﬁxed upon the midpoints of the dodecagonal and octagonal edges in Fig. 380a and d.
+[pdf465/p443] As with the median pattern in Fig. 380e, this design incorporates the same variety of modiﬁcation to the 12-pointed stars [Fig. 223].
+[pdf467/p445] D E F A B C Fig. 380 A B C D E F Fig. 381
+[pdf555/p533] It is interesting to note that two-dimensional version of the domical design produced from these underlying dodecagons and octagons was used by Mamluk artists just 10 or 15 years previous at the Sultan al-Mu’ayyad Shaykh complex in Cairo (1415-22) [Fig. 380e].
+
+=== Fig 448 ===
+[pdf519/p497] In all eight of these examples the scaling ration is indicated as an expression of phi. 3.3.1 Historical Examples of Type A Dual-Level Designs Figure 448 is a dual-level design from a Mughal pierced marble jali window grille at the I’timad al-Daula in Agra, India (1622-28).
+[pdf519/p497] Figure 448a illustrates the two generative tessellations of regular hexagons that produce both levels of design in Fig. 448b.
+[pdf520/p498] Figure 448b applies six-pointed stars to the midpoints of each primary and secondary underlying hexagon.
+[pdf520/p498] Figure 448c illustrates the dual-level pattern without its underlying generative tessellation.
+[pdf520/p498] A B C Fig. 448 70 Cromwell (2016). 71 Necipog˘lu (1995), diagram no. 31. 498 3 Polygonal Design Methodology
+
+=== Fig 449 ===
+[pdf370/p348] The single most signiﬁcant group of ﬁvefold dual-level designs with regions of rotation symmetry are the ﬁve examples from the Topkapi Scroll.27 Two ﬁne examples from the Topkapi Scroll include a ten-pointed star [Fig. 22a] that is part of a dual-level design comprised of an obtuse primary pattern and a median secondary pattern28, and a second example that is self-similar in that both the primary and secondary patterns are from the same median family [Fig. 449].
+[pdf520/p498] Both the primary and secondary patterns of the type A dual-level design in Fig. 449 are of the median family, and created from the ﬁvefold system.
+[pdf521/p499] It has been suggested that the non-rotational symmetry of the secondary design contained within the primary pentagons was a mistake on the part of the artist, perhaps introduced Fig. 449 72 In previous writings concerning this dual-level pattern [Bonner 2003] the author has misidentiﬁed the secondary pattern within the primary pentagons as having rotational symmetry.
+[pdf544/p522] This is the same scale factor as one of the dual-level designs in the Topkapi Scroll [Fig. 449].
+
+=== Fig 453 ===
+[pdf370/p348] Timurid, Qara Qoyunlu, and Safavid artists created several dual-level designs that contain regions with either ﬁvefold or tenfold rotation symmetry, including examples from the Imamzada Darb-i Imam in Isfahan (1453) [Fig. 451] [Photograph 97], and the Madar-i Shah in Isfahan (1706-1714) [Figs. 453 and 468].
+[pdf525/p503] Figure 453 shows a Safavid cut-tile mosaic type A duallevel design from the Madar-i Shah in Isfahan (1706-14) that is also created from the ﬁvefold system.
+[pdf525/p503] The scale factor between the two levels is 1:13.7082. . . which can be expressed as 4 + [φ  6], or as 7 + [√5  3]. 3.3.2 Historical Examples of Type B Dual-Level Designs Figure 455a illustrates a Janid type B dual-level design from the Nadir Divan Beg madrasa in Bukhara (1622-23) Fig. 453 3.3 Dual-Level Designs 503
+
+=== Fig 490 ===
+[pdf553/p531] Figure 490 illustrates the eightfold radial segmentation of the hemisphere.
+[pdf553/p531] Figure 490a shows a single gore segment laid ﬂat upon the two-dimensional plane, Fig. 490b shows the dome in elevation, Fig. 490c shows the dome in plan, and Fig. 490d shows an array of the eight radial segments laid ﬂat.
+[pdf556/p534] A B Fig. 489 A B C D Fig. 490
+
+=== Fig 504 ===
+[pdf572/p550] Here, the contact angle represents the elevation of each ray with respect to the tile edge, as shown in Fig. 504.
+[pdf572/p550] The earlier chapters of this book instead measure the angle formed by the rays themselves, labeled α in Fig. 504.
+[pdf572/p550] This variation produces a ring of kite shapes as an extra layer of geometry Fig. 503 An example of a tiling that will be used as an underlying polygonal tessellation in the construction of a star pattern θ θ α Fig. 504 A depiction of a single edge of an underlying polygonal tessellation, with two rays emanating from its midpoint.
+
+=== Fig 521 ===
+[pdf583/p561] These rays can easily be constructed in software, as shown in Fig. 521.
+[pdf583/p561] We can further simplify this process by computing a single intersection this way, and deriving the other n  1 by Fig. 520 A tiling construction inspired by the axis-based method, applied to a tiling by rhombs with interior angles of 72 and 108 Fig. 521 The construction of the two rays Li and Ri used to develop motifs within tiles.
+
+=== Fig 534 ===
+[pdf590/p568] Figure 534 shows sample constructions for a bend and a crossing, together with the result of applying this construction to every motif edge in a tile.
+[pdf590/p568] We are therefore left with the fascinating puzzle Fig. 534 The computation of the band polygons associated with the rendering of thickened motif edges.
+
+=== Fig 535 ===
+[pdf590/p568] This process is illustrated in Fig. 535; a ﬁnal interlaced design is shown in Fig. 509. 4.6 Extensions The study of the mathematical structure of Islamic geometric patterns is, to some extent, an exercise in archaeology.
+[pdf590/p568] In the diagram on the right, all of the band polygons in a complete motif are outlined in black Fig. 535 A demonstration of the placement of line segments to suggest interlacement.

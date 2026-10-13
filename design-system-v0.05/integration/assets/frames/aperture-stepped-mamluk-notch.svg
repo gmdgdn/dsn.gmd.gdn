@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 380" width="500" height="380">
+
+  <rect width="500" height="380" fill="var(--paper, #F7F4EF)" />
+  <!-- Hard 6px Drop Shadow -->
+  <polygon points="30.0,6.0 462.0,6.0 462.0,30.0 486.0,30.0 486.0,342.0 462.0,342.0 462.0,366.0 30.0,366.0 30.0,342.0 6.0,342.0 6.0,30.0 30.0,30.0" fill="var(--ink, #140206)" />
+  <!-- Aperture Card Fill -->
+  <polygon points="24.0,0.0 456.0,0.0 456.0,24.0 480.0,24.0 480.0,336.0 456.0,336.0 456.0,360.0 24.0,360.0 24.0,336.0 0.0,336.0 0.0,24.0 24.0,24.0" fill="var(--warm, #EAE5DE)" stroke="var(--ink, #140206)" stroke-width="2" />
+  <!-- Inner Decorative Framing Rule -->
+  <polygon points="24.0,0.0 456.0,0.0 456.0,24.0 480.0,24.0 480.0,336.0 456.0,336.0 456.0,360.0 24.0,360.0 24.0,336.0 0.0,336.0 0.0,24.0 24.0,24.0" fill="none" stroke="var(--nile, #1034A6)" stroke-width="1" stroke-dasharray="4,4" transform="scale(0.92) translate(20.639999999999997, 15.479999999999999)" />
+  <!-- Center Watermark Rosette -->
+  <circle cx="240" cy="180" r="36" fill="none" stroke="var(--sand, #D5C4A8)" stroke-width="1.5" />
+  <polygon points="240,156 257,163 264,180 257,197 240,204 223,197 216,180 223,163" fill="none" stroke="var(--ink, #140206)" stroke-width="1.5" />
+  <!-- Corner Register Ticks -->
+  <line x1="24" y1="0" x2="36" y2="12" stroke="var(--pink, #FF6183)" stroke-width="2" />
+  <line x1="456" y1="0" x2="444" y2="12" stroke="var(--pink, #FF6183)" stroke-width="2" />
+  <!-- Label -->
+  <text x="240" y="336" font-family="'FK Raster', monospace" font-size="10" fill="var(--ink, #140206)" text-anchor="middle" letter-spacing="1.5">STEPPED MAMLUK NOTCH FRAME</text>
+  
+</svg>

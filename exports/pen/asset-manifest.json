@@ -1,0 +1,1481 @@
+{
+  "source_asset_cache": "C:/Users/khorm/.pencil/documents/8b4c9a2a-091b-4893-b343-951b27b66afc",
+  "exports_root": "E:\\Eslam Builds\\design-system\\exports\\pen",
+  "unique_local_asset_paths": 122,
+  "reference_occurrences": 184,
+  "missing": 0,
+  "assets": [
+    {
+      "export": "homepage",
+      "reference": "fonts/tavus.io/1b2817a1bf827bf7.woff",
+      "local_path": "homepage/fonts/tavus.io/1b2817a1bf827bf7.woff",
+      "exists": true,
+      "size_bytes": 27420,
+      "sha256": "1b15a4d9b0718d43f785a0c57d1ae53ab285848524bad73fa8d65aeb64914ecb"
+    },
+    {
+      "export": "homepage",
+      "reference": "fonts/tavus.io/43dea5611f14d9ab.woff2",
+      "local_path": "homepage/fonts/tavus.io/43dea5611f14d9ab.woff2",
+      "exists": true,
+      "size_bytes": 62120,
+      "sha256": "db99e1026db8d41d75d19e569dff85f830ae91aebec4a3d5a12bcff1cc31056f"
+    },
+    {
+      "export": "homepage",
+      "reference": "fonts/tavus.io/d1a02040b2c0179e.woff2",
+      "local_path": "homepage/fonts/tavus.io/d1a02040b2c0179e.woff2",
+      "exists": true,
+      "size_bytes": 23748,
+      "sha256": "fda6801538156cc74d8693d5e8d082564251ee41a1a55790dc2c6014d33a8205"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/01e188b49c5b9853.png",
+      "local_path": "homepage/images/tavus.io/01e188b49c5b9853.png",
+      "exists": true,
+      "size_bytes": 3458848,
+      "sha256": "42544412a5ffc191e966045214c3af923cd26dfaa9bff6df5ef3434a9b02c418"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/03581d13860963bc.png",
+      "local_path": "homepage/images/tavus.io/03581d13860963bc.png",
+      "exists": true,
+      "size_bytes": 29890,
+      "sha256": "c5e06fdd0f7038c3f8c3221c257cb296482b79b9215be6a3b8991aec7a7f1e07"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/0a4c7a15fc346c49.png",
+      "local_path": "homepage/images/tavus.io/0a4c7a15fc346c49.png",
+      "exists": true,
+      "size_bytes": 2943606,
+      "sha256": "7d374cbc8fbdc3999a4651859631bb867fb4df28cb0c0e294964037a4bae4953"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/0bca98ebc726f374.png",
+      "local_path": "homepage/images/tavus.io/0bca98ebc726f374.png",
+      "exists": true,
+      "size_bytes": 149054,
+      "sha256": "8f08afd63f364c8bd756e66fd5de83cf543c504a53e8dc4705403c6d7281a729"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/13e75023ba34f091.png",
+      "local_path": "homepage/images/tavus.io/13e75023ba34f091.png",
+      "exists": true,
+      "size_bytes": 3673548,
+      "sha256": "495f8b077f3ff7fc2d57dc36c2c64fde71604b7afae2e1247a3807f8c5686427"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/1c600b9366526b93.png",
+      "local_path": "homepage/images/tavus.io/1c600b9366526b93.png",
+      "exists": true,
+      "size_bytes": 16084,
+      "sha256": "88b9ee20118aea6d1263c32da99381cad5f10e7e3ad1980bb981e00c230c734f"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/26c99618e3b700b8.png",
+      "local_path": "homepage/images/tavus.io/26c99618e3b700b8.png",
+      "exists": true,
+      "size_bytes": 65693,
+      "sha256": "bf6b6b83b6f262977c8cb99de7bb223afd1620a48e33bc566f6962b478e19f97"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/335c7f6f844b320b.png",
+      "local_path": "homepage/images/tavus.io/335c7f6f844b320b.png",
+      "exists": true,
+      "size_bytes": 1593429,
+      "sha256": "e8c16f5c366ec14b73017fadfe84f9646cecef59097bb4959826fddbd5fc4a60"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/3d670c10313e8573.png",
+      "local_path": "homepage/images/tavus.io/3d670c10313e8573.png",
+      "exists": true,
+      "size_bytes": 17329,
+      "sha256": "9393a565f852999092697ac2eeaf59048bca70bc05b2968e06cee925c9836342"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/423d8e43cf81dc94.png",
+      "local_path": "homepage/images/tavus.io/423d8e43cf81dc94.png",
+      "exists": true,
+      "size_bytes": 152259,
+      "sha256": "059d831f3f53390c106f9089ee3975d19680ce050940512320d6485ba1c3b99f"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/463a2a5ddb95d8b2.png",
+      "local_path": "homepage/images/tavus.io/463a2a5ddb95d8b2.png",
+      "exists": true,
+      "size_bytes": 1555140,
+      "sha256": "52398749a588f87b46ce0961b3d409bb0a15a61bbc2675dbe8f8e239540326a8"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/557aa9867b3d1f73.png",
+      "local_path": "homepage/images/tavus.io/557aa9867b3d1f73.png",
+      "exists": true,
+      "size_bytes": 1973,
+      "sha256": "b231c919de4d69e969cb1b9cd07f5ce375447413e021c0a2204ca8b120f9aecf"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/5d0680882747170e.png",
+      "local_path": "homepage/images/tavus.io/5d0680882747170e.png",
+      "exists": true,
+      "size_bytes": 281915,
+      "sha256": "2a4315c89382174e8be286a004a6bb6f0135efcaa47ce0f395ccfdf442b28ece"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/625a70780da63981.png",
+      "local_path": "homepage/images/tavus.io/625a70780da63981.png",
+      "exists": true,
+      "size_bytes": 80309,
+      "sha256": "739fddccdfb06e65f1795ffed93a901c7440d10d5a095ead40a308ecedf1c39f"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/636ad875e573a5cc.png",
+      "local_path": "homepage/images/tavus.io/636ad875e573a5cc.png",
+      "exists": true,
+      "size_bytes": 945815,
+      "sha256": "a579d1db0be91539a480fc7ccb54ad4ed06a871119e91249c4ead0c47ff74ff4"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/6969905c6abe8552.png",
+      "local_path": "homepage/images/tavus.io/6969905c6abe8552.png",
+      "exists": true,
+      "size_bytes": 466107,
+      "sha256": "f4c2aa064e59ac5664f365868e046fcf49ec2c454757219c037033a6c7bf9418"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/70fdc9658d80ea93.png",
+      "local_path": "homepage/images/tavus.io/70fdc9658d80ea93.png",
+      "exists": true,
+      "size_bytes": 675848,
+      "sha256": "620e7e0d2ca0cdfa90c37a524526411f069cf50fdaf9870ba38713b64631792d"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/75cc5cb5324dbd22.png",
+      "local_path": "homepage/images/tavus.io/75cc5cb5324dbd22.png",
+      "exists": true,
+      "size_bytes": 65191,
+      "sha256": "1fb61c8af460114b4206f4ffa20dbc2e44f801197f9a1e1435c8b7440792a1da"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/7adca548c2ad6165.png",
+      "local_path": "homepage/images/tavus.io/7adca548c2ad6165.png",
+      "exists": true,
+      "size_bytes": 1006051,
+      "sha256": "463ba4d0f9f0fc361d8c331ff984be6cb7c10686c1b00c7cf320b2f53967bef7"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/83c9247bfb6a2506.png",
+      "local_path": "homepage/images/tavus.io/83c9247bfb6a2506.png",
+      "exists": true,
+      "size_bytes": 59940,
+      "sha256": "d90eab33228bb4b8ea3afa37e964170eac130150148ba98a6430e19f5a4c7afb"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/841bc715c67c6fbf.png",
+      "local_path": "homepage/images/tavus.io/841bc715c67c6fbf.png",
+      "exists": true,
+      "size_bytes": 17892,
+      "sha256": "f31f5d3581e7610d20e22a3d02005da3a50d4e1d0eb40a85d000f464aa242f72"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/909b054ba8c471ef.png",
+      "local_path": "homepage/images/tavus.io/909b054ba8c471ef.png",
+      "exists": true,
+      "size_bytes": 9216,
+      "sha256": "6cb169e09c9185ee8d28dceead05280772d9dab0b02cac3f4df28c637ed161b9"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/92ea61a824458d3b.png",
+      "local_path": "homepage/images/tavus.io/92ea61a824458d3b.png",
+      "exists": true,
+      "size_bytes": 1871873,
+      "sha256": "b0cee698c32a5c828771d682ef54f474a2fe86da88f27dfcba8e755fc485c761"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/9b1f4eaa47fccba7.jpg",
+      "local_path": "homepage/images/tavus.io/9b1f4eaa47fccba7.jpg",
+      "exists": true,
+      "size_bytes": 119047,
+      "sha256": "b7c00b9e909006cdb302deee82f720717ea2fd779920ef7dbe438acb89cfca57"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/9f153d369ccdf94f.png",
+      "local_path": "homepage/images/tavus.io/9f153d369ccdf94f.png",
+      "exists": true,
+      "size_bytes": 23656,
+      "sha256": "f44a2a469d7c5af7897737bcc30302641bd44fd6daeda254b45d614a680f59f5"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/a012d45d3e1ca857.png",
+      "local_path": "homepage/images/tavus.io/a012d45d3e1ca857.png",
+      "exists": true,
+      "size_bytes": 335081,
+      "sha256": "975e1dbe8d24d0c9dd8e54e74af848f59b630f6e10a27813aa3f03a0a37c112d"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/ad4981a235e7b939.png",
+      "local_path": "homepage/images/tavus.io/ad4981a235e7b939.png",
+      "exists": true,
+      "size_bytes": 245443,
+      "sha256": "f9134a00c320e81907c05895068685b32d41a97dda59cb603fe807180348f316"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/b5cced431b087b43.png",
+      "local_path": "homepage/images/tavus.io/b5cced431b087b43.png",
+      "exists": true,
+      "size_bytes": 17144,
+      "sha256": "5061117eac5984ea9de57f95feb01bbca46275dba0f12661eef3c98382d8ca25"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/b879c5741969efaf.png",
+      "local_path": "homepage/images/tavus.io/b879c5741969efaf.png",
+      "exists": true,
+      "size_bytes": 4349253,
+      "sha256": "4d1548ff0959e5136df98609390fa5c090d7b5e5a1c76d1a834fe1aa3a8f5e33"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/c4595b0e3ae69d86.png",
+      "local_path": "homepage/images/tavus.io/c4595b0e3ae69d86.png",
+      "exists": true,
+      "size_bytes": 3083772,
+      "sha256": "df5076b95a7d4765ac5191126b750e6337d8e9203c9f3b4a15c6fdf5ae8de0cd"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/c7ad6a717bad6c1d.png",
+      "local_path": "homepage/images/tavus.io/c7ad6a717bad6c1d.png",
+      "exists": true,
+      "size_bytes": 801673,
+      "sha256": "4e36053e5e687d8a3c3f96bc91aad1ad94a82c660648a96263af1035da5f21b5"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/c7d3b25f1e26e84f.png",
+      "local_path": "homepage/images/tavus.io/c7d3b25f1e26e84f.png",
+      "exists": true,
+      "size_bytes": 65742,
+      "sha256": "7e40da4435e5e8a7daa976d930039f59cf08bfaf0dfa12a6b385e8de28c9e5a6"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/d5aebd8035fe4a5e.png",
+      "local_path": "homepage/images/tavus.io/d5aebd8035fe4a5e.png",
+      "exists": true,
+      "size_bytes": 165953,
+      "sha256": "3bd915b0d21b95fb25daff336ac1a45b12233a45afa0305b2f4558561ab6f957"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/d7a71c24fb360236.png",
+      "local_path": "homepage/images/tavus.io/d7a71c24fb360236.png",
+      "exists": true,
+      "size_bytes": 97459,
+      "sha256": "5ecbbdbafb446684926b2e849aafb289ded5b05dd6616fe1752395431193cb12"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/eaae8939af014225.webp",
+      "local_path": "homepage/images/tavus.io/eaae8939af014225.webp",
+      "exists": true,
+      "size_bytes": 1969132,
+      "sha256": "12334a5f8a2b32dd8dbd6450a3ce5b3fa79aa416272084c4f1ff40387459a376"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/f11333485f2123de.png",
+      "local_path": "homepage/images/tavus.io/f11333485f2123de.png",
+      "exists": true,
+      "size_bytes": 46691,
+      "sha256": "189779a12230e354f871fc73b32f2fae816ad75b8e8dd34157f02bae4af7347d"
+    },
+    {
+      "export": "homepage",
+      "reference": "images/tavus.io/f430ed8500de62fa.png",
+      "local_path": "homepage/images/tavus.io/f430ed8500de62fa.png",
+      "exists": true,
+      "size_bytes": 46113,
+      "sha256": "56eb6d6a65473f0f2662d53e8aa9d6dd0ab75556d016b8b213e74aca5811aa1a"
+    },
+    {
+      "export": "vision",
+      "reference": "fonts/tavus.io/10674cc80122afed.woff2",
+      "local_path": "vision/fonts/tavus.io/10674cc80122afed.woff2",
+      "exists": true,
+      "size_bytes": 46304,
+      "sha256": "937a5dd2253679e9b714ac6dca525dd6bd48e7b0e4977027ac4bfc1ed529201d"
+    },
+    {
+      "export": "vision",
+      "reference": "fonts/tavus.io/1b2817a1bf827bf7.woff",
+      "local_path": "vision/fonts/tavus.io/1b2817a1bf827bf7.woff",
+      "exists": true,
+      "size_bytes": 27420,
+      "sha256": "1b15a4d9b0718d43f785a0c57d1ae53ab285848524bad73fa8d65aeb64914ecb"
+    },
+    {
+      "export": "vision",
+      "reference": "fonts/tavus.io/2c8fcdb9a455ef0c.woff",
+      "local_path": "vision/fonts/tavus.io/2c8fcdb9a455ef0c.woff",
+      "exists": true,
+      "size_bytes": 30188,
+      "sha256": "67b9696094d800889ca0dcf7f8784736c769853c89d9294d2c67223c1067b6e4"
+    },
+    {
+      "export": "vision",
+      "reference": "fonts/tavus.io/43dea5611f14d9ab.woff2",
+      "local_path": "vision/fonts/tavus.io/43dea5611f14d9ab.woff2",
+      "exists": true,
+      "size_bytes": 62120,
+      "sha256": "db99e1026db8d41d75d19e569dff85f830ae91aebec4a3d5a12bcff1cc31056f"
+    },
+    {
+      "export": "vision",
+      "reference": "fonts/tavus.io/d1a02040b2c0179e.woff2",
+      "local_path": "vision/fonts/tavus.io/d1a02040b2c0179e.woff2",
+      "exists": true,
+      "size_bytes": 23748,
+      "sha256": "fda6801538156cc74d8693d5e8d082564251ee41a1a55790dc2c6014d33a8205"
+    },
+    {
+      "export": "vision",
+      "reference": "fonts/tavus.io/eb565d2414c82bad.woff2",
+      "local_path": "vision/fonts/tavus.io/eb565d2414c82bad.woff2",
+      "exists": true,
+      "size_bytes": 66248,
+      "sha256": "2685a0d5676e5381f30cfa2278471b31d25f62a8c4c1971238bd6f411dd84b2a"
+    },
+    {
+      "export": "vision",
+      "reference": "images/tavus.io/26c99618e3b700b8.png",
+      "local_path": "vision/images/tavus.io/26c99618e3b700b8.png",
+      "exists": true,
+      "size_bytes": 65693,
+      "sha256": "bf6b6b83b6f262977c8cb99de7bb223afd1620a48e33bc566f6962b478e19f97"
+    },
+    {
+      "export": "vision",
+      "reference": "images/tavus.io/463a2a5ddb95d8b2.png",
+      "local_path": "vision/images/tavus.io/463a2a5ddb95d8b2.png",
+      "exists": true,
+      "size_bytes": 1555140,
+      "sha256": "52398749a588f87b46ce0961b3d409bb0a15a61bbc2675dbe8f8e239540326a8"
+    },
+    {
+      "export": "vision",
+      "reference": "images/tavus.io/5b8e5be1994bd5c2.png",
+      "local_path": "vision/images/tavus.io/5b8e5be1994bd5c2.png",
+      "exists": true,
+      "size_bytes": 461453,
+      "sha256": "f9b695d7b83277fc376ff595bf1a55b0662e8906acf79872540c2bd37d144f58"
+    },
+    {
+      "export": "vision",
+      "reference": "images/tavus.io/82824829f51428b8.webp",
+      "local_path": "vision/images/tavus.io/82824829f51428b8.webp",
+      "exists": true,
+      "size_bytes": 8060,
+      "sha256": "25acca67ccb8746d2fb266977a0898a44502c9f2c59f8e819d0e7e8754d06bd9"
+    },
+    {
+      "export": "vision",
+      "reference": "images/tavus.io/909b054ba8c471ef.png",
+      "local_path": "vision/images/tavus.io/909b054ba8c471ef.png",
+      "exists": true,
+      "size_bytes": 9216,
+      "sha256": "6cb169e09c9185ee8d28dceead05280772d9dab0b02cac3f4df28c637ed161b9"
+    },
+    {
+      "export": "vision",
+      "reference": "images/tavus.io/c7d3b25f1e26e84f.png",
+      "local_path": "vision/images/tavus.io/c7d3b25f1e26e84f.png",
+      "exists": true,
+      "size_bytes": 65742,
+      "sha256": "7e40da4435e5e8a7daa976d930039f59cf08bfaf0dfa12a6b385e8de28c9e5a6"
+    },
+    {
+      "export": "vision",
+      "reference": "images/tavus.io/d13bbd20b46b7053.png",
+      "local_path": "vision/images/tavus.io/d13bbd20b46b7053.png",
+      "exists": true,
+      "size_bytes": 1161383,
+      "sha256": "ab3bdeca338870afb8114b5be2c5467ed04e7c3469e67e0762185353d5fc8e38"
+    },
+    {
+      "export": "vision",
+      "reference": "images/tavus.io/dc45167ca708cccc.png",
+      "local_path": "vision/images/tavus.io/dc45167ca708cccc.png",
+      "exists": true,
+      "size_bytes": 468778,
+      "sha256": "60a09d42974382edf26b8cc33ac9bab2d9e95f7e5aa45d2dd35391b397bc3055"
+    },
+    {
+      "export": "vision",
+      "reference": "images/tavus.io/f8bc8a42e957ce46.png",
+      "local_path": "vision/images/tavus.io/f8bc8a42e957ce46.png",
+      "exists": true,
+      "size_bytes": 2414841,
+      "sha256": "7ea5680a58d4922c781579c7e15f319c78773468e612f3f532b603b87f8fa113"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "fonts/tavus.io/1b2817a1bf827bf7.woff",
+      "local_path": "pal-maker/fonts/tavus.io/1b2817a1bf827bf7.woff",
+      "exists": true,
+      "size_bytes": 27420,
+      "sha256": "1b15a4d9b0718d43f785a0c57d1ae53ab285848524bad73fa8d65aeb64914ecb"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "fonts/tavus.io/43dea5611f14d9ab.woff2",
+      "local_path": "pal-maker/fonts/tavus.io/43dea5611f14d9ab.woff2",
+      "exists": true,
+      "size_bytes": 62120,
+      "sha256": "db99e1026db8d41d75d19e569dff85f830ae91aebec4a3d5a12bcff1cc31056f"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "fonts/tavus.io/d1a02040b2c0179e.woff2",
+      "local_path": "pal-maker/fonts/tavus.io/d1a02040b2c0179e.woff2",
+      "exists": true,
+      "size_bytes": 23748,
+      "sha256": "fda6801538156cc74d8693d5e8d082564251ee41a1a55790dc2c6014d33a8205"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/embedded-image-1.jpg",
+      "local_path": "pal-maker/images/embedded-image-1.jpg",
+      "exists": true,
+      "size_bytes": 80524,
+      "sha256": "7427c4a942ad1249b28cbef18f1cd7b23f8bcc33c1c47bdfe4fd223f4c3bfc84"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/embedded-image-2.jpg",
+      "local_path": "pal-maker/images/embedded-image-2.jpg",
+      "exists": true,
+      "size_bytes": 97500,
+      "sha256": "43a1ef5bda1118510c95e752f7f8515b4d0945d3bc7e7ad0cbfc61e9afedb438"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/embedded-image.jpg",
+      "local_path": "pal-maker/images/embedded-image.jpg",
+      "exists": true,
+      "size_bytes": 2927,
+      "sha256": "3cc068cae58443b920a7c590f444f89e1ef56b18b8501e7d877875acd694227c"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/03581d13860963bc.png",
+      "local_path": "pal-maker/images/tavus.io/03581d13860963bc.png",
+      "exists": true,
+      "size_bytes": 29890,
+      "sha256": "c5e06fdd0f7038c3f8c3221c257cb296482b79b9215be6a3b8991aec7a7f1e07"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/040cf10cbb99939a.png",
+      "local_path": "pal-maker/images/tavus.io/040cf10cbb99939a.png",
+      "exists": true,
+      "size_bytes": 144786,
+      "sha256": "a5d6812b5a29968fce0f0d465308e474a50b04cfb2cab24029c24aa56a20c0bd"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/0996cc7dd8e57bbe.png",
+      "local_path": "pal-maker/images/tavus.io/0996cc7dd8e57bbe.png",
+      "exists": true,
+      "size_bytes": 5333,
+      "sha256": "56798196a6d77de572b445ce664694155fe2d2129822aa3f9a684278efbcf4f7"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/1fca793d96f0be6a.png",
+      "local_path": "pal-maker/images/tavus.io/1fca793d96f0be6a.png",
+      "exists": true,
+      "size_bytes": 72503,
+      "sha256": "515150c533836612279973ca67f71dc4c4122e591d3cb5faf6c411279a3f9826"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/26c99618e3b700b8.png",
+      "local_path": "pal-maker/images/tavus.io/26c99618e3b700b8.png",
+      "exists": true,
+      "size_bytes": 65693,
+      "sha256": "bf6b6b83b6f262977c8cb99de7bb223afd1620a48e33bc566f6962b478e19f97"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/30da35068bd36a87.png",
+      "local_path": "pal-maker/images/tavus.io/30da35068bd36a87.png",
+      "exists": true,
+      "size_bytes": 1524956,
+      "sha256": "f536c77feeda951b6d5c914f26665cb671dc32496368440b6ffa02da87277258"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/38b3b43bb6a2ba14.png",
+      "local_path": "pal-maker/images/tavus.io/38b3b43bb6a2ba14.png",
+      "exists": true,
+      "size_bytes": 821260,
+      "sha256": "13a49576e8979460cd707d3376088c592408ce82151a694bde9868fee4dca12e"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/4a5a1d9a2c293b30.png",
+      "local_path": "pal-maker/images/tavus.io/4a5a1d9a2c293b30.png",
+      "exists": true,
+      "size_bytes": 3656530,
+      "sha256": "bf5ec82895e86690d7bb2abc9c147b06e3074958632dcbe299f0b7f5ba704d8a"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/5208de03bdb65943.png",
+      "local_path": "pal-maker/images/tavus.io/5208de03bdb65943.png",
+      "exists": true,
+      "size_bytes": 95943,
+      "sha256": "5d182e445b14943db253c8d9b2db62d93df049519641fc1f3355c81a8c35d1a6"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/5d3f0323c8f2d1f2.png",
+      "local_path": "pal-maker/images/tavus.io/5d3f0323c8f2d1f2.png",
+      "exists": true,
+      "size_bytes": 15331,
+      "sha256": "0b1b136ae3c1c29cf6cbd184c2a2f64d2e32cfc560c9e0110a86b7d62f22b6fd"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/69b9b0c71a7ba63c.png",
+      "local_path": "pal-maker/images/tavus.io/69b9b0c71a7ba63c.png",
+      "exists": true,
+      "size_bytes": 57010,
+      "sha256": "c0e7376d738cf9daa27f729e7b0f40963a981479100bb0740156e423fca5fa45"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/6ab42cf3285e35d4.png",
+      "local_path": "pal-maker/images/tavus.io/6ab42cf3285e35d4.png",
+      "exists": true,
+      "size_bytes": 3114660,
+      "sha256": "afe264d0e71f7bfe1922f75c6b5569d95876912d42ce2fd8058c022882c6fc0e"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/6fd41c07dd94ed28.png",
+      "local_path": "pal-maker/images/tavus.io/6fd41c07dd94ed28.png",
+      "exists": true,
+      "size_bytes": 596016,
+      "sha256": "031061f4079bd3c491ee170f369136314864e22378777c6059b442559d1dd6ea"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/83c9247bfb6a2506.png",
+      "local_path": "pal-maker/images/tavus.io/83c9247bfb6a2506.png",
+      "exists": true,
+      "size_bytes": 59940,
+      "sha256": "d90eab33228bb4b8ea3afa37e964170eac130150148ba98a6430e19f5a4c7afb"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/850d99a1aca42173.png",
+      "local_path": "pal-maker/images/tavus.io/850d99a1aca42173.png",
+      "exists": true,
+      "size_bytes": 7412,
+      "sha256": "0bf9df2937084b64499012e097b3e5bf273634e819dd055b8cd9dae062fd8ee2"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/869e8b738dbbc126.png",
+      "local_path": "pal-maker/images/tavus.io/869e8b738dbbc126.png",
+      "exists": true,
+      "size_bytes": 4812,
+      "sha256": "531c9006b08b3b88a6ab33aed14b699697522c3814005ea5233cc40453833dba"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/87517cde99b45f24.png",
+      "local_path": "pal-maker/images/tavus.io/87517cde99b45f24.png",
+      "exists": true,
+      "size_bytes": 6343316,
+      "sha256": "1d8ffe5513f4ef3fa25fa75c63bc6082a1d11a767ac77eee4819c4b24da9c46e"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/909b054ba8c471ef.png",
+      "local_path": "pal-maker/images/tavus.io/909b054ba8c471ef.png",
+      "exists": true,
+      "size_bytes": 9216,
+      "sha256": "6cb169e09c9185ee8d28dceead05280772d9dab0b02cac3f4df28c637ed161b9"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/9c0ba2da7f3b9291.png",
+      "local_path": "pal-maker/images/tavus.io/9c0ba2da7f3b9291.png",
+      "exists": true,
+      "size_bytes": 8508485,
+      "sha256": "12cd55daea6f3d1a2c4d2972ccc227d10c80a3a8f7edb64facc0d8396a4be3f4"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/9f153d369ccdf94f.png",
+      "local_path": "pal-maker/images/tavus.io/9f153d369ccdf94f.png",
+      "exists": true,
+      "size_bytes": 23656,
+      "sha256": "f44a2a469d7c5af7897737bcc30302641bd44fd6daeda254b45d614a680f59f5"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/9fd23403e139e03e.png",
+      "local_path": "pal-maker/images/tavus.io/9fd23403e139e03e.png",
+      "exists": true,
+      "size_bytes": 6818006,
+      "sha256": "35e8bc69698009e456511e443f156e34d35cd1cf35a5504e259f16b7e3b86f85"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/af41b6606cf7d694.png",
+      "local_path": "pal-maker/images/tavus.io/af41b6606cf7d694.png",
+      "exists": true,
+      "size_bytes": 149286,
+      "sha256": "7730829bb5b003fc57159bfbf83126b48a5b4fd5722ffc190598302681201bcd"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/bc659fdaddb8b778.png",
+      "local_path": "pal-maker/images/tavus.io/bc659fdaddb8b778.png",
+      "exists": true,
+      "size_bytes": 1892680,
+      "sha256": "d216201051db269c16677df3aa6d409e0257eedff8f150acf0b55e970949b808"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/c7d3b25f1e26e84f.png",
+      "local_path": "pal-maker/images/tavus.io/c7d3b25f1e26e84f.png",
+      "exists": true,
+      "size_bytes": 65742,
+      "sha256": "7e40da4435e5e8a7daa976d930039f59cf08bfaf0dfa12a6b385e8de28c9e5a6"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/dfb6b8bc452c6d88.png",
+      "local_path": "pal-maker/images/tavus.io/dfb6b8bc452c6d88.png",
+      "exists": true,
+      "size_bytes": 55941,
+      "sha256": "fc4d3afaa1595acca954dfeb1d25a09e4a807bde3d7287b5a45ea06338b6f7a1"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/e5ce998922b9cb5e.png",
+      "local_path": "pal-maker/images/tavus.io/e5ce998922b9cb5e.png",
+      "exists": true,
+      "size_bytes": 175827,
+      "sha256": "f6bb4024333b53556a2e2b6ca0cceb04b57e14e5fb77870eb19890b12c08e7c2"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/ec86ab9ad595b1af.png",
+      "local_path": "pal-maker/images/tavus.io/ec86ab9ad595b1af.png",
+      "exists": true,
+      "size_bytes": 56932,
+      "sha256": "a580e80cbd2498cd2650b01b2632b757131a462ac9d78dfd5ece4214a112a777"
+    },
+    {
+      "export": "pal-maker",
+      "reference": "images/tavus.io/fe60563cf12d2d2b.png",
+      "local_path": "pal-maker/images/tavus.io/fe60563cf12d2d2b.png",
+      "exists": true,
+      "size_bytes": 2133,
+      "sha256": "14b6658ab05d1fb98ccf1a1072310b20a9195a0851eb8480326fd3c7d483c11e"
+    },
+    {
+      "export": "cvi",
+      "reference": "fonts/tavus.io/1b2817a1bf827bf7.woff",
+      "local_path": "cvi/fonts/tavus.io/1b2817a1bf827bf7.woff",
+      "exists": true,
+      "size_bytes": 27420,
+      "sha256": "1b15a4d9b0718d43f785a0c57d1ae53ab285848524bad73fa8d65aeb64914ecb"
+    },
+    {
+      "export": "cvi",
+      "reference": "fonts/tavus.io/43dea5611f14d9ab.woff2",
+      "local_path": "cvi/fonts/tavus.io/43dea5611f14d9ab.woff2",
+      "exists": true,
+      "size_bytes": 62120,
+      "sha256": "db99e1026db8d41d75d19e569dff85f830ae91aebec4a3d5a12bcff1cc31056f"
+    },
+    {
+      "export": "cvi",
+      "reference": "fonts/tavus.io/d1a02040b2c0179e.woff2",
+      "local_path": "cvi/fonts/tavus.io/d1a02040b2c0179e.woff2",
+      "exists": true,
+      "size_bytes": 23748,
+      "sha256": "fda6801538156cc74d8693d5e8d082564251ee41a1a55790dc2c6014d33a8205"
+    },
+    {
+      "export": "cvi",
+      "reference": "fonts/tavus.io/eb565d2414c82bad.woff2",
+      "local_path": "cvi/fonts/tavus.io/eb565d2414c82bad.woff2",
+      "exists": true,
+      "size_bytes": 66248,
+      "sha256": "2685a0d5676e5381f30cfa2278471b31d25f62a8c4c1971238bd6f411dd84b2a"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/03581d13860963bc.png",
+      "local_path": "cvi/images/tavus.io/03581d13860963bc.png",
+      "exists": true,
+      "size_bytes": 29890,
+      "sha256": "c5e06fdd0f7038c3f8c3221c257cb296482b79b9215be6a3b8991aec7a7f1e07"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/038c9307ed7bcde5.png",
+      "local_path": "cvi/images/tavus.io/038c9307ed7bcde5.png",
+      "exists": true,
+      "size_bytes": 2065,
+      "sha256": "fa2c40560fadb6807d29a508fdbbed79ac522aedc60e84de849a29a679eeac5c"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/040cf10cbb99939a.png",
+      "local_path": "cvi/images/tavus.io/040cf10cbb99939a.png",
+      "exists": true,
+      "size_bytes": 144786,
+      "sha256": "a5d6812b5a29968fce0f0d465308e474a50b04cfb2cab24029c24aa56a20c0bd"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/0a4c7a15fc346c49.png",
+      "local_path": "cvi/images/tavus.io/0a4c7a15fc346c49.png",
+      "exists": true,
+      "size_bytes": 2943606,
+      "sha256": "7d374cbc8fbdc3999a4651859631bb867fb4df28cb0c0e294964037a4bae4953"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/12d8cc97fd422709.png",
+      "local_path": "cvi/images/tavus.io/12d8cc97fd422709.png",
+      "exists": true,
+      "size_bytes": 20896,
+      "sha256": "32f794b8c9a03693bf7446631a812c3603ffe4538df03c4c8295f0191de3316e"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/18e83e55bbecf729.png",
+      "local_path": "cvi/images/tavus.io/18e83e55bbecf729.png",
+      "exists": true,
+      "size_bytes": 29088,
+      "sha256": "84f9a90fe2b6b7b854da8edfd60217c50398f1318091a1b368b93fb373d7085e"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/21bce421bfe98aa0.png",
+      "local_path": "cvi/images/tavus.io/21bce421bfe98aa0.png",
+      "exists": true,
+      "size_bytes": 4804616,
+      "sha256": "47496858dae07d7440a0963e34643b3fc70a5aa6b0c7ccd8ed79ffa7b0d6faac"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/26c99618e3b700b8.png",
+      "local_path": "cvi/images/tavus.io/26c99618e3b700b8.png",
+      "exists": true,
+      "size_bytes": 65693,
+      "sha256": "bf6b6b83b6f262977c8cb99de7bb223afd1620a48e33bc566f6962b478e19f97"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/2b203aded9ec5292.png",
+      "local_path": "cvi/images/tavus.io/2b203aded9ec5292.png",
+      "exists": true,
+      "size_bytes": 21745,
+      "sha256": "841ecc843aad9a9bc31931d9934860c46bb54b2e778d95965060cafe857ef243"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/3c7bb6b8ec961627.png",
+      "local_path": "cvi/images/tavus.io/3c7bb6b8ec961627.png",
+      "exists": true,
+      "size_bytes": 254,
+      "sha256": "b59bf6c0201ad53a150a3e66d4a1c73e7f1752d14608762514231e877bb92a4e"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/4ab98513e3c6f8cc.png",
+      "local_path": "cvi/images/tavus.io/4ab98513e3c6f8cc.png",
+      "exists": true,
+      "size_bytes": 22958,
+      "sha256": "548ca36786231ccd83c466847cbf5c511f9f22730b16aba8f7eda19e7def3206"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/4fd4391338f5632f.png",
+      "local_path": "cvi/images/tavus.io/4fd4391338f5632f.png",
+      "exists": true,
+      "size_bytes": 264,
+      "sha256": "c43fe0e2114a102f66025eef8b81b1ef5f017371275dc1fe05109b89e321f254"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/55507e00e4e3e7aa.png",
+      "local_path": "cvi/images/tavus.io/55507e00e4e3e7aa.png",
+      "exists": true,
+      "size_bytes": 48327,
+      "sha256": "ef208bb4fb3a24e905effc16a661b8525d9ba29849652cd42dd1c01b96acdbf1"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/59fcfe362690e0e6.png",
+      "local_path": "cvi/images/tavus.io/59fcfe362690e0e6.png",
+      "exists": true,
+      "size_bytes": 34752,
+      "sha256": "be712f0a629b24c8fc7c005148293f10271cce2309d5ff5ed697069c67e00950"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/5d0680882747170e.png",
+      "local_path": "cvi/images/tavus.io/5d0680882747170e.png",
+      "exists": true,
+      "size_bytes": 281915,
+      "sha256": "2a4315c89382174e8be286a004a6bb6f0135efcaa47ce0f395ccfdf442b28ece"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/5fa4519dc32fac28.png",
+      "local_path": "cvi/images/tavus.io/5fa4519dc32fac28.png",
+      "exists": true,
+      "size_bytes": 229,
+      "sha256": "1be6b36d5ecfce839a0707e7f6e99f8a7955723a189501f3f738808624e29b3e"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/60106c22e78500e0.png",
+      "local_path": "cvi/images/tavus.io/60106c22e78500e0.png",
+      "exists": true,
+      "size_bytes": 2804278,
+      "sha256": "84a241f7424de922b02a7ce3c5d038363587556e1f8e628ae2267cdb4fe5c6a7"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/6171920464aea8db.png",
+      "local_path": "cvi/images/tavus.io/6171920464aea8db.png",
+      "exists": true,
+      "size_bytes": 57021,
+      "sha256": "dd6cd0ae401b1aa1d9f91e383387ab7169878b4b49050f8f1c398b6ca5def999"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/625a70780da63981.png",
+      "local_path": "cvi/images/tavus.io/625a70780da63981.png",
+      "exists": true,
+      "size_bytes": 80309,
+      "sha256": "739fddccdfb06e65f1795ffed93a901c7440d10d5a095ead40a308ecedf1c39f"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/6969905c6abe8552.png",
+      "local_path": "cvi/images/tavus.io/6969905c6abe8552.png",
+      "exists": true,
+      "size_bytes": 466107,
+      "sha256": "f4c2aa064e59ac5664f365868e046fcf49ec2c454757219c037033a6c7bf9418"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/6d8a24f837585fa1.png",
+      "local_path": "cvi/images/tavus.io/6d8a24f837585fa1.png",
+      "exists": true,
+      "size_bytes": 1701799,
+      "sha256": "d58d701dc10c10394ce9f4acacaed46f5686dd76e1d004c708b0eeba550877e1"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/6f765e26e35c8d49.png",
+      "local_path": "cvi/images/tavus.io/6f765e26e35c8d49.png",
+      "exists": true,
+      "size_bytes": 856324,
+      "sha256": "87ffbeafe020df03782b55c7fe6515882dba0dd626936e7c07bae0aed9762d40"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/70fdc9658d80ea93.png",
+      "local_path": "cvi/images/tavus.io/70fdc9658d80ea93.png",
+      "exists": true,
+      "size_bytes": 675848,
+      "sha256": "620e7e0d2ca0cdfa90c37a524526411f069cf50fdaf9870ba38713b64631792d"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/71046c4885060556.png",
+      "local_path": "cvi/images/tavus.io/71046c4885060556.png",
+      "exists": true,
+      "size_bytes": 32074,
+      "sha256": "138bc30a13b0c7cc0a4d46f8ef1793c2cc0cbfd3bc0da1d7f06000f86bb06665"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/7adca548c2ad6165.png",
+      "local_path": "cvi/images/tavus.io/7adca548c2ad6165.png",
+      "exists": true,
+      "size_bytes": 1006051,
+      "sha256": "463ba4d0f9f0fc361d8c331ff984be6cb7c10686c1b00c7cf320b2f53967bef7"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/80172a4d57c910db.png",
+      "local_path": "cvi/images/tavus.io/80172a4d57c910db.png",
+      "exists": true,
+      "size_bytes": 24497,
+      "sha256": "4e50b44550dfb24da2acc3bf4d6d0ce8a25e8b042310278e234bee4ed02dba99"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/8393f211b5d61d17.png",
+      "local_path": "cvi/images/tavus.io/8393f211b5d61d17.png",
+      "exists": true,
+      "size_bytes": 22051,
+      "sha256": "20c458a5d09705f1569a146eb4aca907a6dbb46c7edaf5ce3695f70b7ae6b8f5"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/83c9247bfb6a2506.png",
+      "local_path": "cvi/images/tavus.io/83c9247bfb6a2506.png",
+      "exists": true,
+      "size_bytes": 59940,
+      "sha256": "d90eab33228bb4b8ea3afa37e964170eac130150148ba98a6430e19f5a4c7afb"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/85d65ee74da6e962.png",
+      "local_path": "cvi/images/tavus.io/85d65ee74da6e962.png",
+      "exists": true,
+      "size_bytes": 20386,
+      "sha256": "daf7e27b413a777b90d594ba606ef3b0981f92a9fee15876d9ddb768e73f915a"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/872327aa256a20a9.png",
+      "local_path": "cvi/images/tavus.io/872327aa256a20a9.png",
+      "exists": true,
+      "size_bytes": 22006,
+      "sha256": "dd940f463f4f6018d3c12e18422bbddc350338d84b185d21c3f5442fb41e400f"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/909b054ba8c471ef.png",
+      "local_path": "cvi/images/tavus.io/909b054ba8c471ef.png",
+      "exists": true,
+      "size_bytes": 9216,
+      "sha256": "6cb169e09c9185ee8d28dceead05280772d9dab0b02cac3f4df28c637ed161b9"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/9749edbb53cbb29e.png",
+      "local_path": "cvi/images/tavus.io/9749edbb53cbb29e.png",
+      "exists": true,
+      "size_bytes": 26527,
+      "sha256": "75b48bfd67d0274532e056418f2990e5dac3501cd72c19484cffa3500b1948e8"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/9f153d369ccdf94f.png",
+      "local_path": "cvi/images/tavus.io/9f153d369ccdf94f.png",
+      "exists": true,
+      "size_bytes": 23656,
+      "sha256": "f44a2a469d7c5af7897737bcc30302641bd44fd6daeda254b45d614a680f59f5"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/a012d45d3e1ca857.png",
+      "local_path": "cvi/images/tavus.io/a012d45d3e1ca857.png",
+      "exists": true,
+      "size_bytes": 335081,
+      "sha256": "975e1dbe8d24d0c9dd8e54e74af848f59b630f6e10a27813aa3f03a0a37c112d"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/a23dccfa1548e388.png",
+      "local_path": "cvi/images/tavus.io/a23dccfa1548e388.png",
+      "exists": true,
+      "size_bytes": 24163,
+      "sha256": "532d9fadb3794a0923d847ec61d74f4e216358a6a953701b8fd4f3adf72d38be"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/a647c9a31dc61ce0.png",
+      "local_path": "cvi/images/tavus.io/a647c9a31dc61ce0.png",
+      "exists": true,
+      "size_bytes": 297511,
+      "sha256": "230c81c7824060073ac52a4a13786b5876571587313ceda9161724649848ff9c"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/ad4981a235e7b939.png",
+      "local_path": "cvi/images/tavus.io/ad4981a235e7b939.png",
+      "exists": true,
+      "size_bytes": 245443,
+      "sha256": "f9134a00c320e81907c05895068685b32d41a97dda59cb603fe807180348f316"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/b785bb340229222a.png",
+      "local_path": "cvi/images/tavus.io/b785bb340229222a.png",
+      "exists": true,
+      "size_bytes": 16023,
+      "sha256": "d4e40c21c9388e72cddbb7f395b13fbc9614b0467390d119b22fd42b7f7ec7aa"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/bddd517430133429.png",
+      "local_path": "cvi/images/tavus.io/bddd517430133429.png",
+      "exists": true,
+      "size_bytes": 1851206,
+      "sha256": "3ac11ffaddcab939c2bcb517c04f3ef4a62b0852b4144902d7c2b157ffa685dd"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/bde926a15f2524cf.png",
+      "local_path": "cvi/images/tavus.io/bde926a15f2524cf.png",
+      "exists": true,
+      "size_bytes": 239,
+      "sha256": "f83d3ef5b8aae5ef493473bf875cbfee5dcbd59de2a92c330d1bb680139a6120"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/c751dc3861d26a1c.png",
+      "local_path": "cvi/images/tavus.io/c751dc3861d26a1c.png",
+      "exists": true,
+      "size_bytes": 37676,
+      "sha256": "3b694bcba202aeed1ad5c3c999d56e54857b1611964bfbf2f1e340097c189979"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/c7d3b25f1e26e84f.png",
+      "local_path": "cvi/images/tavus.io/c7d3b25f1e26e84f.png",
+      "exists": true,
+      "size_bytes": 65742,
+      "sha256": "7e40da4435e5e8a7daa976d930039f59cf08bfaf0dfa12a6b385e8de28c9e5a6"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/ccb9296728617314.png",
+      "local_path": "cvi/images/tavus.io/ccb9296728617314.png",
+      "exists": true,
+      "size_bytes": 33259,
+      "sha256": "016148ccc23b3434765cafc87fcc61aae9ab4b1779dfe5cf185f13e1241b9ded"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/db9c95be3bc59c1b.png",
+      "local_path": "cvi/images/tavus.io/db9c95be3bc59c1b.png",
+      "exists": true,
+      "size_bytes": 1983674,
+      "sha256": "9103bf5e26fa0f65d32a7abe90221c0ce22b0d44074fd8952300aafc88a7d465"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/e285a00aef35f1c8.png",
+      "local_path": "cvi/images/tavus.io/e285a00aef35f1c8.png",
+      "exists": true,
+      "size_bytes": 268,
+      "sha256": "1467c0203197d93924c6c6deb6eba31940a8f3c6068042ededb36c1e34ff36ba"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/f430ed8500de62fa.png",
+      "local_path": "cvi/images/tavus.io/f430ed8500de62fa.png",
+      "exists": true,
+      "size_bytes": 46113,
+      "sha256": "56eb6d6a65473f0f2662d53e8aa9d6dd0ab75556d016b8b213e74aca5811aa1a"
+    },
+    {
+      "export": "cvi",
+      "reference": "images/tavus.io/f7ffdc89156d6acb.png",
+      "local_path": "cvi/images/tavus.io/f7ffdc89156d6acb.png",
+      "exists": true,
+      "size_bytes": 230,
+      "sha256": "cc8f0b44750b32e5f3fb4a82ceb751a409f4b1db16f89703564de2240eb886e6"
+    },
+    {
+      "export": "blog-index",
+      "reference": "fonts/tavus.io/1b2817a1bf827bf7.woff",
+      "local_path": "blog-index/fonts/tavus.io/1b2817a1bf827bf7.woff",
+      "exists": true,
+      "size_bytes": 27420,
+      "sha256": "1b15a4d9b0718d43f785a0c57d1ae53ab285848524bad73fa8d65aeb64914ecb"
+    },
+    {
+      "export": "blog-index",
+      "reference": "fonts/tavus.io/43dea5611f14d9ab.woff2",
+      "local_path": "blog-index/fonts/tavus.io/43dea5611f14d9ab.woff2",
+      "exists": true,
+      "size_bytes": 62120,
+      "sha256": "db99e1026db8d41d75d19e569dff85f830ae91aebec4a3d5a12bcff1cc31056f"
+    },
+    {
+      "export": "blog-index",
+      "reference": "fonts/tavus.io/d1a02040b2c0179e.woff2",
+      "local_path": "blog-index/fonts/tavus.io/d1a02040b2c0179e.woff2",
+      "exists": true,
+      "size_bytes": 23748,
+      "sha256": "fda6801538156cc74d8693d5e8d082564251ee41a1a55790dc2c6014d33a8205"
+    },
+    {
+      "export": "blog-index",
+      "reference": "fonts/tavus.io/eb565d2414c82bad.woff2",
+      "local_path": "blog-index/fonts/tavus.io/eb565d2414c82bad.woff2",
+      "exists": true,
+      "size_bytes": 66248,
+      "sha256": "2685a0d5676e5381f30cfa2278471b31d25f62a8c4c1971238bd6f411dd84b2a"
+    },
+    {
+      "export": "blog-index",
+      "reference": "images/tavus.io/032f628452e1e093.png",
+      "local_path": "blog-index/images/tavus.io/032f628452e1e093.png",
+      "exists": true,
+      "size_bytes": 505325,
+      "sha256": "907197bc97aeafb660ba81edfdf736e84f0b62d835395f358f76fcb098eee3f0"
+    },
+    {
+      "export": "blog-index",
+      "reference": "images/tavus.io/9aa52769c0d54027.png",
+      "local_path": "blog-index/images/tavus.io/9aa52769c0d54027.png",
+      "exists": true,
+      "size_bytes": 3536,
+      "sha256": "d235dbe69eb1b24bcbda658321edc0f59068a151dada70f4f75e437fb69da7e1"
+    },
+    {
+      "export": "blog-index",
+      "reference": "images/tavus.io/bb6fe168d43d9d04.png",
+      "local_path": "blog-index/images/tavus.io/bb6fe168d43d9d04.png",
+      "exists": true,
+      "size_bytes": 136078,
+      "sha256": "cae610e13c268e9ed71880373d6e9f5065682579022bb1bf962ad66480eb21be"
+    },
+    {
+      "export": "blog-index",
+      "reference": "images/tavus.io/fed648a16c92b53e.png",
+      "local_path": "blog-index/images/tavus.io/fed648a16c92b53e.png",
+      "exists": true,
+      "size_bytes": 95281,
+      "sha256": "607305154f36f966904383844dc2849138f8d46139b28e7421c84bc67d9ec610"
+    },
+    {
+      "export": "blog-memories",
+      "reference": "fonts/tavus.io/1b2817a1bf827bf7.woff",
+      "local_path": "blog-memories/fonts/tavus.io/1b2817a1bf827bf7.woff",
+      "exists": true,
+      "size_bytes": 27420,
+      "sha256": "1b15a4d9b0718d43f785a0c57d1ae53ab285848524bad73fa8d65aeb64914ecb"
+    },
+    {
+      "export": "blog-memories",
+      "reference": "fonts/tavus.io/43dea5611f14d9ab.woff2",
+      "local_path": "blog-memories/fonts/tavus.io/43dea5611f14d9ab.woff2",
+      "exists": true,
+      "size_bytes": 62120,
+      "sha256": "db99e1026db8d41d75d19e569dff85f830ae91aebec4a3d5a12bcff1cc31056f"
+    },
+    {
+      "export": "blog-memories",
+      "reference": "fonts/tavus.io/d1a02040b2c0179e.woff2",
+      "local_path": "blog-memories/fonts/tavus.io/d1a02040b2c0179e.woff2",
+      "exists": true,
+      "size_bytes": 23748,
+      "sha256": "fda6801538156cc74d8693d5e8d082564251ee41a1a55790dc2c6014d33a8205"
+    },
+    {
+      "export": "blog-memories",
+      "reference": "fonts/tavus.io/eb565d2414c82bad.woff2",
+      "local_path": "blog-memories/fonts/tavus.io/eb565d2414c82bad.woff2",
+      "exists": true,
+      "size_bytes": 66248,
+      "sha256": "2685a0d5676e5381f30cfa2278471b31d25f62a8c4c1971238bd6f411dd84b2a"
+    },
+    {
+      "export": "blog-memories",
+      "reference": "fonts/tavus.io/f3f0a34939045f13.woff2",
+      "local_path": "blog-memories/fonts/tavus.io/f3f0a34939045f13.woff2",
+      "exists": true,
+      "size_bytes": 50660,
+      "sha256": "157c44d6aa95aee2d9bd8fff6fe55c529010ece5a0fdc45b9c155d8e280b8645"
+    },
+    {
+      "export": "blog-memories",
+      "reference": "images/tavus.io/6f43f62c5d887618.png",
+      "local_path": "blog-memories/images/tavus.io/6f43f62c5d887618.png",
+      "exists": true,
+      "size_bytes": 1027295,
+      "sha256": "266de2b04ebea979115c57dd687f51106ff09988580c5bdd60f60f49b697e485"
+    },
+    {
+      "export": "blog-memories",
+      "reference": "images/tavus.io/805e6bc46eb6f12e.jpg",
+      "local_path": "blog-memories/images/tavus.io/805e6bc46eb6f12e.jpg",
+      "exists": true,
+      "size_bytes": 20742,
+      "sha256": "e4ade29110fe4b5b562ce4f1ff50281ca081677b175f4ce431b383c9b4464e99"
+    },
+    {
+      "export": "blog-memories",
+      "reference": "images/tavus.io/909b054ba8c471ef.png",
+      "local_path": "blog-memories/images/tavus.io/909b054ba8c471ef.png",
+      "exists": true,
+      "size_bytes": 9216,
+      "sha256": "6cb169e09c9185ee8d28dceead05280772d9dab0b02cac3f4df28c637ed161b9"
+    },
+    {
+      "export": "blog-memories",
+      "reference": "images/tavus.io/9ab00f004dba8baa.png",
+      "local_path": "blog-memories/images/tavus.io/9ab00f004dba8baa.png",
+      "exists": true,
+      "size_bytes": 4886,
+      "sha256": "3941bb662c7f2239826757055f97eb037c2058fcba685e04ef05e11e8565dbf4"
+    },
+    {
+      "export": "blog-memories",
+      "reference": "images/tavus.io/bb6fe168d43d9d04.png",
+      "local_path": "blog-memories/images/tavus.io/bb6fe168d43d9d04.png",
+      "exists": true,
+      "size_bytes": 136078,
+      "sha256": "cae610e13c268e9ed71880373d6e9f5065682579022bb1bf962ad66480eb21be"
+    },
+    {
+      "export": "blog-memories",
+      "reference": "images/tavus.io/c4039bdf3f80d232.png",
+      "local_path": "blog-memories/images/tavus.io/c4039bdf3f80d232.png",
+      "exists": true,
+      "size_bytes": 405961,
+      "sha256": "d155e041dc703f96fef82929595174b70468cb3e8bf084522fd18e2b1cea70af"
+    },
+    {
+      "export": "blog-memories",
+      "reference": "images/tavus.io/d7aee41edf9af66b.png",
+      "local_path": "blog-memories/images/tavus.io/d7aee41edf9af66b.png",
+      "exists": true,
+      "size_bytes": 1882731,
+      "sha256": "18f499a00a3092a86d2ebdb8f8c4e2d4e9e834a93e502503ce032e37be0ff35d"
+    },
+    {
+      "export": "blog-memories",
+      "reference": "images/tavus.io/f560ef491fdf54d3.png",
+      "local_path": "blog-memories/images/tavus.io/f560ef491fdf54d3.png",
+      "exists": true,
+      "size_bytes": 1838683,
+      "sha256": "68208999693c41889ddd1de6f7ec1bf515a02afe00ee25926c1f956813776fa6"
+    },
+    {
+      "export": "blog-memories",
+      "reference": "images/tavus.io/fed648a16c92b53e.png",
+      "local_path": "blog-memories/images/tavus.io/fed648a16c92b53e.png",
+      "exists": true,
+      "size_bytes": 95281,
+      "sha256": "607305154f36f966904383844dc2849138f8d46139b28e7421c84bc67d9ec610"
+    },
+    {
+      "export": "blog-pals-ai-avatars",
+      "reference": "fonts/tavus.io/1b2817a1bf827bf7.woff",
+      "local_path": "blog-pals-ai-avatars/fonts/tavus.io/1b2817a1bf827bf7.woff",
+      "exists": true,
+      "size_bytes": 27420,
+      "sha256": "1b15a4d9b0718d43f785a0c57d1ae53ab285848524bad73fa8d65aeb64914ecb"
+    },
+    {
+      "export": "blog-pals-ai-avatars",
+      "reference": "fonts/tavus.io/43dea5611f14d9ab.woff2",
+      "local_path": "blog-pals-ai-avatars/fonts/tavus.io/43dea5611f14d9ab.woff2",
+      "exists": true,
+      "size_bytes": 62120,
+      "sha256": "db99e1026db8d41d75d19e569dff85f830ae91aebec4a3d5a12bcff1cc31056f"
+    },
+    {
+      "export": "blog-pals-ai-avatars",
+      "reference": "fonts/tavus.io/d1a02040b2c0179e.woff2",
+      "local_path": "blog-pals-ai-avatars/fonts/tavus.io/d1a02040b2c0179e.woff2",
+      "exists": true,
+      "size_bytes": 23748,
+      "sha256": "fda6801538156cc74d8693d5e8d082564251ee41a1a55790dc2c6014d33a8205"
+    },
+    {
+      "export": "blog-pals-ai-avatars",
+      "reference": "fonts/tavus.io/eb565d2414c82bad.woff2",
+      "local_path": "blog-pals-ai-avatars/fonts/tavus.io/eb565d2414c82bad.woff2",
+      "exists": true,
+      "size_bytes": 66248,
+      "sha256": "2685a0d5676e5381f30cfa2278471b31d25f62a8c4c1971238bd6f411dd84b2a"
+    },
+    {
+      "export": "blog-pals-ai-avatars",
+      "reference": "images/tavus.io/23ce9a877fadc315.png",
+      "local_path": "blog-pals-ai-avatars/images/tavus.io/23ce9a877fadc315.png",
+      "exists": true,
+      "size_bytes": 18510,
+      "sha256": "d53a4c784cab4e5b21337269703ce39a89b5285740879122afbc1b2b246b16b4"
+    },
+    {
+      "export": "blog-pals-ai-avatars",
+      "reference": "images/tavus.io/8b69dcc73adfe3f8.png",
+      "local_path": "blog-pals-ai-avatars/images/tavus.io/8b69dcc73adfe3f8.png",
+      "exists": true,
+      "size_bytes": 120645,
+      "sha256": "4bf7faf79533d4374cb4562664df407714941ede3e0976b10a92550590603d57"
+    },
+    {
+      "export": "blog-pals-ai-avatars",
+      "reference": "images/tavus.io/909b054ba8c471ef.png",
+      "local_path": "blog-pals-ai-avatars/images/tavus.io/909b054ba8c471ef.png",
+      "exists": true,
+      "size_bytes": 9216,
+      "sha256": "6cb169e09c9185ee8d28dceead05280772d9dab0b02cac3f4df28c637ed161b9"
+    },
+    {
+      "export": "blog-pals-ai-avatars",
+      "reference": "images/tavus.io/a881edcc8f421c68.png",
+      "local_path": "blog-pals-ai-avatars/images/tavus.io/a881edcc8f421c68.png",
+      "exists": true,
+      "size_bytes": 3267,
+      "sha256": "b0a973fb04e3a116321bd270d98dabb738b929a81b1225f14db099f342efbd0a"
+    },
+    {
+      "export": "blog-pals-ai-avatars",
+      "reference": "images/tavus.io/bb6fe168d43d9d04.png",
+      "local_path": "blog-pals-ai-avatars/images/tavus.io/bb6fe168d43d9d04.png",
+      "exists": true,
+      "size_bytes": 136078,
+      "sha256": "cae610e13c268e9ed71880373d6e9f5065682579022bb1bf962ad66480eb21be"
+    },
+    {
+      "export": "blog-pals-ai-avatars",
+      "reference": "images/tavus.io/e42724b667ab999a.png",
+      "local_path": "blog-pals-ai-avatars/images/tavus.io/e42724b667ab999a.png",
+      "exists": true,
+      "size_bytes": 3245,
+      "sha256": "4fd5f8c7867e107321aa5fbec893e9ce7136dd21a54e1ffe55aab4f96ca8fec8"
+    },
+    {
+      "export": "blog-pals-ai-avatars",
+      "reference": "images/tavus.io/fed648a16c92b53e.png",
+      "local_path": "blog-pals-ai-avatars/images/tavus.io/fed648a16c92b53e.png",
+      "exists": true,
+      "size_bytes": 95281,
+      "sha256": "607305154f36f966904383844dc2849138f8d46139b28e7421c84bc67d9ec610"
+    },
+    {
+      "export": "pricing",
+      "reference": "fonts/tavus.io/1b2817a1bf827bf7.woff",
+      "local_path": "pricing/fonts/tavus.io/1b2817a1bf827bf7.woff",
+      "exists": true,
+      "size_bytes": 27420,
+      "sha256": "1b15a4d9b0718d43f785a0c57d1ae53ab285848524bad73fa8d65aeb64914ecb"
+    },
+    {
+      "export": "pricing",
+      "reference": "fonts/tavus.io/43dea5611f14d9ab.woff2",
+      "local_path": "pricing/fonts/tavus.io/43dea5611f14d9ab.woff2",
+      "exists": true,
+      "size_bytes": 62120,
+      "sha256": "db99e1026db8d41d75d19e569dff85f830ae91aebec4a3d5a12bcff1cc31056f"
+    },
+    {
+      "export": "pricing",
+      "reference": "fonts/tavus.io/d1a02040b2c0179e.woff2",
+      "local_path": "pricing/fonts/tavus.io/d1a02040b2c0179e.woff2",
+      "exists": true,
+      "size_bytes": 23748,
+      "sha256": "fda6801538156cc74d8693d5e8d082564251ee41a1a55790dc2c6014d33a8205"
+    },
+    {
+      "export": "pricing",
+      "reference": "fonts/tavus.io/eb565d2414c82bad.woff2",
+      "local_path": "pricing/fonts/tavus.io/eb565d2414c82bad.woff2",
+      "exists": true,
+      "size_bytes": 66248,
+      "sha256": "2685a0d5676e5381f30cfa2278471b31d25f62a8c4c1971238bd6f411dd84b2a"
+    },
+    {
+      "export": "pricing",
+      "reference": "images/tavus.io/114f218c6d442952.png",
+      "local_path": "pricing/images/tavus.io/114f218c6d442952.png",
+      "exists": true,
+      "size_bytes": 4494,
+      "sha256": "39e2da1855fd48ee6f6c3bc3099592c6c7fafd47704368c4e35fa8f72c2f57d2"
+    },
+    {
+      "export": "pricing",
+      "reference": "images/tavus.io/4090758ea3138eaa.png",
+      "local_path": "pricing/images/tavus.io/4090758ea3138eaa.png",
+      "exists": true,
+      "size_bytes": 29379,
+      "sha256": "fc269bee25e1103b766d89ba040f802c45963211b14c6ce2e4e853076207367b"
+    },
+    {
+      "export": "pricing",
+      "reference": "images/tavus.io/6969905c6abe8552.png",
+      "local_path": "pricing/images/tavus.io/6969905c6abe8552.png",
+      "exists": true,
+      "size_bytes": 466107,
+      "sha256": "f4c2aa064e59ac5664f365868e046fcf49ec2c454757219c037033a6c7bf9418"
+    },
+    {
+      "export": "pricing",
+      "reference": "images/tavus.io/909b054ba8c471ef.png",
+      "local_path": "pricing/images/tavus.io/909b054ba8c471ef.png",
+      "exists": true,
+      "size_bytes": 9216,
+      "sha256": "6cb169e09c9185ee8d28dceead05280772d9dab0b02cac3f4df28c637ed161b9"
+    },
+    {
+      "export": "pricing",
+      "reference": "images/tavus.io/a2a54e0a13e7917a.png",
+      "local_path": "pricing/images/tavus.io/a2a54e0a13e7917a.png",
+      "exists": true,
+      "size_bytes": 76936,
+      "sha256": "f24387bee344223890542bd89e1078788de19cadad6fa7e340edad7151a01749"
+    },
+    {
+      "export": "pricing",
+      "reference": "images/tavus.io/a881edcc8f421c68.png",
+      "local_path": "pricing/images/tavus.io/a881edcc8f421c68.png",
+      "exists": true,
+      "size_bytes": 3267,
+      "sha256": "b0a973fb04e3a116321bd270d98dabb738b929a81b1225f14db099f342efbd0a"
+    },
+    {
+      "export": "pricing",
+      "reference": "images/tavus.io/fed648a16c92b53e.png",
+      "local_path": "pricing/images/tavus.io/fed648a16c92b53e.png",
+      "exists": true,
+      "size_bytes": 95281,
+      "sha256": "607305154f36f966904383844dc2849138f8d46139b28e7421c84bc67d9ec610"
+    }
+  ]
+}

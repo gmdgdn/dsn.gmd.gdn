@@ -1,0 +1,112 @@
+- main:
+  - complementary:
+    - navigation:
+      - link:
+        - /url: /dev/home
+      - link:
+        - /url: /dev/pals/create
+        - generic: New PAL
+      - list:
+        - link:
+          - /url: /dev/home
+          - generic: Home
+        - link:
+          - /url: /dev/pals
+          - generic: PALs
+        - link:
+          - /url: /dev/deployments
+          - generic: Deployments
+        - link:
+          - /url: /dev/conversations
+          - generic: Conversations
+      - heading [level=3]: ASSETS
+      - list:
+        - link:
+          - /url: /dev/starter-kits
+          - generic: Starter Kits
+        - link:
+          - /url: /dev/faces
+          - generic: Faces
+        - link:
+          - /url: /dev/voices
+          - generic: Voices
+        - link:
+          - /url: /dev/documents
+          - generic: Knowledge Base
+        - link:
+          - /url: /dev/memories
+          - generic: Memories
+        - link:
+          - /url: /dev/connectors
+          - generic: Connectors & Tools
+        - link:
+          - /url: /dev/guardrails
+          - generic: Guardrails
+        - link:
+          - /url: /dev/pronunciation-dictionaries
+          - generic: Pronunciations
+    - list:
+      - link:
+        - /url: /dev/billing
+        - generic: Get 2× minutes when you upgrade
+      - list:
+        - link:
+          - /url: /dev/api-keys
+          - generic: API Keys
+        - button:
+          - generic: Support
+      - button:
+        - generic: gg
+        - generic: gmd gdn
+  - complementary:
+    - paragraph: "Coming soon: Griffin"
+    - paragraph: The first Human Interaction Model
+    - link:
+      - /url: https://www.tavus.io/griffin
+      - text: Read the research
+    - link:
+      - /url: https://griffin.tavus.io/waitlist
+      - text: Join the waitlist
+    - button:
+  - heading [level=1]: Knowledge Base
+  - paragraph:
+    - text: Documents your PALs can reference during conversations.
+    - link:
+      - /url: https://docs.tavus.io/sections/conversational-video-interface/knowledge-base
+      - text: Read the docs ↗
+  - textbox:
+    - /placeholder: Search by name or ID
+  - button:
+    - generic: Tags
+  - button:
+    - text: New Document
+  - table:
+    - rowgroup:
+      - row:
+        - cell:
+          - heading [level=3]: You don’t have any documents yet
+          - paragraph: Upload files or add a URL to start building your knowledge base.
+          - button:
+            - text: Add Files
+          - button [active]:
+            - text: Add URL
+- list
+- iframe [id="I0_1791015854049"] [name="I0_1791015854049"]
+- dialog "Add URL":
+  - heading "Add URL" [level=2]
+  - paragraph: Add a website URL to your knowledge base.
+  - text: Document URL
+  - textbox "Document URL":
+    - /placeholder: https://tavus.io/
+  - paragraph: A snapshot of the page is analyzed and saved as a document.
+  - text: Crawl linked pages
+  - paragraph: Follow links from this URL and save every page it reaches as one document.
+  - switch "Crawl linked pages"
+  - generic: Refresh
+  - combobox "Refresh":
+    - generic: Manual
+  - generic: Tags
+  - textbox "Add a tag…"
+  - button "Add URL" [disabled]
+  - button "Close":
+    - generic: Close

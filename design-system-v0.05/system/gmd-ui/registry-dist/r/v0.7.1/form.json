@@ -1,0 +1,21 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "form",
+  "title": "GMD form",
+  "dependencies": [],
+  "registryDependencies": [
+    "https://gmd-ui-registry.anagmdgdn.workers.dev/r/v0.7.1/foundations.json",
+    "https://gmd-ui-registry.anagmdgdn.workers.dev/r/v0.7.1/field.json",
+    "https://gmd-ui-registry.anagmdgdn.workers.dev/r/v0.7.1/input.json",
+    "https://gmd-ui-registry.anagmdgdn.workers.dev/r/v0.7.1/button.json"
+  ],
+  "files": [
+    {
+      "path": "src/components/gmd/Form.tsx",
+      "content": "import { useId, useState } from \"react\"\nimport { Field, FieldDescription, FieldError, FieldGroup, FieldLabel } from \"@/components/ui/field\"\nimport { Input } from \"@/components/ui/input\"\nimport { Button } from \"@/components/ui/button\"\n\nexport function GMDForm({locale=\"en\"}:{locale?:\"en\"|\"ar\"}) {\n  const instanceId=useId()\n  const titleId=`${instanceId}-collection-title`,sourceId=`${instanceId}-source-id`,errorId=`${instanceId}-source-id-error`\n  const [title,setTitle]=useState(\"\"),[source,setSource]=useState(\"KAY—1938—0042\"),[touched,setTouched]=useState(false),[checked,setChecked]=useState(false)\n  const ar=locale===\"ar\",invalid=touched&&source.trim().length<8\n  return <form onSubmit={e=>{e.preventDefault();setTouched(true);if(source.trim().length>=8)setChecked(true)}}><FieldGroup><Field><FieldLabel htmlFor={titleId}>{ar?\"عنوان المجموعة\":\"Collection title\"}</FieldLabel><Input id={titleId} value={title} onChange={e=>setTitle(e.target.value)} placeholder={ar?\"صور شوارع القاهرة\":\"Cairo street photography\"}/><FieldDescription>{ar?\"يمكن تعديل هذا المثال محليًا.\":\"This sample can be edited locally.\"}</FieldDescription></Field><Field data-invalid={invalid}><FieldLabel htmlFor={sourceId}>{ar?\"معرّف المصدر\":\"Source identifier\"}</FieldLabel><Input id={sourceId} value={source} onChange={e=>{setSource(e.target.value);setChecked(false)}} onBlur={()=>setTouched(true)} aria-invalid={invalid} aria-describedby={invalid?errorId:undefined}/>{invalid&&<FieldError id={errorId}>{ar?\"أدخل معرّفًا من ٨ أحرف على الأقل.\":\"Enter a source ID with at least 8 characters.\"}</FieldError>}</Field><Button type=\"submit\">{checked?(ar?\"تم التحقق\":\"Draft checked\"):(ar?\"تحقق من المسودة\":\"Check draft\")}</Button></FieldGroup></form>\n}\n",
+      "type": "registry:component",
+      "target": "@components/gmd/Form.tsx"
+    }
+  ],
+  "type": "registry:component"
+}

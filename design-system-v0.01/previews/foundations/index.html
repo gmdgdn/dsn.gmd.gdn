@@ -1,0 +1,459 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      tailwind = { config: { corePlugins: { preflight: false } } };
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      @font-face {
+        font-family: "Fk Raster Grotesk Compact Blended";
+        src: url("fonts/tavus.io/d1a02040b2c0179e.woff2") format("woff2");
+        font-display: swap;
+        font-weight: 400;
+      }
+
+      @font-face {
+        font-family: Perfectlynineties;
+        src: url("fonts/tavus.io/1b2817a1bf827bf7.woff") format("woff");
+        font-display: swap;
+        font-weight: 400;
+      }
+
+      @font-face {
+        font-family: "Suisse Intl";
+        src: url("fonts/tavus.io/43dea5611f14d9ab.woff2") format("woff2");
+        font-display: swap;
+        font-weight: 400;
+      }
+    </style>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic%3Awght%40100..900&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      *, ::before, ::after {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body style="background-color: #f7f4ef">
+    <div
+      data-pencil-name="GMD Design System v0.01 — Foundations"
+      class="box-border w-[1600px] h-[1400px] bg-[#f7f4ef] overflow-hidden relative"
+    >
+      <div
+        data-pencil-name="Ink header"
+        class="box-border w-[1600px] h-[238px] absolute left-0 top-0 bg-[#140206] [z-index:0]"
+      ></div>
+      <div
+        data-pencil-name="GMD wordmark"
+        class="text-[23px]/[normal] box-border w-[250px] absolute left-[58px] top-[34px] text-[#ffffff] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [z-index:1]"
+      >
+        GMD
+      </div>
+      <div
+        data-pencil-name="Version label"
+        class="text-[12px]/[normal] box-border w-[280px] absolute left-[1260px] top-[40px] text-[#ffb4c5] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [z-index:2]"
+      >
+        DESIGN SYSTEM / 0.01
+      </div>
+      <div
+        data-pencil-name="Foundation title"
+        class="text-[48px]/[47px] box-border w-[1000px] absolute left-[58px] top-[92px] text-[#fffdfb] font-[Perfectlynineties,system-ui,sans-serif] font-normal text-left [z-index:3]"
+      >
+        Editorial systems for Egyptian knowledge
+      </div>
+      <div
+        data-pencil-name="Foundation intro"
+        class="text-[15px]/[normal] box-border w-[1000px] absolute left-[60px] top-[167px] text-[#eae5de] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:4]"
+      >
+        A reusable visual language for datasets, archives, films and tools. Warm editorial
+        typography, clear data structure and visible provenance.
+      </div>
+      <div
+        data-pencil-name="Umbrella note"
+        class="text-[14px]/[normal] box-border w-[280px] absolute left-[1260px] top-[94px] text-[#ffffff] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:5]"
+      >
+        GMD / gmd.gdn · umbrella
+      </div>
+      <div
+        data-pencil-name="Section 01 — color"
+        class="text-[13px]/[normal] box-border absolute left-[60px] top-[268px] text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:6]"
+      >
+        01 COLOR
+      </div>
+      <div
+        data-pencil-name="Color swatch — Ink"
+        class="box-border w-[336px] h-[58px] absolute left-[60px] top-[298px] bg-[#140206] [outline:1px_solid_#d4ccc4] [outline-offset:-0.5px] [z-index:7]"
+      ></div>
+      <div
+        data-pencil-name="Color name — Ink"
+        class="text-[13px]/[normal] box-border absolute left-[60px] top-[363px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:8]"
+      >
+        Ink #140206
+      </div>
+      <div
+        data-pencil-name="Color usage — Ink"
+        class="text-[11px]/[normal] box-border w-[336px] absolute left-[60px] top-[384px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:9]"
+      >
+        Primary text and anchors
+      </div>
+      <div
+        data-pencil-name="Color swatch — Paper"
+        class="box-border w-[336px] h-[58px] absolute left-[430px] top-[298px] bg-[#f7f4ef] [outline:1px_solid_#d4ccc4] [outline-offset:-0.5px] [z-index:10]"
+      ></div>
+      <div
+        data-pencil-name="Color name — Paper"
+        class="text-[13px]/[normal] box-border absolute left-[430px] top-[363px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:11]"
+      >
+        Paper #f7f4ef
+      </div>
+      <div
+        data-pencil-name="Color usage — Paper"
+        class="text-[11px]/[normal] box-border w-[336px] absolute left-[430px] top-[384px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:12]"
+      >
+        Editorial canvas
+      </div>
+      <div
+        data-pencil-name="Color swatch — Warm gray"
+        class="box-border w-[336px] h-[58px] absolute left-[800px] top-[298px] bg-[#eae5de] [outline:1px_solid_#d4ccc4] [outline-offset:-0.5px] [z-index:13]"
+      ></div>
+      <div
+        data-pencil-name="Color name — Warm gray"
+        class="text-[13px]/[normal] box-border absolute left-[800px] top-[363px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:14]"
+      >
+        Warm gray #eae5de
+      </div>
+      <div
+        data-pencil-name="Color usage — Warm gray"
+        class="text-[11px]/[normal] box-border w-[336px] absolute left-[800px] top-[384px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:15]"
+      >
+        Grouping surface
+      </div>
+      <div
+        data-pencil-name="Color swatch — Pink accent"
+        class="box-border w-[336px] h-[58px] absolute left-[1170px] top-[298px] bg-[#ff6183] [outline:1px_solid_#d4ccc4] [outline-offset:-0.5px] [z-index:16]"
+      ></div>
+      <div
+        data-pencil-name="Color name — Pink accent"
+        class="text-[13px]/[normal] box-border absolute left-[1170px] top-[363px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:17]"
+      >
+        Pink accent #ff6183
+      </div>
+      <div
+        data-pencil-name="Color usage — Pink accent"
+        class="text-[11px]/[normal] box-border w-[336px] absolute left-[1170px] top-[384px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:18]"
+      >
+        Use sparingly; ink label on pink
+      </div>
+      <div
+        data-pencil-name="Color swatch — Charcoal"
+        class="box-border w-[336px] h-[58px] absolute left-[60px] top-[420px] bg-[#28292a] [outline:1px_solid_#d4ccc4] [outline-offset:-0.5px] [z-index:19]"
+      ></div>
+      <div
+        data-pencil-name="Color name — Charcoal"
+        class="text-[13px]/[normal] box-border absolute left-[60px] top-[485px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:20]"
+      >
+        Charcoal #28292a
+      </div>
+      <div
+        data-pencil-name="Color usage — Charcoal"
+        class="text-[11px]/[normal] box-border w-[336px] absolute left-[60px] top-[506px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:21]"
+      >
+        Secondary dark surface
+      </div>
+      <div
+        data-pencil-name="Color swatch — Soft white"
+        class="box-border w-[336px] h-[58px] absolute left-[430px] top-[420px] bg-[#fffdfb] [outline:1px_solid_#d4ccc4] [outline-offset:-0.5px] [z-index:22]"
+      ></div>
+      <div
+        data-pencil-name="Color name — Soft white"
+        class="text-[13px]/[normal] box-border absolute left-[430px] top-[485px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:23]"
+      >
+        Soft white #fffdfb
+      </div>
+      <div
+        data-pencil-name="Color usage — Soft white"
+        class="text-[11px]/[normal] box-border w-[336px] absolute left-[430px] top-[506px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:24]"
+      >
+        Raised content surface
+      </div>
+      <div
+        data-pencil-name="Color swatch — Muted"
+        class="box-border w-[336px] h-[58px] absolute left-[800px] top-[420px] bg-[#625e5b] [outline:1px_solid_#d4ccc4] [outline-offset:-0.5px] [z-index:25]"
+      ></div>
+      <div
+        data-pencil-name="Color name — Muted"
+        class="text-[13px]/[normal] box-border absolute left-[800px] top-[485px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:26]"
+      >
+        Muted #625e5b
+      </div>
+      <div
+        data-pencil-name="Color usage — Muted"
+        class="text-[11px]/[normal] box-border w-[336px] absolute left-[800px] top-[506px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:27]"
+      >
+        Secondary copy
+      </div>
+      <div
+        data-pencil-name="Color swatch — Success"
+        class="box-border w-[336px] h-[58px] absolute left-[1170px] top-[420px] bg-[#26724a] [outline:1px_solid_#d4ccc4] [outline-offset:-0.5px] [z-index:28]"
+      ></div>
+      <div
+        data-pencil-name="Color name — Success"
+        class="text-[13px]/[normal] box-border absolute left-[1170px] top-[485px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:29]"
+      >
+        Success #26724a
+      </div>
+      <div
+        data-pencil-name="Color usage — Success"
+        class="text-[11px]/[normal] box-border w-[336px] absolute left-[1170px] top-[506px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:30]"
+      >
+        Verified / published
+      </div>
+      <div
+        data-pencil-name="Foundation divider one"
+        class="box-border w-[1480px] h-[1px] absolute left-[60px] top-[555px] bg-[#d4ccc4] [z-index:31]"
+      ></div>
+      <div
+        data-pencil-name="Section 02 — typography"
+        class="text-[13px]/[normal] box-border absolute left-[60px] top-[575px] text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:32]"
+      >
+        02 TYPE
+      </div>
+      <div
+        data-pencil-name="Display label"
+        class="text-[11px]/[normal] box-border absolute left-[60px] top-[611px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:33]"
+      >
+        DISPLAY / Perfectlynineties / regular
+      </div>
+      <div
+        data-pencil-name="Display specimen"
+        class="text-[40px]/[40px] box-border w-[660px] absolute left-[60px] top-[642px] text-[#140206] font-[Perfectlynineties,system-ui,sans-serif] font-normal text-left [z-index:34]"
+      >
+        Knowledge should travel.
+      </div>
+      <div
+        data-pencil-name="Body label"
+        class="text-[11px]/[normal] box-border absolute left-[790px] top-[611px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:35]"
+      >
+        BODY + UI / Suisse Intl / regular
+      </div>
+      <div
+        data-pencil-name="Body specimen"
+        class="text-[15px]/[22px] box-border w-[700px] absolute left-[790px] top-[643px] text-[#28292a] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:36]"
+      >
+        A considered editorial voice for datasets, source notes, project records and accessible
+        tools.
+      </div>
+      <div
+        data-pencil-name="Arabic type label"
+        class="text-[11px]/[normal] box-border absolute left-[60px] top-[714px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:37]"
+      >
+        ARABIC / Noto Sans Arabic / 24 — shaping under review
+      </div>
+      <div
+        data-pencil-name="Arabic sample"
+        class="text-[25px]/[35px] box-border w-[660px] absolute left-[60px] top-[745px] text-[#140206] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-right [z-index:38]"
+      >
+        نجمع المعرفة المصرية وننظّمها
+      </div>
+      <div
+        data-pencil-name="Compact label type"
+        class="text-[11px]/[normal] box-border absolute left-[790px] top-[714px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:39]"
+      >
+        COMPACT LABEL / Fk Raster / 13
+      </div>
+      <div
+        data-pencil-name="Raster specimen"
+        class="text-[16px]/[normal] box-border absolute left-[790px] top-[750px] text-[#140206] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:40]"
+      >
+        DATASET · FILM · ARCHIVE
+      </div>
+      <div
+        data-pencil-name="Foundation divider two"
+        class="box-border w-[1480px] h-[1px] absolute left-[60px] top-[820px] bg-[#d4ccc4] [z-index:41]"
+      ></div>
+      <div
+        data-pencil-name="Section 03 — spacing"
+        class="text-[13px]/[normal] box-border absolute left-[60px] top-[842px] text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:42]"
+      >
+        03 SPACING + SHAPE
+      </div>
+      <div
+        data-pencil-name="Spacing sample 4"
+        class="box-border w-[32px] h-[14px] absolute left-[60px] top-[885px] bg-[#140206] [z-index:43]"
+      ></div>
+      <div
+        data-pencil-name="Spacing label 4"
+        class="text-[12px]/[normal] box-border absolute left-[60px] top-[909px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:44]"
+      >
+        4 px
+      </div>
+      <div
+        data-pencil-name="Spacing sample 8"
+        class="box-border w-[56px] h-[14px] absolute left-[210px] top-[885px] bg-[#140206] [z-index:45]"
+      ></div>
+      <div
+        data-pencil-name="Spacing label 8"
+        class="text-[12px]/[normal] box-border absolute left-[210px] top-[909px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:46]"
+      >
+        8 px
+      </div>
+      <div
+        data-pencil-name="Spacing sample 12"
+        class="box-border w-[84px] h-[14px] absolute left-[360px] top-[885px] bg-[#140206] [z-index:47]"
+      ></div>
+      <div
+        data-pencil-name="Spacing label 12"
+        class="text-[12px]/[normal] box-border absolute left-[360px] top-[909px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:48]"
+      >
+        12 px
+      </div>
+      <div
+        data-pencil-name="Spacing sample 16"
+        class="box-border w-[112px] h-[14px] absolute left-[510px] top-[885px] bg-[#140206] [z-index:49]"
+      ></div>
+      <div
+        data-pencil-name="Spacing label 16"
+        class="text-[12px]/[normal] box-border absolute left-[510px] top-[909px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:50]"
+      >
+        16 px
+      </div>
+      <div
+        data-pencil-name="Spacing sample 24"
+        class="box-border w-[168px] h-[14px] absolute left-[660px] top-[885px] bg-[#140206] [z-index:51]"
+      ></div>
+      <div
+        data-pencil-name="Spacing label 24"
+        class="text-[12px]/[normal] box-border absolute left-[660px] top-[909px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:52]"
+      >
+        24 px
+      </div>
+      <div
+        data-pencil-name="Spacing sample 32"
+        class="box-border w-[224px] h-[14px] absolute left-[810px] top-[885px] bg-[#140206] [z-index:53]"
+      ></div>
+      <div
+        data-pencil-name="Spacing label 32"
+        class="text-[12px]/[normal] box-border absolute left-[810px] top-[909px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:54]"
+      >
+        32 px
+      </div>
+      <div
+        data-pencil-name="Shape and elevation guidance"
+        class="text-[14px]/[20px] box-border w-[440px] absolute left-[1080px] top-[878px] text-[#28292a] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:55]"
+      >
+        Default radius 2 px · hairline borders · paper shadows rare. Pink buttons pair with dark ink
+        text for contrast.
+      </div>
+      <div
+        data-pencil-name="Source and identity note"
+        class="text-[12px]/[17px] box-border w-[1480px] absolute left-[60px] top-[1350px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:56]"
+      >
+        REFERENCE / Warm paper, near-black ink, editorial serif and compact raster labels draw from
+        the Tavus audit. GMD is the identity; Tavus marks are not reused. GMD means جامد جدًا. This
+        board is a visual foundation, not the homepage.
+      </div>
+      <div
+        data-pencil-name="Section 04 — type scale"
+        class="text-[13px]/[normal] box-border absolute left-[60px] top-[962px] text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:57]"
+      >
+        04 TYPE SCALE / ROLE + SIZE
+      </div>
+      <div
+        data-pencil-name="Type scale label 56"
+        class="text-[11px]/[normal] box-border absolute left-[60px] top-[1000px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:58]"
+      >
+        Display / campaign · 56 px
+      </div>
+      <div
+        data-pencil-name="Type scale sample 56"
+        class="text-[56px]/[59px] box-border w-[690px] absolute left-[60px] top-[1020px] text-[#140206] font-[Perfectlynineties,system-ui,sans-serif] font-normal text-left [z-index:59]"
+      >
+        Egyptian knowledge
+      </div>
+      <div
+        data-pencil-name="Type scale label 40"
+        class="text-[11px]/[normal] box-border absolute left-[60px] top-[1088px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:60]"
+      >
+        Editorial H1 · 40 px
+      </div>
+      <div
+        data-pencil-name="Type scale sample 40"
+        class="text-[40px]/[42px] box-border w-[690px] absolute left-[60px] top-[1110px] text-[#140206] font-[Perfectlynineties,system-ui,sans-serif] font-normal text-left [z-index:61]"
+      >
+        Curated for context
+      </div>
+      <div
+        data-pencil-name="Type scale label 28"
+        class="text-[11px]/[normal] box-border absolute left-[60px] top-[1165px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:62]"
+      >
+        Section heading · 28 px
+      </div>
+      <div
+        data-pencil-name="Type scale sample 28"
+        class="text-[28px]/[29px] box-border w-[690px] absolute left-[60px] top-[1185px] text-[#140206] font-[Perfectlynineties,system-ui,sans-serif] font-normal text-left [z-index:63]"
+      >
+        Collection heading
+      </div>
+      <div
+        data-pencil-name="Type scale label 20"
+        class="text-[11px]/[normal] box-border absolute left-[60px] top-[1240px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:64]"
+      >
+        Card title · 20 px
+      </div>
+      <div
+        data-pencil-name="Type scale sample 20"
+        class="text-[20px]/[21px] box-border w-[690px] absolute left-[60px] top-[1260px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:65]"
+      >
+        Dataset / title
+      </div>
+      <div
+        data-pencil-name="Type scale label 16"
+        class="text-[11px]/[normal] box-border absolute left-[810px] top-[1000px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:66]"
+      >
+        Body large · 16 px
+      </div>
+      <div
+        data-pencil-name="Type scale sample 16"
+        class="text-[16px]/[17px] box-border w-[690px] absolute left-[810px] top-[1020px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:67]"
+      >
+        A clear, readable paragraph
+      </div>
+      <div
+        data-pencil-name="Type scale label 14"
+        class="text-[11px]/[normal] box-border absolute left-[810px] top-[1075px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:68]"
+      >
+        Body / interface · 14 px
+      </div>
+      <div
+        data-pencil-name="Type scale sample 14"
+        class="text-[14px]/[15px] box-border w-[690px] absolute left-[810px] top-[1095px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:69]"
+      >
+        Filter by language or year
+      </div>
+      <div
+        data-pencil-name="Type scale label 12"
+        class="text-[11px]/[normal] box-border absolute left-[810px] top-[1150px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:70]"
+      >
+        Compact label · 12 px
+      </div>
+      <div
+        data-pencil-name="Type scale sample 12"
+        class="text-[12px]/[13px] box-border w-[690px] absolute left-[810px] top-[1170px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:71]"
+      >
+        VERIFIED · 2024
+      </div>
+    </div>
+  </body>
+</html>

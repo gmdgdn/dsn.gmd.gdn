@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "../../tokens/tokens.css";
+@import "../../tokens/shadcn.css";
+@import "./gmd-public.css";

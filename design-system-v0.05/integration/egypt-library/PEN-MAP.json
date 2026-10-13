@@ -1,0 +1,900 @@
+{
+  "document": {
+    "path": "C:/Users/khorm/.pencil/documents/8b4c9a2a-091b-4893-b343-951b27b66afc/pencil-new.pen",
+    "boardCount": 42,
+    "indexId": "NtHnB",
+    "sourceFramesPreserved": true,
+    "existingChildrenModified": false,
+    "existingVariablesModified": false,
+    "orderingConvention": "Numeric prefixes express reading order and section; IDs are stable navigation keys."
+  },
+  "sections": [
+    {
+      "id": "00-start",
+      "title": "Start / index",
+      "boardIds": [
+        "NtHnB"
+      ]
+    },
+    {
+      "id": "01-foundations",
+      "title": "Foundations",
+      "boardIds": [
+        "j6FDhv",
+        "XgYOW",
+        "JXFyT",
+        "h6oPP4",
+        "SSwwg"
+      ]
+    },
+    {
+      "id": "02-assets",
+      "title": "Assets and geometry",
+      "boardIds": [
+        "N71po2",
+        "IAnXp",
+        "BWg0s",
+        "Unqm1",
+        "XtRCB"
+      ]
+    },
+    {
+      "id": "03-primitives",
+      "title": "Primitives",
+      "boardIds": [
+        "qOJxD",
+        "ygYfW",
+        "mFZgh"
+      ]
+    },
+    {
+      "id": "04-patterns",
+      "title": "Patterns",
+      "boardIds": [
+        "Mkm6H",
+        "O3UoH",
+        "CUwKJ"
+      ]
+    },
+    {
+      "id": "05-campaigns",
+      "title": "Campaigns and social specimens",
+      "boardIds": [
+        "nBVQI",
+        "Ywcph",
+        "rP97Q",
+        "BC2q0",
+        "ZF6PF",
+        "LjkAT",
+        "PfP8U",
+        "j5N3a"
+      ]
+    },
+    {
+      "id": "06-materials",
+      "title": "Egyptian visual assets and materials",
+      "boardIds": [
+        "p6yOe8",
+        "Jn22c",
+        "EPaN9"
+      ]
+    },
+    {
+      "id": "07-company",
+      "title": "Company responsive layouts",
+      "boardIds": [
+        "RUoCP",
+        "oGxTu",
+        "BuV0j"
+      ]
+    },
+    {
+      "id": "08-company-primitives",
+      "title": "Company component masters",
+      "boardIds": [
+        "XVnke"
+      ]
+    },
+    {
+      "id": "90-archive",
+      "title": "Archive",
+      "boardIds": [
+        "JgSmq",
+        "bi8Au"
+      ]
+    },
+    {
+      "id": "91-tavus-source",
+      "title": "Tavus source captures",
+      "boardIds": [
+        "A0DZwY",
+        "BlyMq",
+        "ywTw0",
+        "nLmug",
+        "i8Rbt",
+        "M2dVVM",
+        "I5dm6",
+        "OJZH3"
+      ]
+    }
+  ],
+  "boards": [
+    {
+      "id": "NtHnB",
+      "name": "00.00 â€” START / GMD v0.05 Document index",
+      "section": "00-start",
+      "position": {
+        "x": 0,
+        "y": -1570
+      },
+      "size": {
+        "width": 1800,
+        "height": 1450
+      }
+    },
+    {
+      "id": "j6FDhv",
+      "name": "01.01 â€” FOUNDATIONS / Unified foundation",
+      "section": "01-foundations",
+      "position": {
+        "x": 0,
+        "y": 1700
+      },
+      "size": {
+        "width": 1600,
+        "height": 1400
+      }
+    },
+    {
+      "id": "XgYOW",
+      "name": "01.02 â€” FOUNDATIONS / Color and typography",
+      "section": "01-foundations",
+      "position": {
+        "x": 1800,
+        "y": 1700
+      },
+      "size": {
+        "width": 1800,
+        "height": 1000
+      }
+    },
+    {
+      "id": "JXFyT",
+      "name": "01.03 â€” FOUNDATIONS / Depth and separators",
+      "section": "01-foundations",
+      "position": {
+        "x": 3800,
+        "y": 1700
+      },
+      "size": {
+        "width": 1800,
+        "height": 1200
+      }
+    },
+    {
+      "id": "h6oPP4",
+      "name": "01.04 â€” FOUNDATIONS / Integrated foundations",
+      "section": "01-foundations",
+      "position": {
+        "x": 5800,
+        "y": 1700
+      },
+      "size": {
+        "width": 1800,
+        "height": 1000
+      }
+    },
+    {
+      "id": "SSwwg",
+      "name": "01.05 â€” FOUNDATIONS / Semantic foundations",
+      "section": "01-foundations",
+      "position": {
+        "x": 7800,
+        "y": 1700
+      },
+      "size": {
+        "width": 1440,
+        "height": 1120
+      }
+    },
+    {
+      "id": "N71po2",
+      "name": "02.01 â€” ASSETS / Image and icon direction",
+      "section": "02-assets",
+      "position": {
+        "x": 0,
+        "y": 3300
+      },
+      "size": {
+        "width": 1800,
+        "height": 1200
+      }
+    },
+    {
+      "id": "IAnXp",
+      "name": "02.02 â€” ASSETS / Geometry applications study",
+      "section": "02-assets",
+      "position": {
+        "x": 2000,
+        "y": 3300
+      },
+      "size": {
+        "width": 1800,
+        "height": 1200
+      }
+    },
+    {
+      "id": "BWg0s",
+      "name": "02.03 â€” ASSETS / Shape taxonomy study",
+      "section": "02-assets",
+      "position": {
+        "x": 4000,
+        "y": 3300
+      },
+      "size": {
+        "width": 1800,
+        "height": 1200
+      }
+    },
+    {
+      "id": "Unqm1",
+      "name": "02.04 â€” ASSETS / Icon taxonomy and Film layout study",
+      "section": "02-assets",
+      "position": {
+        "x": 6000,
+        "y": 3300
+      },
+      "size": {
+        "width": 1800,
+        "height": 1200
+      }
+    },
+    {
+      "id": "XtRCB",
+      "name": "02.05 â€” ASSETS / Construction atlas study",
+      "section": "02-assets",
+      "position": {
+        "x": 8000,
+        "y": 3300
+      },
+      "size": {
+        "width": 1440,
+        "height": 1160
+      }
+    },
+    {
+      "id": "qOJxD",
+      "name": "03.01 â€” PRIMITIVES / Shared component catalog",
+      "section": "03-primitives",
+      "position": {
+        "x": 0,
+        "y": 4900
+      },
+      "size": {
+        "width": 1600,
+        "height": 1320
+      }
+    },
+    {
+      "id": "ygYfW",
+      "name": "03.02 â€” PRIMITIVES / Integrated graphics and components",
+      "section": "03-primitives",
+      "position": {
+        "x": 1800,
+        "y": 4900
+      },
+      "size": {
+        "width": 1800,
+        "height": 1200
+      }
+    },
+    {
+      "id": "mFZgh",
+      "name": "03.03 â€” PRIMITIVES / Component anatomy and density",
+      "section": "03-primitives",
+      "position": {
+        "x": 3800,
+        "y": 4900
+      },
+      "size": {
+        "width": 1440,
+        "height": 1360
+      }
+    },
+    {
+      "id": "Mkm6H",
+      "name": "04.01 â€” PATTERNS / Bilingual content",
+      "section": "04-patterns",
+      "position": {
+        "x": 0,
+        "y": 6500
+      },
+      "size": {
+        "width": 1600,
+        "height": 1200
+      }
+    },
+    {
+      "id": "O3UoH",
+      "name": "04.02 â€” PATTERNS / Web product compositions",
+      "section": "04-patterns",
+      "position": {
+        "x": 1800,
+        "y": 6500
+      },
+      "size": {
+        "width": 1800,
+        "height": 1100
+      }
+    },
+    {
+      "id": "CUwKJ",
+      "name": "04.03 â€” PATTERNS / Eight section vocabulary",
+      "section": "04-patterns",
+      "position": {
+        "x": 3800,
+        "y": 6500
+      },
+      "size": {
+        "width": 1800,
+        "height": 1080
+      }
+    },
+    {
+      "id": "nBVQI",
+      "name": "05.01 â€” CAMPAIGNS / Social suite overview",
+      "section": "05-campaigns",
+      "position": {
+        "x": 0,
+        "y": 8000
+      },
+      "size": {
+        "width": 1800,
+        "height": 1600
+      }
+    },
+    {
+      "id": "Ywcph",
+      "name": "05.02 â€” SOCIAL SPECIMEN / Identity banner 1584 Ã— 396",
+      "section": "05-campaigns",
+      "position": {
+        "x": 0,
+        "y": 9800
+      },
+      "size": {
+        "width": 1584,
+        "height": 396
+      }
+    },
+    {
+      "id": "rP97Q",
+      "name": "05.03 â€” SOCIAL SPECIMEN / Film identity banner 1500 Ã— 500",
+      "section": "05-campaigns",
+      "position": {
+        "x": 1750,
+        "y": 9800
+      },
+      "size": {
+        "width": 1500,
+        "height": 500
+      }
+    },
+    {
+      "id": "BC2q0",
+      "name": "05.04 â€” SOCIAL SPECIMEN / Connected stories cover",
+      "section": "05-campaigns",
+      "position": {
+        "x": 3400,
+        "y": 9800
+      },
+      "size": {
+        "width": 1080,
+        "height": 1350
+      }
+    },
+    {
+      "id": "ZF6PF",
+      "name": "05.05 â€” SOCIAL SPECIMEN / Knowledge graph card",
+      "section": "05-campaigns",
+      "position": {
+        "x": 4600,
+        "y": 9800
+      },
+      "size": {
+        "width": 1080,
+        "height": 1080
+      }
+    },
+    {
+      "id": "LjkAT",
+      "name": "05.06 â€” SOCIAL SPECIMEN / Film discovery story",
+      "section": "05-campaigns",
+      "position": {
+        "x": 0,
+        "y": 11400
+      },
+      "size": {
+        "width": 1080,
+        "height": 1920
+      }
+    },
+    {
+      "id": "PfP8U",
+      "name": "05.07 â€” SOCIAL SPECIMEN / Egyptian register link card",
+      "section": "05-campaigns",
+      "position": {
+        "x": 1400,
+        "y": 11400
+      },
+      "size": {
+        "width": 1200,
+        "height": 630
+      }
+    },
+    {
+      "id": "j5N3a",
+      "name": "05.08 â€” SOCIAL SPECIMEN / Arabic cinema cover",
+      "section": "05-campaigns",
+      "position": {
+        "x": 2800,
+        "y": 11400
+      },
+      "size": {
+        "width": 1080,
+        "height": 1350
+      }
+    },
+    {
+      "id": "JgSmq",
+      "name": "90.01 â€” ARCHIVE / Superseded cross-format composition studies",
+      "section": "90-archive",
+      "position": {
+        "x": 0,
+        "y": 13900
+      },
+      "size": {
+        "width": 1800,
+        "height": 1200
+      }
+    },
+    {
+      "id": "bi8Au",
+      "name": "90.02 â€” ARCHIVE / Retained starter frame",
+      "section": "90-archive",
+      "position": {
+        "x": 2000,
+        "y": 13900
+      },
+      "size": {
+        "width": 800,
+        "height": 600
+      }
+    },
+    {
+      "id": "A0DZwY",
+      "name": "91.01 â€” TAVUS SOURCE / Saved page capture 01",
+      "section": "91-tavus-source",
+      "position": {
+        "x": 50000,
+        "y": 0
+      },
+      "size": {
+        "width": 1304.8,
+        "height": 11117
+      }
+    },
+    {
+      "id": "BlyMq",
+      "name": "91.02 â€” TAVUS SOURCE / Saved page capture 02",
+      "section": "91-tavus-source",
+      "position": {
+        "x": 52000,
+        "y": 0
+      },
+      "size": {
+        "width": 1304.8,
+        "height": 14307
+      }
+    },
+    {
+      "id": "ywTw0",
+      "name": "91.03 â€” TAVUS SOURCE / Saved page capture 03",
+      "section": "91-tavus-source",
+      "position": {
+        "x": 54000,
+        "y": 0
+      },
+      "size": {
+        "width": 1304.8,
+        "height": 9105
+      }
+    },
+    {
+      "id": "nLmug",
+      "name": "91.04 â€” TAVUS SOURCE / Saved page capture 04",
+      "section": "91-tavus-source",
+      "position": {
+        "x": 56000,
+        "y": 0
+      },
+      "size": {
+        "width": 1304.8,
+        "height": 12965
+      }
+    },
+    {
+      "id": "i8Rbt",
+      "name": "91.05 â€” TAVUS SOURCE / Saved page capture 05",
+      "section": "91-tavus-source",
+      "position": {
+        "x": 50000,
+        "y": 11500
+      },
+      "size": {
+        "width": 1884.8,
+        "height": 45081
+      }
+    },
+    {
+      "id": "M2dVVM",
+      "name": "91.06 â€” TAVUS SOURCE / Saved page capture 06",
+      "section": "91-tavus-source",
+      "position": {
+        "x": 52000,
+        "y": 14700
+      },
+      "size": {
+        "width": 1884.8,
+        "height": 11534
+      }
+    },
+    {
+      "id": "I5dm6",
+      "name": "91.07 â€” TAVUS SOURCE / Saved page capture 07",
+      "section": "91-tavus-source",
+      "position": {
+        "x": 54000,
+        "y": 9500
+      },
+      "size": {
+        "width": 1884.8,
+        "height": 12367
+      }
+    },
+    {
+      "id": "OJZH3",
+      "name": "91.08 â€” TAVUS SOURCE / Saved page capture 08",
+      "section": "91-tavus-source",
+      "position": {
+        "x": 56000,
+        "y": 13350
+      },
+      "size": {
+        "width": 1884.8,
+        "height": 9455
+      }
+    },
+    {
+      "id": "p6yOe8",
+      "name": "06.01 â€” CONTEMPORARY MOTIF ATLAS / Egyptian library",
+      "section": "06-materials",
+      "position": {
+        "x": 0,
+        "y": 15340
+      },
+      "size": {
+        "width": 2320,
+        "height": 1950
+      }
+    },
+    {
+      "id": "Jn22c",
+      "name": "06.02 â€” MATERIALS / image and texture specimens",
+      "section": "06-materials",
+      "position": {
+        "x": 0,
+        "y": 17510
+      },
+      "size": {
+        "width": 2340,
+        "height": 960
+      }
+    },
+    {
+      "id": "RUoCP",
+      "name": "07.01 â€” COMPANY / desktop 1440 Â· editable composition",
+      "section": "07-company",
+      "position": {
+        "x": 0,
+        "y": 18710
+      },
+      "size": {
+        "width": 1440,
+        "height": 1780
+      }
+    },
+    {
+      "id": "oGxTu",
+      "name": "07.02 â€” COMPANY / mobile 375 Â· editable composition",
+      "section": "07-company",
+      "position": {
+        "x": 1680,
+        "y": 18710
+      },
+      "size": {
+        "width": 375,
+        "height": 2050
+      }
+    },
+    {
+      "id": "XVnke",
+      "name": "08.01 â€” COMPANY PRIMITIVES / 18 reusable editable families",
+      "section": "08-company-primitives",
+      "position": {
+        "x": 1680,
+        "y": 20900
+      },
+      "size": {
+        "width": 2200,
+        "height": 1200
+      }
+    },
+    {
+      "id": "EPaN9",
+      "name": "06.03 — ASSETS / G2 source-informed drawing studies",
+      "section": "06-materials",
+      "position": {
+        "x": 1680,
+        "y": 22260
+      },
+      "size": {
+        "width": 2360,
+        "height": 1360
+      }
+    },
+    {
+      "id": "BuV0j",
+      "name": "07.03 — COMPANY / collection, graphic language, FAQ and contact",
+      "section": "07-company",
+      "position": {
+        "x": 1680,
+        "y": 23740
+      },
+      "size": {
+        "width": 1440,
+        "height": 2440
+      }
+    }
+  ],
+  "reusableFrameMasters": [
+    {
+      "id": "RVjSM",
+      "name": "Component Â· GMD navigation"
+    },
+    {
+      "id": "V4yz2u",
+      "name": "Component Â· Primary action"
+    },
+    {
+      "id": "uxXhE",
+      "name": "Component Â· Secondary action"
+    },
+    {
+      "id": "p5X7xf",
+      "name": "Component Â· Search field"
+    },
+    {
+      "id": "akX8Y",
+      "name": "Component Â· Filter chip"
+    },
+    {
+      "id": "qCqju",
+      "name": "Component Â· Status badge"
+    },
+    {
+      "id": "K9fIi0",
+      "name": "Component Â· Dataset card"
+    },
+    {
+      "id": "LjzgN",
+      "name": "Component Â· Project card"
+    },
+    {
+      "id": "JARv3",
+      "name": "Component Â· Provenance panel"
+    },
+    {
+      "id": "W65fIF",
+      "name": "Component Â· Collection row"
+    },
+    {
+      "id": "CDFaR",
+      "name": "Component Â· Primary action disabled"
+    },
+    {
+      "id": "p04MZ",
+      "name": "Component Â· Primary action focused"
+    },
+    {
+      "id": "U8uS8",
+      "name": "Component Â· Filter chip default"
+    },
+    {
+      "id": "TAoIp",
+      "name": "Revision master Â· CTA default"
+    },
+    {
+      "id": "OR7NX",
+      "name": "Revision master Â· segmented GMD nav"
+    },
+    {
+      "id": "YDVso",
+      "name": "Revision master Â· CTA hover"
+    },
+    {
+      "id": "uP0Tv",
+      "name": "Revision master Â· CTA pressed"
+    },
+    {
+      "id": "BZhfA",
+      "name": "Revision master Â· striped window title bar"
+    },
+    {
+      "id": "tmUlu",
+      "name": "Revision master Â· inset archive window"
+    },
+    {
+      "id": "vBm6y",
+      "name": "Revision master Â· 6px hard edge diagram"
+    },
+    {
+      "id": "Ovcip",
+      "name": "Company primitive Â· announcement bar"
+    },
+    {
+      "id": "LJ8Sv",
+      "name": "Company primitive Â· company navigation"
+    },
+    {
+      "id": "E9LbfF",
+      "name": "Company primitive Â· language control"
+    },
+    {
+      "id": "jECua",
+      "name": "Company primitive Â· primary action"
+    },
+    {
+      "id": "ksalk",
+      "name": "Company primitive Â· secondary action"
+    },
+    {
+      "id": "llQ4B",
+      "name": "Company primitive Â· search field"
+    },
+    {
+      "id": "Jbcnx",
+      "name": "Company primitive Â· form field error"
+    },
+    {
+      "id": "eQuLU",
+      "name": "Company primitive Â· choice control"
+    },
+    {
+      "id": "bjBw9",
+      "name": "Company primitive Â· filter chips"
+    },
+    {
+      "id": "vcYLJ",
+      "name": "Company primitive Â· status badges"
+    },
+    {
+      "id": "PF7Ob",
+      "name": "Company primitive Â· editorial feature card"
+    },
+    {
+      "id": "f5tuuF",
+      "name": "Company primitive Â· project card"
+    },
+    {
+      "id": "n8mHrL",
+      "name": "Company primitive Â· dataset contract"
+    },
+    {
+      "id": "W2g4rq",
+      "name": "Company primitive Â· pipeline step"
+    },
+    {
+      "id": "HXX7C",
+      "name": "Company primitive Â· data row"
+    },
+    {
+      "id": "MrtMR",
+      "name": "Company primitive Â· media viewer"
+    },
+    {
+      "id": "J5SH0",
+      "name": "Company primitive Â· pagination"
+    },
+    {
+      "id": "Oopj4",
+      "name": "Company primitive Â· footer directory"
+    }
+  ],
+  "sharedVariables": [
+    "gmd-shared-ink",
+    "gmd-shared-paper",
+    "gmd-shared-warm",
+    "gmd-shared-surface",
+    "gmd-shared-charcoal",
+    "gmd-shared-muted",
+    "gmd-shared-nile",
+    "gmd-shared-pink",
+    "gmd-shared-sand",
+    "gmd-shared-success-surface",
+    "gmd-shared-warning",
+    "gmd-shared-warning-surface",
+    "gmd-shared-error",
+    "gmd-shared-error-surface",
+    "gmd-shared-font-display",
+    "gmd-shared-font-body",
+    "gmd-shared-font-label",
+    "gmd-shared-font-arabic"
+  ],
+  "notes": [
+    "Top-level GMD and social boards were moved and renamed only; existing children and bitmap fills were preserved.",
+    "Eight imported tavus.io source frames were renamed by capture order and moved into a separate far-right source area; their imported contents were not edited.",
+    "Existing reusable components and the canonical gmd-shared-* variables remain unchanged.",
+    "Frame status and asset provenance remain board-level claims; index does not upgrade any study or draft to tested/ready.",
+    "Native component examples are concentrated in 03.01â€“03.03; additional desktop/mobile application boards are not in this index snapshot.",
+    "Egyptian motif atlas contains all 30 SVG assets translated into editable native paths and vector primitives using the source viewBox dimensions.",
+    "Company desktop and 375px mobile boards are native editable compositions of the supplied company-page content; browser import was blocked by an active capture lock, so these are not captured HTML imports.",
+    "Four material/photo fills render from relative image URLs (images/material-nile-faience.png, images/material-reed-papyrus.png, images/editorial-studio-pixel-register.png, images/editorial-family-pixel-interlace.png) copied beside the active Pen document; workspace source assets remain intact.",
+    "Eight G2 source-informed constructions are represented as editable Pen vector paths on 06.03; each specimen retains the manifest ID, source IDs, group-part names, and intended use. These are contemporary adaptations, not direct tracings or historical reconstructions; only the 16×16 halftone cell has an explicit repeat claim.",
+    "The 07.03 company extension is a native editable board adding collection evidence framing, the G2-014 visual-language chapter, FAQ, non-submitting contact-form specimen, and footer directory. The collection panel displays the full original EG-011 sheet via a relative image fill in contain mode; its visible label identifies it as the original, while rights review remains required before reuse.",
+    "The corrected 06.03 atlas imports and 07.03 company chapter now use final G2-014 native path geometry with separated ink facets and paper-filled contour; the 06.03 specimen heading and component-part list identify the bird-like form. G2-022 class scoping and palette selectors are aligned with the final SVG bundle."
+  ],
+  "exports": {
+    "directory": "pen-exports/",
+    "count": 33,
+    "scale": 1,
+    "boardIds": [
+      "NtHnB",
+      "j6FDhv",
+      "XgYOW",
+      "JXFyT",
+      "h6oPP4",
+      "SSwwg",
+      "N71po2",
+      "IAnXp",
+      "BWg0s",
+      "Unqm1",
+      "XtRCB",
+      "qOJxD",
+      "ygYfW",
+      "mFZgh",
+      "Mkm6H",
+      "O3UoH",
+      "CUwKJ",
+      "nBVQI",
+      "Ywcph",
+      "rP97Q",
+      "BC2q0",
+      "ZF6PF",
+      "LjkAT",
+      "PfP8U",
+      "j5N3a",
+      "JgSmq",
+      "p6yOe8",
+      "Jn22c",
+      "RUoCP",
+      "oGxTu",
+      "XVnke",
+      "EPaN9",
+      "BuV0j"
+    ],
+    "excluded": [
+      "8 imported Tavus capture frames (source archive, extremely tall pages)",
+      "bi8Au retained empty starter frame"
+    ]
+  }
+}

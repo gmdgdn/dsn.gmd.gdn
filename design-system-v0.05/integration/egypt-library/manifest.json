@@ -1,0 +1,1207 @@
+{
+  "name": "GMD v0.05 Egyptian source-informed contemporary vector studies",
+  "version": "1.0.0",
+  "generator": "generate.py",
+  "sourceReview": "../../../reviews/egypt-enhancement/ASSET-REVIEW.md",
+  "sourceManifest": "../../../reviews/egypt-enhancement/asset-manifest.json",
+  "classificationNote": "All assets are contemporary adaptations informed by visual observations of supplied image IDs. None is a verified historical reconstruction. Source image filenames and metadata are not provenance verification.",
+  "paletteNote": "Nile/pink/paper/ink preserve GMD roles; teal/ochre/sand/terracotta (#9C4937) use existing optional ornament tokens.",
+  "assets": [
+    {
+      "id": "skyline-rail-01",
+      "file": "assets/skyline-rail-01.svg",
+      "family": "skyline-rail",
+      "variant": 1,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-005",
+        "EG-016"
+      ],
+      "visualEvidence": "EG-005 stack of architectural image layers; EG-016 framed skyline.",
+      "construction": "A modular skyline rail made of varied block and domed profiles over a thin river baseline. Two scene arrangements.",
+      "parameters": {
+        "variant": 1,
+        "viewBox": [
+          0.0,
+          0.0,
+          320.0,
+          160.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Chapter/collection masthead rail; keep adjacent title area clear.",
+      "minimumUse": "200 px wide; strokes >=1.25 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "skyline-rail-02",
+      "file": "assets/skyline-rail-02.svg",
+      "family": "skyline-rail",
+      "variant": 2,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-005",
+        "EG-016"
+      ],
+      "visualEvidence": "EG-005 stack of architectural image layers; EG-016 framed skyline.",
+      "construction": "A modular skyline rail made of varied block and domed profiles over a thin river baseline. Two scene arrangements.",
+      "parameters": {
+        "variant": 2,
+        "viewBox": [
+          0.0,
+          0.0,
+          320.0,
+          160.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Chapter/collection masthead rail; keep adjacent title area clear.",
+      "minimumUse": "200 px wide; strokes >=1.25 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "river-chevron-01",
+      "file": "assets/river-chevron-01.svg",
+      "family": "river-chevron",
+      "variant": 1,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-005",
+        "EG-010"
+      ],
+      "visualEvidence": "EG-005 lower register and EG-010 layered landscape bands.",
+      "construction": "Alternating angular or curved water courses with a single upper rule.",
+      "parameters": {
+        "variant": 1,
+        "viewBox": [
+          0.0,
+          0.0,
+          320.0,
+          88.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Section divider; avoid text overlay.",
+      "minimumUse": "160 px wide; strokes >=1.25 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "river-chevron-02",
+      "file": "assets/river-chevron-02.svg",
+      "family": "river-chevron",
+      "variant": 2,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-005",
+        "EG-010"
+      ],
+      "visualEvidence": "EG-005 lower register and EG-010 layered landscape bands.",
+      "construction": "Alternating angular or curved water courses with a single upper rule.",
+      "parameters": {
+        "variant": 2,
+        "viewBox": [
+          0.0,
+          0.0,
+          320.0,
+          88.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Section divider; avoid text overlay.",
+      "minimumUse": "160 px wide; strokes >=1.25 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "lotus-register-01",
+      "file": "assets/lotus-register-01.svg",
+      "family": "lotus-register",
+      "variant": 1,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-005",
+        "EG-009"
+      ],
+      "visualEvidence": "EG-005 stacked decorative registers; EG-009 repeated edge rhythm.",
+      "construction": "Open flower and closed-bud silhouettes alternate along a shared baseline; simplified botanical geometry.",
+      "parameters": {
+        "variant": 1,
+        "viewBox": [
+          0.0,
+          0.0,
+          320.0,
+          104.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Narrow chapter spine or edge band, below content.",
+      "minimumUse": "240 px wide; strokes >=1.2 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "lotus-register-02",
+      "file": "assets/lotus-register-02.svg",
+      "family": "lotus-register",
+      "variant": 2,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-005",
+        "EG-009"
+      ],
+      "visualEvidence": "EG-005 stacked decorative registers; EG-009 repeated edge rhythm.",
+      "construction": "Open flower and closed-bud silhouettes alternate along a shared baseline; simplified botanical geometry.",
+      "parameters": {
+        "variant": 2,
+        "viewBox": [
+          0.0,
+          0.0,
+          320.0,
+          104.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Narrow chapter spine or edge band, below content.",
+      "minimumUse": "240 px wide; strokes >=1.2 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "sun-medallion-01",
+      "file": "assets/sun-medallion-01.svg",
+      "family": "sun-medallion",
+      "variant": 1,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-005",
+        "EG-004"
+      ],
+      "visualEvidence": "EG-005 sun above architectural stack; EG-004 radial calendar balance.",
+      "construction": "Sixteen radial rays around a paired ring and quiet center; two ray lengths.",
+      "parameters": {
+        "variant": 1,
+        "viewBox": [
+          0.0,
+          0.0,
+          200.0,
+          200.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Isolated section marker or large cover focal; not a logo claim.",
+      "minimumUse": "48 px diameter; strokes >=1.5 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "sun-medallion-02",
+      "file": "assets/sun-medallion-02.svg",
+      "family": "sun-medallion",
+      "variant": 2,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-005",
+        "EG-004"
+      ],
+      "visualEvidence": "EG-005 sun above architectural stack; EG-004 radial calendar balance.",
+      "construction": "Sixteen radial rays around a paired ring and quiet center; two ray lengths.",
+      "parameters": {
+        "variant": 2,
+        "viewBox": [
+          0.0,
+          0.0,
+          200.0,
+          200.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Isolated section marker or large cover focal; not a logo claim.",
+      "minimumUse": "48 px diameter; strokes >=1.5 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "triangle-alternation-01",
+      "file": "assets/triangle-alternation-01.svg",
+      "family": "triangle-alternation",
+      "variant": 1,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-009"
+      ],
+      "visualEvidence": "EG-009 triangular top/bottom rhythm noted in visual review.",
+      "construction": "Alternating upward/downward triangles on a fixed baseline, with optional sparse filled cells.",
+      "parameters": {
+        "variant": 1,
+        "viewBox": [
+          0.0,
+          0.0,
+          320.0,
+          88.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Poster edge register; keep off small controls.",
+      "minimumUse": "180 px wide; strokes >=1.25 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "triangle-alternation-02",
+      "file": "assets/triangle-alternation-02.svg",
+      "family": "triangle-alternation",
+      "variant": 2,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-009"
+      ],
+      "visualEvidence": "EG-009 triangular top/bottom rhythm noted in visual review.",
+      "construction": "Alternating upward/downward triangles on a fixed baseline, with optional sparse filled cells.",
+      "parameters": {
+        "variant": 2,
+        "viewBox": [
+          0.0,
+          0.0,
+          320.0,
+          88.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Poster edge register; keep off small controls.",
+      "minimumUse": "180 px wide; strokes >=1.25 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "faceted-portrait-aperture-01",
+      "file": "assets/faceted-portrait-aperture-01.svg",
+      "family": "faceted-portrait-aperture",
+      "variant": 1,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-013",
+        "EG-036"
+      ],
+      "visualEvidence": "EG-013 pointed portrait enclosure; EG-036 grille as framed view.",
+      "construction": "Two pointed/faceted nested outlines define a replaceable image aperture.",
+      "parameters": {
+        "variant": 1,
+        "viewBox": [
+          0.0,
+          0.0,
+          160.0,
+          200.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Editorial portrait crop; full image route and focal control remain external.",
+      "minimumUse": "160 px tall; inner clear area >=55% width.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "faceted-portrait-aperture-02",
+      "file": "assets/faceted-portrait-aperture-02.svg",
+      "family": "faceted-portrait-aperture",
+      "variant": 2,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-013",
+        "EG-036"
+      ],
+      "visualEvidence": "EG-013 pointed portrait enclosure; EG-036 grille as framed view.",
+      "construction": "Two pointed/faceted nested outlines define a replaceable image aperture.",
+      "parameters": {
+        "variant": 2,
+        "viewBox": [
+          0.0,
+          0.0,
+          160.0,
+          200.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Editorial portrait crop; full image route and focal control remain external.",
+      "minimumUse": "160 px tall; inner clear area >=55% width.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "blank-postmark-ring-01",
+      "file": "assets/blank-postmark-ring-01.svg",
+      "family": "blank-postmark-ring",
+      "variant": 1,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-002",
+        "EG-011"
+      ],
+      "visualEvidence": "EG-002/011 circular cancellation marks and rectangular stamp compositions.",
+      "construction": "Concentric blank rings, short cancellation strokes and axis cross; no fake date/text.",
+      "parameters": {
+        "variant": 1,
+        "viewBox": [
+          0.0,
+          0.0,
+          180.0,
+          180.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Archive record detail beside verified metadata only.",
+      "minimumUse": "72 px diameter; strokes >=1.4 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "blank-postmark-ring-02",
+      "file": "assets/blank-postmark-ring-02.svg",
+      "family": "blank-postmark-ring",
+      "variant": 2,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-002",
+        "EG-011"
+      ],
+      "visualEvidence": "EG-002/011 circular cancellation marks and rectangular stamp compositions.",
+      "construction": "Concentric blank rings, short cancellation strokes and axis cross; no fake date/text.",
+      "parameters": {
+        "variant": 2,
+        "viewBox": [
+          0.0,
+          0.0,
+          180.0,
+          180.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Archive record detail beside verified metadata only.",
+      "minimumUse": "72 px diameter; strokes >=1.4 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "diagram-spiral-axes-01",
+      "file": "assets/diagram-spiral-axes-01.svg",
+      "family": "diagram-spiral-axes",
+      "variant": 1,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-011"
+      ],
+      "visualEvidence": "EG-011 envelope diagram/cancellation visual; spiral interpretation is schematic.",
+      "construction": "Explicit sampled Archimedean spiral, orthogonal axes and five unit ticks per side.",
+      "parameters": {
+        "variant": 1,
+        "viewBox": [
+          0.0,
+          0.0,
+          220.0,
+          220.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Lineage/acquisition diagram accent; pair with real labels outside SVG.",
+      "minimumUse": "110 px square; stroke >=1.3 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "diagram-spiral-axes-02",
+      "file": "assets/diagram-spiral-axes-02.svg",
+      "family": "diagram-spiral-axes",
+      "variant": 2,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-011"
+      ],
+      "visualEvidence": "EG-011 envelope diagram/cancellation visual; spiral interpretation is schematic.",
+      "construction": "Explicit sampled Archimedean spiral, orthogonal axes and five unit ticks per side.",
+      "parameters": {
+        "variant": 2,
+        "viewBox": [
+          0.0,
+          0.0,
+          220.0,
+          220.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Lineage/acquisition diagram accent; pair with real labels outside SVG.",
+      "minimumUse": "110 px square; stroke >=1.3 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "architectural-ruled-frame-01",
+      "file": "assets/architectural-ruled-frame-01.svg",
+      "family": "architectural-ruled-frame",
+      "variant": 1,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-006",
+        "EG-013"
+      ],
+      "visualEvidence": "EG-006 measured rules and calm cover; EG-013 image/title separation.",
+      "construction": "Nested page frame, short header rules, media window, caption rules and a small labelled bar.",
+      "parameters": {
+        "variant": 1,
+        "viewBox": [
+          0.0,
+          0.0,
+          200.0,
+          260.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Chapter opener or source sheet; slots remain editable/replaced.",
+      "minimumUse": "200 x 260; content inset >=12 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "architectural-ruled-frame-02",
+      "file": "assets/architectural-ruled-frame-02.svg",
+      "family": "architectural-ruled-frame",
+      "variant": 2,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-006",
+        "EG-013"
+      ],
+      "visualEvidence": "EG-006 measured rules and calm cover; EG-013 image/title separation.",
+      "construction": "Nested page frame, short header rules, media window, caption rules and a small labelled bar.",
+      "parameters": {
+        "variant": 2,
+        "viewBox": [
+          0.0,
+          0.0,
+          200.0,
+          260.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Chapter opener or source sheet; slots remain editable/replaced.",
+      "minimumUse": "200 x 260; content inset >=12 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "grille-aperture-01",
+      "file": "assets/grille-aperture-01.svg",
+      "family": "grille-aperture",
+      "variant": 1,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-036",
+        "EG-013"
+      ],
+      "visualEvidence": "EG-036 architectural grille as view filter; EG-013 framed image opening.",
+      "construction": "Orthogonal bars around a clear central square opening; spacing presets 20/28.",
+      "parameters": {
+        "variant": 1,
+        "viewBox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Large media aperture or background panel only; do not obscure image details.",
+      "minimumUse": "160 px square; central aperture >=44 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "grille-aperture-02",
+      "file": "assets/grille-aperture-02.svg",
+      "family": "grille-aperture",
+      "variant": 2,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-036",
+        "EG-013"
+      ],
+      "visualEvidence": "EG-036 architectural grille as view filter; EG-013 framed image opening.",
+      "construction": "Orthogonal bars around a clear central square opening; spacing presets 20/28.",
+      "parameters": {
+        "variant": 2,
+        "viewBox": [
+          0.0,
+          0.0,
+          160.0,
+          160.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Large media aperture or background panel only; do not obscure image details.",
+      "minimumUse": "160 px square; central aperture >=44 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "thin-scene-lines-01",
+      "file": "assets/thin-scene-lines-01.svg",
+      "family": "thin-scene-lines",
+      "variant": 1,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-009",
+        "EG-005"
+      ],
+      "visualEvidence": "EG-009 quiet line-drawn scene; EG-005 landscape/skyline stacking.",
+      "construction": "Thin hills, two water courses, palm and a simple boat silhouette.",
+      "parameters": {
+        "variant": 1,
+        "viewBox": [
+          0.0,
+          0.0,
+          320.0,
+          180.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Wide editorial scene field; standalone illustration, no claim of a depicted place.",
+      "minimumUse": "320 x 180; preserve clear margins.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "thin-scene-lines-02",
+      "file": "assets/thin-scene-lines-02.svg",
+      "family": "thin-scene-lines",
+      "variant": 2,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-009",
+        "EG-005"
+      ],
+      "visualEvidence": "EG-009 quiet line-drawn scene; EG-005 landscape/skyline stacking.",
+      "construction": "Thin hills, two water courses, palm and a simple boat silhouette.",
+      "parameters": {
+        "variant": 2,
+        "viewBox": [
+          0.0,
+          0.0,
+          320.0,
+          180.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Wide editorial scene field; standalone illustration, no claim of a depicted place.",
+      "minimumUse": "320 x 180; preserve clear margins.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "rosette-border-01",
+      "file": "assets/rosette-border-01.svg",
+      "family": "rosette-border",
+      "variant": 1,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-004",
+        "EG-005"
+      ],
+      "visualEvidence": "EG-004 radial medallion rhythm; EG-005 layered register hierarchy.",
+      "construction": "Repeated 6- or 8-lobed circle rosettes with alternating ring colors and a baseline.",
+      "parameters": {
+        "variant": 1,
+        "viewBox": [
+          0.0,
+          0.0,
+          320.0,
+          96.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Optional border under large titles; two color/scale arrangements.",
+      "minimumUse": "240 px wide; strokes >=1.2 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "rosette-border-02",
+      "file": "assets/rosette-border-02.svg",
+      "family": "rosette-border",
+      "variant": 2,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-004",
+        "EG-005"
+      ],
+      "visualEvidence": "EG-004 radial medallion rhythm; EG-005 layered register hierarchy.",
+      "construction": "Repeated 6- or 8-lobed circle rosettes with alternating ring colors and a baseline.",
+      "parameters": {
+        "variant": 2,
+        "viewBox": [
+          0.0,
+          0.0,
+          320.0,
+          96.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Optional border under large titles; two color/scale arrangements.",
+      "minimumUse": "240 px wide; strokes >=1.2 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "brick-cutstone-courses-01",
+      "file": "assets/brick-cutstone-courses-01.svg",
+      "family": "brick-cutstone-courses",
+      "variant": 1,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-005",
+        "EG-036"
+      ],
+      "visualEvidence": "EG-005 stacked architectural masses; EG-036 stone architecture view.",
+      "construction": "Staggered rectangular courses, with alternate bond offsets; diagrammatic not site-specific.",
+      "parameters": {
+        "variant": 1,
+        "viewBox": [
+          0.0,
+          0.0,
+          320.0,
+          144.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Panel background behind image only or technical section rail.",
+      "minimumUse": "200 px wide; strokes >=1.2 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "brick-cutstone-courses-02",
+      "file": "assets/brick-cutstone-courses-02.svg",
+      "family": "brick-cutstone-courses",
+      "variant": 2,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-005",
+        "EG-036"
+      ],
+      "visualEvidence": "EG-005 stacked architectural masses; EG-036 stone architecture view.",
+      "construction": "Staggered rectangular courses, with alternate bond offsets; diagrammatic not site-specific.",
+      "parameters": {
+        "variant": 2,
+        "viewBox": [
+          0.0,
+          0.0,
+          320.0,
+          144.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Panel background behind image only or technical section rail.",
+      "minimumUse": "200 px wide; strokes >=1.2 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "woven-reed-fibres-01",
+      "file": "assets/woven-reed-fibres-01.svg",
+      "family": "woven-reed-fibres",
+      "variant": 1,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-009",
+        "EG-005"
+      ],
+      "visualEvidence": "EG-009 repeated line rhythm; EG-005 register layering.",
+      "construction": "Four sampled sinusoidal strands with two amplitude/period pairs; illustrative fibers, not interlace.",
+      "parameters": {
+        "variant": 1,
+        "viewBox": [
+          0.0,
+          0.0,
+          320.0,
+          104.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Peripheral material strip; not a verified seamless pattern.",
+      "minimumUse": "240 px wide; strokes >=1.2 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "woven-reed-fibres-02",
+      "file": "assets/woven-reed-fibres-02.svg",
+      "family": "woven-reed-fibres",
+      "variant": 2,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-009",
+        "EG-005"
+      ],
+      "visualEvidence": "EG-009 repeated line rhythm; EG-005 register layering.",
+      "construction": "Four sampled sinusoidal strands with two amplitude/period pairs; illustrative fibers, not interlace.",
+      "parameters": {
+        "variant": 2,
+        "viewBox": [
+          0.0,
+          0.0,
+          320.0,
+          104.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Peripheral material strip; not a verified seamless pattern.",
+      "minimumUse": "240 px wide; strokes >=1.2 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "inkprint-stipple-01",
+      "file": "assets/inkprint-stipple-01.svg",
+      "family": "inkprint-stipple",
+      "variant": 1,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-004",
+        "EG-011"
+      ],
+      "visualEvidence": "EG-004 dense visual field and EG-011 paper-object contrast; derived GMD surface proposal.",
+      "construction": "Deterministic sparse dot field fades toward quiet center; two dot scales.",
+      "parameters": {
+        "variant": 1,
+        "viewBox": [
+          0.0,
+          0.0,
+          240.0,
+          144.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Large bounded edge atmosphere. Keep text window clear.",
+      "minimumUse": "240 x 144; dots >=1.2 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    },
+    {
+      "id": "inkprint-stipple-02",
+      "file": "assets/inkprint-stipple-02.svg",
+      "family": "inkprint-stipple",
+      "variant": 2,
+      "classification": "contemporary-adaptation",
+      "sourceIDs": [
+        "EG-004",
+        "EG-011"
+      ],
+      "visualEvidence": "EG-004 dense visual field and EG-011 paper-object contrast; derived GMD surface proposal.",
+      "construction": "Deterministic sparse dot field fades toward quiet center; two dot scales.",
+      "parameters": {
+        "variant": 2,
+        "viewBox": [
+          0.0,
+          0.0,
+          240.0,
+          144.0
+        ]
+      },
+      "derivatives": "This family is delivered as two contemporary arrangements; no repeat/tile derivative is asserted.",
+      "repeat": {
+        "claimed": false,
+        "edgeTest": null
+      },
+      "usage": "Large bounded edge atmosphere. Keep text window clear.",
+      "minimumUse": "240 x 144; dots >=1.2 px.",
+      "editable": "Native SVG primitive geometry; explicit coordinates; no transforms, fonts, clipping paths or linked resources.",
+      "palette": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "pink": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "sand": "#D5C4A8",
+        "terracotta": "#9C4937"
+      }
+    }
+  ]
+}

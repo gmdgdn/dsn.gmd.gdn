@@ -1,0 +1,7 @@
+{
+  "url": "https://gmd-ui-registry.anagmdgdn.workers.dev",
+  "provider": "Cloudflare Workers static assets",
+  "worker": "gmd-ui-registry",
+  "release": "0.7.2",
+  "deployment": "a297c369-1e3f-4c76-bede-677a91b3d26d"
+}

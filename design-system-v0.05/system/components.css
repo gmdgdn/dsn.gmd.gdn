@@ -1,0 +1,21 @@
+/* Reusable component primitives and interaction states. */
+.button{position:relative;display:inline-flex;align-items:center;justify-content:center;gap:9px;border:var(--gmd-component-control-border,1px solid var(--gmd-ink));border-radius:var(--gmd-shape-radius,0);padding:0 14px;background:var(--gmd-component-control-background,var(--gmd-surface));color:var(--gmd-component-control-text,var(--gmd-ink));font:650 12px/1 var(--gmd-font-ui);text-decoration:none;cursor:pointer;box-shadow:var(--gmd-component-button-depth,var(--gmd-edge-small));transition:transform var(--gmd-motion-fast,120ms) var(--gmd-motion-ease,var(--gmd-ease)),box-shadow var(--gmd-motion-fast,120ms) var(--gmd-motion-ease,var(--gmd-ease)),background-color .12s,color .12s}
+.button:hover{transform:translate(-1px,-1px);box-shadow:var(--gmd-depth-hover,var(--gmd-edge))}
+.button:active{transform:translate(2px,2px);box-shadow:var(--gmd-depth-pressed,0 0 0 var(--gmd-ink))}
+.button:focus-visible{outline:var(--gmd-focus-width,3px) solid var(--gmd-color-focus,var(--gmd-nile));outline-offset:var(--gmd-focus-offset,3px);box-shadow:0 0 0 2px var(--gmd-color-focus-halo,#a7bbef)}
+.button:disabled,.button[aria-disabled=true]{opacity:1;cursor:not-allowed;transform:none;box-shadow:none;background:var(--gmd-color-disabled-surface,#eae5de);color:var(--gmd-color-disabled-text,#706b68);border-color:var(--gmd-color-disabled-border,#b6ada6);border-style:dashed}
+.button-primary{background:var(--gmd-component-button-action-background,var(--gmd-pink));color:var(--gmd-component-button-action-text,var(--gmd-ink))}
+.button-primary:hover{background:var(--gmd-pink);color:var(--gmd-ink)}
+.button-secondary{background:var(--gmd-component-control-background,var(--gmd-surface));color:var(--gmd-component-control-text,var(--gmd-ink))}
+.button-secondary:hover{background:var(--gmd-warm)}
+.button-quiet{padding-inline:5px;border-color:transparent;background:transparent;box-shadow:none;color:var(--gmd-nile);text-decoration:underline;text-underline-offset:4px}
+.button-quiet:hover{transform:none;box-shadow:none;color:var(--gmd-nile)}
+.button-sm{min-height:31px;padding-inline:10px;font-size:10px}
+.button-md{min-height:39px}
+.button-lg{min-height:48px;padding-inline:19px;font-size:13px}
+.icon-button{display:inline-grid;place-items:center;width:29px;height:29px;border:1px solid transparent;background:transparent;color:var(--gmd-ink);font-size:19px;line-height:1;cursor:pointer}
+.icon-button:hover{border-color:var(--gmd-ink);background:var(--gmd-warm)}
+.icon-button:focus-visible{outline:2px solid var(--gmd-nile);outline-offset:2px}
+.component-status{display:inline-block}
+.status-reference{background:var(--gmd-warm)}
+[hidden]{display:none!important}

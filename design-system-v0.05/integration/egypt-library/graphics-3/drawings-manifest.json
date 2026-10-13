@@ -1,0 +1,97 @@
+[
+  {
+    "id": "G3-001",
+    "filename": "G3-001-cartoon-pair-traced.svg",
+    "sourceCopy": "sources/G3-001.jpg",
+    "svg": "drawings/svg/G3-001-cartoon-pair-traced.svg",
+    "traceMethod": "thresholded ink contours; median-filtered 3x3; modest downsample; topology-preserving collinear simplification",
+    "threshold": 120,
+    "scale": 0.68,
+    "rotation": "none",
+    "sourceCropPixels": [
+      35,
+      110,
+      1400,
+      1900
+    ],
+    "vectorViewBox": "0 0 925 1187",
+    "contourPaths": 1563,
+    "sha256": "f402df46babe0b100820c13ec6f6c2d44a20648a22fc26f0e45336f0afb39e29",
+    "fidelity": "source-traced outlines; semantic parts remain grouped as editable ink contours"
+  },
+  {
+    "id": "G3-005",
+    "filename": "G3-005-poster-figure-traced.svg",
+    "sourceCopy": "sources/G3-005.jpg",
+    "svg": "drawings/svg/G3-005-poster-figure-traced.svg",
+    "traceMethod": "thresholded ink contours; median-filtered 3x3; modest downsample; topology-preserving collinear simplification",
+    "threshold": 118,
+    "scale": 0.6,
+    "rotation": "none",
+    "sourceCropPixels": [
+      205,
+      190,
+      1405,
+      1645
+    ],
+    "vectorViewBox": "0 0 720 873",
+    "contourPaths": 4762,
+    "sha256": "ccac8e1b0d954a7cb04bf53dcebf512d3a7e761fcd51c4d243662e8bf87d3048",
+    "fidelity": "source-traced outlines; semantic parts remain grouped as editable ink contours"
+  },
+  {
+    "id": "G3-011",
+    "filename": "G3-011-letterform-portrait-traced.svg",
+    "sourceCopy": "sources/G3-011.png",
+    "svg": "drawings/svg/G3-011-letterform-portrait-traced.svg",
+    "traceMethod": "thresholded ink contours; median-filtered 3x3; modest downsample; topology-preserving collinear simplification",
+    "threshold": 120,
+    "scale": 0.78,
+    "rotation": "none",
+    "sourceCropPixels": [
+      34,
+      20,
+      405,
+      548
+    ],
+    "vectorViewBox": "0 0 168 280",
+    "contourPaths": 64,
+    "sha256": "53c0fa56412731526f69b337f30f2fd2c9bb26ab6a310e646f0ae5dea89a877f",
+    "fidelity": "source-traced outlines; semantic parts remain grouped as editable ink contours"
+  },
+  {
+    "id": "G3-016",
+    "filename": "G3-016-crowd-heart-traced.svg",
+    "sourceCopy": "sources/G3-016.jpg",
+    "svg": "drawings/svg/G3-016-crowd-heart-traced.svg",
+    "traceMethod": "thresholded ink contours; median-filtered 3x3; modest downsample; topology-preserving collinear simplification",
+    "threshold": 110,
+    "scale": 0.62,
+    "rotation": "90 degrees counterclockwise",
+    "sourceCropPixels": null,
+    "vectorViewBox": "0 0 956 1052",
+    "contourPaths": 1249,
+    "sha256": "2fa98501829c2aad9b15010e000fa60b4c20543ba8b2c7a70bb84e352052d662",
+    "fidelity": "source-traced outlines; semantic parts remain grouped as editable ink contours"
+  },
+  {
+    "id": "G3-015",
+    "filename": "G3-015-dense-illustration-traced.svg",
+    "sourceCopy": "sources/G3-015.jpg",
+    "svg": "drawings/svg/G3-015-dense-illustration-traced.svg",
+    "traceMethod": "thresholded ink contours; median-filtered 3x3; modest downsample; topology-preserving collinear simplification",
+    "threshold": 125,
+    "scale": 0.75,
+    "rotation": "none",
+    "sourceCropPixels": [
+      105,
+      350,
+      1320,
+      1310
+    ],
+    "vectorViewBox": "0 0 911 697",
+    "contourPaths": 2367,
+    "sha256": "1cfb9f669e3e3feb364544297190d61fc3a7a366c38d7a576c2f27e96f11d742",
+    "fidelity": "source-traced outlines; semantic parts remain grouped as editable ink contours"
+  }
+]

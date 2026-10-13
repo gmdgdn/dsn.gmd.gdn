@@ -1,0 +1,4 @@
+.gmd-pattern-site{min-height:100vh;background:var(--background);color:var(--foreground)}.gmd-pattern-main{width:100%;max-width:100%;margin:0 auto}.gmd-pattern-site [dir=rtl]{}.gmd-pattern-site :focus-visible{outline:2px solid var(--ring);outline-offset:3px}
+.gmd-pattern-site[lang=ar] p:not(.gmd-eyebrow){font-family:'Amiri',serif;line-height:1.9}
+.gmd-pattern-site[lang=ar] .gmd-eyebrow,.gmd-pattern-site[lang=ar] h1,.gmd-pattern-site[lang=ar] h2,.gmd-pattern-site[lang=ar] h3{font-family:'Mada',sans-serif;letter-spacing:0}
+.gmd-pattern-site[lang=ar] .gmd-editorial-copy h1,.gmd-pattern-site[lang=ar] .gmd-pattern-section h2,.gmd-pattern-site[lang=ar] .gmd-pattern-callout h2,.gmd-pattern-site[lang=ar] .gmd-data-terms h2,.gmd-pattern-site[lang=ar] .gmd-contact-layout h2,.gmd-pattern-site[lang=ar] .gmd-projects-band h2{font-size:clamp(2rem,4vw,3rem);line-height:1.2}

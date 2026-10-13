@@ -1,0 +1,14 @@
+[
+  {
+    "id": "film-001",
+    "title": "A film and its context",
+    "family": "film",
+    "status": "study"
+  },
+  {
+    "id": "film-002",
+    "title": "Poster source trail",
+    "family": "film",
+    "status": "draft"
+  }
+]

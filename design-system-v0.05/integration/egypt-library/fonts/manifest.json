@@ -1,0 +1,42 @@
+[
+  {
+    "file": "Amiri-Regular.ttf",
+    "bytes": 431116,
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-Regular.ttf"
+  },
+  {
+    "file": "Amiri-Bold.ttf",
+    "bytes": 413480,
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-Bold.ttf"
+  },
+  {
+    "file": "IBMPlexSansArabic-Regular.ttf",
+    "bytes": 235924,
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/ibmplexsansarabic/IBMPlexSansArabic-Regular.ttf"
+  },
+  {
+    "file": "IBMPlexSansArabic-Medium.ttf",
+    "bytes": 242100,
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/ibmplexsansarabic/IBMPlexSansArabic-Medium.ttf"
+  },
+  {
+    "file": "Rakkas-Regular.ttf",
+    "bytes": 146824,
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/rakkas/Rakkas-Regular.ttf"
+  },
+  {
+    "file": "Amiri-OFL.txt",
+    "bytes": 4389,
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/OFL.txt"
+  },
+  {
+    "file": "PlexArabic-OFL.txt",
+    "bytes": 4456,
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/ibmplexsansarabic/OFL.txt"
+  },
+  {
+    "file": "Rakkas-OFL.txt",
+    "bytes": 4423,
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/rakkas/OFL.txt"
+  }
+]

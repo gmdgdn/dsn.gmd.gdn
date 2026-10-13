@@ -1,0 +1,3587 @@
+{
+  "assets": [
+    {
+      "id": "a37357782f440af5",
+      "kind": "stylesheet",
+      "name": "dist-wv5RvJiD.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 381,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/dist-wv5RvJiD.css"
+    },
+    {
+      "id": "d3f1b8e0d52d418b",
+      "kind": "stylesheet",
+      "name": "index-CumBjg-h.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 382,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/index-CumBjg-h.css"
+    },
+    {
+      "id": "299aacb8a38995cc",
+      "kind": "script",
+      "name": "rolldown-runtime-Eu0AZhn2.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 395,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/rolldown-runtime-Eu0AZhn2.js"
+    },
+    {
+      "id": "1d554ffe111b0dd7",
+      "kind": "script",
+      "name": "index-hKxsl3Xm.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 394,
+          "property": "href"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 955,
+          "property": "src"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/index-hKxsl3Xm.js"
+    },
+    {
+      "id": "0df1b38cfa195b82",
+      "kind": "script",
+      "name": "QueryClientProvider-BqK0te_l.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 396,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/QueryClientProvider-BqK0te_l.js"
+    },
+    {
+      "id": "9eb3e44b6caac33a",
+      "kind": "script",
+      "name": "es2015-DiAgvoIu.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 397,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/es2015-DiAgvoIu.js"
+    },
+    {
+      "id": "29ee08212e712b24",
+      "kind": "script",
+      "name": "Match-DIbvcnBU.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 398,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/Match-DIbvcnBU.js"
+    },
+    {
+      "id": "6e31bdce1e61d348",
+      "kind": "script",
+      "name": "fileRoute-89EuhKbd.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 399,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/fileRoute-89EuhKbd.js"
+    },
+    {
+      "id": "235e64cd2569e2e4",
+      "kind": "script",
+      "name": "link-BIr4Q2PN.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 401,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/link-BIr4Q2PN.js"
+    },
+    {
+      "id": "52dea3711b1e4a82",
+      "kind": "script",
+      "name": "utils-D-xR-lfy.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 400,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/utils-D-xR-lfy.js"
+    },
+    {
+      "id": "9622704563f2a69e",
+      "kind": "script",
+      "name": "useMatch-ui571CZP.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 402,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/useMatch-ui571CZP.js"
+    },
+    {
+      "id": "eee4d9e6dcd973c7",
+      "kind": "script",
+      "name": "root-DLTE-HSj.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 403,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/root-DLTE-HSj.js"
+    },
+    {
+      "id": "bdb0f99842371d5f",
+      "kind": "script",
+      "name": "lazyRouteComponent-mh1FAEAG.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 404,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/lazyRouteComponent-mh1FAEAG.js"
+    },
+    {
+      "id": "e8b2b174ecffcbc2",
+      "kind": "script",
+      "name": "useNavigate-Cjnt4S_o.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 405,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/useNavigate-Cjnt4S_o.js"
+    },
+    {
+      "id": "514c210086d8a41a",
+      "kind": "script",
+      "name": "useAuth-MsB6QRFg.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 406,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/useAuth-MsB6QRFg.js"
+    },
+    {
+      "id": "21ecde4a8aadb8dc",
+      "kind": "script",
+      "name": "react-CZZRtUpO.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 407,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/react-CZZRtUpO.js"
+    },
+    {
+      "id": "e327dc7a9127e6a7",
+      "kind": "script",
+      "name": "use-toast-BDwjCBbD.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 408,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/use-toast-BDwjCBbD.js"
+    },
+    {
+      "id": "b53df8176d43c004",
+      "kind": "script",
+      "name": "useTranslation-CHil5bRC.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 409,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/useTranslation-CHil5bRC.js"
+    },
+    {
+      "id": "967a45957dc8a29b",
+      "kind": "script",
+      "name": "button-Lr4ucFXV.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 410,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/button-Lr4ucFXV.js"
+    },
+    {
+      "id": "cd63c241a2bae266",
+      "kind": "script",
+      "name": "hooks-DiNznuxY.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 411,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/hooks-DiNznuxY.js"
+    },
+    {
+      "id": "362072aba1077885",
+      "kind": "script",
+      "name": "usePersonas-HbSONIq8.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 412,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/usePersonas-HbSONIq8.js"
+    },
+    {
+      "id": "0b1b453962feb96e",
+      "kind": "script",
+      "name": "preload-helper-DRde8i_i.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 413,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/preload-helper-DRde8i_i.js"
+    },
+    {
+      "id": "b445dc7b2b6aacb6",
+      "kind": "script",
+      "name": "useUser-Cpv6_1z_.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 415,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/useUser-Cpv6_1z_.js"
+    },
+    {
+      "id": "078b46a185f52c5f",
+      "kind": "script",
+      "name": "useContactSupport-CmPSM1a3.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 414,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/useContactSupport-CmPSM1a3.js"
+    },
+    {
+      "id": "cfe2f5f5ed6c7184",
+      "kind": "script",
+      "name": "dist-CucewXM7.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 416,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/dist-CucewXM7.js"
+    },
+    {
+      "id": "e2ca7cc478ff458e",
+      "kind": "script",
+      "name": "SsoContinueDialog-Cxb3v_kc.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 418,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/SsoContinueDialog-Cxb3v_kc.js"
+    },
+    {
+      "id": "5f0df8999847ef64",
+      "kind": "script",
+      "name": "LoadingButton-CSS08Uke.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 417,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/LoadingButton-CSS08Uke.js"
+    },
+    {
+      "id": "7ad7052c313b6cde",
+      "kind": "script",
+      "name": "Layout.component-DRSqviFV.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 421,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/Layout.component-DRSqviFV.js"
+    },
+    {
+      "id": "468d9ea2ed164d1b",
+      "kind": "script",
+      "name": "input-DV_ASPsQ.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 422,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/input-DV_ASPsQ.js"
+    },
+    {
+      "id": "832804d8070cc31c",
+      "kind": "script",
+      "name": "EyebrowLabel-C361hFm8.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 420,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/EyebrowLabel-C361hFm8.js"
+    },
+    {
+      "id": "c49458cd4848960f",
+      "kind": "script",
+      "name": "dist-CRtsxTh6.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 419,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/dist-CRtsxTh6.js"
+    },
+    {
+      "id": "9c9b095aad7eb4ae",
+      "kind": "script",
+      "name": "textarea-BcD4_ohJ.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 424,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/textarea-BcD4_ohJ.js"
+    },
+    {
+      "id": "3df278e0ef2cad3b",
+      "kind": "script",
+      "name": "label-C8RdW1X_.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 423,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/label-C8RdW1X_.js"
+    },
+    {
+      "id": "ef10acb8aa67ad91",
+      "kind": "script",
+      "name": "search-params.utils-C4BYGcH2.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 425,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/search-params.utils-C4BYGcH2.js"
+    },
+    {
+      "id": "4fb0c06d78828a90",
+      "kind": "script",
+      "name": "Layout-Cw3wji2X.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 426,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/Layout-Cw3wji2X.js"
+    },
+    {
+      "id": "87efd4d27815f2a6",
+      "kind": "script",
+      "name": "useSearch-CvA1g2V4.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/useSearch-CvA1g2V4.js"
+    },
+    {
+      "id": "244cb4313694632d",
+      "kind": "script",
+      "name": "utils-DTAGJADH.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 427,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/utils-DTAGJADH.js"
+    },
+    {
+      "id": "3db14301cb4c6c8d",
+      "kind": "script",
+      "name": "sign-in-dLWFGikC.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/sign-in-dLWFGikC.js"
+    },
+    {
+      "id": "ea176fccfe9f8b2d",
+      "kind": "script",
+      "name": "SupportButton-Cvd_ocQC.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/SupportButton-Cvd_ocQC.js"
+    },
+    {
+      "id": "3e2998435098c456",
+      "kind": "script",
+      "name": "zod-BPIs8fj2.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/zod-BPIs8fj2.js"
+    },
+    {
+      "id": "5fb33d3470a66c75",
+      "kind": "script",
+      "name": "PasswordInput-DeUPgoLv.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/PasswordInput-DeUPgoLv.js"
+    },
+    {
+      "id": "e199515bf29c45a5",
+      "kind": "script",
+      "name": "AuthDivider-BIzWywDg.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/AuthDivider-BIzWywDg.js"
+    },
+    {
+      "id": "25e815fb37aff570",
+      "kind": "script",
+      "name": "hooks-DZSf3QOV.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/hooks-DZSf3QOV.js"
+    },
+    {
+      "id": "a7b5255037621aa5",
+      "kind": "script",
+      "name": "form-KB59w6TQ.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/form-KB59w6TQ.js"
+    },
+    {
+      "id": "c222641257d8a375",
+      "kind": "script",
+      "name": "providerAuthOptions-DPq0ZAtZ.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/providerAuthOptions-DPq0ZAtZ.js"
+    },
+    {
+      "id": "ad473cc46dd2223e",
+      "kind": "script",
+      "name": "gtm.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 431,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 432,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 433,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 446,
+          "property": "src"
+        }
+      ],
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K47VNVVF"
+    },
+    {
+      "id": "c5acbaebd7a0b381",
+      "kind": "script",
+      "name": "fbevents.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 445,
+          "property": "src"
+        }
+      ],
+      "url": "https://connect.facebook.net/en_US/fbevents.js"
+    },
+    {
+      "id": "674efcf066980c8d",
+      "kind": "script",
+      "name": "pixel.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 443,
+          "property": "src"
+        }
+      ],
+      "url": "https://www.redditstatic.com/ads/pixel.js?pixel_id=a2_jchjd55exftz"
+    },
+    {
+      "id": "362a7497ce1fada4",
+      "kind": "script",
+      "name": "jimo-invader.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 447,
+          "property": "src"
+        }
+      ],
+      "url": "https://undercity.usejimo.com/jimo-invader.js"
+    },
+    {
+      "id": "1b4d6d64685c60da",
+      "kind": "other",
+      "name": "rp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://alb.reddit.com/rp?id=a2_jchjd55exftz&event=gtm.init_consent"
+    },
+    {
+      "id": "787d52ad6557ac61",
+      "kind": "script",
+      "name": "pixel.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 442,
+          "property": "src"
+        }
+      ],
+      "url": "https://www.redditstatic.com/ads/pixel.js"
+    },
+    {
+      "id": "9bd2504f0dfc72b7",
+      "kind": "script",
+      "name": "js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 441,
+          "property": "src"
+        }
+      ],
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-SBQHZWT4FS&cx=c&gtm=4e69u2"
+    },
+    {
+      "id": "111b641191fbfc56",
+      "kind": "other",
+      "name": "rp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://alb.reddit.com/rp?id=a2_jchjd55exftz&event=gtm.init"
+    },
+    {
+      "id": "a880b85b76ad3536",
+      "kind": "other",
+      "name": "rp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://alb.reddit.com/rp?id=a2_jchjd55exftz&event=gtm.js"
+    },
+    {
+      "id": "d45c5a62bfd62844",
+      "kind": "script",
+      "name": "wjkqgnxidy",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 440,
+          "property": "src"
+        }
+      ],
+      "url": "https://www.clarity.ms/tag/wjkqgnxidy?ref=gtm"
+    },
+    {
+      "id": "320d4256fc0e4146",
+      "kind": "script",
+      "name": "insight.min.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 439,
+          "property": "src"
+        }
+      ],
+      "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js"
+    },
+    {
+      "id": "3d6ad114bb99bf13",
+      "kind": "other",
+      "name": "collect",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://www.google.com/ccm/collect?rcb=0&frm=0&apvc=1&ae=g&auid=734909484.1791015300&dt=Sign%20In%20%E2%80%93%20Tavus&en=page_view&dl=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue&scrsrc=www.googletagmanager.com&rnd=1406240738.1791015850&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He69u2v9237993924za200zd9237993924xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120385423~120469145~120469153~121125486&tft=1791015850447&tfd=1362&fmt=8"
+    },
+    {
+      "id": "c2a4fbdf6915fa60",
+      "kind": "other",
+      "name": "collect",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=734909484.1791015300&gtm=45He69u2v9237993924za200zd9237993924xeaxf1&fmt=8"
+    },
+    {
+      "id": "175e56a6c8505dbb",
+      "kind": "other",
+      "name": "rp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://alb.reddit.com/rp?id=a2_jchjd55exftz&event=gtm.dom"
+    },
+    {
+      "id": "da0bc118b6c996b8",
+      "kind": "script",
+      "name": "tslib.es6-H1L6zy_F.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 449,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/tslib.es6-H1L6zy_F.js"
+    },
+    {
+      "id": "4d184cb7e8625b28",
+      "kind": "script",
+      "name": "useParams-DnyTh-EA.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 541,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/useParams-DnyTh-EA.js"
+    },
+    {
+      "id": "ca5296b9010aac5b",
+      "kind": "script",
+      "name": "useRouteContext-D1SkexpU.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 542,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/useRouteContext-D1SkexpU.js"
+    },
+    {
+      "id": "2b9843cbe53eb210",
+      "kind": "script",
+      "name": "insight.beta.min.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 438,
+          "property": "src"
+        }
+      ],
+      "url": "https://snap.licdn.com/li.lms-analytics/insight.beta.min.js"
+    },
+    {
+      "id": "29b8ff9e3faafbf2",
+      "kind": "image",
+      "name": "collect",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=7341604&time=1791015850461&li_adsId=869bc956-ebde-4c72-9185-5eb7a1ebafb0&pageLoadId=bb7bec26-a4ff-429f-951e-edf18ae5f0ca&url=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue"
+    },
+    {
+      "id": "d6a7019d6f94dee7",
+      "kind": "script",
+      "name": "1008078485164063",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 444,
+          "property": "src"
+        }
+      ],
+      "url": "https://connect.facebook.net/signals/config/1008078485164063?v=2.9.414&r=stable&domain=maker.tavus.io&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188"
+    },
+    {
+      "id": "aa7c47e2f3e751a3",
+      "kind": "script",
+      "name": "middleware-BSvwapCP.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 450,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/middleware-BSvwapCP.js"
+    },
+    {
+      "id": "5c1f7cdc438862f4",
+      "kind": "script",
+      "name": "helpers-6QOcF8ML.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 451,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/helpers-6QOcF8ML.js"
+    },
+    {
+      "id": "9513496715462d54",
+      "kind": "script",
+      "name": "load-script-D8CSSDW5.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 454,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/load-script-D8CSSDW5.js"
+    },
+    {
+      "id": "3f9e4faffefff3bc",
+      "kind": "script",
+      "name": "callback-fI0p6yXx.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 452,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/callback-fI0p6yXx.js"
+    },
+    {
+      "id": "8e840d3418e25c57",
+      "kind": "script",
+      "name": "metric-helpers-De0XhD2r.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 453,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/metric-helpers-De0XhD2r.js"
+    },
+    {
+      "id": "337cf3fbbd2ed5e7",
+      "kind": "script",
+      "name": "gracefulDecodeURIComponent-_vG6Aiwu.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 455,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/gracefulDecodeURIComponent-_vG6Aiwu.js"
+    },
+    {
+      "id": "459e2eb05cd695c5",
+      "kind": "script",
+      "name": "useBilling-CJXIxRxJ.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 457,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/useBilling-CJXIxRxJ.js"
+    },
+    {
+      "id": "04b57ee1b99bbf31",
+      "kind": "script",
+      "name": "dist-rcFFLGXb.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 462,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/dist-rcFFLGXb.js"
+    },
+    {
+      "id": "065f41244b31d1b8",
+      "kind": "script",
+      "name": "LogoHorizontal-BRoQCRA9.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 456,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/LogoHorizontal-BRoQCRA9.js"
+    },
+    {
+      "id": "480f340d2b50bd82",
+      "kind": "script",
+      "name": "dist-CvpmRSS3.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 465,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/dist-CvpmRSS3.js"
+    },
+    {
+      "id": "59db94eb045d227d",
+      "kind": "script",
+      "name": "popover-DdB09vUM.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 464,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/popover-DdB09vUM.js"
+    },
+    {
+      "id": "23f59ef59938e43c",
+      "kind": "script",
+      "name": "UserDropdown-KAOy_mSx.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 497,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/UserDropdown-KAOy_mSx.js"
+    },
+    {
+      "id": "96a85671a3aa988a",
+      "kind": "script",
+      "name": "clarity.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 437,
+          "property": "src"
+        }
+      ],
+      "url": "https://scripts.clarity.ms/0.8.70/clarity.js"
+    },
+    {
+      "id": "68850afd859bd44d",
+      "kind": "other",
+      "name": "wa",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g"
+    },
+    {
+      "id": "edef3c25e87f5057",
+      "kind": "other",
+      "name": "preload",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://karabor-undercity.usejimo.com/project/c8efb9e9-cf01-41f0-8eb0-55b185eb027c/preload?"
+    },
+    {
+      "id": "98033c6f842c0f67",
+      "kind": "script",
+      "name": "toDate-DLGEFvt4.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 458,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/toDate-DLGEFvt4.js"
+    },
+    {
+      "id": "9a6c35dfb0bd09fb",
+      "kind": "script",
+      "name": "phoneVerificationSkip.utils-BjuaYw4i.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 463,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/phoneVerificationSkip.utils-BjuaYw4i.js"
+    },
+    {
+      "id": "08308e392b797db6",
+      "kind": "other",
+      "name": "collect",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "beacon"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "beacon"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://b.clarity.ms/collect"
+    },
+    {
+      "id": "1da54d81c6952412",
+      "kind": "script",
+      "name": "logger-1.min.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 448,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.lgrckt-in.com/logger-1.min.js"
+    },
+    {
+      "id": "310c2f72b6e9c8eb",
+      "kind": "script",
+      "name": "analytics.min.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 436,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdp.customer.io/v1/analytics-js/snippet/659a1a971dd23b9277aa/analytics.min.js"
+    },
+    {
+      "id": "8de91999912a838f",
+      "kind": "other",
+      "name": "settings",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://cdn.segment.com/v1/projects/WxrZPN25aT1HQnlm2l1s645NEAJqaAkD/settings"
+    },
+    {
+      "id": "c9bced0624a51cc4",
+      "kind": "other",
+      "name": "d83f623a4fba44588525b4352e8a812d",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://sr-client-cfg.amplitude.com/config/d83f623a4fba44588525b4352e8a812d?config_group=browser"
+    },
+    {
+      "id": "7f9a18dc1e565d87",
+      "kind": "script",
+      "name": "isAfter-De0NMixu.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 459,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/isAfter-De0NMixu.js"
+    },
+    {
+      "id": "4ca4f6c7237cd7b9",
+      "kind": "script",
+      "name": "subDays-BCR42StE.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 460,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/subDays-BCR42StE.js"
+    },
+    {
+      "id": "ace50e25ef7a7a58",
+      "kind": "script",
+      "name": "addDays-Bql1ugS8.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 461,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/addDays-Bql1ugS8.js"
+    },
+    {
+      "id": "38f9e0fd08d5a8ca",
+      "kind": "script",
+      "name": "parse-B6Gev4cC.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 466,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/parse-B6Gev4cC.js"
+    },
+    {
+      "id": "3946fa29d7e3cf21",
+      "kind": "script",
+      "name": "use-reduced-motion-DwNH5P6v.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 467,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/use-reduced-motion-DwNH5P6v.js"
+    },
+    {
+      "id": "a222e6f4961c6f7e",
+      "kind": "script",
+      "name": "reduced-motion-fN7UWzhN.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 468,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/reduced-motion-fN7UWzhN.js"
+    },
+    {
+      "id": "1326cd77d4ff1623",
+      "kind": "script",
+      "name": "11287075596",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 469,
+          "property": "src"
+        }
+      ],
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11287075596/?random=1791015851050&cv=11&fst=1791015851050&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je69u2v9105665726z89237993924za20gzb9237993924zd9237993924xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121125487&u_w=1536&u_h=864&url=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue&rcb=12&frm=0&tiba=Sign%20In%20%E2%80%93%20Tavus&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config%3Bsent_page_view%3Dfalse&ept=9&rfmt=3&fmt=4"
+    },
+    {
+      "id": "46dfdc3fee45cb53",
+      "kind": "image",
+      "name": "11287075596",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://www.googleadservices.com/ccm/conversion/11287075596/?random=1791015851068&cv=11&fst=1791015851068&fmt=3&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45je69u2v9105665726z89237993924za20gzb9237993924zd9237993924xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121125487&u_w=1536&u_h=864&url=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue&rcb=12&label=9KRLCJSc2-YbEIy2jIYq&frm=0&tiba=Sign%20In%20%E2%80%93%20Tavus&bttype=purchase&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&oid=GG_572302856.1791015851&oidsrc=3&ecsid2=603236924.1791015302&_tu=CBA&gcl_ctr=1~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1"
+    },
+    {
+      "id": "b2742880e034482c",
+      "kind": "other",
+      "name": "collect",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-SBQHZWT4FS&gtm=45je69u2v9105665726z89237993924za20gzb9237993924zd9237993924xf1&_p=1791015850351&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1206120245&_eu=EAAAACQC&cid=1022724951.1791015300&ec_mode=a&frm=0&ibt=1&ir=1&ngs=1&pscdl=noapi&rcb=12&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121125487&sid=1791015300&sct=1&seg=1&dl=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue&dt=Sign%20In%20%E2%80%93%20Tavus&en=page_view&ep.sent_page_view=false&tfd=1963"
+    },
+    {
+      "id": "7ad2f21079590e04",
+      "kind": "other",
+      "name": "11287075596",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://www.google.com/rmkt/collect/11287075596/?random=1791015851050&cv=11&fst=1791015851050&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je69u2v9105665726z89237993924za20gzb9237993924zd9237993924xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121125487&u_w=1536&u_h=864&url=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue&rcb=12&frm=0&tiba=Sign%20In%20%E2%80%93%20Tavus&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config%3Bsent_page_view%3Dfalse&ept=68&gcp=5"
+    },
+    {
+      "id": "65e474647ffa9b9d",
+      "kind": "other",
+      "name": "11287075596",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://www.googleadservices.com/pagead/conversion/11287075596/?random=1791015851068&cv=11&fst=1791015851068&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45je69u2v9105665726z89237993924za20gzb9237993924zd9237993924xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121125487&u_w=1536&u_h=864&url=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue&rcb=12&label=9KRLCJSc2-YbEIy2jIYq&frm=0&tiba=Sign%20In%20%E2%80%93%20Tavus&bttype=purchase&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&oid=GG_572302856.1791015851&oidsrc=3&ecsid2=603236924.1791015302&_tu=CBA&gcl_ctr=1~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5"
+    },
+    {
+      "id": "80ac2915688498f1",
+      "kind": "other",
+      "name": "collect",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://www.google.com/ccm/collect?rcb=12&frm=0&apvc=0&auid=734909484.1791015300&dt=Sign%20In%20%E2%80%93%20Tavus&tid=AW-11287075596&en=page_view&dl=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue&scrsrc=www.googletagmanager.com&rnd=1406240738.1791015850&navt=n&npa=0&ep.sent_page_view=false&gtm=45je69u2v9105665726z89237993924za20gzb9237993924zd9237993924xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121125487&tft=1791015851074&tfd=1989&tids=AW-11287075596&fmt=8"
+    },
+    {
+      "id": "ba91338be243c2ff",
+      "kind": "other",
+      "name": "11287075596",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11287075596/?random=1783220955&cv=11&fst=1791015851068&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45je69u2v9105665726z89237993924za20gzb9237993924zd9237993924xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121125487&u_w=1536&u_h=864&url=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue&rcb=12&label=9KRLCJSc2-YbEIy2jIYq&frm=0&tiba=Sign%20In%20%E2%80%93%20Tavus&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=603236924.1791015302&_tu=CBA&gcl_ctr=1~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkYKEAjwz4LWBhDp9OrrnpXC3iQSMgCGPEPkv23J0vRss1fTA72GDgamORDgaOo8dq451tSk6KuQphodSzZgo6k7kiCe7lZ18P8HAQ&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiL8rECCPTasQII6O6xAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIpt2xAgiw3rECCIDbsQIIzeGxAgjL4bEC&cerd=ChSDsL4tlOS-Lbnrvi3z7L4tnem3OA&eitems=ChEI8M-C1gYQ_azi9a7yvYS0ARIdAIuOvuMs2SdZN0qeVuMtxjOZ5G4uuZPgLIJ3WsA&fsk=ChAI8M-C1gYQhMqi57ODqLhNEiwApcv7rOe_dw7cBvslUiCZOzB7qj7s1q5TZhEOVHiHr5ufRTKofvoXxjXB_RoCDEI&pscrd=IhMI0ryL_rWdlwMV-X1PBB1pLDkUQldDaEVJOE0tQzFnWVF0dC1Jd2MzOXZmYlFBUklzQUdmbFJ0UFlwR3B4bTE0OHhwYWcwSFFBUWJKRlFvY3VhMGdDcVdmc0VrSVhIMmdqOWJCVm1lLW5KNE16DAgJYggIABAAGAAgAA"
+    },
+    {
+      "id": "0d174ef9b39a9580",
+      "kind": "script",
+      "name": "api.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://www.google.com/recaptcha/api.js?render=6LeRv4UqAAAAAPwEIIbjT2ZQijCBDtoJ4luKIFXg"
+    },
+    {
+      "id": "2d1e8829eaad4b8d",
+      "kind": "image",
+      "name": "logo_full2.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 722,
+          "property": "src"
+        }
+      ],
+      "url": "https://maker.tavus.io/images/logo_full2.svg"
+    },
+    {
+      "id": "e0c19d3f8b8b5fdf",
+      "kind": "image",
+      "name": "logo_full2_inverted.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 723,
+          "property": "src"
+        }
+      ],
+      "url": "https://maker.tavus.io/images/logo_full2_inverted.svg"
+    },
+    {
+      "id": "b24ee2b6ee89abc8",
+      "kind": "image",
+      "name": "icon_google.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://maker.tavus.io/images/icon_google.svg"
+    },
+    {
+      "id": "09c0c4ae6b794b32",
+      "kind": "other",
+      "name": "config_v6.json",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://cdn-global.configcat.com/configuration-files/configcat-sdk-1/wsXeCBVH8kGAGIZl4X6ETQ/OUug2243i0i10-dMbxVZzQ/config_v6.json?sdk=ConfigCat-UnifiedJS-Browser%2Fa-1.1.0"
+    },
+    {
+      "id": "ae9c486b112f034f",
+      "kind": "image",
+      "name": "amazon.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://maker.tavus.io/images/logos/amazon.svg"
+    },
+    {
+      "id": "1847acf3147f339c",
+      "kind": "image",
+      "name": "deloitte.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://maker.tavus.io/images/logos/deloitte.svg"
+    },
+    {
+      "id": "c283ffb74e1b174d",
+      "kind": "image",
+      "name": "better.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://maker.tavus.io/images/logos/better.svg"
+    },
+    {
+      "id": "0988f33b918a7589",
+      "kind": "image",
+      "name": "orum.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://maker.tavus.io/images/logos/orum.svg"
+    },
+    {
+      "id": "42c6f9d7551939ef",
+      "kind": "font",
+      "name": "PerfectlyNineties-Regular.woff",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://maker.tavus.io/fonts/PerfectlyNineties-Regular.woff"
+    },
+    {
+      "id": "7ea5b9fabd967acc",
+      "kind": "font",
+      "name": "SuisseIntl-Medium.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://maker.tavus.io/fonts/SuisseIntl-Medium.woff2"
+    },
+    {
+      "id": "24532b6af3cfcf27",
+      "kind": "font",
+      "name": "BerkeleyMono-Regular.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://maker.tavus.io/fonts/BerkeleyMono-Regular.woff2"
+    },
+    {
+      "id": "2824640fecd16ba9",
+      "kind": "font",
+      "name": "BerkeleyMono-Medium.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://maker.tavus.io/fonts/BerkeleyMono-Medium.woff2"
+    },
+    {
+      "id": "ada027eaead80820",
+      "kind": "font",
+      "name": "SuisseIntl-Regular.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://maker.tavus.io/fonts/SuisseIntl-Regular.woff2"
+    },
+    {
+      "id": "14bbe67a4ab21d41",
+      "kind": "other",
+      "name": "i",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://r.lgrckt-in.com/i?a=gxwna3%2Ftavus&r=6-01a100dd-150f-79ad-a596-1002b28f3efa&t=740d5f7f-8c55-4d12-9169-b44b98506134&s=0&ro=t&st=web&rs=0%2Cu"
+    },
+    {
+      "id": "4532b66c13467ed1",
+      "kind": "image",
+      "name": "11287075596",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://www.google.com/pagead/1p-user-list/11287075596/?random=1791015851050&cv=11&fst=1791014400000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je69u2v9105665726z89237993924za20gzb9237993924zd9237993924xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121125487&u_w=1536&u_h=864&url=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue&rcb=12&frm=0&tiba=Sign%20In%20%E2%80%93%20Tavus&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config%3Bsent_page_view%3Dfalse&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3Jg0_8N6Ifl6Web4RlVN3-bzLhyDBppDdzSblb0f0ykpvBXJ9SsM2_-FojmkRligyz-USNzEi-OfjxZ_0z3CbfOhmdA2045NsouxsnaKs0G4KwF9_pvJx1pifKj0QPfF70fgUYpZg4DWRPRHGj8DPNdOfl4ovRd8NNJppACRXDks0jpMu-yjIWhSuRgzUTGMjO1zUAblIDQUfuXaIuAjgmSc2jlfJ-BH0Ba-Ixvl1cR-pN_ASxYAswsTVrZzrB1kb2fIQIilCT2_Uy3WNFylqw8miralULnWzvM4b0TR&random=1514182833&rmt_tld=0&ipr=y"
+    },
+    {
+      "id": "fd9a416f20df8476",
+      "kind": "image",
+      "name": "11287075596",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://www.google.com.eg/pagead/1p-user-list/11287075596/?random=1791015851050&cv=11&fst=1791014400000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je69u2v9105665726z89237993924za20gzb9237993924zd9237993924xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121125487&u_w=1536&u_h=864&url=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue&rcb=12&frm=0&tiba=Sign%20In%20%E2%80%93%20Tavus&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config%3Bsent_page_view%3Dfalse&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3Jg0_8N6Ifl6Web4RlVN3-bzLhyDBppDdzSblb0f0ykpvBXJ9SsM2_-FojmkRligyz-USNzEi-OfjxZ_0z3CbfOhmdA2045NsouxsnaKs0G4KwF9_pvJx1pifKj0QPfF70fgUYpZg4DWRPRHGj8DPNdOfl4ovRd8NNJppACRXDks0jpMu-yjIWhSuRgzUTGMjO1zUAblIDQUfuXaIuAjgmSc2jlfJ-BH0Ba-Ixvl1cR-pN_ASxYAswsTVrZzrB1kb2fIQIilCT2_Uy3WNFylqw8miralULnWzvM4b0TR&random=1514182833&rmt_tld=1&ipr=y"
+    },
+    {
+      "id": "86899c65435f2050",
+      "kind": "other",
+      "name": "settings",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://cdp.customer.io/v1/projects/659a1a971dd23b9277aa/settings"
+    },
+    {
+      "id": "99795261faaa5ab5",
+      "kind": "script",
+      "name": "recaptcha__en.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 435,
+          "property": "src"
+        }
+      ],
+      "url": "https://www.gstatic.com/recaptcha/releases/guXhH0v-XMxlzmbTwqkaT4i5/recaptcha__en.js"
+    },
+    {
+      "id": "3ac621c5e82a8f3b",
+      "kind": "script",
+      "name": "ajs-destination.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdp.customer.io/v1/analytics-js/ajs-destination.js"
+    },
+    {
+      "id": "72948968d7bafee6",
+      "kind": "script",
+      "name": "573.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdp.customer.io/v1/analytics-js/573.js"
+    },
+    {
+      "id": "ed3918ca0fa32e65",
+      "kind": "script",
+      "name": "inAppPlugin.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdp.customer.io/v1/analytics-js/inAppPlugin.js"
+    },
+    {
+      "id": "7c1db5e164990ab7",
+      "kind": "other",
+      "name": "anchor",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "iframe"
+        }
+      ],
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LeRv4UqAAAAAPwEIIbjT2ZQijCBDtoJ4luKIFXg&co=aHR0cHM6Ly9tYWtlci50YXZ1cy5pbzo0NDM.&hl=en&v=guXhH0v-XMxlzmbTwqkaT4i5&size=invisible&anchor-ms=80000&execute-ms=30000&cb=3r5d5bs3rkxo"
+    },
+    {
+      "id": "5b8d5b53b4c6a646",
+      "kind": "other",
+      "name": "p",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://cdp.customer.io/v1/p"
+    },
+    {
+      "id": "4a9076a83c8aef9b",
+      "kind": "other",
+      "name": "httpapi",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://api2.amplitude.com/2/httpapi"
+    },
+    {
+      "id": "08c76b4168893b25",
+      "kind": "script",
+      "name": "forgot-password-CCS8jm2S.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 473,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/forgot-password-CCS8jm2S.js"
+    },
+    {
+      "id": "9400cafb2d820260",
+      "kind": "other",
+      "name": "rp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://alb.reddit.com/rp?id=a2_jchjd55exftz&event=gtm.load"
+    },
+    {
+      "id": "54c2bc135d7c7f4b",
+      "kind": "image",
+      "name": "favicon.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 429,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/favicon.svg"
+    },
+    {
+      "id": "4af37a19b9115883",
+      "kind": "image",
+      "name": "favicon.ico",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 428,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/favicon.ico"
+    },
+    {
+      "id": "167e758798b372fe",
+      "kind": "script",
+      "name": "api.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 474,
+          "property": "src"
+        }
+      ],
+      "url": "https://apis.google.com/js/api.js?onload=__iframefcb800066"
+    },
+    {
+      "id": "ad213797a3fbe1ff",
+      "kind": "image",
+      "name": "bcg_auth_page3.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://maker.tavus.io/images/bcg_auth_page3.png"
+    },
+    {
+      "id": "5384b6bda54ee3c4",
+      "kind": "script",
+      "name": "cb=gapi.loaded_0",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 434,
+          "property": "src"
+        }
+      ],
+      "url": "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.gh7qIZtzO5w.O/m=gapi_iframes/rt=j/sv=1/d=1/ed=1/rs=AHpOoo84YKT1RVy0T6hcXi5rH3LooB1WCw/cb=gapi.loaded_0?le=scs"
+    },
+    {
+      "id": "36972873da5e7c00",
+      "kind": "other",
+      "name": "iframe#id=I0_1791015854049&_gfid=I0_1791015854049&parent=https%3A%2F%2Fmaker.tavus.io&pfname=&rpctoken=45178270",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "iframe"
+        }
+      ],
+      "url": "https://tavus-e088f.firebaseapp.com/__/auth/iframe?apiKey=AIzaSyCg5NckMelJEc8tNdMvTiyyBmyCxM3ivoI&appName=%5BDEFAULT%5D&v=12.6.0&eid=p&usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.gh7qIZtzO5w.O%2Fd%3D1%2Frs%3DAHpOoo84YKT1RVy0T6hcXi5rH3LooB1WCw%2Fm%3D__features__#id=I0_1791015854049&_gfid=I0_1791015854049&parent=https%3A%2F%2Fmaker.tavus.io&pfname=&rpctoken=45178270"
+    },
+    {
+      "id": "6c457ca4fe3e3dfe",
+      "kind": "other",
+      "name": "projects",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://identitytoolkit.googleapis.com/v1/projects?key=AIzaSyCg5NckMelJEc8tNdMvTiyyBmyCxM3ivoI"
+    },
+    {
+      "id": "ca366de1f9710a7c",
+      "kind": "other",
+      "name": "i",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://r.lgrckt-in.com/i?a=gxwna3%2Ftavus&r=6-01a100dd-150f-79ad-a596-1002b28f3efa&t=740d5f7f-8c55-4d12-9169-b44b98506134&s=0&hr=t&u=0418c3ca-5c75-4356-a58e-81d482a38927&is=ANONYMOUS&rs=0%2Ct"
+    },
+    {
+      "id": "84e809b3d73fc894",
+      "kind": "other",
+      "name": "accounts:signInWithIdp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://identitytoolkit.googleapis.com/v1/accounts:signInWithIdp?key=AIzaSyCg5NckMelJEc8tNdMvTiyyBmyCxM3ivoI"
+    },
+    {
+      "id": "535c2dda17292af8",
+      "kind": "other",
+      "name": "accounts:lookup",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://identitytoolkit.googleapis.com/v1/accounts:lookup?key=AIzaSyCg5NckMelJEc8tNdMvTiyyBmyCxM3ivoI"
+    },
+    {
+      "id": "7b1787a98fd03da3",
+      "kind": "other",
+      "name": "me",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://prod-api.tavus.io/api/v3/users/me"
+    },
+    {
+      "id": "7501d77db061350b",
+      "kind": "other",
+      "name": "lookup",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://prod-api.tavus.io/api/v3/sso/lookup"
+    },
+    {
+      "id": "2bf82a79ae87392f",
+      "kind": "other",
+      "name": "signup",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://prod-api.tavus.io/api/v3/users/signup"
+    },
+    {
+      "id": "e72db55a6cc73242",
+      "kind": "other",
+      "name": "events",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://tavusapi.com/v2/browser-telemetry/events"
+    },
+    {
+      "id": "78cba1ede85997bb",
+      "kind": "image",
+      "name": "collect",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=7341604&time=1791015872236&li_adsId=869bc956-ebde-4c72-9185-5eb7a1ebafb0&pageLoadId=bb7bec26-a4ff-429f-951e-edf18ae5f0ca&conversionId=30720922&url=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue&tm=gtmv2"
+    },
+    {
+      "id": "e1dde8fc5c3b587e",
+      "kind": "image",
+      "name": "11287075596",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://www.googleadservices.com/ccm/conversion/11287075596/?random=1791015872237&cv=11&fst=1791015872237&fmt=3&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45je69u2v9105665726z89237993924za20gzb9237993924zd9237993924xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121125487&u_w=1536&u_h=864&url=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue&rcb=12&label=FH-mCIrg6vobEIy2jIYq&frm=0&tiba=Sign%20In%20%E2%80%93%20Tavus&bttype=purchase&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&oid=GG_1608603877.1791015872&oidsrc=3&ecsid2=603236924.1791015302&_tu=CBA&gcl_ctr=2~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1"
+    },
+    {
+      "id": "6003a77e896134aa",
+      "kind": "other",
+      "name": "rp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://alb.reddit.com/rp?id=a2_jchjd55exftz&event=signup"
+    },
+    {
+      "id": "5d710688cc72138c",
+      "kind": "other",
+      "name": "11287075596",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://www.googleadservices.com/pagead/conversion/11287075596/?random=1791015872237&cv=11&fst=1791015872237&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45je69u2v9105665726z89237993924za20gzb9237993924zd9237993924xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121125487&u_w=1536&u_h=864&url=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue&rcb=12&label=FH-mCIrg6vobEIy2jIYq&frm=0&tiba=Sign%20In%20%E2%80%93%20Tavus&bttype=purchase&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&oid=GG_1608603877.1791015872&oidsrc=3&ecsid2=603236924.1791015302&_tu=CBA&gcl_ctr=2~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5"
+    },
+    {
+      "id": "c63dda5ea05c8ab0",
+      "kind": "other",
+      "name": "events",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://fh-118116076e9a4c2a96a99fbb70bea2a0.ecs.us-west-2.on.aws/events?cee=no"
+    },
+    {
+      "id": "dead3d9970201f55",
+      "kind": "other",
+      "name": "rp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://alb.reddit.com/rp?id=a2_jchjd55exftz&event=SignUp"
+    },
+    {
+      "id": "f930e45992d269bf",
+      "kind": "other",
+      "name": "t",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://api.segment.io/v1/t"
+    },
+    {
+      "id": "203634996bf6f4e8",
+      "kind": "other",
+      "name": "11287075596",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11287075596/?random=1526134719&cv=11&fst=1791015872237&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45je69u2v9105665726z89237993924za20gzb9237993924zd9237993924xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121125487&u_w=1536&u_h=864&url=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue&rcb=12&label=FH-mCIrg6vobEIy2jIYq&frm=0&tiba=Sign%20In%20%E2%80%93%20Tavus&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=603236924.1791015302&_tu=CBA&gcl_ctr=2~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkcKEAjwz4LWBhDp9OrrnpXC3iQSMwCGPEPkgM-QjJ9VGySDUnXVvfAZ8oXN5oNH--O4pYfalFKZBd5tO22-keKEwF-9eqxay_D_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgj02rECCOjusQIIkuuxAgjJ47ECCJfUsQIIyduxAgjN5rECCI_nsQIIpt2xAgiw3rECCIDbsQIIzeGxAg&cerd=ChCV5L4tueu-LfXsvi2d6bc4&eitems=ChEI8M-C1gYQ_azi9a7yvYS0ARIdAIuOvuMcSEPlNfeupUrQ2s33pDYWitkva09Gxxw&fsk=ChAI8M-C1gYQhMqi57ODqLhNEiwApcv7rJjTrRvJM8djO-w3bLUt_ZTV7lfkk8751TfZ2OPCoBwQWNEs7paOrxoCvcQ&pscrd=IhMItZKZiLadlwMVcb2xAx2EfhrQQldDaEVJOE0tQzFnWVF0dC1Jd2MzOXZmYlFBUklzQUdmbFJ0UGhMSHBERW1XZzhncFVqdGdZZWR4dFpyUkt1VnBRZmNBd3BNZ2RfX3JEakpmMHoyU2hwM2d6DAgJYggIABAAGAAgAA"
+    },
+    {
+      "id": "e8a380e3764c4bd1",
+      "kind": "other",
+      "name": "update-metadata",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://prod-api.tavus.io/api/v3/users/update-metadata"
+    },
+    {
+      "id": "01b6b508d1e77164",
+      "kind": "other",
+      "name": "users",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://consumer.cloud.gist.build/api/v4/users?sessionId=6ba79252-4002-417f-8a7b-ced290c4d621"
+    },
+    {
+      "id": "6ff89a05dac0331f",
+      "kind": "image",
+      "name": "tr",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://www.facebook.com/tr/?id=1008078485164063&ev=PageView&dl=https%3A%2F%2Fmaker.tavus.io%2Fdev&rl=&if=false&ts=1791015873232&iw=false&sw=1536&sh=864&v=2.9.414&r=stable&ec=1&o=4126&aems=0%3B0&fbp=fb.1.1791015303037.890764612866262661&eid=ob3_plugin-set_2bae9aeb68926b2363fb74aad857b2d6f832686b8a29d4f2dc837b30105718af&cs_est=true&ler=empty&cdl=API_unavailable&pmd[title]=Sign%20In%20%E2%80%93%20Tavus&pmd[locale]=en&pmd[description]=Build%20AI%20humans%20that%20see%2C%20hear%2C%20and%20talk%20face%20to%20face%20in%20real%20time.%20Deploy%20custom%20video%20agents%2C%20digital%20twins%2C%20and%20AI%20companions%20in%2030%2B%20languages%20with%20simple%20APIs.&plt=1306&iss=1&ss=%7B%22page_description%22%3A%5B%7B%22rid%22%3A%222184859378760054%22%2C%22v%22%3A%5B%22Build%20AI%20humans%20that%20see%2C%20hear%2C%20and%20talk%20face%20to%20face%20in%20real%20time.%20Deploy%20custom%20video%20agents%2C%20digital%20twins%2C%20and%20AI%20companions%20in%2030%2B%20languages%20with%20simple%20APIs.%22%5D%7D%5D%2C%22entity_name%22%3A%5B%7B%22rid%22%3A%224635138673470167%22%2C%22v%22%3A%5B%22Tavus%3A%20The%20human%20computing%20company%22%5D%7D%5D%7D&imft=1&tz=180&it=1791015873227&coo=false&cf=1&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im1&expv2[6]=hf0&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah1&rqm=GET"
+    },
+    {
+      "id": "21f7176d9ef0b357",
+      "kind": "script",
+      "name": "_portal-BEP1yklc.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 475,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/_portal-BEP1yklc.js"
+    },
+    {
+      "id": "e49442abefeae19c",
+      "kind": "script",
+      "name": "dist-CTs13sId.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 477,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/dist-CTs13sId.js"
+    },
+    {
+      "id": "8c0f24c235c44df2",
+      "kind": "script",
+      "name": "tabs-5bQHBsDH.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 476,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/tabs-5bQHBsDH.js"
+    },
+    {
+      "id": "c1b0246288d6ec35",
+      "kind": "script",
+      "name": "dist-DTCMtnhR.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 478,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/dist-DTCMtnhR.js"
+    },
+    {
+      "id": "1af0b01579195b40",
+      "kind": "script",
+      "name": "GriffinBanner-DsSKR1jM.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 479,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/GriffinBanner-DsSKR1jM.js"
+    },
+    {
+      "id": "57967315dd0260d7",
+      "kind": "script",
+      "name": "DisabledWithReason-C4fEnBqB.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 480,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/DisabledWithReason-C4fEnBqB.js"
+    },
+    {
+      "id": "aa9269b44f5e66e0",
+      "kind": "script",
+      "name": "useTeam-S2h89hX3.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 481,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/useTeam-S2h89hX3.js"
+    },
+    {
+      "id": "358c8b5b92666a21",
+      "kind": "script",
+      "name": "usePermissions-CWgzLnxe.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 482,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/usePermissions-CWgzLnxe.js"
+    },
+    {
+      "id": "d2d44364dbb59bf8",
+      "kind": "script",
+      "name": "useDomainJoinOffer-Bzs1EJIu.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 483,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/useDomainJoinOffer-Bzs1EJIu.js"
+    },
+    {
+      "id": "0911a7a05eb22942",
+      "kind": "script",
+      "name": "hooks-CoLlQ0Gh.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 484,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/hooks-CoLlQ0Gh.js"
+    },
+    {
+      "id": "e7d88b5f32666e8d",
+      "kind": "script",
+      "name": "constants-87YSDClf.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 485,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/constants-87YSDClf.js"
+    },
+    {
+      "id": "d60e1d28def314b2",
+      "kind": "script",
+      "name": "handoff-CVnngMkp.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 486,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/handoff-CVnngMkp.js"
+    },
+    {
+      "id": "6c76e88ba21756ec",
+      "kind": "script",
+      "name": "useBuilderOriginStore-EW2loW5I.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 487,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/useBuilderOriginStore-EW2loW5I.js"
+    },
+    {
+      "id": "7b49ae3dfd2949de",
+      "kind": "script",
+      "name": "home-Z6PwR7Sh.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 488,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/home-Z6PwR7Sh.js"
+    },
+    {
+      "id": "d4502ba0db582302",
+      "kind": "script",
+      "name": "PalCard-VK6Ar4Wa.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 489,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/PalCard-VK6Ar4Wa.js"
+    },
+    {
+      "id": "a0ce250fe6cd0aa7",
+      "kind": "script",
+      "name": "format-X8Tkz5bq.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 490,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/format-X8Tkz5bq.js"
+    },
+    {
+      "id": "df8f45c0f8e982f5",
+      "kind": "script",
+      "name": "compareAsc-YnSMfnch.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 491,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/compareAsc-YnSMfnch.js"
+    },
+    {
+      "id": "718499772b553cfb",
+      "kind": "script",
+      "name": "components-0fEChG1r.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 492,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/components-0fEChG1r.js"
+    },
+    {
+      "id": "9570f5066ad38fb6",
+      "kind": "script",
+      "name": "formatDistanceToNow-DB8l8fsc.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 493,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/formatDistanceToNow-DB8l8fsc.js"
+    },
+    {
+      "id": "14e164fbfba4ac96",
+      "kind": "script",
+      "name": "isBefore-BvS4bXlu.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 494,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/isBefore-BvS4bXlu.js"
+    },
+    {
+      "id": "017e991a8cea1c28",
+      "kind": "script",
+      "name": "util-B_HXN7YH.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 495,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/util-B_HXN7YH.js"
+    },
+    {
+      "id": "eeaaf9ecc6f3425e",
+      "kind": "script",
+      "name": "calendar-BxEOZLHj.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 496,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/calendar-BxEOZLHj.js"
+    },
+    {
+      "id": "0d4bc31fdd812723",
+      "kind": "script",
+      "name": "select-DEwvs-KC.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 498,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/select-DEwvs-KC.js"
+    },
+    {
+      "id": "9135cf8e94e96957",
+      "kind": "script",
+      "name": "card-DKHtsCWs.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 499,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/card-DKHtsCWs.js"
+    },
+    {
+      "id": "0bf20d4a2e89957c",
+      "kind": "script",
+      "name": "CartesianChart-Evs5BJKN.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 500,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/CartesianChart-Evs5BJKN.js"
+    },
+    {
+      "id": "ff40e3e35c4811b3",
+      "kind": "script",
+      "name": "value-D4kSJVF7.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 501,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/value-D4kSJVF7.js"
+    },
+    {
+      "id": "097706d2a12b2cf6",
+      "kind": "script",
+      "name": "AreaChart-Dci8_W8E.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 502,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/AreaChart-Dci8_W8E.js"
+    },
+    {
+      "id": "31e51633dc36e279",
+      "kind": "script",
+      "name": "pixelarticons-custom-BSVBh7T0.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 503,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/pixelarticons-custom-BSVBh7T0.js"
+    },
+    {
+      "id": "9398086a4010d102",
+      "kind": "script",
+      "name": "badge-C97nrSQn.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 505,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/badge-C97nrSQn.js"
+    },
+    {
+      "id": "837db3b0961b7a44",
+      "kind": "script",
+      "name": "TavusElement-nYjfJ9go.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 504,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/TavusElement-nYjfJ9go.js"
+    },
+    {
+      "id": "c6f8ee2bfa6a9a74",
+      "kind": "script",
+      "name": "table-DqCgSzl8.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 506,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/table-DqCgSzl8.js"
+    },
+    {
+      "id": "99e78493bae1985b",
+      "kind": "script",
+      "name": "useUploadFile-Bm67ZeGm.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 507,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/useUploadFile-Bm67ZeGm.js"
+    },
+    {
+      "id": "b8f1aa95f0415043",
+      "kind": "script",
+      "name": "Pagination-DQOHs9SY.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 508,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/Pagination-DQOHs9SY.js"
+    },
+    {
+      "id": "da6988fd8af0dea2",
+      "kind": "script",
+      "name": "switch-BshNwpK8.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 509,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/switch-BshNwpK8.js"
+    },
+    {
+      "id": "817c56abd3abc891",
+      "kind": "script",
+      "name": "CopyRequestID-DfGMZxdY.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 510,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/CopyRequestID-DfGMZxdY.js"
+    },
+    {
+      "id": "dacdbf8d823cfcda",
+      "kind": "script",
+      "name": "StatusBadge-DtNQq5rd.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 511,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/StatusBadge-DtNQq5rd.js"
+    },
+    {
+      "id": "1a630717485801ee",
+      "kind": "script",
+      "name": "fast-deep-equal-CGRoz7JE.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 512,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/fast-deep-equal-CGRoz7JE.js"
+    },
+    {
+      "id": "06ff85831bd766df",
+      "kind": "script",
+      "name": "ReadDocsButton-BSE4Zvoq.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 513,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/ReadDocsButton-BSE4Zvoq.js"
+    },
+    {
+      "id": "12cfd32100286894",
+      "kind": "script",
+      "name": "PersonaSelect-ChGAZ65y.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 514,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/PersonaSelect-ChGAZ65y.js"
+    },
+    {
+      "id": "3657f14d2ab6f620",
+      "kind": "script",
+      "name": "LocalErrorBoundary-C_luaG37.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 515,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/LocalErrorBoundary-C_luaG37.js"
+    },
+    {
+      "id": "88fbf9beb949c9b2",
+      "kind": "script",
+      "name": "ScriptTextArea-BlMQFxgD.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 516,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/ScriptTextArea-BlMQFxgD.js"
+    },
+    {
+      "id": "6c0e822ae3ec8cc9",
+      "kind": "script",
+      "name": "LivenessBadge-67WRWjgq.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 517,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/LivenessBadge-67WRWjgq.js"
+    },
+    {
+      "id": "7a8b291ee21ba972",
+      "kind": "script",
+      "name": "hooks-BTzwq6kc.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 518,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/hooks-BTzwq6kc.js"
+    },
+    {
+      "id": "af48f95d60514552",
+      "kind": "script",
+      "name": "dist-7OD9rZQJ.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 519,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/dist-7OD9rZQJ.js"
+    },
+    {
+      "id": "9e0990cb93cb48d2",
+      "kind": "script",
+      "name": "EmailClaim-BFKjkXMi.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 520,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/EmailClaim-BFKjkXMi.js"
+    },
+    {
+      "id": "06323dddb341e936",
+      "kind": "script",
+      "name": "useSearch-DJtWzO1Y.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 521,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/useSearch-DJtWzO1Y.js"
+    },
+    {
+      "id": "c405e1acbf0a58f6",
+      "kind": "script",
+      "name": "alert--jX2f5qo.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 522,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/alert--jX2f5qo.js"
+    },
+    {
+      "id": "cdaa69c7e4323413",
+      "kind": "script",
+      "name": "showcase.constants-u65xx9c3.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 523,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/showcase.constants-u65xx9c3.js"
+    },
+    {
+      "id": "37f262834f6aba33",
+      "kind": "script",
+      "name": "hooks-B5mTANFj.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 524,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/hooks-B5mTANFj.js"
+    },
+    {
+      "id": "4de2bd5202ca5520",
+      "kind": "script",
+      "name": "StarterKitTemplateCard-BfJOCU19.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 525,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/StarterKitTemplateCard-BfJOCU19.js"
+    },
+    {
+      "id": "c982daf7e70fda74",
+      "kind": "script",
+      "name": "RoleRotator-BknQVTmK.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 526,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/RoleRotator-BknQVTmK.js"
+    },
+    {
+      "id": "e7afb4fa422606b4",
+      "kind": "script",
+      "name": "requestAvPermissions-DczSmLys.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 527,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/requestAvPermissions-DczSmLys.js"
+    },
+    {
+      "id": "98fd71a8d305d1b4",
+      "kind": "image",
+      "name": "tr",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://www.facebook.com/tr/?id=1008078485164063&ev=PageView&dl=https%3A%2F%2Fmaker.tavus.io%2Fdev%2Fhome&rl=&if=false&ts=1791015873241&iw=false&sw=1536&sh=864&v=2.9.414&r=stable&ec=2&o=4126&aems=0%3B0&fbp=fb.1.1791015303037.890764612866262661&eid=ob3_plugin-set_2fb30e1543eaf3d9c0c80221fbd785802fda332eb747a539e5b43d268c638942&cs_est=true&ler=empty&cdl=API_unavailable&pmd[title]=Sign%20In%20%E2%80%93%20Tavus&pmd[locale]=en&pmd[description]=Build%20AI%20humans%20that%20see%2C%20hear%2C%20and%20talk%20face%20to%20face%20in%20real%20time.%20Deploy%20custom%20video%20agents%2C%20digital%20twins%2C%20and%20AI%20companions%20in%2030%2B%20languages%20with%20simple%20APIs.&plt=1306&iss=1&ss=%7B%22page_description%22%3A%5B%7B%22rid%22%3A%222184859378760054%22%2C%22v%22%3A%5B%22Build%20AI%20humans%20that%20see%2C%20hear%2C%20and%20talk%20face%20to%20face%20in%20real%20time.%20Deploy%20custom%20video%20agents%2C%20digital%20twins%2C%20and%20AI%20companions%20in%2030%2B%20languages%20with%20simple%20APIs.%22%5D%7D%5D%2C%22entity_name%22%3A%5B%7B%22rid%22%3A%224635138673470167%22%2C%22v%22%3A%5B%22Tavus%3A%20The%20human%20computing%20company%22%5D%7D%5D%7D&imft=1&tz=180&it=1791015873237&coo=false&cf=1&expv2[0]=pl0&expv2[1]=el2&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im1&expv2[6]=hf0&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah1&rqm=GET"
+    },
+    {
+      "id": "c50788c0e7e0919e",
+      "kind": "other",
+      "name": "i",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://api.segment.io/v1/i"
+    },
+    {
+      "id": "c1513d9739cfb8d2",
+      "kind": "other",
+      "name": "g",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://api.segment.io/v1/g"
+    },
+    {
+      "id": "3cd8ce7647fe3a66",
+      "kind": "other",
+      "name": "i",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://cdp.customer.io/v1/i"
+    },
+    {
+      "id": "0bf7b98f8c775e6b",
+      "kind": "script",
+      "name": "onboarding-C5Uu8BRv.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 528,
+          "property": "href"
+        }
+      ],
+      "url": "https://maker.tavus.io/assets/onboarding-C5Uu8BRv.js"
+    },
+    {
+      "id": "742f09b542df82b6",
+      "kind": "image",
+      "name": "tr",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://www.facebook.com/tr/?id=1008078485164063&ev=PageView&dl=https%3A%2F%2Fmaker.tavus.io%2Fonboarding&rl=&if=false&ts=1791015873693&iw=false&sw=1536&sh=864&v=2.9.414&r=stable&ec=3&o=4126&aems=0%3B0&fbp=fb.1.1791015303037.890764612866262661&eid=ob3_plugin-set_dc2017449a7b3d039e4fc36638ff670ddef043b284a291352b9d8a06053bc496&cs_est=true&ler=empty&cdl=API_unavailable&pmd[title]=Home%20%E2%80%93%20Tavus&pmd[locale]=en&pmd[description]=Build%20AI%20humans%20that%20see%2C%20hear%2C%20and%20talk%20face%20to%20face%20in%20real%20time.%20Deploy%20custom%20video%20agents%2C%20digital%20twins%2C%20and%20AI%20companions%20in%2030%2B%20languages%20with%20simple%20APIs.&plt=1306&iss=1&ss=%7B%22page_description%22%3A%5B%7B%22rid%22%3A%222184859378760054%22%2C%22v%22%3A%5B%22Build%20AI%20humans%20that%20see%2C%20hear%2C%20and%20talk%20face%20to%20face%20in%20real%20time.%20Deploy%20custom%20video%20agents%2C%20digital%20twins%2C%20and%20AI%20companions%20in%2030%2B%20languages%20with%20simple%20APIs.%22%5D%7D%5D%2C%22entity_name%22%3A%5B%7B%22rid%22%3A%224635138673470167%22%2C%22v%22%3A%5B%22Tavus%3A%20The%20human%20computing%20company%22%5D%7D%5D%7D&imft=1&tz=180&it=1791015873689&coo=false&cf=1&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im1&expv2[6]=hf0&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah1&rqm=GET"
+    },
+    {
+      "id": "721c13a6f6fe051f",
+      "kind": "other",
+      "name": "default",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://prod-api.tavus.io/api/v2/billing/coupons/default"
+    },
+    {
+      "id": "847601ddaad3d02d",
+      "kind": "other",
+      "name": "rp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://alb.reddit.com/rp?id=a2_jchjd55exftz&event=PageVisit"
+    },
+    {
+      "id": "59836a11bd790afd",
+      "kind": "other",
+      "name": "p",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://api.segment.io/v1/p"
+    },
+    {
+      "id": "f99d0fcc37aa8f25",
+      "kind": "other",
+      "name": "tr",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://www.facebook.com/tr/"
+    }
+  ],
+  "id": "6d152fac-d12e-497e-b133-14350ce0090b",
+  "inlineSvgs": [
+    {
+      "id": "aaae035f406602bb",
+      "markup": "<svg class=\"aspect-4/3 w-auto shrink-0 text-terminal-black transition-all duration-200 ml-0.5 h-7 group-hover:h-4.5 lg:h-4.5\" width=\"30.23008849557522\" height=\"28\" viewBox=\"0 0 488 452\" role=\"img\" aria-hidden=\"true\" focusable=\"false\" style=\"display: block;\"><defs><mask id=\"_r_2_-m0\" maskUnits=\"userSpaceOnUse\" x=\"-122\" y=\"-113\" width=\"732\" height=\"678\"><rect x=\"-122\" y=\"-113\" width=\"732\" height=\"678\" fill=\"#fff\"></rect><path data-hole=\"0\" fill=\"#000\" d=\"M189.038 24L274 270.5L222 285L237 326L204.766 346L227 360L209 392L216.2 428L24 428L24 24Z\"></path><path data-hole=\"0\" fill=\"#000\" d=\"M352 152H352A28 28 0 0 1 380 180V180A28 28 0 0 1 352 208H352A28 28 0 0 1 324 180V180A28 28 0 0 1 352 152Z\"></path></mask><mask id=\"_r_2_-m1\" maskUnits=\"userSpaceOnUse\" x=\"-122\" y=\"-113\" width=\"732\" height=\"678\"><rect x=\"-122\" y=\"-113\" width=\"732\" height=\"678\" fill=\"#fff\"></rect><path data-hole=\"1\" fill=\"#000\" d=\"\"></path><path data-hole=\"1\" fill=\"#000\" d=\"\"></path></mask><mask id=\"_r_2_-m2\" maskUnits=\"userSpaceOnUse\" x=\"-122\" y=\"-113\" width=\"732\" height=\"678\"><rect x=\"-122\" y=\"-113\" width=\"732\" height=\"678\" fill=\"#fff\"></rect><path data-hole=\"2\" fill=\"#000\" d=\"\"></path><path data-hole=\"2\" fill=\"#000\" d=\"\"></path></mask><mask id=\"_r_2_-m3\" maskUnits=\"userSpaceOnUse\" x=\"-122\" y=\"-113\" width=\"732\" height=\"678\"><rect x=\"-122\" y=\"-113\" width=\"732\" height=\"678\" fill=\"#fff\"></rect><path data-hole=\"3\" fill=\"#000\" d=\"\"></path><path data-hole=\"3\" fill=\"#000\" d=\"\"></path></mask></defs><path data-slot=\"0\" d=\"M394.766 0L488 270.5L436 285L451 326L418.766 346L441 360L423 392L435 452L0 452L0 0Z\" fill=\"currentColor\" mask=\"url(#_r_2_-m0)\"></path><path data-slot=\"1\" d=\"M104 152H160V208H104Z\" fill=\"currentColor\"></path><path data-slot=\"2\" d=\"\"></path><path data-slot=\"3\" d=\"\"></path></svg>",
+      "name": "svg-1"
+    },
+    {
+      "id": "a022fc6f7ff75bd6",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"149\" height=\"32\" viewBox=\"0 0 1911 489\" class=\"h-4.5 w-auto opacity-0 transition-all duration-200 group-hover:-translate-x-1.5 group-hover:opacity-100 lg:-translate-x-1.5 lg:opacity-100\"><path class=\"fill-[#140206] dark:fill-[#ffffff]\" fill-rule=\"nonzero\" d=\"M887.44 283.087 967.38 18h302.5v266.229c0 31.875 18.49 55.118 48.87 55.118 30.39 0 48.88-23.243 48.88-55.118V18h155.88v275.526c0 119.531-83.89 194.57-204.76 194.57-120.87 0-204.75-75.039-204.75-194.57V72.772L974.65 470h-176.4L641.66 18h179.05l66.73 265.087ZM1679.48 3.488c26.5-4.255 53.12-4.471 79.71-1.443 27.85 3.168 54.48 10.684 78.63 26.057 46.19 29.407 64.2 79.955 69.03 132.149h-140.39c-1.71-33.559-15.16-60.398-53.92-54.643-10.47 1.553-19.69 5.591-26.55 14.365-8.6 10.979-9.2 31.695-.03 41.851 4.08 4.519 9.86 8.355 15.57 10.156 13.7 4.349 27.73 7.734 41.79 10.731 33.74 7.221 67.19 15.373 98.6 30.452 22.42 10.762 40.71 26.819 53.57 48.809 8.34 14.255 12.47 30.173 14.24 46.633 2.3 21.338 1.5 42.597-2.63 63.686-5.07 25.903-16.16 48.59-34.25 67.334-14.07 14.582-30.97 24.8-49.52 32.161-32.42 12.858-66.29 16.29-100.62 16.213-28.99-.063-57.7-2.967-85.62-11.71-64.14-20.076-101.09-78.016-101.09-145.431l133.25-.015c1.73 22.217 11.46 43.784 36.41 49.958 15.3 3.773 30.62 3.976 45.29-2.469 12.89-5.668 19.2-17.222 18.32-31.648-1.12-18.123-8.03-27.053-26.94-32.411-12.87-3.633-26.08-6.072-39.19-8.711-30.6-6.181-61-13.122-89.5-26.71-22.38-10.684-41.16-26.089-54.32-47.939-8.95-14.846-13.44-31.384-15.02-48.73-2.45-26.804-.72-53.234 7.48-78.951 9.63-30.157 27.15-54.165 52.82-71.744 22.77-15.591 48.16-23.714 74.88-28ZM378.55 164.021H266.825V470h-155.1V164.021H0V18h378.55v146.021ZM774.06 470H597.02l-14.48-60.399H465.39L448.28 470H284.396L441.7 18h175.72l156.64 452ZM498.5 284.819h55.54l-25.47-120.176-30.07 120.176Z\"></path></svg>",
+      "name": "svg-2"
+    },
+    {
+      "id": "2b00186c300be7e8",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4 shrink-0\"><path d=\"M13 11h7v2h-7v7h-2v-7H4v-2h7V4h2v7Z\"></path></svg>",
+      "name": "svg-3"
+    },
+    {
+      "id": "36a90ebfb920a79d",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4 shrink-0\"><path d=\"M10 20h4v-6h2v6h4v2H4v-2h4v-6h2v6Zm-6 0H2V10h2v10Zm18 0h-2V10h2v10Zm-8-6h-4v-2h4v2Zm-8-4H4V8h2v2Zm14 0h-2V8h2v2ZM8 8H6V6h2v2Zm10 0h-2V6h2v2Zm-8-2H8V4h2v2Zm6 0h-2V4h2v2Zm-2-2h-4V2h4v2Z\"></path></svg>",
+      "name": "svg-4"
+    },
+    {
+      "id": "c5b9d317a7bf34cd",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4 shrink-0\"><path d=\"M21 9h-6v13h-2v-6h-2v6H9V9H3V7h18v2Zm-7-3h-4V2h4v4Z\"></path></svg>",
+      "name": "svg-5"
+    },
+    {
+      "id": "3e0f2e28a4fcd37a",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4 shrink-0\"><path d=\"M20 22H4v-2h16v2ZM4 20H2v-6h2v6Zm18 0h-2v-6h2v6Zm-8-2h-2v-2h2v2Zm4 0h-2v-2h2v2Zm-2-6h4v2H4v-2h10v-2h2v2Zm-3-2h-2V8h2v2Zm6 0h-2V8h2v2Zm-2-2h-4V6h4v2Zm-6-2H9V4h2v2Zm10 0h-2V4h2v2Zm-2-2h-8V2h8v2Z\"></path></svg>",
+      "name": "svg-6"
+    },
+    {
+      "id": "ee8266e3cd9a6d15",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4 shrink-0\"><path d=\"M22 22h-2v-2h-2v-2h2v-8h2v12Zm-4-4h-8v-2h8v2ZM4 12h2v2H4v2H2V4h2v8Zm6 4H8v-6h2v6Zm10-6H10V8h10v2Zm-4-4h-2V4h2v2Zm-2-2H4V2h10v2Z\"></path></svg>",
+      "name": "svg-7"
+    },
+    {
+      "id": "57cff8560887b6bb",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4 shrink-0\"><path d=\"M20 23H4v-2h16v2Zm0-12h2v10h-2v-8H4v8H2V11h2V8h2v3h2V9h2v2h4V9h2v2h2V7h2v4Zm-5 6H9v-2h6v2ZM12 7h2v2h-4V5h2v2ZM4 8H2V5h2v3Zm18-1h-2V3h2v4ZM10 5H4V3h6v2Zm4 0h-2V3h2v2Zm6-2h-6V1h6v2Z\"></path></svg>",
+      "name": "svg-8"
+    },
+    {
+      "id": "e075fcc935535e17",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4 shrink-0\"><path d=\"M4 2h10v2H4zm0 18h16v2H4zM2 4h2v16H2zm18 10h2v6h-2zM10 6h4v2h-4zM8 8h2v4H8zm2 4h4v2h-4zm4-4h2v4h-2zm-6 8h8v2H8zm-2 2h2v2H6zm10 0h2v2h-2zm2-16h2v2h-2zm-2 2h2v2h-2zm2 2h2v2h-2zm2-2h2v2h-2zm2 4h2v2h-2zm-4 2h2v2h-2z\"></path></svg>",
+      "name": "svg-9"
+    },
+    {
+      "id": "5e87b43e71555bdc",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4 shrink-0\"><path d=\"M4 3h16v2H4zm0 12h6v2H4zM2 5h2v10H2zm18 0h2v8h-2zM5 9h2v2H5zm3-2h2v6H8zm6 0h2v4h-2zm-3 2h2v3h-2zm5 4h2v2h-2zm0 8h2v2h-2zm-4-4h2v2h-2zm8 0h2v2h-2zm-6-2h2v2h-2zm4 0h2v2h-2zm0 4h2v2h-2zm-4 0h2v2h-2z\"></path></svg>",
+      "name": "svg-10"
+    },
+    {
+      "id": "521e133d9056a770",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4 shrink-0\"><path d=\"M20 20H4v-2h16v2ZM4 18H2V6h2v12Zm18 0h-2V8h2v10ZM20 8H10V6H4V4h8v2h8v2Z\"></path></svg>",
+      "name": "svg-11"
+    },
+    {
+      "id": "77f664dba8c8a192",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4 shrink-0\"><path d=\"M3 14h18v-3h2v7h-2v-2h-2v2h2v2H3v-2h2v-2H3v2H1v-7h2v3Zm4 4h2v-2H7v2Zm4 0h2v-2h-2v2Zm4 0h2v-2h-2v2Zm-6-6H7V8h2v4Zm4 0h-2V8h2v4Zm4 0h-2V8h2v4ZM5 11H3V9h2v2Zm16 0h-2V9h2v2ZM3 9H1V6h2v3Zm20 0h-2V6h2v3Zm-2-3H3V4h18v2Z\"></path></svg>",
+      "name": "svg-12"
+    },
+    {
+      "id": "be19e29a531ad877",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4 shrink-0\"><path d=\"M13 22h-2v-2h2v2Zm-2-2H9v-8h2v8Zm4 0h-2v-8h2v8Zm-6-8H7v-2h2v2Zm8 0h-2v-2h2v2ZM7 10H5V4h2v6Zm12 0h-2V4h2v6Zm-8-4h2V2h4v2h-2v4H9V4H7V2h4v4Z\"></path></svg>",
+      "name": "svg-13"
+    },
+    {
+      "id": "cfd854f1874477a7",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4 shrink-0\"><path d=\"M20 4h-7v4h7V4h2v10h-2v2h-2v2h-2v2h-2v2h-4v-2h1V10H4v4H2V4h2V2h16v2ZM10 20H8v-2h2v2Zm-2-2H6v-2h2v2Zm-2-2H4v-2h2v2Z\"></path></svg>",
+      "name": "svg-14"
+    },
+    {
+      "id": "b5f8acf6cd5d8677",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4 shrink-0\"><path d=\"M17 22h-2v-2h-2v-2h2V6h-2V4h2V2h2v20Zm-4-4h-2v-2h2v2ZM11 8v2H9v4h2v2H7V8h4Zm2 0h-2V6h2v2Z\"></path></svg>",
+      "name": "svg-15"
+    },
+    {
+      "id": "c9c0155add1e1180",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"text-primary size-4 shrink-0\"><path d=\"M18 22H6v-2h5v-6H6v6H4v-8h7V8H4V6h2V4h2v2h3V4h2v2h3V4h2v2h2v2h-7v4h7v8h-2v-6h-5v6h5v2ZM4 12H2V8h2v4Zm18 0h-2V8h2v4ZM11 4H8V2h3v2Zm5 0h-3V2h3v2Z\"></path></svg>",
+      "name": "svg-16"
+    },
+    {
+      "id": "36f1427e04b4f458",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4 shrink-0\"><path d=\"M11 18H3V16H11V18ZM23 15H21V18H17V16H19V13H21V11H11V8H13V9H23V15ZM3 16H1V8H3V16ZM17 16H15V15H13V16H11V13H17V16ZM9 14H5V10H9V14ZM11 8H3V6H11V8Z\"></path></svg>",
+      "name": "svg-17"
+    },
+    {
+      "id": "c2ebe29bd7f5a8ee",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4 shrink-0\"><path d=\"M20 20H4v-2h16v2ZM4 18H2V6h2v12Zm18 0h-2V6h2v12Zm-8-4h-4v-2h4v2Zm-4-2H8v-2h2v2Zm6 0h-2v-2h2v2Zm-8-2H6V8h2v2Zm10 0h-2V8h2v2Zm2-4H4V4h16v2Z\"></path></svg>",
+      "name": "svg-18"
+    },
+    {
+      "id": "7447c7604ab7706a",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-5\"><path d=\"M20 18H4v-2h16v2Zm0-5H4v-2h16v2Zm0-5H4V6h16v2Z\"></path></svg>",
+      "name": "svg-19"
+    },
+    {
+      "id": "2665fa06ceff9369",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M17 21H5v-2h12v2ZM5 19H3V7h2v12Zm14 0h-2v-6h2v6Zm-8-4H9v-2h2v2Zm2-2h-2v-2h2v2Zm2-2h-2V9h2v2Zm6 0h-2V7h-2V5h-4V3h8v8Zm-4-2h-2V7h2v2Zm-6-2H5V5h6v2Z\"></path></svg>",
+      "name": "svg-20"
+    },
+    {
+      "id": "9540e5a33652d543",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M17 21H5v-2h12v2ZM5 19H3V7h2v12Zm14 0h-2v-6h2v6Zm-8-4H9v-2h2v2Zm2-2h-2v-2h2v2Zm2-2h-2V9h2v2Zm6 0h-2V7h-2V5h-4V3h8v8Zm-4-2h-2V7h2v2Zm-6-2H5V5h6v2Z\"></path></svg>",
+      "name": "svg-21"
+    },
+    {
+      "id": "e1b03eb2479175c6",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4\"><path d=\"M7 19H5v-2h2v2Zm12 0h-2v-2h2v2ZM9 15v2H7v-2h2Zm8 2h-2v-2h2v2Zm-6-2H9v-2h2v2Zm4 0h-2v-2h2v2Zm-2-2h-2v-2h2v2Zm-2-2H9V9h2v2Zm4 0h-2V9h2v2ZM9 9H7V7h2v2Zm8 0h-2V7h2v2ZM7 7H5V5h2v2Zm12 0h-2V5h2v2Z\"></path></svg>",
+      "name": "svg-22"
+    },
+    {
+      "id": "d2ce3573de7f3fc8",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 5H2V19H16V15H18V17H20V19H22L22 5H20V7L18 7V9H16V5Z\"></path></svg>",
+      "name": "svg-23"
+    },
+    {
+      "id": "d0521ade546c3951",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-5\"><path d=\"M7 19H5v-2h2v2Zm12 0h-2v-2h2v2ZM9 15v2H7v-2h2Zm8 2h-2v-2h2v2Zm-6-2H9v-2h2v2Zm4 0h-2v-2h2v2Zm-2-2h-2v-2h2v2Zm-2-2H9V9h2v2Zm4 0h-2V9h2v2ZM9 9H7V7h2v2Zm8 0h-2V7h2v2ZM7 7H5V5h2v2Zm12 0h-2V5h2v2Z\"></path></svg>",
+      "name": "svg-24"
+    },
+    {
+      "id": "1da7451465e9f904",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4.5\" aria-hidden=\"true\"><path d=\"M16 19H4v-2h12v2ZM4 17H2V7h2v10Zm14-8h2V7h2v10h-2v-2h-2v2h-2V7h2v2Zm-2-2H4V5h12v2Z\"></path></svg>",
+      "name": "svg-25"
+    },
+    {
+      "id": "bfa9da3e28c0b4fb",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4\" aria-hidden=\"true\"><path d=\"M4 11v2h16v-2zm12 2v2h2v-2zm-2 2v2h2v-2zm-2 2v2h2v-2zm4-6V9h2v2z\"></path><path d=\"M14 15V7h2v8zm-2 2V5h2v12z\"></path></svg>",
+      "name": "svg-26"
+    },
+    {
+      "id": "1b5e199aea17a355",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4\" aria-hidden=\"true\"><path d=\"M4 11v2h16v-2zm12 2v2h2v-2zm-2 2v2h2v-2zm-2 2v2h2v-2zm4-6V9h2v2z\"></path><path d=\"M14 15V7h2v8zm-2 2V5h2v12z\"></path></svg>",
+      "name": "svg-27"
+    },
+    {
+      "id": "e8d4c62984bbb7f3",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4\" aria-hidden=\"true\"><path d=\"M4 11v2h16v-2zm12 2v2h2v-2zm-2 2v2h2v-2zm-2 2v2h2v-2zm4-6V9h2v2z\"></path><path d=\"M14 15V7h2v8zm-2 2V5h2v12z\"></path></svg>",
+      "name": "svg-28"
+    },
+    {
+      "id": "e246f150d75f096c",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4\" aria-hidden=\"true\"><path d=\"M4 11v2h16v-2zm12 2v2h2v-2zm-2 2v2h2v-2zm-2 2v2h2v-2zm4-6V9h2v2z\"></path><path d=\"M14 15V7h2v8zm-2 2V5h2v12z\"></path></svg>",
+      "name": "svg-29"
+    },
+    {
+      "id": "f235110b7f08b815",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4\" aria-hidden=\"true\"><path d=\"M4 11v2h16v-2zm12 2v2h2v-2zm-2 2v2h2v-2zm-2 2v2h2v-2zm4-6V9h2v2z\"></path><path d=\"M14 15V7h2v8zm-2 2V5h2v12z\"></path></svg>",
+      "name": "svg-30"
+    },
+    {
+      "id": "0402e0dac9bfce4c",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4\" aria-hidden=\"true\"><path d=\"M4 11v2h16v-2zm12 2v2h2v-2zm-2 2v2h2v-2zm-2 2v2h2v-2zm4-6V9h2v2z\"></path><path d=\"M14 15V7h2v8zm-2 2V5h2v12z\"></path></svg>",
+      "name": "svg-31"
+    },
+    {
+      "id": "59ef551c6f75dbb6",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4\" aria-hidden=\"true\"><path d=\"M4 11v2h16v-2zm12 2v2h2v-2zm-2 2v2h2v-2zm-2 2v2h2v-2zm4-6V9h2v2z\"></path><path d=\"M14 15V7h2v8zm-2 2V5h2v12z\"></path></svg>",
+      "name": "svg-32"
+    },
+    {
+      "id": "95dfd0ce733406c1",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" class=\"size-4\" aria-hidden=\"true\"><path d=\"M4 11v2h16v-2zm12 2v2h2v-2zm-2 2v2h2v-2zm-2 2v2h2v-2zm4-6V9h2v2z\"></path><path d=\"M14 15V7h2v8zm-2 2V5h2v12z\"></path></svg>",
+      "name": "svg-33"
+    }
+  ],
+  "pageUrl": "https://maker.tavus.io/dev/home",
+  "summary": {
+    "byKind": {
+      "font": 5,
+      "image": 19,
+      "other": 47,
+      "script": 141,
+      "stylesheet": 2,
+      "video": 0
+    },
+    "inlineSvgCount": 33,
+    "totalCount": 214
+  }
+}

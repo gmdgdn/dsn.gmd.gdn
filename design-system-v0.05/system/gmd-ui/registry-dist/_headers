@@ -1,0 +1,9 @@
+/r/*
+  Access-Control-Allow-Origin: *
+  X-Content-Type-Options: nosniff
+/fonts/*
+  Access-Control-Allow-Origin: *
+  X-Content-Type-Options: nosniff
+/registry.json
+  Access-Control-Allow-Origin: *
+  X-Content-Type-Options: nosniff

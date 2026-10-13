@@ -1,0 +1,174 @@
+- main:
+  - complementary:
+    - navigation:
+      - link "Go to Home Page":
+        - /url: /dev/home
+      - link "New PAL":
+        - /url: /dev/pals/create
+        - generic: New PAL
+      - list:
+        - link "Home":
+          - /url: /dev/home
+          - generic: Home
+        - link "PALs":
+          - /url: /dev/pals
+          - generic: PALs
+        - link "Deployments":
+          - /url: /dev/deployments
+          - generic: Deployments
+        - link "Conversations":
+          - /url: /dev/conversations
+          - generic: Conversations
+      - heading "ASSETS" [level=3]
+      - list:
+        - link "Starter Kits":
+          - /url: /dev/starter-kits
+          - generic: Starter Kits
+        - link "Faces":
+          - /url: /dev/faces
+          - generic: Faces
+        - link "Voices":
+          - /url: /dev/voices
+          - generic: Voices
+        - link "Knowledge Base":
+          - /url: /dev/documents
+          - generic: Knowledge Base
+        - link "Memories":
+          - /url: /dev/memories
+          - generic: Memories
+        - link "Connectors & Tools":
+          - /url: /dev/connectors
+          - generic: Connectors & Tools
+        - link "Guardrails":
+          - /url: /dev/guardrails
+          - generic: Guardrails
+        - link "Pronunciations":
+          - /url: /dev/pronunciation-dictionaries
+          - generic: Pronunciations
+    - list:
+      - link "Get 2× minutes when you upgrade":
+        - /url: /dev/billing
+        - generic: Get 2× minutes when you upgrade
+      - list:
+        - link "API Keys":
+          - /url: /dev/api-keys
+          - generic: API Keys
+        - button "Support":
+          - generic: Support
+      - button "gg gmd gdn":
+        - generic: gg
+        - generic: gmd gdn
+  - complementary "Griffin announcement":
+    - paragraph: "Coming soon: Griffin"
+    - paragraph: The first Human Interaction Model
+    - link "Read the research":
+      - /url: https://www.tavus.io/griffin
+      - text: Read the research
+    - link "Join the waitlist":
+      - /url: https://griffin.tavus.io/waitlist
+      - text: Join the waitlist
+    - button "Dismiss the Griffin announcement":
+  - paragraph: Nathan
+  - heading "Customer Service Coach" [level=1]
+  - button "Use this starter kit"
+  - button "Try the demo"
+  - article:
+    - generic "Nathan, looping portrait"
+    - paragraph: Hi, I’m Nathan
+    - paragraph: I’ll be taking you through some typical customer service call scenarios to help coach you in handling difficult customer interactions.
+    - button "Try the demo":
+      - text: Try the demo
+    - region "Live practice calls that build service-recovery skills":
+      - heading "Live practice calls that build service-recovery skills" [level=2]
+      - paragraph: Nathan is a customer service coach who runs live video practice sessions for customer support representatives. He opens with a short introduction and sets goals for the session, then plays the customer in a realistic roleplay scenario while the trainee works through the problem. Once the scene ends, he switches back to coaching for a structured debrief that identifies a specific win and a high-leverage area for improvement, then offers a retry of the missed moment or wraps up the session. Nathan represents Trustcart in this template, and the company and scenario details are sample facts to replace with yours.
+      - heading "What's inside" [level=3]
+      - generic "What's inside":
+        - term: Capabilities
+        - definition: Perception, Magic Canvas
+        - term: Tools
+        - definition: end_call
+        - term: Voice
+        - definition: nathan
+    - region "How to use it":
+      - heading "How to use it" [level=2]
+      - paragraph: Make the Customer Service Coach PAL yours in just a few quick steps. Our builder PAL Charlie will walk you through it, or you can customize it on your own.
+      - list:
+        - generic: Build
+        - generic: Test
+        - generic: Deploy
+        - generic: Ask Charlie to customize this starter kit
+        - paragraph: First
+        - heading "Customize with Charlie" [level=3]
+        - paragraph: On the Build tab, ask Charlie to replace the sample details for Nathan, or edit them yourself.
+        - generic: Build
+        - generic: Test
+        - generic: Deploy
+        - paragraph: Nathan
+        - paragraph: Next
+        - heading "Test the conversation" [level=3]
+        - paragraph: Talk to Nathan on the Test tab and hear how it handles your scenario.
+        - generic: Build
+        - generic: Test
+        - generic: Deploy
+        - paragraph: Finally
+        - heading "Deploy" [level=3]
+        - paragraph: "Publish from the Deploy tab: a shareable link, an embed for your site, or the API."
+    - region "What it's grounded in":
+      - heading "What it's grounded in" [level=2]
+      - paragraph: These facts belong to the sample scenario. Replace them with your own.
+      - term: Company
+      - definition: Trustcart
+      - term: Trainee role
+      - definition: Customer Support Representative
+      - term: Simulated customer
+      - definition: Alex
+      - term: Situation
+      - definition: Alex is contacting Trustcart about an overdue cat-litter order
+      - term: Order Number
+      - definition: TC-1842
+      - term: Human Impact
+      - definition: Alex is still waiting for the cat litter he expected to receive and needs a useful next step
+      - term: Desired Outcome
+      - definition: A credible explanation and a realistic service-recovery plan
+      - term: Known Customer Facts
+      - definition: Alex ordered cat litter under order number TC-1842. The order is overdue
+      - term: Allowed Resolutions
+      - definition: Investigate tracking, contact carrier/depot, arrange delivery recovery/pickup, or offer a replacement/refund
+      - term: Unavailable Outcomes
+      - definition: Guaranteed delivery with no credible basis or resolutions that are unsafe/implausible
+      - term: Opening Complaint
+      - definition: Hi, I'm Alex. I'm calling about my cat-litter order, T C 1 8 4 2. It's overdue, and I'm still waiting for the cat litter I ordered. Can you check what's happening?
+    - region "How it behaves":
+      - heading "How it behaves" [level=2]
+      - paragraph: The guardrails and objectives attached to this PAL.
+      - heading "Guardrails 4" [level=3]:
+        - text: Guardrails
+        - generic: "4"
+      - list "Guardrails 4":
+        - paragraph: Professional conduct
+        - paragraph: Never engages in inappropriate, offensive, or unprofessional language or behavior, and keeps professional conduct at all times.
+        - code: maintain_professional_conduct
+        - paragraph: No medical advice
+        - paragraph: Never gives actual medical advice, and when a scenario touches on medical issues he explains that he is acting in a coaching role and cannot provide professional medical guidance.
+        - code: refuse_medical_advice
+        - paragraph: No legal advice
+        - paragraph: Never gives actual legal advice, and when a scenario touches on legal issues he explains that he is acting in a coaching role and cannot provide professional legal guidance.
+        - code: refuse_legal_advice
+        - paragraph: Clear role boundary
+        - paragraph: Never blurs the line between coaching and playing the customer, keeping a clear distinction between the customer roleplay and coaching feedback.
+        - code: maintain_role_boundary
+      - heading "Objectives 4" [level=3]:
+        - text: Objectives
+        - generic: "4"
+      - list "Objectives 4":
+        - generic: "1"
+        - paragraph: Introduce the session and set goals
+        - generic: "2"
+        - paragraph: Run the practice scenario
+        - generic: "3"
+        - paragraph: Deliver the coaching debrief
+        - generic: "4"
+        - paragraph: Offer a retry or wrap up
+  - region
+- region "Notifications (F8)":
+  - list

@@ -1,0 +1,16 @@
+{
+  "svgCount": 32,
+  "xmlParsed": true,
+  "finiteNumericCoordinates": true,
+  "transformAttributes": 0,
+  "repeatCheck": {
+    "tiling": "4.8.8 square+octagon host cell",
+    "cellAreaRatio": 1.0,
+    "unmatchedInteriorEdges": 0,
+    "edgeTest": "directed polygon edges in central unit checked against reversed neighbor edge across 3x3 translated cells",
+    "hostTilingVerified": true,
+    "generatedMotifSeamClaim": false,
+    "reason": "current star-chord overlays are local motif studies; cross-boundary line continuity was not tested"
+  },
+  "nonRepeatFamilies": "radial and Egyptian compositions have no translation/seam claim"
+}

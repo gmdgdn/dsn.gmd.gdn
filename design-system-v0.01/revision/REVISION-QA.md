@@ -1,0 +1,10 @@
+# GMD v0.01 revision QA
+
+The revised Pen boards are [Color and type](./previews/XgYOW.png) (`XgYOW`), [Depth and separators](./previews/depth-separators-final.png) (`JXFyT`), and [Image and icons](./previews/N71po2.png) (`N71po2`). I inspected all three final PNG exports and checked their Pen subtrees for clipping; none reported clipped descendants. An earlier sibling-text overlap on the image board was corrected and verified in its re-export.
+
+- **Source fidelity:** The depth board uses editable copies of the Tavus CTA and striped title bar. The demonstrated ink stroke is 0.8 px, with hard black action depth at 5×5 default, 3×3 hover, and 0×0 pressed. Its segmented navigation, ruled record, inset frame, and dither field carry the same visual grammar into GMD content.
+- **Color and type:** Nile-600 is `#1034A6` in both Pen variables and `tokens.json`. Pen and JSON now include the six-step pink and sand ramps. The revision uses blue for data, links, and confirmation; pink remains the action accent. The display, body, and compact label type scale is visibly applied.
+- **Art direction:** The Film poster is a local sample with its source path labeled; copied Tavus dither is explicitly marked as a visual reference. The board separates documentary artwork from decorative texture and shows a single 1.5 px stroke icon family. Rights and permission for production reuse of the poster remain to be checked.
+- **Limits:** These are editable visual boards, not a responsive frontend. Hover/press values, focus, loading, reduced motion, and RTL behavior still need implementation and runtime checks. The prior bilingual patterns board (`Mkm6H`) provides Arabic/RTL layout examples, but the revised aesthetic has not yet been applied to a full Arabic screen. Source images on study boards must be replaced or cleared before publishing a GMD product.
+
+The working reference is [REVISION-SPEC.md](../REVISION-SPEC.md), synchronized with [tokens.json](../tokens.json). Earlier v0.01 board screenshots remain historical drafts; use these three revision boards for visual direction.

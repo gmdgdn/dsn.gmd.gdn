@@ -1,0 +1,110 @@
+{
+ "hex": {
+  "id": "F1",
+  "name": "Hexagonal 6.6.6",
+  "theta": 60,
+  "validRange": "16–89°",
+  "segments": 12,
+  "chordCase": false,
+  "minDegree": 2,
+  "danglingEnds": 0,
+  "degreeHistogram": {
+   "2": 12,
+   "4": 12
+  },
+  "crossings": 6,
+  "crossingAngleMismatch": 0,
+  "finestFeature_edgeUnits": 0.433,
+  "minUnitPx_for_1p5px_feature": 4
+ },
+ "tri": {
+  "id": "F2",
+  "name": "Triangular 3^6",
+  "theta": 45,
+  "validRange": "23–89°",
+  "segments": 12,
+  "chordCase": false,
+  "minDegree": 2,
+  "danglingEnds": 0,
+  "degreeHistogram": {
+   "2": 12,
+   "4": 12
+  },
+  "crossings": 5,
+  "crossingAngleMismatch": 0,
+  "finestFeature_edgeUnits": 0.183,
+  "minUnitPx_for_1p5px_feature": 9
+ },
+ "sq": {
+  "id": "F3",
+  "name": "Square 4.4.4.4",
+  "theta": 67.5,
+  "validRange": "18–89°",
+  "segments": 8,
+  "chordCase": false,
+  "minDegree": 2,
+  "danglingEnds": 0,
+  "degreeHistogram": {
+   "2": 8,
+   "4": 8
+  },
+  "crossings": 4,
+  "crossingAngleMismatch": 0,
+  "finestFeature_edgeUnits": 0.354,
+  "minUnitPx_for_1p5px_feature": 5
+ },
+ "oct": {
+  "id": "F4",
+  "name": "Octagon-square 4.8.8",
+  "theta": 67.5,
+  "validRange": "18–89°",
+  "segments": 24,
+  "chordCase": false,
+  "minDegree": 2,
+  "danglingEnds": 0,
+  "degreeHistogram": {
+   "2": 24,
+   "4": 24
+  },
+  "crossings": 11,
+  "crossingAngleMismatch": 0,
+  "finestFeature_edgeUnits": 0.354,
+  "minUnitPx_for_1p5px_feature": 5
+ },
+ "trihex": {
+  "id": "F5",
+  "name": "Trihexagonal 3.6.3.6",
+  "theta": 45,
+  "validRange": "23–89°",
+  "segments": 24,
+  "chordCase": false,
+  "minDegree": 2,
+  "danglingEnds": 0,
+  "degreeHistogram": {
+   "2": 24,
+   "4": 24
+  },
+  "crossings": 10,
+  "crossingAngleMismatch": 0,
+  "finestFeature_edgeUnits": 0.183,
+  "minUnitPx_for_1p5px_feature": 9
+ },
+ "dod": {
+  "id": "F6",
+  "name": "Dodecagon-triangle 3.12.12",
+  "theta": 75,
+  "validRange": "23–89°",
+  "segments": 36,
+  "chordCase": false,
+  "minDegree": 2,
+  "danglingEnds": 0,
+  "degreeHistogram": {
+   "2": 36,
+   "4": 36
+  },
+  "crossings": 17,
+  "crossingAngleMismatch": 0,
+  "finestFeature_edgeUnits": 0.25,
+  "minUnitPx_for_1p5px_feature": 7
+ }
+}

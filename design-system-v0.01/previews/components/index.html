@@ -1,0 +1,519 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      tailwind = { config: { corePlugins: { preflight: false } } };
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      @font-face {
+        font-family: "Fk Raster Grotesk Compact Blended";
+        src: url("fonts/tavus.io/d1a02040b2c0179e.woff2") format("woff2");
+        font-display: swap;
+        font-weight: 400;
+      }
+
+      @font-face {
+        font-family: Perfectlynineties;
+        src: url("fonts/tavus.io/1b2817a1bf827bf7.woff") format("woff");
+        font-display: swap;
+        font-weight: 400;
+      }
+
+      @font-face {
+        font-family: "Suisse Intl";
+        src: url("fonts/tavus.io/43dea5611f14d9ab.woff2") format("woff2");
+        font-display: swap;
+        font-weight: 400;
+      }
+    </style>
+    <style>
+      *, ::before, ::after {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body style="background-color: #f7f4ef">
+    <div
+      data-pencil-name="GMD Design System v0.01 — Component catalog"
+      class="box-border w-[1600px] h-[1320px] bg-[#f7f4ef] overflow-hidden relative"
+    >
+      <div
+        data-pencil-name="Catalog header field"
+        class="box-border w-[1600px] h-[168px] absolute left-0 top-0 bg-[#140206] [z-index:0]"
+      ></div>
+      <div
+        data-pencil-name="Catalog brand"
+        class="text-[13px]/[normal] box-border absolute left-[48px] top-[28px] text-[#ffb4c5] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:1]"
+      >
+        GMD / SYSTEM 0.01
+      </div>
+      <div
+        data-pencil-name="Catalog title"
+        class="text-[38px]/[normal] box-border absolute left-[48px] top-[60px] text-[#fffdfb] font-[Perfectlynineties,system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:2]"
+      >
+        Reusable pieces, with provenance
+      </div>
+      <div
+        data-pencil-name="Catalog explanation"
+        class="text-[14px]/[normal] box-border absolute left-[48px] top-[116px] text-[#eae5de] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:3]"
+      >
+        Masters are shown first. The collection-index specimen below composes their references;
+        records are illustrative.
+      </div>
+      <div
+        data-pencil-name="Master section label"
+        class="text-[12px]/[normal] box-border absolute left-[48px] top-[191px] text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:4]"
+      >
+        COMPONENT MASTERS / REUSABLE
+      </div>
+      <div
+        data-pencil-name="Component · GMD navigation"
+        class="box-border w-[1504px] h-[68px] absolute left-[48px] top-[220px] flex flex-row gap-[36px] p-[12px_18px] justify-start items-center bg-[#fffdfb] [outline:1px_solid_#d4ccc4] [outline-offset:-0.5px] [z-index:5]"
+      >
+        <div
+          data-pencil-name="Nav wordmark"
+          class="text-[18px]/[normal] box-border text-[#140206] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          GMD
+        </div>
+        <div
+          data-pencil-name="Nav datasets"
+          class="text-[12px]/[normal] box-border text-[#140206] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          DATASETS
+        </div>
+        <div
+          data-pencil-name="Nav projects"
+          class="text-[12px]/[normal] box-border text-[#140206] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          PROJECTS
+        </div>
+        <div
+          data-pencil-name="Nav about"
+          class="text-[12px]/[normal] box-border text-[#140206] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          ABOUT
+        </div>
+        <div
+          data-pencil-name="Nav action button"
+          class="box-border w-fit shrink-0 h-fit flex flex-row gap-0 p-[9px_14px] justify-center items-center bg-[#ff6183]"
+        >
+          <div
+            data-pencil-name="Nav submit label"
+            class="text-[11px]/[normal] box-border text-[#140206] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+          >
+            Submit data
+          </div>
+        </div>
+      </div>
+      <div
+        data-pencil-name="Component · Primary action"
+        class="box-border w-[160px] h-[44px] absolute left-[48px] top-[330px] flex flex-row gap-0 p-[10px_16px] justify-center items-center bg-[#ff6183] [z-index:6]"
+      >
+        <div
+          data-pencil-name="Primary action label"
+          class="text-[12px]/[normal] box-border text-[#140206] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Explore dataset
+        </div>
+      </div>
+      <div
+        data-pencil-name="Component · Secondary action"
+        class="box-border w-[160px] h-[44px] absolute left-[226px] top-[330px] flex flex-row gap-0 p-[10px_16px] justify-center items-center bg-[#f7f4ef] [outline:1px_solid_#140206] [outline-offset:-0.5px] [z-index:7]"
+      >
+        <div
+          data-pencil-name="Secondary action label"
+          class="text-[12px]/[normal] box-border text-[#140206] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          View sources
+        </div>
+      </div>
+      <div
+        data-pencil-name="Component · Search field"
+        class="box-border w-[390px] h-[44px] absolute left-[408px] top-[330px] flex flex-row gap-[10px] p-[10px_14px] justify-start items-center bg-[#fffdfb] [outline:1px_solid_#bdb5ad] [outline-offset:-0.5px] [z-index:8]"
+      >
+        <div
+          data-pencil-name="Search placeholder"
+          class="text-[13px]/[normal] box-border text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Search datasets, films, projects
+        </div>
+      </div>
+      <div
+        data-pencil-name="Component · Filter chip"
+        class="box-border w-[118px] h-[34px] absolute left-[820px] top-[335px] flex flex-row gap-0 p-[7px_12px] justify-center items-center bg-[#140206] [z-index:9]"
+      >
+        <div
+          data-pencil-name="Filter chip label"
+          class="text-[12px]/[normal] box-border text-[#ffffff] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Arabic ×
+        </div>
+      </div>
+      <div
+        data-pencil-name="Component · Status badge"
+        class="box-border w-[128px] h-[30px] absolute left-[958px] top-[337px] flex flex-row gap-0 p-[6px_10px] justify-center items-center bg-[#e3f1e8] [z-index:10]"
+      >
+        <div
+          data-pencil-name="Status badge label"
+          class="text-[11px]/[normal] box-border text-[#185b39] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          VERIFIED
+        </div>
+      </div>
+      <div
+        data-pencil-name="Component · Dataset card"
+        class="box-border w-[460px] h-[230px] absolute left-[48px] top-[430px] flex flex-col gap-[10px] p-[18px] justify-start items-start bg-[#fffdfb] [outline:1px_solid_#d4ccc4] [outline-offset:-0.5px] [z-index:11]"
+      >
+        <div
+          data-pencil-name="Dataset card eyebrow"
+          class="text-[11px]/[normal] box-border text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          DATASET / SAMPLE RECORD
+        </div>
+        <div
+          data-pencil-name="Dataset card title"
+          class="text-[25px]/[normal] box-border text-[#140206] font-[Perfectlynineties,system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Egyptian Arabic speech
+        </div>
+        <div
+          data-pencil-name="Dataset card description"
+          class="text-[13px]/[18px] box-border w-full text-[#28292a] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left"
+        >
+          Illustrative entry. Confirm source, rights, language coverage and documentation before
+          release.
+        </div>
+        <div
+          data-pencil-name="Dataset card metadata"
+          class="text-[11px]/[normal] box-border text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          LANGUAGE Arabic · RIGHTS To verify
+        </div>
+      </div>
+      <div
+        data-pencil-name="Component · Project card"
+        class="box-border w-[450px] h-[230px] absolute left-[530px] top-[430px] flex flex-col gap-[10px] p-[18px] justify-start items-start bg-[#f7f4ef] [outline:1px_solid_#d4ccc4] [outline-offset:-0.5px] [z-index:12]"
+      >
+        <div
+          data-pencil-name="Project card category"
+          class="text-[11px]/[normal] box-border text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          GMD / PROJECT
+        </div>
+        <div
+          data-pencil-name="Project card title"
+          class="text-[27px]/[normal] box-border text-[#140206] font-[Perfectlynineties,system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Film
+        </div>
+        <div
+          data-pencil-name="Project card description"
+          class="text-[13px]/[18px] box-border w-full text-[#28292a] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left"
+        >
+          Discover Egyptian films, people, and screen culture.
+        </div>
+        <div
+          data-pencil-name="Project card URL"
+          class="text-[11px]/[normal] box-border text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          film.gmd.gdn
+        </div>
+      </div>
+      <div
+        data-pencil-name="Component · Provenance panel"
+        class="box-border w-[552px] h-[230px] absolute left-[1000px] top-[430px] flex flex-col gap-[11px] p-[18px] justify-start items-start bg-[#eae5de] [z-index:13]"
+      >
+        <div
+          data-pencil-name="Provenance eyebrow"
+          class="text-[11px]/[normal] box-border text-[#140206] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          PROVENANCE / REQUIRED BEFORE DISTRIBUTION
+        </div>
+        <div
+          data-pencil-name="Provenance source"
+          class="text-[13px]/[normal] box-border text-[#28292a] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Source: add citation or source URL
+        </div>
+        <div
+          data-pencil-name="Provenance rights"
+          class="text-[13px]/[normal] box-border text-[#28292a] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Rights / license: confirm before release
+        </div>
+        <div
+          data-pencil-name="Provenance method"
+          class="text-[13px]/[normal] box-border text-[#28292a] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Method + transformation: document
+        </div>
+      </div>
+      <div
+        data-pencil-name="Component · Collection row"
+        class="box-border w-[1504px] h-[58px] absolute left-[48px] top-[688px] flex flex-row gap-[24px] p-[12px_16px] justify-start items-center bg-[#fffdfb] [outline:1px_solid_#d4ccc4] [outline-offset:-0.5px] [z-index:14]"
+      >
+        <div
+          data-pencil-name="Collection row title"
+          class="text-[14px]/[normal] box-border text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Record title / collection
+        </div>
+        <div
+          data-pencil-name="Collection row language"
+          class="text-[12px]/[normal] box-border text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Arabic · English
+        </div>
+        <div
+          data-pencil-name="Collection row provenance"
+          class="text-[12px]/[normal] box-border text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Source: documented
+        </div>
+        <div
+          data-pencil-name="Collection row status"
+          class="text-[11px]/[normal] box-border text-[#140206] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          DRAFT · REVIEW RIGHTS
+        </div>
+      </div>
+      <div
+        data-pencil-name="Component · Primary action disabled"
+        class="box-border w-[174px] h-[44px] absolute left-[1110px] top-[330px] flex flex-row gap-0 p-[10px_16px] justify-center items-center bg-[#eae5de] [z-index:15]"
+      >
+        <div
+          data-pencil-name="Disabled action label"
+          class="text-[12px]/[normal] box-border text-[#8d8782] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Unavailable
+        </div>
+      </div>
+      <div
+        data-pencil-name="Component · Primary action focused"
+        class="box-border w-[202px] h-[44px] absolute left-[1300px] top-[330px] flex flex-row gap-0 p-[10px_16px] justify-center items-center bg-[#ff6183] [outline:3px_solid_#225ea8] [outline-offset:-1.5px] [z-index:16]"
+      >
+        <div
+          data-pencil-name="Focused action label"
+          class="text-[12px]/[normal] box-border text-[#140206] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Keyboard focus
+        </div>
+      </div>
+      <div
+        data-pencil-name="Component · Filter chip default"
+        class="box-border w-[104px] h-[34px] absolute left-[820px] top-[385px] flex flex-row gap-0 p-[7px_12px] justify-center items-center bg-[#f7f4ef] [outline:1px_solid_#bdb5ad] [outline-offset:-0.5px] [z-index:17]"
+      >
+        <div
+          data-pencil-name="Default filter label"
+          class="text-[12px]/[normal] box-border text-[#28292a] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          2024 +
+        </div>
+      </div>
+      <div
+        data-pencil-name="Composition section label"
+        class="text-[12px]/[normal] box-border absolute left-[48px] top-[780px] text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap] [z-index:18]"
+      >
+        REFERENCE COMPOSITION / COLLECTION DIRECTORY
+      </div>
+      <div
+        data-pencil-name="Composition search"
+        class="box-border w-[390px] h-[44px] absolute left-[48px] top-[812px] flex flex-row gap-[10px] p-[10px_14px] justify-start items-center bg-[#fffdfb] [outline:1px_solid_#bdb5ad] [outline-offset:-0.5px] [z-index:19]"
+      >
+        <div
+          data-pencil-name="Search placeholder"
+          class="text-[13px]/[normal] box-border text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Search datasets, films, projects
+        </div>
+      </div>
+      <div
+        data-pencil-name="Composition active language filter"
+        class="box-border w-[118px] h-[34px] absolute left-[458px] top-[817px] flex flex-row gap-0 p-[7px_12px] justify-center items-center bg-[#140206] [z-index:20]"
+      >
+        <div
+          data-pencil-name="Filter chip label"
+          class="text-[12px]/[normal] box-border text-[#ffffff] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Arabic ×
+        </div>
+      </div>
+      <div
+        data-pencil-name="Composition year filter"
+        class="box-border w-[104px] h-[34px] absolute left-[585px] top-[817px] flex flex-row gap-0 p-[7px_12px] justify-center items-center bg-[#f7f4ef] [outline:1px_solid_#bdb5ad] [outline-offset:-0.5px] [z-index:21]"
+      >
+        <div
+          data-pencil-name="Default filter label"
+          class="text-[12px]/[normal] box-border text-[#28292a] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          2024 +
+        </div>
+      </div>
+      <div
+        data-pencil-name="Composition primary button"
+        class="box-border w-[160px] h-[44px] absolute left-[708px] top-[812px] flex flex-row gap-0 p-[10px_16px] justify-center items-center bg-[#ff6183] [z-index:22]"
+      >
+        <div
+          data-pencil-name="Primary action label"
+          class="text-[12px]/[normal] box-border text-[#140206] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Explore dataset
+        </div>
+      </div>
+      <div
+        data-pencil-name="Composition keyboard focus state"
+        class="box-border w-[202px] h-[44px] absolute left-[884px] top-[812px] flex flex-row gap-0 p-[10px_16px] justify-center items-center bg-[#ff6183] [outline:3px_solid_#225ea8] [outline-offset:-1.5px] [z-index:23]"
+      >
+        <div
+          data-pencil-name="Focused action label"
+          class="text-[12px]/[normal] box-border text-[#140206] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Keyboard focus
+        </div>
+      </div>
+      <div
+        data-pencil-name="Composition disabled state"
+        class="box-border w-[174px] h-[44px] absolute left-[1100px] top-[812px] flex flex-row gap-0 p-[10px_16px] justify-center items-center bg-[#eae5de] [z-index:24]"
+      >
+        <div
+          data-pencil-name="Disabled action label"
+          class="text-[12px]/[normal] box-border text-[#8d8782] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Unavailable
+        </div>
+      </div>
+      <div
+        data-pencil-name="Example project card — Film"
+        class="box-border w-[460px] h-[230px] absolute left-[48px] top-[875px] flex flex-col gap-[10px] p-[18px] justify-start items-start bg-[#f7f4ef] [outline:1px_solid_#d4ccc4] [outline-offset:-0.5px] [z-index:25]"
+      >
+        <div
+          data-pencil-name="Project card category"
+          class="text-[11px]/[normal] box-border text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          PROJECT / ACTIVE SITE
+        </div>
+        <div
+          data-pencil-name="Project card title"
+          class="text-[27px]/[normal] box-border text-[#140206] font-[Perfectlynineties,system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Film
+        </div>
+        <div
+          data-pencil-name="Project card description"
+          class="text-[13px]/[18px] box-border w-full text-[#28292a] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left"
+        >
+          Discover Egyptian films, people, and screen culture.
+        </div>
+        <div
+          data-pencil-name="Project card URL"
+          class="text-[11px]/[normal] box-border text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          film.gmd.gdn
+        </div>
+      </div>
+      <div
+        data-pencil-name="Example project card — Kayffa"
+        class="box-border w-[460px] h-[230px] absolute left-[530px] top-[875px] flex flex-col gap-[10px] p-[18px] justify-start items-start bg-[#f7f4ef] [outline:1px_solid_#d4ccc4] [outline-offset:-0.5px] [z-index:26]"
+      >
+        <div
+          data-pencil-name="Project card category"
+          class="text-[11px]/[normal] box-border text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          PROJECT / IN DEVELOPMENT
+        </div>
+        <div
+          data-pencil-name="Project card title"
+          class="text-[27px]/[normal] box-border text-[#140206] font-[Perfectlynineties,system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Kayffa
+        </div>
+        <div
+          data-pencil-name="Project card description"
+          class="text-[13px]/[18px] box-border w-full text-[#28292a] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left"
+        >
+          Cultural graph and archive project in development.
+        </div>
+        <div
+          data-pencil-name="Project card URL"
+          class="text-[11px]/[normal] box-border text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          GMD archive
+        </div>
+      </div>
+      <div
+        data-pencil-name="Example project card — proposed encyclopedia"
+        class="box-border w-[460px] h-[230px] absolute left-[1012px] top-[875px] flex flex-col gap-[10px] p-[18px] justify-start items-start bg-[#f7f4ef] [outline:1px_solid_#d4ccc4] [outline-offset:-0.5px] [z-index:27]"
+      >
+        <div
+          data-pencil-name="Project card category"
+          class="text-[11px]/[normal] box-border text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          PROJECT / PROPOSED
+        </div>
+        <div
+          data-pencil-name="Project card title"
+          class="text-[27px]/[normal] box-border text-[#140206] font-[Perfectlynineties,system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Egyptian Encyclopedia
+        </div>
+        <div
+          data-pencil-name="Project card description"
+          class="text-[13px]/[18px] box-border w-full text-[#28292a] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left"
+        >
+          Proposed sourced bilingual knowledge reference.
+        </div>
+        <div
+          data-pencil-name="Project card URL"
+          class="text-[11px]/[normal] box-border text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Not started
+        </div>
+      </div>
+      <div
+        data-pencil-name="Illustrative collection row"
+        class="box-border w-[1504px] h-[58px] absolute left-[48px] top-[1130px] flex flex-row gap-[24px] p-[12px_16px] justify-start items-center bg-[#fffdfb] [outline:1px_solid_#d4ccc4] [outline-offset:-0.5px] [z-index:28]"
+      >
+        <div
+          data-pencil-name="Collection row title"
+          class="text-[14px]/[normal] box-border text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Arabic text · illustrative record
+        </div>
+        <div
+          data-pencil-name="Collection row language"
+          class="text-[12px]/[normal] box-border text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Arabic · English
+        </div>
+        <div
+          data-pencil-name="Collection row provenance"
+          class="text-[12px]/[normal] box-border text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Source: to verify
+        </div>
+        <div
+          data-pencil-name="Collection row status"
+          class="text-[11px]/[normal] box-border text-[#140206] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          DRAFT · DO NOT DISTRIBUTE
+        </div>
+      </div>
+      <div
+        data-pencil-name="Illustrative content note"
+        class="text-[12px]/[17px] box-border w-[1500px] absolute left-[48px] top-[1210px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:29]"
+      >
+        PROJECT STATUS / Film is a live project · Kayffa is in development · Egyptian Encyclopedia
+        is proposed. The dataset row is illustrative; verify sources, rights and coverage before
+        publication.
+      </div>
+    </div>
+  </body>
+</html>

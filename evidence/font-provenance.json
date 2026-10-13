@@ -1,0 +1,31 @@
+{
+  "fonts": [
+    {
+      "file": "d1a02040b2c0179e.woff2",
+      "family": "Fk Raster Grotesk Compact Blended",
+      "format": "woff2",
+      "source": "C:\\Users\\khorm\\.pencil\\documents\\8b4c9a2a-091b-4893-b343-951b27b66afc\\fonts\\tavus.io\\d1a02040b2c0179e.woff2",
+      "size_bytes": 23748,
+      "sha256": "fda6801538156cc74d8693d5e8d082564251ee41a1a55790dc2c6014d33a8205",
+      "provenance": "Pencil document asset cache; names confirmed from exported HTML @font-face mapping"
+    },
+    {
+      "file": "1b2817a1bf827bf7.woff",
+      "family": "Perfectlynineties",
+      "format": "woff",
+      "source": "C:\\Users\\khorm\\.pencil\\documents\\8b4c9a2a-091b-4893-b343-951b27b66afc\\fonts\\tavus.io\\1b2817a1bf827bf7.woff",
+      "size_bytes": 27420,
+      "sha256": "1b15a4d9b0718d43f785a0c57d1ae53ab285848524bad73fa8d65aeb64914ecb",
+      "provenance": "Pencil document asset cache; names confirmed from exported HTML @font-face mapping"
+    },
+    {
+      "file": "43dea5611f14d9ab.woff2",
+      "family": "Suisse Intl",
+      "format": "woff2",
+      "source": "C:\\Users\\khorm\\.pencil\\documents\\8b4c9a2a-091b-4893-b343-951b27b66afc\\fonts\\tavus.io\\43dea5611f14d9ab.woff2",
+      "size_bytes": 62120,
+      "sha256": "db99e1026db8d41d75d19e569dff85f830ae91aebec4a3d5a12bcff1cc31056f",
+      "provenance": "Pencil document asset cache; names confirmed from exported HTML @font-face mapping"
+    }
+  ]
+}

@@ -1,0 +1,1240 @@
+{
+  "footer": [
+    {
+      "class": "replicas-both pixel-section v2",
+      "rect": {
+        "height": 224.3249969482422,
+        "width": 422.3125
+      },
+      "style": {
+        "background": "none",
+        "border": "0.8px solid rgb(20, 2, 6)",
+        "columns": "none",
+        "size": "auto"
+      }
+    },
+    {
+      "class": "w-layout-grid footer_top-wrapper",
+      "rect": {
+        "height": 792.4500122070312,
+        "width": 731.2000122070312
+      },
+      "style": {
+        "background": "none",
+        "border": "0.8px solid rgb(20, 2, 6)",
+        "columns": "364.8px 364.8px",
+        "size": "auto"
+      }
+    },
+    {
+      "class": "footer_link-list",
+      "rect": {
+        "height": 197.9125061035156,
+        "width": 364.8000183105469
+      },
+      "style": {
+        "background": "url(\"https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a81_texture-denim.avif\")",
+        "border": "",
+        "columns": "100%",
+        "size": "auto"
+      }
+    },
+    {
+      "class": "footer-topbar",
+      "rect": {
+        "height": 31.11250114440918,
+        "width": 101.9000015258789
+      },
+      "style": {
+        "background": "none",
+        "border": "0px none rgb(255, 255, 255)",
+        "columns": "none",
+        "size": "auto"
+      }
+    },
+    {
+      "class": "footer_link-list right-mobile",
+      "rect": {
+        "height": 197.9125061035156,
+        "width": 364.8000183105469
+      },
+      "style": {
+        "background": "url(\"https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a81_texture-denim.avif\")",
+        "border": "",
+        "columns": "100%",
+        "size": "auto"
+      }
+    },
+    {
+      "class": "footer-topbar",
+      "rect": {
+        "height": 31.11250114440918,
+        "width": 111.51250457763672
+      },
+      "style": {
+        "background": "none",
+        "border": "0px none rgb(255, 255, 255)",
+        "columns": "none",
+        "size": "auto"
+      }
+    },
+    {
+      "class": "footer_link-list",
+      "rect": {
+        "height": 197.9125061035156,
+        "width": 364.8000183105469
+      },
+      "style": {
+        "background": "url(\"https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a81_texture-denim.avif\")",
+        "border": "",
+        "columns": "100%",
+        "size": "auto"
+      }
+    },
+    {
+      "class": "footer-topbar",
+      "rect": {
+        "height": 31.11250114440918,
+        "width": 117.6624984741211
+      },
+      "style": {
+        "background": "none",
+        "border": "0px none rgb(255, 255, 255)",
+        "columns": "none",
+        "size": "auto"
+      }
+    },
+    {
+      "class": "footer_link-list right-mobile",
+      "rect": {
+        "height": 197.9125061035156,
+        "width": 364.8000183105469
+      },
+      "style": {
+        "background": "url(\"https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a81_texture-denim.avif\")",
+        "border": "",
+        "columns": "100%",
+        "size": "auto"
+      }
+    },
+    {
+      "class": "footer-topbar",
+      "rect": {
+        "height": 31.11250114440918,
+        "width": 104.3499984741211
+      },
+      "style": {
+        "background": "none",
+        "border": "0px none rgb(255, 255, 255)",
+        "columns": "none",
+        "size": "auto"
+      }
+    },
+    {
+      "class": "footer_link-list",
+      "rect": {
+        "height": 223.9125061035156,
+        "width": 364.8000183105469
+      },
+      "style": {
+        "background": "url(\"https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a81_texture-denim.avif\")",
+        "border": "",
+        "columns": "100%",
+        "size": "auto"
+      }
+    },
+    {
+      "class": "footer-topbar",
+      "rect": {
+        "height": 31.11250114440918,
+        "width": 94.3375015258789
+      },
+      "style": {
+        "background": "none",
+        "border": "0px none rgb(255, 255, 255)",
+        "columns": "none",
+        "size": "auto"
+      }
+    },
+    {
+      "class": "footer_link-list right-mobile",
+      "rect": {
+        "height": 223.9125061035156,
+        "width": 364.8000183105469
+      },
+      "style": {
+        "background": "url(\"https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a81_texture-denim.avif\")",
+        "border": "",
+        "columns": "100%",
+        "size": "auto"
+      }
+    },
+    {
+      "class": "footer-topbar",
+      "rect": {
+        "height": 31.11250114440918,
+        "width": 83.55000305175781
+      },
+      "style": {
+        "background": "none",
+        "border": "0px none rgb(255, 255, 255)",
+        "columns": "none",
+        "size": "auto"
+      }
+    },
+    {
+      "class": "footer_link-list last",
+      "rect": {
+        "height": 171.1125030517578,
+        "width": 364.8000183105469
+      },
+      "style": {
+        "background": "url(\"https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a81_texture-denim.avif\")",
+        "border": "",
+        "columns": "100%",
+        "size": "auto"
+      }
+    },
+    {
+      "class": "footer-topbar",
+      "rect": {
+        "height": 31.11250114440918,
+        "width": 97.70000457763672
+      },
+      "style": {
+        "background": "none",
+        "border": "0px none rgb(255, 255, 255)",
+        "columns": "none",
+        "size": "auto"
+      }
+    }
+  ],
+  "pixelElements": [
+    {
+      "children": 3,
+      "class": "replicas-both pixel-section v2",
+      "rect": {
+        "height": 224.3249969482422,
+        "width": 422.3125
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    },
+    {
+      "children": 0,
+      "class": "minesweeper-decorative-cell fade-pixel",
+      "rect": {
+        "height": 14,
+        "width": 14
+      },
+      "tag": "DIV"
+    }
+  ],
+  "textures": [
+    {
+      "bg": "url(\"https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6ab69b9e21f1e5bffb5e7703_hv2-pal-bg-dither.png\")",
+      "class": "section_legal-header is-pal-features is-purple-bg hv2-pal-dither"
+    },
+    {
+      "bg": "linear-gradient(rgb(234, 229, 222), rgba(255, 255, 255, 0.3)), url(\"https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6911b33e6cf103bbb1ac1484_pals-video.avif\")",
+      "class": "hv2-pals_bg"
+    },
+    {
+      "bg": "url(\"https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6908542eb9b9022ffef3a270_step%203%20bg.avif\")",
+      "class": "hv2-pals_media-frame is-3"
+    },
+    {
+      "bg": "url(\"https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/69084de8b14ac845c5fa5089_step2.avif\")",
+      "class": "hv2-pals_media-frame is-2"
+    },
+    {
+      "bg": "url(\"https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/69084a7e96f08def56a7dc73_step%201.avif\")",
+      "class": "hv2-pals_media-frame"
+    },
+    {
+      "bg": "url(\"https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a8fb62bff3cdb16541bbd92_models-api.svg\")",
+      "class": "section_legal-header models-api background-color-secondary"
+    },
+    {
+      "bg": "url(\"https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a81_texture-denim.avif\")",
+      "class": "footer_link-list"
+    },
+    {
+      "bg": "url(\"https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a81_texture-denim.avif\")",
+      "class": "footer_link-list right-mobile"
+    },
+    {
+      "bg": "url(\"https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a81_texture-denim.avif\")",
+      "class": "footer_link-list"
+    },
+    {
+      "bg": "url(\"https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a81_texture-denim.avif\")",
+      "class": "footer_link-list right-mobile"
+    },
+    {
+      "bg": "url(\"https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a81_texture-denim.avif\")",
+      "class": "footer_link-list"
+    },
+    {
+      "bg": "url(\"https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a81_texture-denim.avif\")",
+      "class": "footer_link-list right-mobile"
+    },
+    {
+      "bg": "url(\"https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a81_texture-denim.avif\")",
+      "class": "footer_link-list last"
+    }
+  ]
+}

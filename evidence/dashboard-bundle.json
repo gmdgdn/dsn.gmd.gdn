@@ -1,0 +1,477 @@
+{
+  "assets": [
+    {
+      "contentType": "text/css",
+      "id": "a37357782f440af5",
+      "kind": "stylesheet",
+      "name": "dist-wv5RvJiD.css",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/a37357782f440af5.css",
+      "url": "https://maker.tavus.io/assets/dist-wv5RvJiD.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "d3f1b8e0d52d418b",
+      "kind": "stylesheet",
+      "name": "index-CumBjg-h.css",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/d3f1b8e0d52d418b.css",
+      "url": "https://maker.tavus.io/assets/index-CumBjg-h.css"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2d1e8829eaad4b8d",
+      "kind": "image",
+      "name": "logo_full2.svg",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/2d1e8829eaad4b8d.svg",
+      "url": "https://maker.tavus.io/images/logo_full2.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e0c19d3f8b8b5fdf",
+      "kind": "image",
+      "name": "logo_full2_inverted.svg",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/e0c19d3f8b8b5fdf.svg",
+      "url": "https://maker.tavus.io/images/logo_full2_inverted.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b24ee2b6ee89abc8",
+      "kind": "image",
+      "name": "icon_google.svg",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/b24ee2b6ee89abc8.svg",
+      "url": "https://maker.tavus.io/images/icon_google.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ae9c486b112f034f",
+      "kind": "image",
+      "name": "amazon.svg",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/ae9c486b112f034f.svg",
+      "url": "https://maker.tavus.io/images/logos/amazon.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1847acf3147f339c",
+      "kind": "image",
+      "name": "deloitte.svg",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/1847acf3147f339c.svg",
+      "url": "https://maker.tavus.io/images/logos/deloitte.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c283ffb74e1b174d",
+      "kind": "image",
+      "name": "better.svg",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/c283ffb74e1b174d.svg",
+      "url": "https://maker.tavus.io/images/logos/better.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0988f33b918a7589",
+      "kind": "image",
+      "name": "orum.svg",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/0988f33b918a7589.svg",
+      "url": "https://maker.tavus.io/images/logos/orum.svg"
+    },
+    {
+      "contentType": "font/woff",
+      "id": "42c6f9d7551939ef",
+      "kind": "font",
+      "name": "PerfectlyNineties-Regular.woff",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/42c6f9d7551939ef.woff",
+      "url": "https://maker.tavus.io/fonts/PerfectlyNineties-Regular.woff"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "7ea5b9fabd967acc",
+      "kind": "font",
+      "name": "SuisseIntl-Medium.woff2",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/7ea5b9fabd967acc.woff2",
+      "url": "https://maker.tavus.io/fonts/SuisseIntl-Medium.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "24532b6af3cfcf27",
+      "kind": "font",
+      "name": "BerkeleyMono-Regular.woff2",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/24532b6af3cfcf27.woff2",
+      "url": "https://maker.tavus.io/fonts/BerkeleyMono-Regular.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "2824640fecd16ba9",
+      "kind": "font",
+      "name": "BerkeleyMono-Medium.woff2",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/2824640fecd16ba9.woff2",
+      "url": "https://maker.tavus.io/fonts/BerkeleyMono-Medium.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "ada027eaead80820",
+      "kind": "font",
+      "name": "SuisseIntl-Regular.woff2",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/ada027eaead80820.woff2",
+      "url": "https://maker.tavus.io/fonts/SuisseIntl-Regular.woff2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "54c2bc135d7c7f4b",
+      "kind": "image",
+      "name": "favicon.svg",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/54c2bc135d7c7f4b.svg",
+      "url": "https://maker.tavus.io/favicon.svg"
+    },
+    {
+      "contentType": "image/vnd.microsoft.icon",
+      "id": "4af37a19b9115883",
+      "kind": "image",
+      "name": "favicon.ico",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/4af37a19b9115883.ico",
+      "url": "https://maker.tavus.io/favicon.ico"
+    },
+    {
+      "contentType": "image/png",
+      "id": "ad213797a3fbe1ff",
+      "kind": "image",
+      "name": "bcg_auth_page3.png",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/ad213797a3fbe1ff.png",
+      "url": "https://maker.tavus.io/images/bcg_auth_page3.png"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "aaae035f406602bb",
+      "kind": "image",
+      "name": "svg-1",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/aaae035f406602bb.svg",
+      "url": "inline-svg:aaae035f406602bb"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a022fc6f7ff75bd6",
+      "kind": "image",
+      "name": "svg-2",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/a022fc6f7ff75bd6.svg",
+      "url": "inline-svg:a022fc6f7ff75bd6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2b00186c300be7e8",
+      "kind": "image",
+      "name": "svg-3",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/2b00186c300be7e8.svg",
+      "url": "inline-svg:2b00186c300be7e8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "36a90ebfb920a79d",
+      "kind": "image",
+      "name": "svg-4",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/36a90ebfb920a79d.svg",
+      "url": "inline-svg:36a90ebfb920a79d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c5b9d317a7bf34cd",
+      "kind": "image",
+      "name": "svg-5",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/c5b9d317a7bf34cd.svg",
+      "url": "inline-svg:c5b9d317a7bf34cd"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3e0f2e28a4fcd37a",
+      "kind": "image",
+      "name": "svg-6",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/3e0f2e28a4fcd37a.svg",
+      "url": "inline-svg:3e0f2e28a4fcd37a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ee8266e3cd9a6d15",
+      "kind": "image",
+      "name": "svg-7",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/ee8266e3cd9a6d15.svg",
+      "url": "inline-svg:ee8266e3cd9a6d15"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "57cff8560887b6bb",
+      "kind": "image",
+      "name": "svg-8",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/57cff8560887b6bb.svg",
+      "url": "inline-svg:57cff8560887b6bb"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e075fcc935535e17",
+      "kind": "image",
+      "name": "svg-9",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/e075fcc935535e17.svg",
+      "url": "inline-svg:e075fcc935535e17"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5e87b43e71555bdc",
+      "kind": "image",
+      "name": "svg-10",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/5e87b43e71555bdc.svg",
+      "url": "inline-svg:5e87b43e71555bdc"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "521e133d9056a770",
+      "kind": "image",
+      "name": "svg-11",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/521e133d9056a770.svg",
+      "url": "inline-svg:521e133d9056a770"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "77f664dba8c8a192",
+      "kind": "image",
+      "name": "svg-12",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/77f664dba8c8a192.svg",
+      "url": "inline-svg:77f664dba8c8a192"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "be19e29a531ad877",
+      "kind": "image",
+      "name": "svg-13",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/be19e29a531ad877.svg",
+      "url": "inline-svg:be19e29a531ad877"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "cfd854f1874477a7",
+      "kind": "image",
+      "name": "svg-14",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/cfd854f1874477a7.svg",
+      "url": "inline-svg:cfd854f1874477a7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b5f8acf6cd5d8677",
+      "kind": "image",
+      "name": "svg-15",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/b5f8acf6cd5d8677.svg",
+      "url": "inline-svg:b5f8acf6cd5d8677"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c9c0155add1e1180",
+      "kind": "image",
+      "name": "svg-16",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/c9c0155add1e1180.svg",
+      "url": "inline-svg:c9c0155add1e1180"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "36f1427e04b4f458",
+      "kind": "image",
+      "name": "svg-17",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/36f1427e04b4f458.svg",
+      "url": "inline-svg:36f1427e04b4f458"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c2ebe29bd7f5a8ee",
+      "kind": "image",
+      "name": "svg-18",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/c2ebe29bd7f5a8ee.svg",
+      "url": "inline-svg:c2ebe29bd7f5a8ee"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7447c7604ab7706a",
+      "kind": "image",
+      "name": "svg-19",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/7447c7604ab7706a.svg",
+      "url": "inline-svg:7447c7604ab7706a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2665fa06ceff9369",
+      "kind": "image",
+      "name": "svg-20",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/2665fa06ceff9369.svg",
+      "url": "inline-svg:2665fa06ceff9369"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9540e5a33652d543",
+      "kind": "image",
+      "name": "svg-21",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/9540e5a33652d543.svg",
+      "url": "inline-svg:9540e5a33652d543"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e1b03eb2479175c6",
+      "kind": "image",
+      "name": "svg-22",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/e1b03eb2479175c6.svg",
+      "url": "inline-svg:e1b03eb2479175c6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d2ce3573de7f3fc8",
+      "kind": "image",
+      "name": "svg-23",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/d2ce3573de7f3fc8.svg",
+      "url": "inline-svg:d2ce3573de7f3fc8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d0521ade546c3951",
+      "kind": "image",
+      "name": "svg-24",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/d0521ade546c3951.svg",
+      "url": "inline-svg:d0521ade546c3951"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1da7451465e9f904",
+      "kind": "image",
+      "name": "svg-25",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/1da7451465e9f904.svg",
+      "url": "inline-svg:1da7451465e9f904"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bfa9da3e28c0b4fb",
+      "kind": "image",
+      "name": "svg-26",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/bfa9da3e28c0b4fb.svg",
+      "url": "inline-svg:bfa9da3e28c0b4fb"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1b5e199aea17a355",
+      "kind": "image",
+      "name": "svg-27",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/1b5e199aea17a355.svg",
+      "url": "inline-svg:1b5e199aea17a355"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e8d4c62984bbb7f3",
+      "kind": "image",
+      "name": "svg-28",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/e8d4c62984bbb7f3.svg",
+      "url": "inline-svg:e8d4c62984bbb7f3"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e246f150d75f096c",
+      "kind": "image",
+      "name": "svg-29",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/e246f150d75f096c.svg",
+      "url": "inline-svg:e246f150d75f096c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f235110b7f08b815",
+      "kind": "image",
+      "name": "svg-30",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/f235110b7f08b815.svg",
+      "url": "inline-svg:f235110b7f08b815"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0402e0dac9bfce4c",
+      "kind": "image",
+      "name": "svg-31",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/0402e0dac9bfce4c.svg",
+      "url": "inline-svg:0402e0dac9bfce4c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "59ef551c6f75dbb6",
+      "kind": "image",
+      "name": "svg-32",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/59ef551c6f75dbb6.svg",
+      "url": "inline-svg:59ef551c6f75dbb6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "95dfd0ce733406c1",
+      "kind": "image",
+      "name": "svg-33",
+      "path": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/95dfd0ce733406c1.svg",
+      "url": "inline-svg:95dfd0ce733406c1"
+    }
+  ],
+  "directoryPath": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64",
+  "failures": [
+    {
+      "contentType": null,
+      "id": "29b8ff9e3faafbf2",
+      "name": "collect",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (px.ads.linkedin.com)\n    at https://maker.tavus.io/assets/utils-D-xR-lfy.js:33:23870\n    at async ZZ (<anonymous>:1:35)",
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=7341604&time=1791015850461&li_adsId=869bc956-ebde-4c72-9185-5eb7a1ebafb0&pageLoadId=bb7bec26-a4ff-429f-951e-edf18ae5f0ca&url=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue"
+    },
+    {
+      "contentType": null,
+      "id": "46dfdc3fee45cb53",
+      "name": "11287075596",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (www.googleadservices.com)\n    at https://maker.tavus.io/assets/utils-D-xR-lfy.js:33:23870\n    at async ZZ (<anonymous>:1:35)",
+      "url": "https://www.googleadservices.com/ccm/conversion/11287075596/?random=1791015851068&cv=11&fst=1791015851068&fmt=3&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45je69u2v9105665726z89237993924za20gzb9237993924zd9237993924xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121125487&u_w=1536&u_h=864&url=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue&rcb=12&label=9KRLCJSc2-YbEIy2jIYq&frm=0&tiba=Sign%20In%20%E2%80%93%20Tavus&bttype=purchase&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&oid=GG_572302856.1791015851&oidsrc=3&ecsid2=603236924.1791015302&_tu=CBA&gcl_ctr=1~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1"
+    },
+    {
+      "contentType": null,
+      "id": "4532b66c13467ed1",
+      "name": "11287075596",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (www.google.com)\n    at https://maker.tavus.io/assets/utils-D-xR-lfy.js:33:23870\n    at async ZZ (<anonymous>:1:35)",
+      "url": "https://www.google.com/pagead/1p-user-list/11287075596/?random=1791015851050&cv=11&fst=1791014400000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je69u2v9105665726z89237993924za20gzb9237993924zd9237993924xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121125487&u_w=1536&u_h=864&url=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue&rcb=12&frm=0&tiba=Sign%20In%20%E2%80%93%20Tavus&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config%3Bsent_page_view%3Dfalse&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3Jg0_8N6Ifl6Web4RlVN3-bzLhyDBppDdzSblb0f0ykpvBXJ9SsM2_-FojmkRligyz-USNzEi-OfjxZ_0z3CbfOhmdA2045NsouxsnaKs0G4KwF9_pvJx1pifKj0QPfF70fgUYpZg4DWRPRHGj8DPNdOfl4ovRd8NNJppACRXDks0jpMu-yjIWhSuRgzUTGMjO1zUAblIDQUfuXaIuAjgmSc2jlfJ-BH0Ba-Ixvl1cR-pN_ASxYAswsTVrZzrB1kb2fIQIilCT2_Uy3WNFylqw8miralULnWzvM4b0TR&random=1514182833&rmt_tld=0&ipr=y"
+    },
+    {
+      "contentType": null,
+      "id": "fd9a416f20df8476",
+      "name": "11287075596",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (www.google.com.eg)\n    at https://maker.tavus.io/assets/utils-D-xR-lfy.js:33:23870\n    at async ZZ (<anonymous>:1:35)",
+      "url": "https://www.google.com.eg/pagead/1p-user-list/11287075596/?random=1791015851050&cv=11&fst=1791014400000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je69u2v9105665726z89237993924za20gzb9237993924zd9237993924xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121125487&u_w=1536&u_h=864&url=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue&rcb=12&frm=0&tiba=Sign%20In%20%E2%80%93%20Tavus&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config%3Bsent_page_view%3Dfalse&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3Jg0_8N6Ifl6Web4RlVN3-bzLhyDBppDdzSblb0f0ykpvBXJ9SsM2_-FojmkRligyz-USNzEi-OfjxZ_0z3CbfOhmdA2045NsouxsnaKs0G4KwF9_pvJx1pifKj0QPfF70fgUYpZg4DWRPRHGj8DPNdOfl4ovRd8NNJppACRXDks0jpMu-yjIWhSuRgzUTGMjO1zUAblIDQUfuXaIuAjgmSc2jlfJ-BH0Ba-Ixvl1cR-pN_ASxYAswsTVrZzrB1kb2fIQIilCT2_Uy3WNFylqw8miralULnWzvM4b0TR&random=1514182833&rmt_tld=1&ipr=y"
+    },
+    {
+      "contentType": null,
+      "id": "78cba1ede85997bb",
+      "name": "collect",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (px.ads.linkedin.com)\n    at https://maker.tavus.io/assets/utils-D-xR-lfy.js:33:23870\n    at async ZZ (<anonymous>:1:35)",
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=7341604&time=1791015872236&li_adsId=869bc956-ebde-4c72-9185-5eb7a1ebafb0&pageLoadId=bb7bec26-a4ff-429f-951e-edf18ae5f0ca&conversionId=30720922&url=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue&tm=gtmv2"
+    },
+    {
+      "contentType": null,
+      "id": "e1dde8fc5c3b587e",
+      "name": "11287075596",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (www.googleadservices.com)\n    at https://maker.tavus.io/assets/utils-D-xR-lfy.js:33:23870\n    at async ZZ (<anonymous>:1:35)",
+      "url": "https://www.googleadservices.com/ccm/conversion/11287075596/?random=1791015872237&cv=11&fst=1791015872237&fmt=3&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45je69u2v9105665726z89237993924za20gzb9237993924zd9237993924xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121125487&u_w=1536&u_h=864&url=https%3A%2F%2Fmaker.tavus.io%2Fauth%2Fsign-in%3Fis_developer%3Dtrue&rcb=12&label=FH-mCIrg6vobEIy2jIYq&frm=0&tiba=Sign%20In%20%E2%80%93%20Tavus&bttype=purchase&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&oid=GG_1608603877.1791015872&oidsrc=3&ecsid2=603236924.1791015302&_tu=CBA&gcl_ctr=2~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1"
+    },
+    {
+      "contentType": "text/plain",
+      "id": "6ff89a05dac0331f",
+      "name": "tr",
+      "reason": "Asset response type text/plain is not valid for image",
+      "url": "https://www.facebook.com/tr/?id=1008078485164063&ev=PageView&dl=https%3A%2F%2Fmaker.tavus.io%2Fdev&rl=&if=false&ts=1791015873232&iw=false&sw=1536&sh=864&v=2.9.414&r=stable&ec=1&o=4126&aems=0%3B0&fbp=fb.1.1791015303037.890764612866262661&eid=ob3_plugin-set_2bae9aeb68926b2363fb74aad857b2d6f832686b8a29d4f2dc837b30105718af&cs_est=true&ler=empty&cdl=API_unavailable&pmd[title]=Sign%20In%20%E2%80%93%20Tavus&pmd[locale]=en&pmd[description]=Build%20AI%20humans%20that%20see%2C%20hear%2C%20and%20talk%20face%20to%20face%20in%20real%20time.%20Deploy%20custom%20video%20agents%2C%20digital%20twins%2C%20and%20AI%20companions%20in%2030%2B%20languages%20with%20simple%20APIs.&plt=1306&iss=1&ss=%7B%22page_description%22%3A%5B%7B%22rid%22%3A%222184859378760054%22%2C%22v%22%3A%5B%22Build%20AI%20humans%20that%20see%2C%20hear%2C%20and%20talk%20face%20to%20face%20in%20real%20time.%20Deploy%20custom%20video%20agents%2C%20digital%20twins%2C%20and%20AI%20companions%20in%2030%2B%20languages%20with%20simple%20APIs.%22%5D%7D%5D%2C%22entity_name%22%3A%5B%7B%22rid%22%3A%224635138673470167%22%2C%22v%22%3A%5B%22Tavus%3A%20The%20human%20computing%20company%22%5D%7D%5D%7D&imft=1&tz=180&it=1791015873227&coo=false&cf=1&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im1&expv2[6]=hf0&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah1&rqm=GET"
+    },
+    {
+      "contentType": "text/plain",
+      "id": "98fd71a8d305d1b4",
+      "name": "tr",
+      "reason": "Asset response type text/plain is not valid for image",
+      "url": "https://www.facebook.com/tr/?id=1008078485164063&ev=PageView&dl=https%3A%2F%2Fmaker.tavus.io%2Fdev%2Fhome&rl=&if=false&ts=1791015873241&iw=false&sw=1536&sh=864&v=2.9.414&r=stable&ec=2&o=4126&aems=0%3B0&fbp=fb.1.1791015303037.890764612866262661&eid=ob3_plugin-set_2fb30e1543eaf3d9c0c80221fbd785802fda332eb747a539e5b43d268c638942&cs_est=true&ler=empty&cdl=API_unavailable&pmd[title]=Sign%20In%20%E2%80%93%20Tavus&pmd[locale]=en&pmd[description]=Build%20AI%20humans%20that%20see%2C%20hear%2C%20and%20talk%20face%20to%20face%20in%20real%20time.%20Deploy%20custom%20video%20agents%2C%20digital%20twins%2C%20and%20AI%20companions%20in%2030%2B%20languages%20with%20simple%20APIs.&plt=1306&iss=1&ss=%7B%22page_description%22%3A%5B%7B%22rid%22%3A%222184859378760054%22%2C%22v%22%3A%5B%22Build%20AI%20humans%20that%20see%2C%20hear%2C%20and%20talk%20face%20to%20face%20in%20real%20time.%20Deploy%20custom%20video%20agents%2C%20digital%20twins%2C%20and%20AI%20companions%20in%2030%2B%20languages%20with%20simple%20APIs.%22%5D%7D%5D%2C%22entity_name%22%3A%5B%7B%22rid%22%3A%224635138673470167%22%2C%22v%22%3A%5B%22Tavus%3A%20The%20human%20computing%20company%22%5D%7D%5D%7D&imft=1&tz=180&it=1791015873237&coo=false&cf=1&expv2[0]=pl0&expv2[1]=el2&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im1&expv2[6]=hf0&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah1&rqm=GET"
+    },
+    {
+      "contentType": "text/plain",
+      "id": "742f09b542df82b6",
+      "name": "tr",
+      "reason": "Asset response type text/plain is not valid for image",
+      "url": "https://www.facebook.com/tr/?id=1008078485164063&ev=PageView&dl=https%3A%2F%2Fmaker.tavus.io%2Fonboarding&rl=&if=false&ts=1791015873693&iw=false&sw=1536&sh=864&v=2.9.414&r=stable&ec=3&o=4126&aems=0%3B0&fbp=fb.1.1791015303037.890764612866262661&eid=ob3_plugin-set_dc2017449a7b3d039e4fc36638ff670ddef043b284a291352b9d8a06053bc496&cs_est=true&ler=empty&cdl=API_unavailable&pmd[title]=Home%20%E2%80%93%20Tavus&pmd[locale]=en&pmd[description]=Build%20AI%20humans%20that%20see%2C%20hear%2C%20and%20talk%20face%20to%20face%20in%20real%20time.%20Deploy%20custom%20video%20agents%2C%20digital%20twins%2C%20and%20AI%20companions%20in%2030%2B%20languages%20with%20simple%20APIs.&plt=1306&iss=1&ss=%7B%22page_description%22%3A%5B%7B%22rid%22%3A%222184859378760054%22%2C%22v%22%3A%5B%22Build%20AI%20humans%20that%20see%2C%20hear%2C%20and%20talk%20face%20to%20face%20in%20real%20time.%20Deploy%20custom%20video%20agents%2C%20digital%20twins%2C%20and%20AI%20companions%20in%2030%2B%20languages%20with%20simple%20APIs.%22%5D%7D%5D%2C%22entity_name%22%3A%5B%7B%22rid%22%3A%224635138673470167%22%2C%22v%22%3A%5B%22Tavus%3A%20The%20human%20computing%20company%22%5D%7D%5D%7D&imft=1&tz=180&it=1791015873689&coo=false&cf=1&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im1&expv2[6]=hf0&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah1&rqm=GET"
+    }
+  ],
+  "manifestPath": "C:\\Users\\khorm\\AppData\\Local\\Temp/browser-use/assets/dbd7c03c-2e7b-469a-9e62-49f43d4efb64/manifest.json",
+  "summary": {
+    "downloadedCount": 50,
+    "elapsedMs": 7217.80839999998,
+    "failedCount": 9,
+    "requestedCount": 59
+  }
+}

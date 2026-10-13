@@ -1,0 +1,422 @@
+- main:
+  - complementary:
+    - navigation:
+      - link "Go to Home Page":
+        - /url: /dev/home
+      - link "New PAL":
+        - /url: /dev/pals/create
+        - generic: New PAL
+      - list:
+        - link "Home":
+          - /url: /dev/home
+          - generic: Home
+        - link "PALs":
+          - /url: /dev/pals
+          - generic: PALs
+        - link "Deployments":
+          - /url: /dev/deployments
+          - generic: Deployments
+        - link "Conversations":
+          - /url: /dev/conversations
+          - generic: Conversations
+      - heading "ASSETS" [level=3]
+      - list:
+        - link "Starter Kits":
+          - /url: /dev/starter-kits
+          - generic: Starter Kits
+        - link "Faces":
+          - /url: /dev/faces
+          - generic: Faces
+        - link "Voices":
+          - /url: /dev/voices
+          - generic: Voices
+        - link "Knowledge Base":
+          - /url: /dev/documents
+          - generic: Knowledge Base
+        - link "Memories":
+          - /url: /dev/memories
+          - generic: Memories
+        - link "Connectors & Tools":
+          - /url: /dev/connectors
+          - generic: Connectors & Tools
+        - link "Guardrails":
+          - /url: /dev/guardrails
+          - generic: Guardrails
+        - link "Pronunciations":
+          - /url: /dev/pronunciation-dictionaries
+          - generic: Pronunciations
+    - list:
+      - link "Get 2× minutes when you upgrade" [active]:
+        - /url: /dev/billing
+        - generic: Get 2× minutes when you upgrade
+      - list:
+        - link "API Keys":
+          - /url: /dev/api-keys
+          - generic: API Keys
+        - button "Support":
+          - generic: Support
+      - button "gg gmd gdn":
+        - generic: gg
+        - generic: gmd gdn
+  - complementary "Griffin announcement":
+    - paragraph: "Coming soon: Griffin"
+    - paragraph: The first Human Interaction Model
+    - link "Read the research":
+      - /url: https://www.tavus.io/griffin
+      - text: Read the research
+    - link "Join the waitlist":
+      - /url: https://griffin.tavus.io/waitlist
+      - text: Join the waitlist
+    - button "Dismiss the Griffin announcement":
+  - heading "Billing" [level=1]
+  - button "Account Balance & Invoices":
+    - generic: Account Balance & Invoices
+  - button "Change Payment Method"
+  - heading "You're on Free" [level=2]
+  - paragraph: Good for kicking the tires — not built for launch.
+  - generic: CVI minutes
+  - text: "0"
+  - generic: / 20
+  - generic: Charlie's PALs minutes
+  - text: "0"
+  - generic: / 150
+  - heading "Have a coupon?" [level=3]:
+    - button "Have a coupon?":
+      - generic: Have a coupon?
+  - generic: 2× conversation minutes on us
+  - generic: Double your included minutes the first time you upgrade to a higher plan.
+  - generic: 2XTAVUS
+  - heading "Plans that fit every use case." [level=1]
+  - paragraph: Build intelligent, real-time conversational AI agents with the highest quality video and audio.
+  - button "Scroll to more plans":
+  - generic: Current plan
+  - generic: Free
+  - generic: For users that want to get their feet wet
+  - generic: Free
+  - button "Current plan" [disabled]
+  - list:
+    - generic: Whitelabeled APIs + no code platform
+    - generic: 20 free minutes of AI Conversational Video
+    - generic: Access to stock replicas
+    - generic: Support for 42+ languages
+  - generic: Starter
+  - generic: For builders starting to craft human-AI experiences
+  - generic: $22
+  - generic: /mo
+  - generic: ↑
+  - generic: Adds custom replicas + a meeting seat
+  - button "Upgrade"
+  - generic: "Everything in Free, plus:"
+  - list:
+    - generic: 2× first month
+    - generic: 60120 minutes of Conversational Video
+    - generic: 1 Custom Replica slot
+    - generic: 1 Google Meet/Zoom/Teams seat
+    - generic: 1 concurrent session
+  - generic: Most popular
+  - generic: Builder
+  - generic: For individuals, startups, & businesses that are building and testing
+  - generic: $59
+  - generic: /mo
+  - generic: ↑
+  - generic: Unlimited overage + watermark removed
+  - button "Upgrade"
+  - generic: "Everything in Starter, plus:"
+  - list:
+    - generic: 2× first month
+    - generic: 175350 minutes of Conversational Video
+    - generic: 3 Custom Replica slots
+    - generic: Up to 3 concurrent sessions
+    - generic: 3 Google Meet/Zoom/Teams seats
+    - generic: Pay as you go usage with no limit
+    - generic: Access to 25 stock replicas
+    - generic: No watermark
+  - generic: Growth
+  - generic: For teams productionizing AI conversation experiences
+  - generic: $397
+  - generic: /mo
+  - generic: ↑
+  - generic: 10× concurrency + no duration limit
+  - button "Upgrade"
+  - generic: "Everything in Builder, plus:"
+  - list:
+    - generic: 2× first month
+    - generic: 1,3002,600 minutes of Conversational Video
+    - generic: 7 Custom Replica slots
+    - generic: Up to 10 concurrent sessions
+    - generic: 7 Google Meet/Zoom/Teams seats
+    - generic: Access to 100+ Stock Replicas
+    - generic: Conversation recordings
+    - generic: No conversation duration limit
+  - generic: Business
+  - generic: For companies who are starting to scale, or want direct support
+  - generic: $975
+  - generic: /mo
+  - generic: ↑
+  - generic: Priority support + onboarding call
+  - button "Upgrade"
+  - generic: "Everything in Growth, plus:"
+  - list:
+    - generic: 2× first month
+    - generic: 4,0008,000 minutes of Conversational Video
+    - generic: 15 Custom Replica slots
+    - generic: Up to 15 concurrent sessions
+    - generic: 15 Google Meet/Zoom/Teams seats
+    - generic: Access to 100+ Stock Replicas
+    - generic: Priority support and 1:1 onboarding call
+  - generic: Enterprise
+  - generic: For enterprise needs, scaling volumes, and advanced use cases
+  - generic: Custom
+  - generic: Volume discounts
+  - generic: ↑
+  - generic: Full white-label + SLAs + dedicated support
+  - link "Talk to sales":
+    - /url: https://www.tavus.io/demo
+    - text: Talk to sales
+  - generic: "Everything in Business, plus:"
+  - list:
+    - generic: 100% whitelabeled experience
+    - generic: Access to dedicated Stock Replicas
+    - generic: Whitelabeled Google Team Domains
+    - generic: Significant scaling discounts
+    - generic: Custom concurrency limits
+    - generic: Top tier technical support
+    - generic: Enterprise-grade security and compliance
+    - generic: SLAs for speed and compute
+    - generic: Faster boot times
+    - generic: Bespoke solutions and forward deployed
+    - generic: Dedicated Slack channel
+  - paragraph:
+    - text: Not sure which plan fits, or have questions?
+    - link "Get in touch with the team":
+      - /url: https://www.tavus.io/demo
+    - text: .
+  - heading "Trusted by the world's most innovative companies" [level=2]
+  - img "amazon"
+  - img "Deloitte"
+  - img "better"
+  - img "Orum"
+  - generic: 2B+
+  - generic: Interactions powered
+  - generic: 42+
+  - generic: Languages supported
+  - generic: 100,000+
+  - generic: Users building
+  - heading "The full Conversational AI stack" [level=2]
+  - paragraph: Everything you need to build an exceptional experience — from Free to Enterprise.
+  - generic: General Features
+  - list:
+    - text: API access
+    - button "About API access":
+    - generic: End-to-end Conversational Video and Audio pipeline
+    - generic: State of Art Models
+    - generic: Deployment-ready prebuilt components
+    - text: No-code platform to create conversations
+    - button "About No-code platform to create conversations":
+    - generic: Custom replicas creation
+    - generic: Best in class support
+  - generic: Conversational Video Interface
+  - list:
+    - generic: All steps — LLM, TTS, WebRTC — included in price
+    - generic: Lowest market latency
+    - generic: 1080p resolution, 24kHz fidelity
+    - generic: Audio only and video pipeline modes
+    - generic: Intelligent conversation flow
+    - generic: Explicit and implicit emotion control
+    - generic: Audio and visual perception
+    - generic: Optimized Knowledge Base (RAG)
+  - list:
+    - generic: Dynamic Memories
+    - text: Objectives and Guardrails
+    - button "About Objectives and Guardrails":
+    - text: Function Calling + Tools
+    - button "About Function Calling + Tools":
+    - generic: Custom Pronunciation Dictionary
+    - generic: Advanced noise cancellation and speaker isolation
+    - generic: Conversation transcripts and recordings
+    - generic: Google Meet, Zoom & Teams integration
+    - generic: Pipecat and Livekit integrations
+  - heading "Every detail, by category" [level=2]
+  - paragraph: Everything across every plan, in one view.
+  - generic: Feature
+  - text: Free
+  - button "Current" [disabled]
+  - text: Starter
+  - button "Upgrade"
+  - text: Builder
+  - button "Upgrade"
+  - text: Growth
+  - button "Upgrade"
+  - text: Business
+  - button "Upgrade"
+  - text: Enterprise
+  - link "Sales":
+    - /url: https://www.tavus.io/demo
+    - text: Sales
+  - heading "General Features" [level=3]:
+    - button "General Features":
+      - text: General Features
+  - heading "Faces" [level=3]:
+    - button "Faces":
+      - text: Faces
+  - heading "Conversational Video Interface" [level=3]:
+    - button "Conversational Video Interface" [expanded]:
+      - text: Conversational Video Interface
+  - region "Conversational Video Interface":
+    - text: Maximum concurrent sessions
+    - button "About Maximum concurrent sessions":
+    - generic: "1"
+    - generic: "1"
+    - generic: "3"
+    - generic: "10"
+    - generic: "15"
+    - generic: Custom
+    - text: Included Conversational Video minutes
+    - button "About Included Conversational Video minutes":
+    - generic: 20 min / month
+    - generic: 60 min / month
+    - generic: 175 min / month
+    - generic: 1,300 min / month
+    - generic: 4,000 min / month
+    - generic: Custom
+    - text: Pay-as-you-go CVI overage
+    - button "About Pay-as-you-go CVI overage":
+    - generic: —
+    - generic: —
+    - generic: $0.35 per minute
+    - generic: $0.31 per minute
+    - generic: $0.26 per minute
+    - generic: Significant scaling discounts
+    - text: Maximum conversation duration
+    - button "About Maximum conversation duration":
+    - generic: 5 min
+    - generic: 5 min
+    - generic: 15 min
+    - generic: Unlimited
+    - generic: Unlimited
+    - generic: Unlimited
+    - text: Prioritized call starts
+    - button "About Prioritized call starts":
+    - generic: —
+    - generic: —
+    - generic: —
+    - generic: —
+    - generic: Dedicated
+    - text: Pipeline modes available
+    - button "About Pipeline modes available":
+    - generic: Audio only, audio + video
+    - generic: Audio only, audio + video
+    - generic: Audio only, audio + video
+    - generic: Audio only, audio + video
+    - generic: Audio only, audio + video
+    - generic: Audio only, audio + video
+    - text: High resolution
+    - button "About High resolution":
+    - generic: 1080p
+    - generic: 1080p
+    - generic: 1080p
+    - generic: 1080p
+    - generic: 1080p
+    - generic: 1080p
+    - text: Highest fidelity audio
+    - button "About Highest fidelity audio":
+    - generic: 24kHz
+    - generic: 24kHz
+    - generic: 24kHz
+    - generic: 24kHz
+    - generic: 24kHz
+    - generic: 24kHz
+    - text: 42 Languages
+    - button "About 42 Languages":
+    - text: Full face generation (Phoenix-4)
+    - button "About Full face generation (Phoenix-4)":
+    - text: Emotion control (Phoenix-4)
+    - button "About Emotion control (Phoenix-4)":
+    - text: Perception + Vision (Raven-1)
+    - button "About Perception + Vision (Raven-1)":
+    - text: Intelligent conversation flow + STT (Sparrow-1)
+    - button "About Intelligent conversation flow + STT (Sparrow-1)":
+    - text: Dynamic audio generation
+    - button "About Dynamic audio generation":
+    - text: Finetuned LLM or bring your own
+    - button "About Finetuned LLM or bring your own":
+    - text: Knowledge Base (RAG)
+    - button "About Knowledge Base (RAG)":
+    - text: Memories
+    - button "About Memories":
+    - text: Objectives and Guardrails
+    - button "About Objectives and Guardrails":
+    - text: Function Calling + Tools
+    - button "About Function Calling + Tools":
+    - text: Pronunciation Dictionary
+    - button "About Pronunciation Dictionary":
+    - text: Noise cancellation and speaker isolation
+    - button "About Noise cancellation and speaker isolation":
+    - text: Google Meet, Zoom & Teams Integration
+    - button "About Google Meet, Zoom & Teams Integration":
+    - generic: —
+    - text: Conversation transcripts
+    - button "About Conversation transcripts":
+    - text: Conversation recordings
+    - button "About Conversation recordings":
+    - generic: —
+    - generic: —
+    - generic: —
+    - generic: $.03 per Minute
+    - generic: $.03 per Minute
+    - generic: Scaling discounts
+    - text: 3rd party integration
+    - button "About 3rd party integration":
+    - text: Alpha channel video
+    - button "About Alpha channel video":
+  - heading "Video Generation" [level=3]:
+    - button "Video Generation":
+      - text: Video Generation
+  - heading "Support and Services" [level=3]:
+    - button "Support and Services":
+      - text: Support and Services
+  - heading "Pricing FAQs" [level=1]
+  - heading "How do conversation minutes work?" [level=3]:
+    - button "How do conversation minutes work?" [expanded]:
+      - text: How do conversation minutes work?
+  - region "How do conversation minutes work?":
+    - generic: Conversation minutes measure live CVI usage — the time an AI human is actively in a session with a user, from the API call connect to disconnect. Each conversation is rounded to the nearest 6-second increment, and incurs a 30-second minimum charge regardless of duration.
+  - heading "What’s included in CVI? Are there additional services needed?" [level=3]:
+    - button "What’s included in CVI? Are there additional services needed?":
+      - text: What’s included in CVI? Are there additional services needed?
+  - heading "How to minimize CVI usage while testing?" [level=3]:
+    - button "How to minimize CVI usage while testing?":
+      - text: How to minimize CVI usage while testing?
+  - heading "What happens if I go over my plan minutes?" [level=3]:
+    - button "What happens if I go over my plan minutes?":
+      - text: What happens if I go over my plan minutes?
+  - heading "What are concurrent sessions / streams?" [level=3]:
+    - button "What are concurrent sessions / streams?":
+      - text: What are concurrent sessions / streams?
+  - heading "What is async/video generation, and how is it different from CVI?" [level=3]:
+    - button "What is async/video generation, and how is it different from CVI?":
+      - text: What is async/video generation, and how is it different from CVI?
+  - heading "What’s the difference between audio-only and audio+video pipeline modes?" [level=3]:
+    - button "What’s the difference between audio-only and audio+video pipeline modes?":
+      - text: What’s the difference between audio-only and audio+video pipeline modes?
+  - heading "What’s a custom AI human replica?" [level=3]:
+    - button "What’s a custom AI human replica?":
+      - text: What’s a custom AI human replica?
+  - heading "How do Custom Replica slots work?" [level=3]:
+    - button "How do Custom Replica slots work?":
+      - text: How do Custom Replica slots work?
+  - heading "Do you offer custom pricing or plans?" [level=3]:
+    - button "Do you offer custom pricing or plans?":
+      - text: Do you offer custom pricing or plans?
+  - heading "Where can I see my usage and invoices?" [level=3]:
+    - button "Where can I see my usage and invoices?":
+      - text: Where can I see my usage and invoices?
+  - heading "What is included in Enterprise support?" [level=3]:
+    - button "What is included in Enterprise support?":
+      - text: What is included in Enterprise support?
+  - heading "I have a question, how can I get in touch?" [level=3]:
+    - button "I have a question, how can I get in touch?":
+      - text: I have a question, how can I get in touch?
+- region "Notifications (F8)":
+  - list
+- iframe [id="I0_1791015854049"] [name="I0_1791015854049"]

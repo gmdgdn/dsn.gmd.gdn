@@ -1,0 +1,82 @@
+/* Generated from tokens.json by scripts/build_assets.py. */
+@font-face { font-family: 'PerfectlyNineties'; src: url('./assets/fonts/PerfectlyNineties-Regular.woff') format('woff'); font-display: swap; }
+@font-face { font-family: 'SuisseIntl'; src: url('./assets/fonts/SuisseIntl-Regular.woff2') format('woff2'); font-weight: 400; font-display: swap; }
+@font-face { font-family: 'SuisseIntl'; src: url('./assets/fonts/SuisseIntl-Medium.woff2') format('woff2'); font-weight: 500; font-display: swap; }
+@font-face { font-family: 'FKRaster'; src: url('./assets/fonts/FKRasterGroteskCompact.woff2') format('woff2'); font-display: swap; }
+@font-face { font-family: 'NotoNaskhArabic'; src: url('./assets/fonts/NotoNaskhArabic-Regular.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: 'NotoNaskhArabic'; src: url('./assets/fonts/NotoNaskhArabic-Bold.ttf') format('truetype'); font-weight: 700; font-display: swap; }
+@font-face { font-family: 'NotoSansArabic'; src: url('./assets/fonts/NotoSansArabic-Regular.ttf') format('truetype'); font-display: swap; }
+:root {
+  --gmd-v01-ink: #140206;
+  --gmd-v01-paper: #F7F4EF;
+  --gmd-v01-warm: #EAE5DE;
+  --gmd-v01-surface: #FFFDFB;
+  --gmd-v01-charcoal: #28292A;
+  --gmd-v01-muted: #625E5B;
+  --gmd-v01-action: #FF6183;
+  --gmd-v01-pink-50: #FFF0F4;
+  --gmd-v01-pink-100: #FFD8E3;
+  --gmd-v01-pink-300: #FFA6BD;
+  --gmd-v01-pink-500: #FF6183;
+  --gmd-v01-pink-700: #D7335B;
+  --gmd-v01-pink-900: #84142F;
+  --gmd-v01-sand-50: #FBF7F0;
+  --gmd-v01-sand-100: #F2E9D9;
+  --gmd-v01-sand-300: #D5C4A8;
+  --gmd-v01-sand-500: #AD9470;
+  --gmd-v01-sand-700: #705B3E;
+  --gmd-v01-sand-900: #3D3021;
+  --gmd-v01-nile-50: #E9EEFB;
+  --gmd-v01-nile-100: #D3DDF7;
+  --gmd-v01-nile-200: #A7BBEF;
+  --gmd-v01-nile-300: #7B99E7;
+  --gmd-v01-nile-400: #4F77DF;
+  --gmd-v01-nile-500: #2855C8;
+  --gmd-v01-nile-600: #1034A6;
+  --gmd-v01-nile-700: #0D2A85;
+  --gmd-v01-nile-800: #0A2064;
+  --gmd-v01-nile-900: #071643;
+  --gmd-v01-nile-950: #040C22;
+  --gmd-v01-warning: #8A4B0B;
+  --gmd-v01-error: #A12B38;
+  --gmd-v01-warning-surface: #FFF1DB;
+  --gmd-v01-error-surface: #FDE8E9;
+  --ink: var(--gmd-v01-ink);
+  --paper: var(--gmd-v01-paper);
+  --warm: var(--gmd-v01-warm);
+  --surface: var(--gmd-v01-surface);
+  --nile: var(--gmd-v01-nile-600);
+  --pink: var(--gmd-v01-action);
+  --sand: var(--gmd-v01-sand-300);
+  --muted: var(--gmd-v01-muted);
+  --text-primary: var(--gmd-v01-ink);
+  --text-secondary: var(--gmd-v01-muted);
+  --text-muted: var(--gmd-v01-muted);
+  --text-inverse: var(--gmd-v01-paper);
+  --canvas: var(--gmd-v01-paper);
+  --surface-raised: var(--gmd-v01-surface);
+  --surface-subtle: var(--gmd-v01-warm);
+  --border: var(--gmd-v01-ink);
+  --border-subtle: var(--gmd-v01-sand-300);
+  --selection: var(--gmd-v01-nile-100);
+  --focus: var(--gmd-v01-nile-600);
+  --action: var(--gmd-v01-action);
+  --action-link: var(--gmd-v01-nile-600);
+  --success: var(--gmd-v01-nile-600);
+  --success-surface: var(--gmd-v01-nile-50);
+  --warning: var(--gmd-v01-warning);
+  --warning-surface: var(--gmd-v01-warning-surface);
+  --error: var(--gmd-v01-error);
+  --error-surface: var(--gmd-v01-error-surface);
+  --font-display: 'PerfectlyNineties', Georgia, serif;
+  --font-body: 'SuisseIntl', Arial, sans-serif;
+  --font-label: 'FKRaster', 'SuisseIntl', sans-serif;
+  --font-ar-display: 'NotoNaskhArabic', serif;
+  --font-ar-body: 'NotoSansArabic', 'NotoNaskhArabic', sans-serif;
+  --shadow: 5px 5px 0 var(--ink);
+  --shadow-hover: 3px 3px 0 var(--ink);
+  --radius: 0px; --workspace-radius: 2px; --border-width: 1px;
+  --focus-ring: 0 0 0 2px var(--paper), 0 0 0 4px var(--focus);
+  --depth-default: 5px 5px 0 var(--ink); --depth-hover: 3px 3px 0 var(--ink); --depth-pressed: 0 0 0 var(--ink);
+  --space-1: 4px; --space-2: 8px; --space-3: 12px; --space-4: 16px; --space-5: 24px; --space-6: 32px; --space-7: 48px; --space-8: 64px;
+}

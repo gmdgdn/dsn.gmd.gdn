@@ -1,0 +1,90 @@
+{
+  "title": "GMD Pixel Background Atlas",
+  "version": "1.0.0",
+  "items": [
+    {
+      "title": "Rosette Bloom",
+      "source": "public/assets/connected-parquet-morph.svg",
+      "filename": "pixel-rosette.svg",
+      "cell": "5px",
+      "use": "Decorative low-contrast surface behind text or cards."
+    },
+    {
+      "title": "Connected Parquet",
+      "source": "public/assets/connected-parquet-morph.svg",
+      "filename": "pixel-parquet.svg",
+      "cell": "6px",
+      "use": "Decorative low-contrast surface behind text or cards."
+    },
+    {
+      "title": "Hanging Register",
+      "source": "public/assets/egyptian-pendant-register.svg",
+      "filename": "pixel-register.svg",
+      "cell": "5px",
+      "use": "Decorative low-contrast surface behind text or cards."
+    },
+    {
+      "title": "Eight-Point Field",
+      "source": "public/assets/dual-level-field.svg",
+      "filename": "pixel-star-field.svg",
+      "cell": "6px",
+      "use": "Decorative low-contrast surface behind text or cards."
+    },
+    {
+      "title": "Interlace Crossings",
+      "source": "public/assets/true-interlace-panel.svg",
+      "filename": "pixel-strapwork.svg",
+      "cell": "5px",
+      "use": "Decorative low-contrast surface behind text or cards."
+    },
+    {
+      "title": "River Bands",
+      "source": "public/assets/connected-parquet-morph.svg",
+      "filename": "pixel-river-bands.svg",
+      "cell": "8px",
+      "use": "Decorative low-contrast surface behind text or cards."
+    },
+    {
+      "title": "Pendant Arches",
+      "source": "public/assets/egyptian-pendant-register.svg",
+      "filename": "pixel-pendant-arches.svg",
+      "cell": "7px",
+      "use": "Decorative low-contrast surface behind text or cards."
+    },
+    {
+      "title": "Star Lattice",
+      "source": "public/assets/dual-level-field.svg",
+      "filename": "pixel-star-lattice.svg",
+      "cell": "4px",
+      "use": "Decorative low-contrast surface behind text or cards."
+    },
+    {
+      "title": "Crossing Ribbons",
+      "source": "public/assets/true-interlace-panel.svg",
+      "filename": "pixel-crossing-ribbons.svg",
+      "cell": "8px",
+      "use": "Decorative low-contrast surface behind text or cards."
+    },
+    {
+      "title": "Medallion Field",
+      "source": "public/assets/connected-parquet-morph.svg",
+      "filename": "pixel-rosette-medallion.svg",
+      "cell": "9px",
+      "use": "Decorative low-contrast surface behind text or cards."
+    },
+    {
+      "title": "Leaf Register",
+      "source": "public/assets/egyptian-pendant-register.svg",
+      "filename": "pixel-leaf-register.svg",
+      "cell": "4px",
+      "use": "Decorative low-contrast surface behind text or cards."
+    },
+    {
+      "title": "Dual Grid Mosaic",
+      "source": "public/assets/dual-level-field.svg",
+      "filename": "pixel-dual-grid.svg",
+      "cell": "6px",
+      "use": "Decorative low-contrast surface behind text or cards."
+    }
+  ]
+}

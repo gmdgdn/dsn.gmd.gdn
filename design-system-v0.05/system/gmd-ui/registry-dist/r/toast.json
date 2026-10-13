@@ -1,0 +1,10 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "toast",
+  "title": "Toast (Sonner)",
+  "description": "Current toast implementation is Sonner; this alias avoids installing a second toast stack.",
+  "registryDependencies": [
+    "https://gmd-ui-registry.anagmdgdn.workers.dev/r/v0.7.2/sonner.json"
+  ],
+  "type": "registry:ui"
+}

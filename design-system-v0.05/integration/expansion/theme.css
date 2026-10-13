@@ -1,0 +1,13 @@
+/* Additive direction tokens. Shared ../tokens.css remains the source of truth. */
+:root{
+  --gmd-exp-faience:#176F73;--gmd-exp-faience-on:#FFFFFF;
+  --gmd-exp-terracotta:#9C4937;--gmd-exp-terracotta-on:#FFFFFF;
+  --gmd-exp-ochre:#8B661E;--gmd-exp-ochre-on:#FFFFFF;
+  --gmd-exp-limestone:#EEE6D7;--gmd-exp-limestone-on:var(--ink);
+  --gmd-exp-hover:var(--warm);--gmd-exp-selected:var(--gmd-v01-nile-100);--gmd-exp-selected-on:var(--ink);
+  --gmd-exp-disabled:#D7D1C9;--gmd-exp-disabled-on:#625E5B;--gmd-exp-pressed:var(--ink);
+  --gmd-exp-info:var(--nile);--gmd-exp-info-surface:var(--gmd-v01-nile-50);
+  --gmd-exp-data-1:var(--nile);--gmd-exp-data-2:var(--gmd-exp-faience);--gmd-exp-data-3:var(--gmd-exp-terracotta);
+  --gmd-exp-editorial-gap:clamp(24px,4vw,64px);--gmd-exp-workspace-gap:12px;
+  --gmd-exp-reading-measure:64ch;--gmd-exp-target:44px;
+}

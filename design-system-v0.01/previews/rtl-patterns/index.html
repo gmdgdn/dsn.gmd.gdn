@@ -1,0 +1,477 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      tailwind = { config: { corePlugins: { preflight: false } } };
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      @font-face {
+        font-family: "Fk Raster Grotesk Compact Blended";
+        src: url("fonts/tavus.io/d1a02040b2c0179e.woff2") format("woff2");
+        font-display: swap;
+        font-weight: 400;
+      }
+
+      @font-face {
+        font-family: Perfectlynineties;
+        src: url("fonts/tavus.io/1b2817a1bf827bf7.woff") format("woff");
+        font-display: swap;
+        font-weight: 400;
+      }
+
+      @font-face {
+        font-family: "Suisse Intl";
+        src: url("fonts/tavus.io/43dea5611f14d9ab.woff2") format("woff2");
+        font-display: swap;
+        font-weight: 400;
+      }
+    </style>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic%3Awght%40100..900&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      *, ::before, ::after {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body style="background-color: #f7f4ef">
+    <div
+      data-pencil-name="GMD Design System v0.01 — Bilingual Content Patterns"
+      class="box-border w-[1600px] h-[1200px] bg-[#f7f4ef] overflow-hidden relative"
+    >
+      <div
+        data-pencil-name="Header dark band"
+        class="box-border w-[1600px] h-[164px] absolute left-0 top-0 bg-[#140206] [outline:1px_solid_#140206] [outline-offset:-0.5px] [z-index:0]"
+      ></div>
+      <div
+        data-pencil-name="Board title"
+        class="text-[42px]/[55px] box-border w-[980px] absolute left-[48px] top-[34px] text-[#fffdfb] font-[Perfectlynineties,system-ui,sans-serif] font-normal text-left [z-index:1]"
+      >
+        Bilingual content patterns
+      </div>
+      <div
+        data-pencil-name="Board subtitle"
+        class="text-[16px]/[21px] box-border w-[1050px] absolute left-[48px] top-[96px] text-[#eae5de] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:2]"
+      >
+        A mirrored editorial system for English and Arabic archives, projects and datasets.
+      </div>
+      <div
+        data-pencil-name="Version kicker"
+        class="text-[13px]/[17px] box-border w-[290px] absolute left-[1260px] top-[48px] text-[#ffb4c5] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-right [z-index:3]"
+      >
+        GMD / DS 0.01
+      </div>
+      <div
+        data-pencil-name="English lane label"
+        class="text-[13px]/[17px] box-border w-[720px] absolute left-[48px] top-[188px] text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [z-index:4]"
+      >
+        EN · LEFT TO RIGHT
+      </div>
+      <div
+        data-pencil-name="Arabic lane label"
+        class="text-[13px]/[17px] box-border w-[720px] absolute left-[832px] top-[188px] text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-right [z-index:5]"
+      >
+        AR · RIGHT TO LEFT
+      </div>
+      <div
+        data-pencil-name="English navigation panel"
+        class="box-border w-[720px] h-[68px] absolute left-[48px] top-[218px] bg-[#fffdfb] [outline:1px_solid_#140206] [outline-offset:-0.5px] [z-index:6]"
+      ></div>
+      <div
+        data-pencil-name="Arabic navigation panel"
+        class="box-border w-[720px] h-[68px] absolute left-[832px] top-[218px] bg-[#fffdfb] [outline:1px_solid_#140206] [outline-offset:-0.5px] [z-index:7]"
+      ></div>
+      <div
+        data-pencil-name="English nav brand"
+        class="text-[22px]/[29px] box-border w-[86px] absolute left-[68px] top-[238px] text-[#140206] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [z-index:8]"
+      >
+        GMD
+      </div>
+      <div
+        data-pencil-name="English nav projects"
+        class="text-[14px]/[18px] box-border w-[96px] absolute left-[180px] top-[240px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:9]"
+      >
+        Projects
+      </div>
+      <div
+        data-pencil-name="English nav archives"
+        class="text-[14px]/[18px] box-border w-[96px] absolute left-[300px] top-[240px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:10]"
+      >
+        Archives
+      </div>
+      <div
+        data-pencil-name="English nav data"
+        class="text-[14px]/[18px] box-border w-[70px] absolute left-[420px] top-[240px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:11]"
+      >
+        Data
+      </div>
+      <div
+        data-pencil-name="English nav about"
+        class="text-[14px]/[18px] box-border w-[70px] absolute left-[510px] top-[240px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:12]"
+      >
+        About
+      </div>
+      <div
+        data-pencil-name="English nav language button"
+        class="box-border w-[96px] h-[42px] absolute left-[654px] top-[230px] bg-[#f7f4ef] [outline:1px_solid_#140206] [outline-offset:-0.5px] [z-index:13]"
+      ></div>
+      <div
+        data-pencil-name="English nav language label"
+        class="text-[14px]/[18px] box-border w-[72px] absolute left-[666px] top-[240px] text-[#140206] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-center [z-index:14]"
+      >
+        العربية
+      </div>
+      <div
+        data-pencil-name="Arabic nav brand"
+        class="text-[22px]/[29px] box-border w-[92px] absolute left-[1440px] top-[238px] text-[#140206] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-right [z-index:15]"
+      >
+        GMD
+      </div>
+      <div
+        data-pencil-name="Arabic nav projects"
+        class="text-[14px]/[18px] box-border w-[108px] absolute left-[1310px] top-[240px] text-[#140206] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-right [z-index:16]"
+      >
+        المشروعات
+      </div>
+      <div
+        data-pencil-name="Arabic nav archives"
+        class="text-[14px]/[18px] box-border w-[108px] absolute left-[1178px] top-[240px] text-[#140206] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-right [z-index:17]"
+      >
+        الأرشيف
+      </div>
+      <div
+        data-pencil-name="Arabic nav data"
+        class="text-[14px]/[18px] box-border w-[86px] absolute left-[1068px] top-[240px] text-[#140206] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-right [z-index:18]"
+      >
+        البيانات
+      </div>
+      <div
+        data-pencil-name="Arabic nav about"
+        class="text-[14px]/[18px] box-border w-[82px] absolute left-[964px] top-[240px] text-[#140206] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-right [z-index:19]"
+      >
+        عن جامد
+      </div>
+      <div
+        data-pencil-name="Arabic nav language button"
+        class="box-border w-[96px] h-[42px] absolute left-[850px] top-[230px] bg-[#f7f4ef] [outline:1px_solid_#140206] [outline-offset:-0.5px] [z-index:20]"
+      ></div>
+      <div
+        data-pencil-name="Arabic nav language label"
+        class="text-[14px]/[18px] box-border w-[76px] absolute left-[860px] top-[240px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-center [z-index:21]"
+      >
+        English
+      </div>
+      <div
+        data-pencil-name="Search section label"
+        class="text-[12px]/[16px] box-border w-[700px] absolute left-[48px] top-[307px] text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [z-index:22]"
+      >
+        SEARCH + FILTER / MIRRORED CONTROL
+      </div>
+      <div
+        data-pencil-name="English filter button"
+        class="box-border w-[164px] h-[58px] absolute left-[604px] top-[335px] bg-[#f7f4ef] [outline:1px_solid_#140206] [outline-offset:-0.5px] [z-index:23]"
+      ></div>
+      <div
+        data-pencil-name="English filter label"
+        class="text-[14px]/[18px] box-border w-[126px] absolute left-[623px] top-[354px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:24]"
+      >
+        Type ▾
+      </div>
+      <div
+        data-pencil-name="Arabic search field"
+        class="box-border w-[540px] h-[58px] absolute left-[1012px] top-[335px] bg-[#fffdfb] [outline:1px_solid_#b7b0a9] [outline-offset:-0.5px] [z-index:25]"
+      ></div>
+      <div
+        data-pencil-name="Arabic search placeholder"
+        class="text-[15px]/[20px] box-border w-[440px] absolute left-[1040px] top-[351px] text-[#625e5b] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-right [z-index:26]"
+      >
+        ابحث عن أفلام وأشخاص ومجموعات
+      </div>
+      <div
+        data-pencil-name="Arabic filter button"
+        class="box-border w-[164px] h-[58px] absolute left-[832px] top-[335px] bg-[#f7f4ef] [outline:1px_solid_#140206] [outline-offset:-0.5px] [z-index:27]"
+      ></div>
+      <div
+        data-pencil-name="Arabic filter label"
+        class="text-[14px]/[18px] box-border w-[128px] absolute left-[850px] top-[351px] text-[#140206] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-right [z-index:28]"
+      >
+        النوع ▾
+      </div>
+      <div
+        data-pencil-name="Archive pattern label"
+        class="text-[12px]/[16px] box-border w-[1504px] absolute left-[48px] top-[424px] text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [z-index:29]"
+      >
+        ARCHIVE RECORD / CONTENT, ATTRIBUTION AND USE STATUS
+      </div>
+      <div
+        data-pencil-name="English archive card"
+        class="box-border w-[720px] h-[410px] absolute left-[48px] top-[452px] bg-[#fffdfb] [outline:1px_solid_#140206] [outline-offset:-0.5px] [z-index:30]"
+      ></div>
+      <div
+        data-pencil-name="Arabic archive card"
+        class="box-border w-[720px] h-[410px] absolute left-[832px] top-[452px] bg-[#fffdfb] [outline:1px_solid_#140206] [outline-offset:-0.5px] [z-index:31]"
+      ></div>
+      <div
+        data-pencil-name="English archive accent"
+        class="box-border w-[720px] h-[8px] absolute left-[48px] top-[452px] bg-[#ff6183] [outline:1px_solid_#ff6183] [outline-offset:-0.5px] [z-index:32]"
+      ></div>
+      <div
+        data-pencil-name="Arabic archive accent"
+        class="box-border w-[720px] h-[8px] absolute left-[832px] top-[452px] bg-[#ff6183] [outline:1px_solid_#ff6183] [outline-offset:-0.5px] [z-index:33]"
+      ></div>
+      <div
+        data-pencil-name="English archive eyebrow"
+        class="text-[11px]/[15px] box-border w-[520px] absolute left-[72px] top-[480px] text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [z-index:34]"
+      >
+        ILLUSTRATIVE ARCHIVE RECORD · SAMPLE ONLY
+      </div>
+      <div
+        data-pencil-name="Arabic archive eyebrow"
+        class="text-[12px]/[16px] box-border w-[576px] absolute left-[950px] top-[480px] text-[#625e5b] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-right [z-index:35]"
+      >
+        سجل توضيحي للأرشيف · مثال فقط
+      </div>
+      <div
+        data-pencil-name="English archive title"
+        class="text-[30px]/[41px] box-border w-[520px] absolute left-[72px] top-[514px] text-[#140206] font-[Perfectlynineties,system-ui,sans-serif] font-normal text-left [z-index:36]"
+      >
+        A Cairo cinema programme
+      </div>
+      <div
+        data-pencil-name="Arabic archive title"
+        class="text-[29px]/[39px] box-border w-[600px] absolute left-[925px] top-[514px] text-[#140206] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-right [z-index:37]"
+      >
+        برنامج سينما من القاهرة
+      </div>
+      <div
+        data-pencil-name="English archive description"
+        class="text-[15px]/[20px] box-border w-[610px] absolute left-[72px] top-[572px] text-[#28292a] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:38]"
+      >
+        A sample record demonstrating how a collection can keep its source, context and usage terms
+        visible.
+      </div>
+      <div
+        data-pencil-name="Arabic archive description"
+        class="text-[16px]/[22px] box-border w-[608px] absolute left-[917px] top-[568px] text-[#28292a] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-right [z-index:39]"
+      >
+        سجل تجريبي يوضّح كيف نحفظ المصدر والسياق وشروط الاستخدام مع المادة.
+      </div>
+      <div
+        data-pencil-name="English card divider"
+        class="box-border w-[670px] h-[1px] absolute left-[72px] top-[640px] bg-[#eae5de] [outline:1px_solid_#b7b0a9] [outline-offset:-0.5px] [z-index:40]"
+      ></div>
+      <div
+        data-pencil-name="Arabic card divider"
+        class="box-border w-[668px] h-[1px] absolute left-[858px] top-[640px] bg-[#eae5de] [outline:1px_solid_#b7b0a9] [outline-offset:-0.5px] [z-index:41]"
+      ></div>
+      <div
+        data-pencil-name="English source label"
+        class="text-[11px]/[15px] box-border w-[125px] absolute left-[72px] top-[661px] text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [z-index:42]"
+      >
+        SOURCE
+      </div>
+      <div
+        data-pencil-name="English source value"
+        class="text-[14px]/[19px] box-border w-[510px] absolute left-[190px] top-[658px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:43]"
+      >
+        Illustrative source entry; attribution pending
+      </div>
+      <div
+        data-pencil-name="English rights label"
+        class="text-[11px]/[15px] box-border w-[125px] absolute left-[72px] top-[700px] text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [z-index:44]"
+      >
+        RIGHTS
+      </div>
+      <div
+        data-pencil-name="English rights value"
+        class="text-[14px]/[19px] box-border w-[510px] absolute left-[190px] top-[697px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:45]"
+      >
+        Review required before redistribution
+      </div>
+      <div
+        data-pencil-name="English status label"
+        class="text-[11px]/[15px] box-border w-[125px] absolute left-[72px] top-[739px] text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [z-index:46]"
+      >
+        STATUS
+      </div>
+      <div
+        data-pencil-name="English status value"
+        class="text-[14px]/[19px] box-border w-[510px] absolute left-[190px] top-[736px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:47]"
+      >
+        Draft record · not published
+      </div>
+      <div
+        data-pencil-name="English AI label"
+        class="text-[11px]/[15px] box-border w-[125px] absolute left-[72px] top-[778px] text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [z-index:48]"
+      >
+        AI DATASET
+      </div>
+      <div
+        data-pencil-name="English AI value"
+        class="text-[14px]/[19px] box-border w-[510px] absolute left-[190px] top-[775px] text-[#a12b38] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:49]"
+      >
+        Not approved for training or export
+      </div>
+      <div
+        data-pencil-name="Arabic source label"
+        class="text-[13px]/[18px] box-border w-[138px] absolute left-[1386px] top-[658px] text-[#625e5b] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-right [z-index:50]"
+      >
+        المصدر
+      </div>
+      <div
+        data-pencil-name="Arabic source value"
+        class="text-[14px]/[19px] box-border w-[505px] absolute left-[860px] top-[658px] text-[#140206] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-right [z-index:51]"
+      >
+        بيان توضيحي؛ توثيق المصدر قيد المراجعة
+      </div>
+      <div
+        data-pencil-name="Arabic rights label"
+        class="text-[13px]/[18px] box-border w-[138px] absolute left-[1386px] top-[697px] text-[#625e5b] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-right [z-index:52]"
+      >
+        الحقوق
+      </div>
+      <div
+        data-pencil-name="Arabic rights value"
+        class="text-[14px]/[19px] box-border w-[505px] absolute left-[860px] top-[697px] text-[#140206] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-right [z-index:53]"
+      >
+        تحتاج إلى مراجعة قبل إعادة النشر
+      </div>
+      <div
+        data-pencil-name="Arabic status label"
+        class="text-[13px]/[18px] box-border w-[138px] absolute left-[1386px] top-[736px] text-[#625e5b] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-right [z-index:54]"
+      >
+        الحالة
+      </div>
+      <div
+        data-pencil-name="Arabic status value"
+        class="text-[14px]/[19px] box-border w-[505px] absolute left-[860px] top-[736px] text-[#140206] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-right [z-index:55]"
+      >
+        مسودة · غير منشور
+      </div>
+      <div
+        data-pencil-name="Arabic AI label"
+        class="text-[12px]/[16px] box-border w-[138px] absolute left-[1386px] top-[775px] text-[#625e5b] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-right [z-index:56]"
+      >
+        تدريب الذكاء الاصطناعي
+      </div>
+      <div
+        data-pencil-name="Arabic AI value"
+        class="text-[14px]/[19px] box-border w-[505px] absolute left-[860px] top-[775px] text-[#a12b38] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-right [z-index:57]"
+      >
+        غير معتمد للتدريب أو التصدير
+      </div>
+      <div
+        data-pencil-name="English sample ID"
+        class="text-[12px]/[16px] box-border w-[540px] absolute left-[72px] top-[829px] text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:58]"
+      >
+        SAMPLE-AR-001 / Cairo / القاهرة
+      </div>
+      <div
+        data-pencil-name="Arabic sample ID"
+        class="text-[12px]/[16px] box-border w-[664px] absolute left-[860px] top-[829px] text-[#625e5b] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-right [z-index:59]"
+      >
+        القاهرة / Cairo / SAMPLE-AR-001
+      </div>
+      <div
+        data-pencil-name="Status section label"
+        class="text-[12px]/[16px] box-border w-[1500px] absolute left-[48px] top-[892px] text-[#625e5b] font-['Fk_Raster_Grotesk_Compact_Blended',system-ui,sans-serif] font-normal text-left [z-index:60]"
+      >
+        SEMANTIC STATES / EXAMPLES, NOT CLAIMS ABOUT THIS SAMPLE RECORD
+      </div>
+      <div
+        data-pencil-name="Status example — success"
+        class="box-border w-[480px] h-[148px] absolute left-[48px] top-[922px] bg-[#e5f3ea] [outline:1px_solid_#26724a] [outline-offset:-0.5px] [z-index:61]"
+      ></div>
+      <div
+        data-pencil-name="Success heading"
+        class="text-[14px]/[19px] box-border w-[430px] absolute left-[66px] top-[940px] text-[#26724a] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:62]"
+      >
+        SOURCE DOCUMENTED / المصدر موثّق
+      </div>
+      <div
+        data-pencil-name="Success guidance"
+        class="text-[14px]/[19px] box-border w-[430px] absolute left-[66px] top-[980px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:63]"
+      >
+        Use when origin and citation have been checked. Rights and training still need separate
+        decisions.
+      </div>
+      <div
+        data-pencil-name="Status example — warning"
+        class="box-border w-[480px] h-[148px] absolute left-[560px] top-[922px] bg-[#fff1db] [outline:1px_solid_#8a4b0b] [outline-offset:-0.5px] [z-index:64]"
+      ></div>
+      <div
+        data-pencil-name="Warning heading"
+        class="text-[14px]/[19px] box-border w-[440px] absolute left-[578px] top-[940px] text-[#8a4b0b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:65]"
+      >
+        RIGHTS REVIEW / مراجعة الحقوق
+      </div>
+      <div
+        data-pencil-name="Warning guidance"
+        class="text-[14px]/[19px] box-border w-[440px] absolute left-[578px] top-[980px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:66]"
+      >
+        Collection access does not by itself permit redistribution, licensing, or model training.
+      </div>
+      <div
+        data-pencil-name="Status example — error"
+        class="box-border w-[480px] h-[148px] absolute left-[1072px] top-[922px] bg-[#fde8e9] [outline:1px_solid_#a12b38] [outline-offset:-0.5px] [z-index:67]"
+      ></div>
+      <div
+        data-pencil-name="Error heading"
+        class="text-[14px]/[19px] box-border w-[436px] absolute left-[1090px] top-[940px] text-[#a12b38] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:68]"
+      >
+        USE BLOCKED / الاستخدام موقوف
+      </div>
+      <div
+        data-pencil-name="Error guidance"
+        class="text-[14px]/[19px] box-border w-[430px] absolute left-[1090px] top-[980px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:69]"
+      >
+        Show a specific reason and a review path; never hide an unknown rights state.
+      </div>
+      <div
+        data-pencil-name="Focus example outline"
+        class="box-border w-[480px] h-[56px] absolute left-[48px] top-[1098px] bg-[#fffdfb] [outline:1px_solid_#225ea8] [outline-offset:-0.5px] [z-index:70]"
+      ></div>
+      <div
+        data-pencil-name="Focus example label"
+        class="text-[13px]/[18px] box-border w-[440px] absolute left-[66px] top-[1114px] text-[#225ea8] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:71]"
+      >
+        FOCUS / visible 2px blue outline
+      </div>
+      <div
+        data-pencil-name="English pattern principle"
+        class="text-[14px]/[19px] box-border w-[470px] absolute left-[560px] top-[1098px] text-[#140206] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [z-index:72]"
+      >
+        Archive presence ≠ reuse permission ≠ AI training approval.
+      </div>
+      <div
+        data-pencil-name="Arabic pattern principle"
+        class="text-[14px]/[19px] box-border w-[480px] absolute left-[1072px] top-[1096px] text-[#140206] font-['Noto_Sans_Arabic',system-ui,sans-serif] font-normal text-right [z-index:73]"
+      >
+        وجود المادة في الأرشيف لا يعني إباحة إعادة نشرها أو تدريب النماذج عليها.
+      </div>
+      <div
+        data-pencil-name="English search field · component instance"
+        class="box-border w-[540px] h-[58px] absolute left-[48px] top-[335px] flex flex-row gap-[10px] p-[10px_14px] justify-start items-center bg-[#fffdfb] [outline:1px_solid_#bdb5ad] [outline-offset:-0.5px] [z-index:74]"
+      >
+        <div
+          data-pencil-name="Search placeholder"
+          class="text-[13px]/[normal] box-border text-[#625e5b] font-['Suisse_Intl',system-ui,sans-serif] font-normal text-left [white-space:nowrap]"
+        >
+          Search datasets, films, projects
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

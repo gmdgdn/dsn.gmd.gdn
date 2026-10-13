@@ -1,0 +1,810 @@
+{
+  "page_url": "https://www.tavus.io/",
+  "downloaded": 81,
+  "failed": [
+    {
+      "contentType": null,
+      "id": "8dde5cebe45702df",
+      "name": "68c8e57e6e512b9573db1a38_SuisseIntl-Regular.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a38_SuisseIntl-Regular.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "a9d86e337cb81e96",
+      "name": "68c8e57e6e512b9573db1a23_PerfectlyNineties-Regular.woff",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a23_PerfectlyNineties-Regular.woff"
+    },
+    {
+      "contentType": null,
+      "id": "34b994e567bb7fac",
+      "name": "68c8e57e6e512b9573db1a21_FK%20Raster%20Grotesk%20Compact%20Blended.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a21_FK%20Raster%20Grotesk%20Compact%20Blended.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "2f1b0c6f3d5d1d3c",
+      "name": "68c8e57e6e512b9573db1a22_PerfectlyNineties-Italic.woff",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a22_PerfectlyNineties-Italic.woff"
+    },
+    {
+      "contentType": null,
+      "id": "5fc5823033afc8a7",
+      "name": "68c8e57e6e512b9573db1a27_SuisseIntl-Medium.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a27_SuisseIntl-Medium.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "655799b0bedced23",
+      "name": "11287075596",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11287075596/?random=569663236&cv=11&fst=1791015829011&fmt=3&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45g92e69u2v9105665726z89237993924za204zd9105665726xeaxf4&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~120895655&u_w=1536&u_h=864&url=https%3A%2F%2Fwww.tavus.io%2F&rcb=15&label=9KRLCJSc2-YbEIy2jIYq&frm=0&tiba=Tavus%3A%20The%20Human%20Computing%20Company&did=dZGVlNj%2CdYWYxNW&gdid=dZGVlNj.dYWYxNW.dNzQzZD&bttype=purchase&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&oid=GG_1936488888.1791015829&oidsrc=3&ecsid2=603236924.1791015302&_tu=CBA&gtb=2&mt=2&gcl_ctr=2~0~0~0&gap.gtb=2&emd=tvd.1&eme=tv.1~&gap.ch=1&ept=63&epp=5~22~63~74&ct_cookie_present=false&crd=&pscrd=IhMI4ObT87WdlwMVvZc3CB0UkRIcOhVodHRwczovL3d3dy50YXZ1cy5pby8"
+    },
+    {
+      "contentType": null,
+      "id": "6b1653bd56cfdb7f",
+      "name": "collect",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=7341604&time=1791015829326&li_adsId=661e56f2-f269-4bcc-9b41-c325ac41902b&pageLoadId=30a2f29d-f8ec-4315-9c6a-c8f800d11026&url=https%3A%2F%2Fwww.tavus.io%2F"
+    },
+    {
+      "contentType": null,
+      "id": "0676de04f812ef5e",
+      "name": "11287075596",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://www.google.com/pagead/1p-user-list/11287075596/?random=1791015828474&cv=11&fst=1791014400000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e69u2v9105665726za204zd9105665726xecxf4&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1536&u_h=864&url=https%3A%2F%2Fwww.tavus.io%2F&rcb=15&frm=0&tiba=Tavus%3A%20The%20Human%20Computing%20Company&did=dZGVlNj%2CdYWYxNW&gdid=dZGVlNj.dYWYxNW.dNzQzZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&gtb=2&data=event%3Dgtag.config&gap.gtb=2&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3B9VXOy2xvR7RVw58IdrjgbBAKlS5aFIe33oc3vuLfVfRlL5EF5Tu9o-zQPlygaUK6ij6n5F3a-fkb4lE_RhecB5M_xAbad34RBPqJ9wkuzhUtjRIt58lSt7h2dH5e1McSbedxKJFFcOZzJPIXWDbKqV9lXws9mz5ZhoGa7kTvxs-QWtCgw4YMSKSuu9VVtbHEMKy4DAlvztd-DhA7K4JhGqQVEG79DiYObAuIWckyFTjz8KL1FYuIDqlFzwDGga8svA4Er04_0h2IHP7Trauq9UCC5EDdoEqnsVHYFO&random=1549794663&rmt_tld=0&ipr=y"
+    },
+    {
+      "contentType": null,
+      "id": "b76e13629b3efdf0",
+      "name": "11287075596",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://www.google.com.eg/pagead/1p-user-list/11287075596/?random=1791015828474&cv=11&fst=1791014400000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e69u2v9105665726za204zd9105665726xecxf4&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1536&u_h=864&url=https%3A%2F%2Fwww.tavus.io%2F&rcb=15&frm=0&tiba=Tavus%3A%20The%20Human%20Computing%20Company&did=dZGVlNj%2CdYWYxNW&gdid=dZGVlNj.dYWYxNW.dNzQzZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&gtb=2&data=event%3Dgtag.config&gap.gtb=2&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3B9VXOy2xvR7RVw58IdrjgbBAKlS5aFIe33oc3vuLfVfRlL5EF5Tu9o-zQPlygaUK6ij6n5F3a-fkb4lE_RhecB5M_xAbad34RBPqJ9wkuzhUtjRIt58lSt7h2dH5e1McSbedxKJFFcOZzJPIXWDbKqV9lXws9mz5ZhoGa7kTvxs-QWtCgw4YMSKSuu9VVtbHEMKy4DAlvztd-DhA7K4JhGqQVEG79DiYObAuIWckyFTjz8KL1FYuIDqlFzwDGga8svA4Er04_0h2IHP7Trauq9UCC5EDdoEqnsVHYFO&random=1549794663&rmt_tld=1&ipr=y"
+    },
+    {
+      "contentType": "text/plain",
+      "id": "dbe02d77d7f52957",
+      "name": "tr",
+      "reason": "Asset response type text/plain is not valid for image",
+      "url": "https://www.facebook.com/tr/?id=1008078485164063&ev=PageView&dl=https%3A%2F%2Fwww.tavus.io%2F&rl=&if=false&ts=1791015829452&iw=false&sw=1536&sh=864&v=2.9.414&r=stable&ec=0&o=4126&aems=0%3B0&fbp=fb.1.1791015303037.890764612866262661&eid=ob3_plugin-set_38794a993402d2552bf227500feb17ebb739b3f01e5c6c018418c13480d36f1d&cs_est=true&ler=empty&cdl=API_unavailable&pmd[title]=Tavus%3A%20The%20Human%20Computing%20Company&pmd[locale]=en&pmd[description]=Personified%20Application%20Layers%20that%20see%2C%20hear%2C%20and%20respond%20face-to-face%20in%20real%20time.%20Build%20and%20deploy%20with%20our%20API%2C%20no-code%20PAL%20Maker%2C%20or%20enterprise%20Solutions.%20Interactive%20AI%20avatars%20and%20conversational%20video%20reimagined&plt=989.2999999998137&iss=1&ss=%7B%22page_description%22%3A%5B%7B%22rid%22%3A%221096075789460318%22%2C%22v%22%3A%5B%22Introducing%20Griffin%3A%2048%25%20thought%20it%20was%20a%20real%20person%2C%20the%20first%20model%20to%20pass%20the%20real-time%20video%20Turing%20test.%20Learn%20more.%22%5D%7D%5D%7D&imft=1&tz=180&it=1791015828867&coo=false&cf=1&expv2[0]=pl1&expv2[1]=el2&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh1&expv2[49]=ah1&rqm=GET"
+    },
+    {
+      "contentType": null,
+      "id": "1ddec2680b555e89",
+      "name": "6913af263342f85385be96c4_Frame%202147229100-p-500.avif",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db147f/6913af263342f85385be96c4_Frame%202147229100-p-500.avif"
+    },
+    {
+      "contentType": null,
+      "id": "3a3494fbdcae8c1d",
+      "name": "6913d9caf5d4b8841ecc78ed_Amazon_logo-p-500.avif",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db147f/6913d9caf5d4b8841ecc78ed_Amazon_logo-p-500.avif"
+    },
+    {
+      "contentType": null,
+      "id": "34c20e352a5e908d",
+      "name": "6abd3262c848c0e4891bc036_waving_pal%20(1)-p-500.webp",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6abd3262c848c0e4891bc036_waving_pal%20(1)-p-500.webp"
+    },
+    {
+      "contentType": null,
+      "id": "922f2e353c41e0bb",
+      "name": "68f240c29170507fc386f3d7_Shadow-p-500.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68f240c29170507fc386f3d7_Shadow-p-500.png"
+    },
+    {
+      "contentType": null,
+      "id": "b5c038e77301b179",
+      "name": "68f0e3bb7519143839804c61_v2-p-500.avif",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68f0e3bb7519143839804c61_v2-p-500.avif"
+    },
+    {
+      "contentType": null,
+      "id": "c2b1a398ebc5e0ce",
+      "name": "6a3b88f6b1eca458076a7b54_Cta-img-p-500.avif",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a3b88f6b1eca458076a7b54_Cta-img-p-500.avif"
+    },
+    {
+      "contentType": null,
+      "id": "5762acc5438122d7",
+      "name": "6a9078e2d7c270765a25c836_processed-image%20(99)-p-500.avif",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a9078e2d7c270765a25c836_processed-image%20(99)-p-500.avif"
+    },
+    {
+      "contentType": null,
+      "id": "4430fa9f08398862",
+      "name": "6a33afb6cf7d8d919be2fb18_memory-p-500.avif",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a33afb6cf7d8d919be2fb18_memory-p-500.avif"
+    },
+    {
+      "contentType": null,
+      "id": "29b903943c5564af",
+      "name": "6ab6dbb4167f1da71a5a9818_curl_code-p-500.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6ab6dbb4167f1da71a5a9818_curl_code-p-500.png"
+    },
+    {
+      "contentType": null,
+      "id": "205e2faa2d84da1d",
+      "name": "6abd96345de5b07fb77576e9_piper-p-500.avif",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6abd96345de5b07fb77576e9_piper-p-500.avif"
+    },
+    {
+      "contentType": null,
+      "id": "ea992196996aa3c5",
+      "name": "6a8ed78ce4b8f1567ffb3f53_Inner%20(2)-p-500.avif",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a8ed78ce4b8f1567ffb3f53_Inner%20(2)-p-500.avif"
+    },
+    {
+      "contentType": null,
+      "id": "a817cb1e9c8e570f",
+      "name": "6a33aea8a269851d911fc262_Scrolling%20Img-p-500.avif",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at a (https://import-cdn.default.com/:1:26755)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:188638\n    at l (https://static.reo.dev/866cba27a3fb014/reo.js:2:180136)\n    at Generator.<anonymous> (https://static.reo.dev/866cba27a3fb014/reo.js:2:181474)\n    at Generator.next (https://static.reo.dev/866cba27a3fb014/reo.js:2:180499)\n    at Ar (https://static.reo.dev/866cba27a3fb014/reo.js:2:186128)\n    at a (https://static.reo.dev/866cba27a3fb014/reo.js:2:186332)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186393\n    at new Promise (<anonymous>)\n    at https://static.reo.dev/866cba27a3fb014/reo.js:2:186272",
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a33aea8a269851d911fc262_Scrolling%20Img-p-500.avif"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "stylesheet",
+      "name": "2025-tavus-staging.shared.309e872bd.css",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/css/2025-tavus-staging.shared.309e872bd.css",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\2025-tavus-staging.shared.309e872bd.css",
+      "bytes": 41322,
+      "id": "4c3c70ba809c6822"
+    },
+    {
+      "kind": "stylesheet",
+      "name": "2025-tavus-staging.6aa06206f4627ab7365a4764.35728905c.opt.css",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/css/2025-tavus-staging.6aa06206f4627ab7365a4764.35728905c.opt.css",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\2025-tavus-staging.6aa06206f4627ab7365a4764.35728905c.opt.css",
+      "bytes": 471685,
+      "id": "b2cf6842f782bf0b"
+    },
+    {
+      "kind": "stylesheet",
+      "name": "swiper-bundle.min.css",
+      "source_url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\swiper-bundle.min.css",
+      "bytes": 18454,
+      "id": "39bc4941d9618aab"
+    },
+    {
+      "kind": "stylesheet",
+      "name": "plyr.css",
+      "source_url": "https://cdn.plyr.io/3.7.2/plyr.css",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\plyr.css",
+      "bytes": 33875,
+      "id": "b83157b2801e1940"
+    },
+    {
+      "kind": "image",
+      "name": "6ab69b9e21f1e5bffb5e7703_hv2-pal-bg-dither.png",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6ab69b9e21f1e5bffb5e7703_hv2-pal-bg-dither.png",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6ab69b9e21f1e5bffb5e7703_hv2-pal-bg-dither.png",
+      "bytes": 65191,
+      "id": "58f345c9f5760d46"
+    },
+    {
+      "kind": "image",
+      "name": "68c8e57e6e512b9573db1aa0_logo.svg",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1aa0_logo.svg",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\68c8e57e6e512b9573db1aa0_logo.svg",
+      "bytes": 1892,
+      "id": "60703cd182858f99"
+    },
+    {
+      "kind": "image",
+      "name": "6913cbc2bedec7104679a887_Logo_of_Deloitte.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db147f/6913cbc2bedec7104679a887_Logo_of_Deloitte.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6913cbc2bedec7104679a887_Logo_of_Deloitte.avif",
+      "bytes": 6777,
+      "id": "16816d8af023f1ff"
+    },
+    {
+      "kind": "image",
+      "name": "6913af263342f85385be96c4_Frame%202147229100.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db147f/6913af263342f85385be96c4_Frame%202147229100.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6913af263342f85385be96c4_Frame_202147229100.avif",
+      "bytes": 7349,
+      "id": "e895fc83414d206e"
+    },
+    {
+      "kind": "image",
+      "name": "6913d9caf5d4b8841ecc78ed_Amazon_logo.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db147f/6913d9caf5d4b8841ecc78ed_Amazon_logo.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6913d9caf5d4b8841ecc78ed_Amazon_logo.avif",
+      "bytes": 11867,
+      "id": "9e777ec38f677e31"
+    },
+    {
+      "kind": "image",
+      "name": "6a32c1fc75611472f0e22df5_salesforce_logo.svg",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db147f/6a32c1fc75611472f0e22df5_salesforce_logo.svg",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6a32c1fc75611472f0e22df5_salesforce_logo.svg",
+      "bytes": 11853,
+      "id": "3e7670ce95d19c52"
+    },
+    {
+      "kind": "image",
+      "name": "6a32c1b91f0dfb6bf1d9741a_cvs_health_logo.svg",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db147f/6a32c1b91f0dfb6bf1d9741a_cvs_health_logo.svg",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6a32c1b91f0dfb6bf1d9741a_cvs_health_logo.svg",
+      "bytes": 8681,
+      "id": "6edf69a8b636f1ad"
+    },
+    {
+      "kind": "image",
+      "name": "68f240c29170507fc386f3d7_Shadow.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68f240c29170507fc386f3d7_Shadow.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\68f240c29170507fc386f3d7_Shadow.avif",
+      "bytes": 73278,
+      "id": "1f422c0ee689327f"
+    },
+    {
+      "kind": "image",
+      "name": "68f0e0628f97ea257bd5dd30_art.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68f0e0628f97ea257bd5dd30_art.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\68f0e0628f97ea257bd5dd30_art.avif",
+      "bytes": 400848,
+      "id": "19d9db3d1ad9ac24"
+    },
+    {
+      "kind": "image",
+      "name": "68f0e692a8dea1dd96d9227f_c492fcf6409c07ffdaff86a23e3a295b_right-hand.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68f0e692a8dea1dd96d9227f_c492fcf6409c07ffdaff86a23e3a295b_right-hand.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\68f0e692a8dea1dd96d9227f_c492fcf6409c07ffdaff86a23e3a295b_right-hand.avif",
+      "bytes": 5732,
+      "id": "4106c4c44274d840"
+    },
+    {
+      "kind": "image",
+      "name": "6910b44825c665792d8c7946_hand-left-img%402x.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6910b44825c665792d8c7946_hand-left-img%402x.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6910b44825c665792d8c7946_hand-left-img_402x.avif",
+      "bytes": 10500,
+      "id": "24e2dc0ce0616710"
+    },
+    {
+      "kind": "image",
+      "name": "68f0e3bb7519143839804c61_v2.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68f0e3bb7519143839804c61_v2.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\68f0e3bb7519143839804c61_v2.avif",
+      "bytes": 267410,
+      "id": "82a4ab5bcb21520e"
+    },
+    {
+      "kind": "image",
+      "name": "6910b44953b727980a7cd3ef_arm-left-img%402x.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6910b44953b727980a7cd3ef_arm-left-img%402x.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6910b44953b727980a7cd3ef_arm-left-img_402x.avif",
+      "bytes": 9735,
+      "id": "24a0c5fefb3212f4"
+    },
+    {
+      "kind": "image",
+      "name": "68f0e97ce1404d3ee2f0a426_e70185e1685d247f0d4d04c76497f34f_right-outer.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68f0e97ce1404d3ee2f0a426_e70185e1685d247f0d4d04c76497f34f_right-outer.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\68f0e97ce1404d3ee2f0a426_e70185e1685d247f0d4d04c76497f34f_right-outer.avif",
+      "bytes": 2618,
+      "id": "be3ae560d9c04f7d"
+    },
+    {
+      "kind": "image",
+      "name": "6911b33e6cf103bbb1ac1484_pals-video.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6911b33e6cf103bbb1ac1484_pals-video.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6911b33e6cf103bbb1ac1484_pals-video.avif",
+      "bytes": 648821,
+      "id": "ca70058b1eabd1f4"
+    },
+    {
+      "kind": "image",
+      "name": "6908542eb9b9022ffef3a270_step%203%20bg.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6908542eb9b9022ffef3a270_step%203%20bg.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6908542eb9b9022ffef3a270_step_203_20bg.avif",
+      "bytes": 19112,
+      "id": "97cb074201039777"
+    },
+    {
+      "kind": "image",
+      "name": "69084de8b14ac845c5fa5089_step2.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/69084de8b14ac845c5fa5089_step2.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\69084de8b14ac845c5fa5089_step2.avif",
+      "bytes": 18882,
+      "id": "f686b7023707604d"
+    },
+    {
+      "kind": "image",
+      "name": "69084a7e96f08def56a7dc73_step%201.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/69084a7e96f08def56a7dc73_step%201.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\69084a7e96f08def56a7dc73_step_201.avif",
+      "bytes": 13044,
+      "id": "f2bbe93dc8181741"
+    },
+    {
+      "kind": "image",
+      "name": "6a8fb62bff3cdb16541bbd92_models-api.svg",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a8fb62bff3cdb16541bbd92_models-api.svg",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6a8fb62bff3cdb16541bbd92_models-api.svg",
+      "bytes": 6971,
+      "id": "de4bfc57b58b0cfa"
+    },
+    {
+      "kind": "image",
+      "name": "68c8e57e6e512b9573db1a81_texture-denim.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a81_texture-denim.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\68c8e57e6e512b9573db1a81_texture-denim.avif",
+      "bytes": 28813,
+      "id": "f6200d499a60b2f4"
+    },
+    {
+      "kind": "image",
+      "name": "ga-audiences",
+      "source_url": "https://www.google.com.eg/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&ngs=1&ibt=1&tid=G-SBQHZWT4FS&cid=1022724951.1791015300&gtm=45g92e69u2v9105665726za204zd9105665726xf4&rcb=15&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153&z=873269801",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\ga-audiences",
+      "bytes": 42,
+      "id": "c933e6cc1655d009"
+    },
+    {
+      "kind": "image",
+      "name": "thumbnail.jpg",
+      "source_url": "https://customer-89oi2uqhvws3g49x.cloudflarestream.com/0ae9c02190b4ee9d85349641ba2bf329/thumbnails/thumbnail.jpg?time=0s&height=1080",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\thumbnail.jpg",
+      "bytes": 119047,
+      "id": "b48702e00d7d5dcc"
+    },
+    {
+      "kind": "image",
+      "name": "68c8e57e6e512b9573db1af9_Frame%202147228894.png",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1af9_Frame%202147228894.png",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\68c8e57e6e512b9573db1af9_Frame_202147228894.png",
+      "bytes": 9216,
+      "id": "7484f86c2ea9d5d7"
+    },
+    {
+      "kind": "image",
+      "name": "adsct",
+      "source_url": "https://t.co/1/i/adsct?bci=4&dv=Africa%2FCairo%26en-US%26Google%20Inc.%26Win32%26255%261536%26864%268%2624%261536%26816%260%26na&eci=3&event=%7B%7D&event_id=17440f39-a33a-4c98-9912-1a93d9a3743e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9027f373-dee9-4861-874a-265e6b8842cf&tw_ch_fvl=Chromium%2F154.0.8037.98%2CGoogle%20Chrome%2F154.0.8037.98%2CNot%20A(Brand%2F99.0.0.0&tw_ch_pv=19.0.0&tw_document_href=https%3A%2F%2Fwww.tavus.io%2F&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=1&tw_session_id=1791015301177-776358368&twpid=tw.1791015301177.31714670630440824&txn_id=pbx6x&type=javascript&version=2.4.11",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\adsct",
+      "bytes": 43,
+      "id": "f0507b13dd4d7f89"
+    },
+    {
+      "kind": "image",
+      "name": "adsct",
+      "source_url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=Africa%2FCairo%26en-US%26Google%20Inc.%26Win32%26255%261536%26864%268%2624%261536%26816%260%26na&eci=3&event=%7B%7D&event_id=17440f39-a33a-4c98-9912-1a93d9a3743e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9027f373-dee9-4861-874a-265e6b8842cf&tw_ch_fvl=Chromium%2F154.0.8037.98%2CGoogle%20Chrome%2F154.0.8037.98%2CNot%20A(Brand%2F99.0.0.0&tw_ch_pv=19.0.0&tw_document_href=https%3A%2F%2Fwww.tavus.io%2F&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=1&tw_session_id=1791015301177-776358368&twpid=tw.1791015301177.31714670630440824&txn_id=pbx6x&type=javascript&version=2.4.11",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\adsct",
+      "bytes": 43,
+      "id": "78ea161871e071d5"
+    },
+    {
+      "kind": "image",
+      "name": "11287075596",
+      "source_url": "https://www.tavus.io/avljl2rk9q5pNjhjOGU1N2Q2ZTUxMmI5NTczZGIxNDZm/as/d/ccm/conversion/11287075596/?random=1791015829011&cv=11&fst=1791015829011&fmt=3&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45g92e69u2v9105665726z89237993924za204zd9105665726xeaxf4&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~120895655&u_w=1536&u_h=864&url=https%3A%2F%2Fwww.tavus.io%2F&rcb=15&evjid=lbtFR0VH6r56jAYTcA&label=9KRLCJSc2-YbEIy2jIYq&frm=0&tiba=Tavus%3A%20The%20Human%20Computing%20Company&did=dZGVlNj%2CdYWYxNW&gdid=dZGVlNj.dYWYxNW.dNzQzZD&bttype=purchase&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&oid=GG_1936488888.1791015829&oidsrc=3&ecsid2=603236924.1791015302&_tu=CBA&gtb=2&mt=1&gcl_ctr=2~0~0~0&gap.gtb=2&category=acrcp_v1_512&emd=tvd.1&eme=tv.1~&gap.ch=1&_uip=%3A%3A",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\11287075596",
+      "bytes": 35,
+      "id": "2f4e6b65ec134d02"
+    },
+    {
+      "kind": "image",
+      "name": "6abd3262c848c0e4891bc036_waving_pal%20(1).webp",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6abd3262c848c0e4891bc036_waving_pal%20(1).webp",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6abd3262c848c0e4891bc036_waving_pal_20_1_.webp",
+      "bytes": 1969132,
+      "id": "eca574943f44942e"
+    },
+    {
+      "kind": "stylesheet",
+      "name": "compliance.css",
+      "source_url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-09-14/compliance.css",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\compliance.css",
+      "bytes": 12372,
+      "id": "244086c261b6f95c"
+    },
+    {
+      "kind": "stylesheet",
+      "name": "fullCSS.bundle.css",
+      "source_url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-09-14/fullCSS.bundle.css",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\fullCSS.bundle.css",
+      "bytes": 71446,
+      "id": "4acecd57a9e5f2c3"
+    },
+    {
+      "kind": "image",
+      "name": "6a3a8e746de789ee5f01ebf2_Profile%20Image-1.svg",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a3a8e746de789ee5f01ebf2_Profile%20Image-1.svg",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6a3a8e746de789ee5f01ebf2_Profile_20Image-1.svg",
+      "bytes": 8257,
+      "id": "6d8000586a134728"
+    },
+    {
+      "kind": "image",
+      "name": "6a3a8e7446a2e432809e8341_Image-9.svg",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a3a8e7446a2e432809e8341_Image-9.svg",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6a3a8e7446a2e432809e8341_Image-9.svg",
+      "bytes": 20670,
+      "id": "8502f2359bafb121"
+    },
+    {
+      "kind": "image",
+      "name": "6a3a8e73eb6246b44a7cb6c5_Profile%20Image-2.svg",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a3a8e73eb6246b44a7cb6c5_Profile%20Image-2.svg",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6a3a8e73eb6246b44a7cb6c5_Profile_20Image-2.svg",
+      "bytes": 183041,
+      "id": "408499781a2fe5cb"
+    },
+    {
+      "kind": "image",
+      "name": "6a43a4535796e78ba1bcd11a_ear-listen-icon.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a43a4535796e78ba1bcd11a_ear-listen-icon.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6a43a4535796e78ba1bcd11a_ear-listen-icon.avif",
+      "bytes": 696,
+      "id": "9565b011aa59a127"
+    },
+    {
+      "kind": "image",
+      "name": "6a3a8e75c5c7bb26511d28ef_Product%20image.svg",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a3a8e75c5c7bb26511d28ef_Product%20image.svg",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6a3a8e75c5c7bb26511d28ef_Product_20image.svg",
+      "bytes": 9489,
+      "id": "ab38de7252372341"
+    },
+    {
+      "kind": "image",
+      "name": "6a3a8e74f5c2039f0e606578_Image-13.svg",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a3a8e74f5c2039f0e606578_Image-13.svg",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6a3a8e74f5c2039f0e606578_Image-13.svg",
+      "bytes": 453562,
+      "id": "7220c503a38df59e"
+    },
+    {
+      "kind": "image",
+      "name": "6ab6ac9cfa0f63f79d1354e0_grid_plastic.svg",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6ab6ac9cfa0f63f79d1354e0_grid_plastic.svg",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6ab6ac9cfa0f63f79d1354e0_grid_plastic.svg",
+      "bytes": 1241,
+      "id": "a7c5e9a4c058ec47"
+    },
+    {
+      "kind": "image",
+      "name": "6a33acbd90fab72948e49487_Llms%20(1)-p-800.png",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a33acbd90fab72948e49487_Llms%20(1)-p-800.png",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6a33acbd90fab72948e49487_Llms_20_1_-p-800.png",
+      "bytes": 559715,
+      "id": "6165ce1ad7707860"
+    },
+    {
+      "kind": "image",
+      "name": "6a3a8e74667d53bdc692428c_Profile%20Picture-2.svg",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a3a8e74667d53bdc692428c_Profile%20Picture-2.svg",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6a3a8e74667d53bdc692428c_Profile_20Picture-2.svg",
+      "bytes": 15847,
+      "id": "b313166ead4b7822"
+    },
+    {
+      "kind": "image",
+      "name": "adsct",
+      "source_url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=Africa%2FCairo%26en-US%26Google%20Inc.%26Win32%26255%261536%26864%268%2624%261536%26816%260%26na&eci=2&event_id=7a647a1f-0651-419b-8a57-0be5b469cff2&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9027f373-dee9-4861-874a-265e6b8842cf&tw_ch_fvl=Chromium%2F154.0.8037.98%2CGoogle%20Chrome%2F154.0.8037.98%2CNot%20A(Brand%2F99.0.0.0&tw_ch_pv=19.0.0&tw_document_href=https%3A%2F%2Fwww.tavus.io%2F&tw_engaged_ms=1149&tw_iframe_status=0&tw_pid_src=2&tw_session_count=1&tw_session_id=1791015301177-776358368&twpid=tw.1791015301177.31714670630440824&txn_id=pbx6x&type=javascript&version=2.4.11",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\adsct",
+      "bytes": 43,
+      "id": "1066d2550146c9fb"
+    },
+    {
+      "kind": "image",
+      "name": "adsct",
+      "source_url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=Africa%2FCairo%26en-US%26Google%20Inc.%26Win32%26255%261536%26864%268%2624%261536%26816%260%26na&eci=2&event_id=7a647a1f-0651-419b-8a57-0be5b469cff2&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9027f373-dee9-4861-874a-265e6b8842cf&tw_ch_fvl=Chromium%2F154.0.8037.98%2CGoogle%20Chrome%2F154.0.8037.98%2CNot%20A(Brand%2F99.0.0.0&tw_ch_pv=19.0.0&tw_document_href=https%3A%2F%2Fwww.tavus.io%2F&tw_engaged_ms=1149&tw_iframe_status=0&tw_pid_src=2&tw_session_count=1&tw_session_id=1791015301177-776358368&twpid=tw.1791015301177.31714670630440824&txn_id=pbx6x&type=javascript&version=2.4.11",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\adsct",
+      "bytes": 43,
+      "id": "e2a946a9c14f0449"
+    },
+    {
+      "kind": "image",
+      "name": "6a3b88f6b1eca458076a7b54_Cta-img-p-800.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a3b88f6b1eca458076a7b54_Cta-img-p-800.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6a3b88f6b1eca458076a7b54_Cta-img-p-800.avif",
+      "bytes": 103755,
+      "id": "e8586b7e4aa54a61"
+    },
+    {
+      "kind": "image",
+      "name": "6a9078e2d7c270765a25c836_processed-image%20(99).avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a9078e2d7c270765a25c836_processed-image%20(99).avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6a9078e2d7c270765a25c836_processed-image_20_99_.avif",
+      "bytes": 272708,
+      "id": "e41e64a86aa5014c"
+    },
+    {
+      "kind": "image",
+      "name": "6a33afb6cf7d8d919be2fb18_memory-p-800.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a33afb6cf7d8d919be2fb18_memory-p-800.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6a33afb6cf7d8d919be2fb18_memory-p-800.avif",
+      "bytes": 18163,
+      "id": "4e584a9c31f5b33c"
+    },
+    {
+      "kind": "image",
+      "name": "6abbb7e0a54389afa5a53b8a_6ee6172c16ae4d130919c047ff89e4a2_enterprise-card-art.svg",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6abbb7e0a54389afa5a53b8a_6ee6172c16ae4d130919c047ff89e4a2_enterprise-card-art.svg",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6abbb7e0a54389afa5a53b8a_6ee6172c16ae4d130919c047ff89e4a2_enterprise-card-art.svg",
+      "bytes": 45672,
+      "id": "f9b68cd2733af8f9"
+    },
+    {
+      "kind": "image",
+      "name": "6ab6dbb4167f1da71a5a9818_curl_code.png",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6ab6dbb4167f1da71a5a9818_curl_code.png",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6ab6dbb4167f1da71a5a9818_curl_code.png",
+      "bytes": 46691,
+      "id": "0f0f40753c65c221"
+    },
+    {
+      "kind": "image",
+      "name": "6abd96345de5b07fb77576e9_piper.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6abd96345de5b07fb77576e9_piper.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6abd96345de5b07fb77576e9_piper.avif",
+      "bytes": 28420,
+      "id": "291d36dc34569ab6"
+    },
+    {
+      "kind": "image",
+      "name": "68c8e57e6e512b9573db1a7c_bn1.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a7c_bn1.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\68c8e57e6e512b9573db1a7c_bn1.avif",
+      "bytes": 3567,
+      "id": "dc8e6132cf50e7e1"
+    },
+    {
+      "kind": "image",
+      "name": "68c8e57e6e512b9573db1a7e_bn2.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a7e_bn2.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\68c8e57e6e512b9573db1a7e_bn2.avif",
+      "bytes": 4114,
+      "id": "b285d5cc162d958c"
+    },
+    {
+      "kind": "image",
+      "name": "68c8e57e6e512b9573db1a7d_bn3.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a7d_bn3.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\68c8e57e6e512b9573db1a7d_bn3.avif",
+      "bytes": 4483,
+      "id": "38121be8e2b75283"
+    },
+    {
+      "kind": "image",
+      "name": "68c8e57e6e512b9573db1aca_yellow_dither_2.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1aca_yellow_dither_2.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\68c8e57e6e512b9573db1aca_yellow_dither_2.avif",
+      "bytes": 235838,
+      "id": "79e519b8eeca11db"
+    },
+    {
+      "kind": "image",
+      "name": "6a8ed78ce4b8f1567ffb3f53_Inner%20(2)-p-1600.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a8ed78ce4b8f1567ffb3f53_Inner%20(2)-p-1600.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6a8ed78ce4b8f1567ffb3f53_Inner_20_2_-p-1600.avif",
+      "bytes": 87146,
+      "id": "f0a91f829094606d"
+    },
+    {
+      "kind": "image",
+      "name": "68efd07f4e34743d509785af_57d9500baba8a6010a59057f7c5a15e8_teaching_machines_img-single.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68efd07f4e34743d509785af_57d9500baba8a6010a59057f7c5a15e8_teaching_machines_img-single.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\68efd07f4e34743d509785af_57d9500baba8a6010a59057f7c5a15e8_teaching_machines_img-single.avif",
+      "bytes": 215611,
+      "id": "46e2f7ae3f2549ec"
+    },
+    {
+      "kind": "image",
+      "name": "6a33aea8a269851d911fc262_Scrolling%20Img-p-800.avif",
+      "source_url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a33aea8a269851d911fc262_Scrolling%20Img-p-800.avif",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\6a33aea8a269851d911fc262_Scrolling_20Img-p-800.avif",
+      "bytes": 969,
+      "id": "975306cdbbff10e6"
+    },
+    {
+      "kind": "image",
+      "name": "svg-1",
+      "source_url": "inline-svg:42ec9c38423b4b9f",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-1",
+      "bytes": 836,
+      "id": "42ec9c38423b4b9f"
+    },
+    {
+      "kind": "image",
+      "name": "svg-2",
+      "source_url": "inline-svg:5405bfb7871108be",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-2",
+      "bytes": 836,
+      "id": "5405bfb7871108be"
+    },
+    {
+      "kind": "image",
+      "name": "svg-3",
+      "source_url": "inline-svg:8dc07086dc997998",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-3",
+      "bytes": 836,
+      "id": "8dc07086dc997998"
+    },
+    {
+      "kind": "image",
+      "name": "svg-4",
+      "source_url": "inline-svg:6b8a4bd750da93cb",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-4",
+      "bytes": 836,
+      "id": "6b8a4bd750da93cb"
+    },
+    {
+      "kind": "image",
+      "name": "svg-5",
+      "source_url": "inline-svg:df7a084c998a0b25",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-5",
+      "bytes": 836,
+      "id": "df7a084c998a0b25"
+    },
+    {
+      "kind": "image",
+      "name": "svg-6",
+      "source_url": "inline-svg:1075dc8be0c5ae78",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-6",
+      "bytes": 836,
+      "id": "1075dc8be0c5ae78"
+    },
+    {
+      "kind": "image",
+      "name": "svg-7",
+      "source_url": "inline-svg:9bf89eea119d0853",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-7",
+      "bytes": 836,
+      "id": "9bf89eea119d0853"
+    },
+    {
+      "kind": "image",
+      "name": "svg-8",
+      "source_url": "inline-svg:9c9f32c450424ffb",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-8",
+      "bytes": 836,
+      "id": "9c9f32c450424ffb"
+    },
+    {
+      "kind": "image",
+      "name": "svg-9",
+      "source_url": "inline-svg:3b9b712d54524431",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-9",
+      "bytes": 836,
+      "id": "3b9b712d54524431"
+    },
+    {
+      "kind": "image",
+      "name": "svg-10",
+      "source_url": "inline-svg:e6121be07b457688",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-10",
+      "bytes": 836,
+      "id": "e6121be07b457688"
+    },
+    {
+      "kind": "image",
+      "name": "svg-11",
+      "source_url": "inline-svg:cf218a435aad05d7",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-11",
+      "bytes": 836,
+      "id": "cf218a435aad05d7"
+    },
+    {
+      "kind": "image",
+      "name": "svg-12",
+      "source_url": "inline-svg:b00f0829f7cb4a8b",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-12",
+      "bytes": 349,
+      "id": "b00f0829f7cb4a8b"
+    },
+    {
+      "kind": "image",
+      "name": "svg-13",
+      "source_url": "inline-svg:66b18456e408eef2",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-13",
+      "bytes": 349,
+      "id": "66b18456e408eef2"
+    },
+    {
+      "kind": "image",
+      "name": "svg-14",
+      "source_url": "inline-svg:eabd922e31f2c92b",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-14",
+      "bytes": 349,
+      "id": "eabd922e31f2c92b"
+    },
+    {
+      "kind": "image",
+      "name": "svg-15",
+      "source_url": "inline-svg:593af4ee307c5bf5",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-15",
+      "bytes": 349,
+      "id": "593af4ee307c5bf5"
+    },
+    {
+      "kind": "image",
+      "name": "svg-16",
+      "source_url": "inline-svg:8d7507166d5ba9e5",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-16",
+      "bytes": 349,
+      "id": "8d7507166d5ba9e5"
+    },
+    {
+      "kind": "image",
+      "name": "svg-17",
+      "source_url": "inline-svg:b5d206908e7999df",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-17",
+      "bytes": 13826,
+      "id": "b5d206908e7999df"
+    },
+    {
+      "kind": "image",
+      "name": "svg-18",
+      "source_url": "inline-svg:2c9cd0d60b32bd2b",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-18",
+      "bytes": 21304,
+      "id": "2c9cd0d60b32bd2b"
+    },
+    {
+      "kind": "image",
+      "name": "svg-19",
+      "source_url": "inline-svg:db57f4287e48794a",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-19",
+      "bytes": 9672,
+      "id": "db57f4287e48794a"
+    },
+    {
+      "kind": "image",
+      "name": "svg-20",
+      "source_url": "inline-svg:15b6cc1b48404829",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-20",
+      "bytes": 1063,
+      "id": "15b6cc1b48404829"
+    },
+    {
+      "kind": "image",
+      "name": "svg-21",
+      "source_url": "inline-svg:b288a2071afa6c7d",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-21",
+      "bytes": 3404,
+      "id": "b288a2071afa6c7d"
+    },
+    {
+      "kind": "image",
+      "name": "svg-22",
+      "source_url": "inline-svg:afb07751e9f32a9c",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-22",
+      "bytes": 796,
+      "id": "afb07751e9f32a9c"
+    },
+    {
+      "kind": "image",
+      "name": "svg-23",
+      "source_url": "inline-svg:09cc04cb795722e1",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-23",
+      "bytes": 2538,
+      "id": "09cc04cb795722e1"
+    },
+    {
+      "kind": "image",
+      "name": "svg-24",
+      "source_url": "inline-svg:28dc5581c36ff67e",
+      "local_path": "E:\\Eslam Builds\\design-system\\evidence\\assets\\svg-24",
+      "bytes": 552,
+      "id": "28dc5581c36ff67e"
+    }
+  ]
+}

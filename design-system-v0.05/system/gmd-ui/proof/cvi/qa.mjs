@@ -1,0 +1,13 @@
+import {chromium} from 'file:///C:/Users/khorm/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright/index.mjs';
+import fs from 'node:fs/promises';
+const base='http://127.0.0.1:8766/catalog/';
+const browser=await chromium.launch({headless:true}); const report=[];
+for(const [name,width,ar,motion] of [['desktop-en',1440,false,'no-preference'],['mobile-en',390,false,'no-preference'],['desktop-ar',1440,true,'no-preference'],['mobile-ar',390,true,'no-preference'],['reduced-motion',1440,false,'reduce']]){
+ const ctx=await browser.newContext({viewport:{width,height:900},reducedMotion:motion});const page=await ctx.newPage();let errors=[];page.on('pageerror',e=>errors.push(e.message));page.on('response',r=>{if(r.status()>=400)errors.push(r.status()+' '+r.url())});await page.goto(base+'?study=cvi',{waitUntil:'networkidle'});if(ar)await page.getByRole('button',{name:'العربية',exact:true}).click();
+ const buttons=page.locator('.gmd-cvi-disclose');const disclosures=[];for(let i=0;i<await buttons.count();i++){await buttons.nth(i).focus();await page.keyboard.press('Enter');disclosures.push(await buttons.nth(i).getAttribute('aria-expanded'));await page.keyboard.press('Space');disclosures.push(await buttons.nth(i).getAttribute('aria-expanded'));}
+ const steps=page.locator('.gmd-cvi-pipeline__steps button');let selection=[];for(let i=0;i<await steps.count();i++){await steps.nth(i).click();selection.push(await steps.nth(i).getAttribute('aria-current'));}
+ const facts=await page.evaluate(()=>({width:document.documentElement.scrollWidth,viewport:innerWidth,broken:[...document.images].filter(x=>!x.naturalWidth).map(x=>x.src),font:getComputedStyle(document.querySelector('h1')).fontFamily,size:getComputedStyle(document.querySelector('h1')).fontSize,duplicates:[...document.querySelectorAll('[id]')].map(x=>x.id).filter((x,i,a)=>a.indexOf(x)!==i),marks:[...document.querySelectorAll('mark')].map(x=>getComputedStyle(x).textDecorationColor),motion:getComputedStyle(document.querySelector('.gmd-cvi-pipeline__detail')).animationDuration}));await page.screenshot({path:`proof/cvi/${name}.png`,fullPage:true});if(name==='desktop-en')await page.locator('.gmd-cvi-voices').screenshot({path:'proof/cvi/conversation.png'});report.push({name,facts,disclosures,selection,errors});await ctx.close();
+}
+for(const key of ['home','services','data']){const page=await browser.newPage();await page.goto(base+'?page='+key,{waitUntil:'networkidle'});report.push({page:key,integrated:await page.locator('.gmd-cvi-voices,.gmd-cvi-toolkit,.gmd-cvi-pipeline').count()});await page.close()}
+await browser.close();await fs.writeFile('proof/cvi/qa.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report));
+

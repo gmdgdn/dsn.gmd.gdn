@@ -1,0 +1,3590 @@
+{
+  "assets": [
+    {
+      "id": "4c3c70ba809c6822",
+      "kind": "stylesheet",
+      "name": "2025-tavus-staging.shared.309e872bd.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "early-hints"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 226,
+          "property": "href"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/css/2025-tavus-staging.shared.309e872bd.css"
+    },
+    {
+      "id": "b2cf6842f782bf0b",
+      "kind": "stylesheet",
+      "name": "2025-tavus-staging.6aa06206f4627ab7365a4764.35728905c.opt.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "early-hints"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 227,
+          "property": "href"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/css/2025-tavus-staging.6aa06206f4627ab7365a4764.35728905c.opt.css"
+    },
+    {
+      "id": "39bc4941d9618aab",
+      "kind": "stylesheet",
+      "name": "swiper-bundle.min.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "early-hints"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 263,
+          "property": "href"
+        }
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    },
+    {
+      "id": "b83157b2801e1940",
+      "kind": "stylesheet",
+      "name": "plyr.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "early-hints"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 270,
+          "property": "href"
+        }
+      ],
+      "url": "https://cdn.plyr.io/3.7.2/plyr.css"
+    },
+    {
+      "id": "7d42fbde468b89c5",
+      "kind": "script",
+      "name": "FCKsI1sTzK84z5LSkmgfspeklck",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 252,
+          "property": "src"
+        }
+      ],
+      "url": "https://www.tavus.io/avljl2rk9q5pNjhjOGU1N2Q2ZTUxMmI5NTczZGIxNDZm/FCKsI1sTzK84z5LSkmgfspeklck"
+    },
+    {
+      "id": "651c6491c217864b",
+      "kind": "script",
+      "name": "interact.min.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 399,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/interactjs/dist/interact.min.js"
+    },
+    {
+      "id": "2cc0d54d131a3943",
+      "kind": "script",
+      "name": "platform.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 303,
+          "property": "src"
+        }
+      ],
+      "url": "https://static.elfsight.com/platform/platform.js"
+    },
+    {
+      "id": "c5057b77d44b7e3d",
+      "kind": "script",
+      "name": "https://pixel-cdn.default.com/",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 371,
+          "property": "src"
+        }
+      ],
+      "url": "https://pixel-cdn.default.com/"
+    },
+    {
+      "id": "632d4c134b692b04",
+      "kind": "script",
+      "name": "FCKsI1sT3sNGv_av-g57sefEQTqVyQ",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 253,
+          "property": "src"
+        }
+      ],
+      "url": "https://www.tavus.io/avljl2rk9q5pNjhjOGU1N2Q2ZTUxMmI5NTczZGIxNDZm/FCKsI1sT3sNGv_av-g57sefEQTqVyQ"
+    },
+    {
+      "id": "71dc44ac10e2d455",
+      "kind": "script",
+      "name": "script.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 357,
+          "property": "src"
+        }
+      ],
+      "url": "https://onsite.optimonk.com/script.js?account=272173"
+    },
+    {
+      "id": "915311de7725a1e8",
+      "kind": "script",
+      "name": "minsweeperv2.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 5618,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/matthewrhansen/webflow-minesweeper@main/minsweeperv2.js"
+    },
+    {
+      "id": "433b41434f244dd2",
+      "kind": "script",
+      "name": "jquery-3.5.1.min.dc5e7f18c8.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 5652,
+          "property": "src"
+        }
+      ],
+      "url": "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=68c8e57d6e512b9573db146f"
+    },
+    {
+      "id": "9b3d1c319941f3eb",
+      "kind": "script",
+      "name": "2025-tavus-staging.1578dc97.7ae7952a03b79624.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 5653,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.1578dc97.7ae7952a03b79624.js"
+    },
+    {
+      "id": "b3fa4a4328ab3a80",
+      "kind": "script",
+      "name": "ScrollTrigger.min.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 5655,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/gsap/3.15.0/ScrollTrigger.min.js"
+    },
+    {
+      "id": "636c504402489167",
+      "kind": "script",
+      "name": "gsap.min.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 5654,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/gsap/3.15.0/gsap.min.js"
+    },
+    {
+      "id": "13cf11a4182d0bc5",
+      "kind": "script",
+      "name": "swiper-bundle.min.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 5658,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"
+    },
+    {
+      "id": "5b9930f8e08565fd",
+      "kind": "script",
+      "name": "init.v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 5695,
+          "property": "src"
+        }
+      ],
+      "url": "https://static.claydar.com/init.v1.js?id=cB6YenAtVL"
+    },
+    {
+      "id": "7ca3418b49dd1110",
+      "kind": "script",
+      "name": "clipboard.min.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 5669,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"
+    },
+    {
+      "id": "63c56570ae87c00c",
+      "kind": "script",
+      "name": "attributes.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 5706,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/attributes.js"
+    },
+    {
+      "id": "ad473cc46dd2223e",
+      "kind": "script",
+      "name": "gtm.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 245,
+          "property": "src"
+        }
+      ],
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K47VNVVF"
+    },
+    {
+      "id": "f4743308473f1963",
+      "kind": "script",
+      "name": "reb2b.js.gz",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 244,
+          "property": "src"
+        }
+      ],
+      "url": "https://s3-us-west-2.amazonaws.com/b2bjsstore/b/QO92DHKQWWN7/reb2b.js.gz"
+    },
+    {
+      "id": "320d4256fc0e4146",
+      "kind": "script",
+      "name": "insight.min.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 230,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 243,
+          "property": "src"
+        }
+      ],
+      "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js"
+    },
+    {
+      "id": "7b7d86014aee032b",
+      "kind": "script",
+      "name": "uwt.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 242,
+          "property": "src"
+        }
+      ],
+      "url": "https://static.ads-twitter.com/uwt.js"
+    },
+    {
+      "id": "5e2f948636341a8d",
+      "kind": "script",
+      "name": "pixel.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 241,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.vector.co/pixel.js"
+    },
+    {
+      "id": "adc0ab641e937ddd",
+      "kind": "script",
+      "name": "reo.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 297,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 309,
+          "property": "src"
+        }
+      ],
+      "url": "https://static.reo.dev/866cba27a3fb014/reo.js"
+    },
+    {
+      "id": "58d3df98a03aefa9",
+      "kind": "script",
+      "name": "hotjar-6545737.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 305,
+          "property": "src"
+        }
+      ],
+      "url": "https://static.hotjar.com/c/hotjar-6545737.js?sv=6"
+    },
+    {
+      "id": "7a412afd953af04d",
+      "kind": "script",
+      "name": "us-d2ec0fb4-059b-4336-92d0-b59946e3cd8a.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 306,
+          "property": "src"
+        }
+      ],
+      "url": "https://snippet.tavus.io/us-d2ec0fb4-059b-4336-92d0-b59946e3cd8a.js"
+    },
+    {
+      "id": "c5acbaebd7a0b381",
+      "kind": "script",
+      "name": "fbevents.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 240,
+          "property": "src"
+        }
+      ],
+      "url": "https://connect.facebook.net/en_US/fbevents.js"
+    },
+    {
+      "id": "674efcf066980c8d",
+      "kind": "script",
+      "name": "pixel.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 238,
+          "property": "src"
+        }
+      ],
+      "url": "https://www.redditstatic.com/ads/pixel.js?pixel_id=a2_jchjd55exftz"
+    },
+    {
+      "id": "b6838e9814e66200",
+      "kind": "script",
+      "name": "oaiq.min.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 237,
+          "property": "src"
+        }
+      ],
+      "url": "https://bzrcdn.openai.com/sdk/oaiq.min.js"
+    },
+    {
+      "id": "334c8572f60275cd",
+      "kind": "script",
+      "name": "forms.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 236,
+          "property": "src"
+        }
+      ],
+      "url": "https://customerioforms.com/assets/forms.js"
+    },
+    {
+      "id": "41cec538d1338110",
+      "kind": "script",
+      "name": "https://import-cdn.default.com/",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 307,
+          "property": "src"
+        }
+      ],
+      "url": "https://import-cdn.default.com/"
+    },
+    {
+      "id": "3cb73dd088427ff4",
+      "kind": "other",
+      "name": "iframe",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "iframe"
+        },
+        {
+          "kind": "resource",
+          "property": "iframe"
+        }
+      ],
+      "url": "https://customer-89oi2uqhvws3g49x.cloudflarestream.com/013e83f974257d0625c17c09043ecf74/iframe?poster=https%3A%2F%2Fcustomer-89oi2uqhvws3g49x.cloudflarestream.com%2F013e83f974257d0625c17c09043ecf74%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600&autoplay=true&loop=true&muted=true&controls=false&preload=true"
+    },
+    {
+      "id": "8061e098c96a2c47",
+      "kind": "other",
+      "name": "iframe",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "iframe"
+        }
+      ],
+      "url": "https://customer-89oi2uqhvws3g49x.cloudflarestream.com/d8575ada9383367abd02e6513e3a156a/iframe?poster=https%3A%2F%2Fcustomer-89oi2uqhvws3g49x.cloudflarestream.com%2Fd8575ada9383367abd02e6513e3a156a%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600&autoplay=true&loop=true&muted=true&controls=false&preload=true"
+    },
+    {
+      "id": "4e3a8320f4482251",
+      "kind": "other",
+      "name": "iframe",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "iframe"
+        }
+      ],
+      "url": "https://customer-89oi2uqhvws3g49x.cloudflarestream.com/4b70c35f644a0f094208d3b2caa3ebe2/iframe?poster=https%3A%2F%2Fcustomer-89oi2uqhvws3g49x.cloudflarestream.com%2F4b70c35f644a0f094208d3b2caa3ebe2%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600&autoplay=true&loop=true&muted=true&controls=false&preload=true"
+    },
+    {
+      "id": "8dde5cebe45702df",
+      "kind": "font",
+      "name": "68c8e57e6e512b9573db1a38_SuisseIntl-Regular.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a38_SuisseIntl-Regular.woff2"
+    },
+    {
+      "id": "58f345c9f5760d46",
+      "kind": "image",
+      "name": "6ab69b9e21f1e5bffb5e7703_hv2-pal-bg-dither.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        },
+        {
+          "kind": "computedStyle",
+          "nodeId": 1079,
+          "property": "background-image"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6ab69b9e21f1e5bffb5e7703_hv2-pal-bg-dither.png"
+    },
+    {
+      "id": "a9d86e337cb81e96",
+      "kind": "font",
+      "name": "68c8e57e6e512b9573db1a23_PerfectlyNineties-Regular.woff",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a23_PerfectlyNineties-Regular.woff"
+    },
+    {
+      "id": "34b994e567bb7fac",
+      "kind": "font",
+      "name": "68c8e57e6e512b9573db1a21_FK%20Raster%20Grotesk%20Compact%20Blended.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a21_FK%20Raster%20Grotesk%20Compact%20Blended.woff2"
+    },
+    {
+      "id": "2f1b0c6f3d5d1d3c",
+      "kind": "font",
+      "name": "68c8e57e6e512b9573db1a22_PerfectlyNineties-Italic.woff",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a22_PerfectlyNineties-Italic.woff"
+    },
+    {
+      "id": "60703cd182858f99",
+      "kind": "image",
+      "name": "68c8e57e6e512b9573db1aa0_logo.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 15,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1aa0_logo.svg"
+    },
+    {
+      "id": "16816d8af023f1ff",
+      "kind": "image",
+      "name": "6913cbc2bedec7104679a887_Logo_of_Deloitte.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 63,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db147f/6913cbc2bedec7104679a887_Logo_of_Deloitte.avif"
+    },
+    {
+      "id": "e895fc83414d206e",
+      "kind": "image",
+      "name": "6913af263342f85385be96c4_Frame%202147229100.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 920,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 920,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db147f/6913af263342f85385be96c4_Frame%202147229100.avif"
+    },
+    {
+      "id": "9e777ec38f677e31",
+      "kind": "image",
+      "name": "6913d9caf5d4b8841ecc78ed_Amazon_logo.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 922,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 922,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db147f/6913d9caf5d4b8841ecc78ed_Amazon_logo.avif"
+    },
+    {
+      "id": "3e7670ce95d19c52",
+      "kind": "image",
+      "name": "6a32c1fc75611472f0e22df5_salesforce_logo.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 924,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db147f/6a32c1fc75611472f0e22df5_salesforce_logo.svg"
+    },
+    {
+      "id": "6edf69a8b636f1ad",
+      "kind": "image",
+      "name": "6a32c1b91f0dfb6bf1d9741a_cvs_health_logo.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 926,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db147f/6a32c1b91f0dfb6bf1d9741a_cvs_health_logo.svg"
+    },
+    {
+      "id": "1f422c0ee689327f",
+      "kind": "image",
+      "name": "68f240c29170507fc386f3d7_Shadow.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68f240c29170507fc386f3d7_Shadow.avif"
+    },
+    {
+      "id": "19d9db3d1ad9ac24",
+      "kind": "image",
+      "name": "68f0e0628f97ea257bd5dd30_art.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 4,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 4,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68f0e0628f97ea257bd5dd30_art.avif"
+    },
+    {
+      "id": "4106c4c44274d840",
+      "kind": "image",
+      "name": "68f0e692a8dea1dd96d9227f_c492fcf6409c07ffdaff86a23e3a295b_right-hand.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 11,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68f0e692a8dea1dd96d9227f_c492fcf6409c07ffdaff86a23e3a295b_right-hand.avif"
+    },
+    {
+      "id": "24e2dc0ce0616710",
+      "kind": "image",
+      "name": "6910b44825c665792d8c7946_hand-left-img%402x.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 12,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6910b44825c665792d8c7946_hand-left-img%402x.avif"
+    },
+    {
+      "id": "82a4ab5bcb21520e",
+      "kind": "image",
+      "name": "68f0e3bb7519143839804c61_v2.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 13,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 13,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68f0e3bb7519143839804c61_v2.avif"
+    },
+    {
+      "id": "24a0c5fefb3212f4",
+      "kind": "image",
+      "name": "6910b44953b727980a7cd3ef_arm-left-img%402x.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 982,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6910b44953b727980a7cd3ef_arm-left-img%402x.avif"
+    },
+    {
+      "id": "be3ae560d9c04f7d",
+      "kind": "image",
+      "name": "68f0e97ce1404d3ee2f0a426_e70185e1685d247f0d4d04c76497f34f_right-outer.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 983,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68f0e97ce1404d3ee2f0a426_e70185e1685d247f0d4d04c76497f34f_right-outer.avif"
+    },
+    {
+      "id": "f66aabc35223acba",
+      "kind": "other",
+      "name": "iframe",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "iframe"
+        }
+      ],
+      "url": "https://customer-89oi2uqhvws3g49x.cloudflarestream.com/4481600b0e525713d5ff557d32622d8a/iframe?poster=https%3A%2F%2Fcustomer-89oi2uqhvws3g49x.cloudflarestream.com%2F4481600b0e525713d5ff557d32622d8a%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600&autoplay=true&loop=true&muted=true&controls=false&preload=true"
+    },
+    {
+      "id": "2c1094f65df49f63",
+      "kind": "other",
+      "name": "iframe",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "iframe"
+        }
+      ],
+      "url": "https://customer-89oi2uqhvws3g49x.cloudflarestream.com/bc8d57f651ec75584f8c799e6504f285/iframe?poster=https%3A%2F%2Fcustomer-89oi2uqhvws3g49x.cloudflarestream.com%2Fbc8d57f651ec75584f8c799e6504f285%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600&autoplay=true&loop=true&muted=true&controls=false&preload=true"
+    },
+    {
+      "id": "3876788c17b60457",
+      "kind": "other",
+      "name": "iframe",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "iframe"
+        }
+      ],
+      "url": "https://customer-89oi2uqhvws3g49x.cloudflarestream.com/256e4fb85d27a7d15bd7a3ca5c1719c5/iframe?poster=https%3A%2F%2Fcustomer-89oi2uqhvws3g49x.cloudflarestream.com%2F256e4fb85d27a7d15bd7a3ca5c1719c5%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600&autoplay=true&loop=true&muted=true&controls=false&preload=true"
+    },
+    {
+      "id": "ca70058b1eabd1f4",
+      "kind": "image",
+      "name": "6911b33e6cf103bbb1ac1484_pals-video.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        },
+        {
+          "kind": "computedStyle",
+          "nodeId": 1240,
+          "property": "background-image"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6911b33e6cf103bbb1ac1484_pals-video.avif"
+    },
+    {
+      "id": "97cb074201039777",
+      "kind": "image",
+      "name": "6908542eb9b9022ffef3a270_step%203%20bg.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        },
+        {
+          "kind": "computedStyle",
+          "nodeId": 1282,
+          "property": "background-image"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6908542eb9b9022ffef3a270_step%203%20bg.avif"
+    },
+    {
+      "id": "f686b7023707604d",
+      "kind": "image",
+      "name": "69084de8b14ac845c5fa5089_step2.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        },
+        {
+          "kind": "computedStyle",
+          "nodeId": 1322,
+          "property": "background-image"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/69084de8b14ac845c5fa5089_step2.avif"
+    },
+    {
+      "id": "f2bbe93dc8181741",
+      "kind": "image",
+      "name": "69084a7e96f08def56a7dc73_step%201.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        },
+        {
+          "kind": "computedStyle",
+          "nodeId": 1394,
+          "property": "background-image"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/69084a7e96f08def56a7dc73_step%201.avif"
+    },
+    {
+      "id": "b4b7ff02d443b77e",
+      "kind": "other",
+      "name": "iframe",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "iframe"
+        }
+      ],
+      "url": "https://customer-89oi2uqhvws3g49x.cloudflarestream.com/13198ee451990cd08af6552fe4debd79/iframe?poster=https%3A%2F%2Fcustomer-89oi2uqhvws3g49x.cloudflarestream.com%2F13198ee451990cd08af6552fe4debd79%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600&autoplay=true&loop=true&muted=true&controls=false&preload=true"
+    },
+    {
+      "id": "de4bfc57b58b0cfa",
+      "kind": "image",
+      "name": "6a8fb62bff3cdb16541bbd92_models-api.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        },
+        {
+          "kind": "computedStyle",
+          "nodeId": 1619,
+          "property": "background-image"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a8fb62bff3cdb16541bbd92_models-api.svg"
+    },
+    {
+      "id": "5fc5823033afc8a7",
+      "kind": "font",
+      "name": "68c8e57e6e512b9573db1a27_SuisseIntl-Medium.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a27_SuisseIntl-Medium.woff2"
+    },
+    {
+      "id": "f6200d499a60b2f4",
+      "kind": "image",
+      "name": "68c8e57e6e512b9573db1a81_texture-denim.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        },
+        {
+          "kind": "computedStyle",
+          "nodeId": 3559,
+          "property": "background-image"
+        },
+        {
+          "kind": "computedStyle",
+          "nodeId": 3575,
+          "property": "background-image"
+        },
+        {
+          "kind": "computedStyle",
+          "nodeId": 3591,
+          "property": "background-image"
+        },
+        {
+          "kind": "computedStyle",
+          "nodeId": 3607,
+          "property": "background-image"
+        },
+        {
+          "kind": "computedStyle",
+          "nodeId": 3623,
+          "property": "background-image"
+        },
+        {
+          "kind": "computedStyle",
+          "nodeId": 3635,
+          "property": "background-image"
+        },
+        {
+          "kind": "computedStyle",
+          "nodeId": 3653,
+          "property": "background-image"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a81_texture-denim.avif"
+    },
+    {
+      "id": "3271034afa4bb454",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.22b66e874d42861f.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.22b66e874d42861f.js"
+    },
+    {
+      "id": "e915574ef0366982",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.64873797e35e968c.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.64873797e35e968c.js"
+    },
+    {
+      "id": "07f9f7ab51eda36a",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.65add74e46fe5245.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.65add74e46fe5245.js"
+    },
+    {
+      "id": "aff9b15c06fcf5db",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.ad6dcd2fc75b294c.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.ad6dcd2fc75b294c.js"
+    },
+    {
+      "id": "c9ca31101fdb9ef6",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.db80639074bc0296.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.db80639074bc0296.js"
+    },
+    {
+      "id": "552f776a50b679bd",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.5959ac50b3c857f1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.5959ac50b3c857f1.js"
+    },
+    {
+      "id": "ed30373fe076ae91",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.496d56dd8c063ec0.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.496d56dd8c063ec0.js"
+    },
+    {
+      "id": "001b17d99cc84b86",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.2aaad8b9b407aaec.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.2aaad8b9b407aaec.js"
+    },
+    {
+      "id": "981f7dedd5336298",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.36b8fb49256177c8.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.36b8fb49256177c8.js"
+    },
+    {
+      "id": "ab1261e905e2b7be",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.58f76f2901951073.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.58f76f2901951073.js"
+    },
+    {
+      "id": "00c7c21a81e2e13d",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.e8e7e6855b442808.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.e8e7e6855b442808.js"
+    },
+    {
+      "id": "6dc4cfa07070bb4d",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.40144d8322818807.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.40144d8322818807.js"
+    },
+    {
+      "id": "7216b493d1182105",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.43f4d187dbb3f1f5.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.43f4d187dbb3f1f5.js"
+    },
+    {
+      "id": "f2920f7c3642b213",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.7a15e72921c0ea82.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.7a15e72921c0ea82.js"
+    },
+    {
+      "id": "352b6bc04cff9d4e",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.a05a70dc064fe75f.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.a05a70dc064fe75f.js"
+    },
+    {
+      "id": "e36da9d4149d6472",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.c42549641b7d4501.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.c42549641b7d4501.js"
+    },
+    {
+      "id": "4065b3a8328e754f",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.1480913c3571b049.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.1480913c3571b049.js"
+    },
+    {
+      "id": "de92f80942cda465",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.dac51c455b7e76af.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.dac51c455b7e76af.js"
+    },
+    {
+      "id": "704ce2896ab2b20b",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.2f8fd4260fe41f39.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.2f8fd4260fe41f39.js"
+    },
+    {
+      "id": "7a76db2861aa6671",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.2096258739371b33.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.2096258739371b33.js"
+    },
+    {
+      "id": "f81d4c26afadd15d",
+      "kind": "script",
+      "name": "analytics.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 235,
+          "property": "src"
+        }
+      ],
+      "url": "https://www.google-analytics.com/analytics.js"
+    },
+    {
+      "id": "310837f39d13079d",
+      "kind": "other",
+      "name": "c",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://www.tavus.io/avljl2rk9q5pNjhjOGU1N2Q2ZTUxMmI5NTczZGIxNDZm/ag/g/c?v=2&tid=G-SBQHZWT4FS&gtm=45g92e69u2v9105665726za204zd9105665726xf4&_p=1791015827905&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dZGVlNj.dYWYxNW.dNzQzZD&ecid=1206120245&_eu=EAAAACQC&_uip=%3A%3A&cid=1022724951.1791015300&ec_mode=a&fp=1&frm=0&ibt=1&ir=1&ngs=1&pscdl=noapi&rcb=15&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&ur=EG-C&_gsid=SBki8w0aQJotkQRd9fScbL7SgQie2FEL1g&_s=1&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153&sid=1791015300&sct=1&seg=1&dl=https%3A%2F%2Fwww.tavus.io%2F&dt=Tavus%3A%20The%20Human%20Computing%20Company&gtb=2&en=page_view&_ee=1&gap.gtb=2&tfd=883"
+    },
+    {
+      "id": "bcbb5374cba80fc5",
+      "kind": "other",
+      "name": "collect",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "beacon"
+        }
+      ],
+      "url": "https://analytics.google.com/g/s/collect?_gsid=SBki8w0aQJotkQRd9fScbL7SgQie2FEL1g&gtm=45g92e69u2v9105665726za204zd9105665726xf4"
+    },
+    {
+      "id": "0b1a9ba3e3630f91",
+      "kind": "script",
+      "name": "11287075596",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 308,
+          "property": "src"
+        }
+      ],
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11287075596/?random=1791015828474&cv=11&fst=1791015828474&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e69u2v9105665726za204zd9105665726xecxf4&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1536&u_h=864&url=https%3A%2F%2Fwww.tavus.io%2F&rcb=15&frm=0&tiba=Tavus%3A%20The%20Human%20Computing%20Company&did=dZGVlNj%2CdYWYxNW&gdid=dZGVlNj.dYWYxNW.dNzQzZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&gtb=2&data=event%3Dgtag.config&gap.gtb=2&ept=9&rfmt=3&fmt=4"
+    },
+    {
+      "id": "083b346d84bff238",
+      "kind": "other",
+      "name": "11287075596",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://www.google.com/rmkt/collect/11287075596/?random=1791015828474&cv=11&fst=1791015828474&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e69u2v9105665726za204zd9105665726xecxf4&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1536&u_h=864&url=https%3A%2F%2Fwww.tavus.io%2F&rcb=15&frm=0&tiba=Tavus%3A%20The%20Human%20Computing%20Company&did=dZGVlNj%2CdYWYxNW&gdid=dZGVlNj.dYWYxNW.dNzQzZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&gtb=2&data=event%3Dgtag.config&gap.gtb=2&ept=68&gcp=5"
+    },
+    {
+      "id": "c933e6cc1655d009",
+      "kind": "image",
+      "name": "ga-audiences",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://www.google.com.eg/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&ngs=1&ibt=1&tid=G-SBQHZWT4FS&cid=1022724951.1791015300&gtm=45g92e69u2v9105665726za204zd9105665726xf4&rcb=15&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153&z=873269801"
+    },
+    {
+      "id": "073f828141cf35c3",
+      "kind": "other",
+      "name": "collect",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://www.google.com/ccm/collect?rcb=15&frm=0&apvc=1&auid=734909484.1791015300&dt=Tavus%3A%20The%20Human%20Computing%20Company&tid=AW-11287075596&en=page_view&dl=https%3A%2F%2Fwww.tavus.io%2F&scrsrc=www.tavus.io&rnd=1944085770.1791015828&navt=n&npa=0&did=dZGVlNj%2CdYWYxNW&gdid=dZGVlNj.dYWYxNW.dNzQzZD&gtb=2&gtm=45g92e69u2v9105665726za204zd9105665726xecxf4&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153&tft=1791015828486&tfd=896&gap.gtb=2&tids=AW-11287075596&fmt=8"
+    },
+    {
+      "id": "87dd1caa10729d3a",
+      "kind": "other",
+      "name": "collect",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=734909484.1791015300&gtm=45g92e69u2v9105665726za204zd9105665726xecxf4&fmt=8"
+    },
+    {
+      "id": "e5e87c28d97ca563",
+      "kind": "script",
+      "name": "radar.min.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 234,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.claydar.com/releases/latest/radar.min.js"
+    },
+    {
+      "id": "6d851dd38e75cff7",
+      "kind": "script",
+      "name": "chunk-J3PPETVR.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-J3PPETVR.js"
+    },
+    {
+      "id": "0f3bdf6671307537",
+      "kind": "script",
+      "name": "chunk-OF4NI3Y7.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-OF4NI3Y7.js"
+    },
+    {
+      "id": "f88179938164d499",
+      "kind": "script",
+      "name": "chunk-WIALCYDY.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-WIALCYDY.js"
+    },
+    {
+      "id": "bdb395fecc1d0539",
+      "kind": "script",
+      "name": "chunk-ADKL4AJZ.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-ADKL4AJZ.js"
+    },
+    {
+      "id": "3ccea9354d787f39",
+      "kind": "script",
+      "name": "chunk-VDEO3AAR.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-VDEO3AAR.js"
+    },
+    {
+      "id": "62fdfc9023ea090d",
+      "kind": "script",
+      "name": "chunk-L4B2V5MO.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-L4B2V5MO.js"
+    },
+    {
+      "id": "bd0cce7ebd26b499",
+      "kind": "script",
+      "name": "chunk-CB6LZ537.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-CB6LZ537.js"
+    },
+    {
+      "id": "74827a3a9b13ae42",
+      "kind": "script",
+      "name": "chunk-N2ZCN6XY.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-N2ZCN6XY.js"
+    },
+    {
+      "id": "04129204d945893b",
+      "kind": "script",
+      "name": "chunk-XRTLPMPO.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-XRTLPMPO.js"
+    },
+    {
+      "id": "9abfc43203211338",
+      "kind": "script",
+      "name": "chunk-GGDEANQW.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-GGDEANQW.js"
+    },
+    {
+      "id": "71f4cd953e1d04b2",
+      "kind": "script",
+      "name": "chunk-K46K3RI5.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-K46K3RI5.js"
+    },
+    {
+      "id": "b46dfc1838ea186d",
+      "kind": "script",
+      "name": "chunk-ZI7TAH2K.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-ZI7TAH2K.js"
+    },
+    {
+      "id": "b48702e00d7d5dcc",
+      "kind": "image",
+      "name": "thumbnail.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "video"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 44,
+          "property": "poster"
+        }
+      ],
+      "url": "https://customer-89oi2uqhvws3g49x.cloudflarestream.com/0ae9c02190b4ee9d85349641ba2bf329/thumbnails/thumbnail.jpg?time=0s&height=1080"
+    },
+    {
+      "id": "7484f86c2ea9d5d7",
+      "kind": "image",
+      "name": "68c8e57e6e512b9573db1af9_Frame%202147228894.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 14455,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1af9_Frame%202147228894.png"
+    },
+    {
+      "id": "5f0101d363bc9605",
+      "kind": "video",
+      "name": "default.mp4",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "video"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 44,
+          "property": "src"
+        }
+      ],
+      "url": "https://customer-89oi2uqhvws3g49x.cloudflarestream.com/0ae9c02190b4ee9d85349641ba2bf329/downloads/default.mp4"
+    },
+    {
+      "id": "437aefff758a64d4",
+      "kind": "script",
+      "name": "src-VWGKX7LV.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/src-VWGKX7LV.js"
+    },
+    {
+      "id": "2b9843cbe53eb210",
+      "kind": "script",
+      "name": "insight.beta.min.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 229,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 233,
+          "property": "src"
+        }
+      ],
+      "url": "https://snap.licdn.com/li.lms-analytics/insight.beta.min.js"
+    },
+    {
+      "id": "9870bccd01af5b68",
+      "kind": "other",
+      "name": "boot",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://core.service.elfsight.com/p/boot/?page=https%3A%2F%2Fwww.tavus.io%2F&w=d02f93f0-3a9c-44c1-8dca-340174829834"
+    },
+    {
+      "id": "a98b452854a926ac",
+      "kind": "other",
+      "name": "event",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://api.reo.dev/api/v1/ghost/event"
+    },
+    {
+      "id": "4ec4aa7fce1b62ad",
+      "kind": "script",
+      "name": "chunk-7CAOOJVW.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-7CAOOJVW.js"
+    },
+    {
+      "id": "da5dd76b229da0df",
+      "kind": "script",
+      "name": "chunk-UAA7M346.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-UAA7M346.js"
+    },
+    {
+      "id": "6c95e72f33a50fcc",
+      "kind": "other",
+      "name": "WQ7x2tofDQg1jdtYTz2ymn.json",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://bzrcdn.openai.com/pixel-config/v1/WQ7x2tofDQg1jdtYTz2ymn.json"
+    },
+    {
+      "id": "2379b328e9154668",
+      "kind": "other",
+      "name": "ip-info",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://api.vector.co/pixel/ip-info"
+    },
+    {
+      "id": "f0507b13dd4d7f89",
+      "kind": "image",
+      "name": "adsct",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 5712,
+          "property": "src"
+        }
+      ],
+      "url": "https://t.co/1/i/adsct?bci=4&dv=Africa%2FCairo%26en-US%26Google%20Inc.%26Win32%26255%261536%26864%268%2624%261536%26816%260%26na&eci=3&event=%7B%7D&event_id=17440f39-a33a-4c98-9912-1a93d9a3743e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9027f373-dee9-4861-874a-265e6b8842cf&tw_ch_fvl=Chromium%2F154.0.8037.98%2CGoogle%20Chrome%2F154.0.8037.98%2CNot%20A(Brand%2F99.0.0.0&tw_ch_pv=19.0.0&tw_document_href=https%3A%2F%2Fwww.tavus.io%2F&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=1&tw_session_id=1791015301177-776358368&twpid=tw.1791015301177.31714670630440824&txn_id=pbx6x&type=javascript&version=2.4.11"
+    },
+    {
+      "id": "78ea161871e071d5",
+      "kind": "image",
+      "name": "adsct",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 5713,
+          "property": "src"
+        }
+      ],
+      "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=Africa%2FCairo%26en-US%26Google%20Inc.%26Win32%26255%261536%26864%268%2624%261536%26816%260%26na&eci=3&event=%7B%7D&event_id=17440f39-a33a-4c98-9912-1a93d9a3743e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9027f373-dee9-4861-874a-265e6b8842cf&tw_ch_fvl=Chromium%2F154.0.8037.98%2CGoogle%20Chrome%2F154.0.8037.98%2CNot%20A(Brand%2F99.0.0.0&tw_ch_pv=19.0.0&tw_document_href=https%3A%2F%2Fwww.tavus.io%2F&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=1&tw_session_id=1791015301177-776358368&twpid=tw.1791015301177.31714670630440824&txn_id=pbx6x&type=javascript&version=2.4.11"
+    },
+    {
+      "id": "c67f8891c46d1b4c",
+      "kind": "script",
+      "name": "1008078485164063",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 239,
+          "property": "src"
+        }
+      ],
+      "url": "https://connect.facebook.net/signals/config/1008078485164063?v=2.9.414&r=stable&domain=www.tavus.io&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188"
+    },
+    {
+      "id": "787d52ad6557ac61",
+      "kind": "script",
+      "name": "pixel.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 232,
+          "property": "src"
+        }
+      ],
+      "url": "https://www.redditstatic.com/ads/pixel.js"
+    },
+    {
+      "id": "d45c5a62bfd62844",
+      "kind": "script",
+      "name": "wjkqgnxidy",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 231,
+          "property": "src"
+        }
+      ],
+      "url": "https://www.clarity.ms/tag/wjkqgnxidy?ref=gtm"
+    },
+    {
+      "id": "faa2a31a63856979",
+      "kind": "other",
+      "name": "collect",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://www.google.com/ccm/collect?rcb=15&frm=0&apvc=0&ae=g&auid=734909484.1791015300&dt=Tavus%3A%20The%20Human%20Computing%20Company&en=page_view&dl=https%3A%2F%2Fwww.tavus.io%2F&scrsrc=www.googletagmanager.com&rnd=1944085770.1791015828&navt=n&npa=0&ep.ads_data_redaction=0&gdid=dZGVlNj.dYWYxNW&gtm=45He69u2v9237993924za200zd9237993924xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120385423~120469145~120469153~121280970&tft=1791015829007&tfd=1417&fmt=8"
+    },
+    {
+      "id": "f4a9b5d418ab1350",
+      "kind": "other",
+      "name": "11287075596",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://www.googleadservices.com/pagead/conversion/11287075596/?random=1791015829011&cv=11&fst=1791015829011&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45g92e69u2v9105665726z89237993924za204zd9105665726xeaxf4&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~120895655&u_w=1536&u_h=864&url=https%3A%2F%2Fwww.tavus.io%2F&rcb=15&evjid=lbtFR0VH6r56jAYTcA&label=9KRLCJSc2-YbEIy2jIYq&frm=0&tiba=Tavus%3A%20The%20Human%20Computing%20Company&did=dZGVlNj%2CdYWYxNW&gdid=dZGVlNj.dYWYxNW.dNzQzZD&bttype=purchase&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&oid=GG_1936488888.1791015829&oidsrc=3&ecsid2=603236924.1791015302&_tu=CBA&gtb=2&mt=1&gcl_ctr=2~0~0~0&gap.gtb=2&category=acrcp_v1_512&emd=tvd.1&eme=tv.1~&gap.ch=4&ept=5&epp=5~22~63~74"
+    },
+    {
+      "id": "8dee02068375058b",
+      "kind": "other",
+      "name": "11287075596",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://www.tavus.io/avljl2rk9q5pNjhjOGU1N2Q2ZTUxMmI5NTczZGIxNDZm/as/p/c/11287075596/?random=1791015829011&cv=11&fst=1791015829011&fmt=3&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45g92e69u2v9105665726z89237993924za204zd9105665726xeaxf4&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~120895655&u_w=1536&u_h=864&url=https%3A%2F%2Fwww.tavus.io%2F&rcb=15&evjid=lbtFR0VH6r56jAYTcA&label=9KRLCJSc2-YbEIy2jIYq&frm=0&tiba=Tavus%3A%20The%20Human%20Computing%20Company&did=dZGVlNj%2CdYWYxNW&gdid=dZGVlNj.dYWYxNW.dNzQzZD&bttype=purchase&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&oid=GG_1936488888.1791015829&oidsrc=3&ecsid2=603236924.1791015302&_tu=CBA&gtb=2&mt=1&gcl_ctr=2~0~0~0&gap.gtb=2&category=acrcp_v1_512&emd=tvd.1&eme=tv.1~&gap.ch=1&ept=74&epp=5~22~63~74"
+    },
+    {
+      "id": "12f1051dfca886ea",
+      "kind": "other",
+      "name": "11287075596",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://www.googleadservices.com/pagead/conversion/11287075596/?random=1791015829011&cv=11&fst=1791015829011&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45g92e69u2v9105665726z89237993924za204zd9105665726xeaxf4&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~120895655&u_w=1536&u_h=864&url=https%3A%2F%2Fwww.tavus.io%2F&rcb=15&label=9KRLCJSc2-YbEIy2jIYq&frm=0&tiba=Tavus%3A%20The%20Human%20Computing%20Company&did=dZGVlNj%2CdYWYxNW&gdid=dZGVlNj.dYWYxNW.dNzQzZD&bttype=purchase&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&oid=GG_1936488888.1791015829&oidsrc=3&ecsid2=603236924.1791015302&_tu=CBA&gtb=2&mt=2&gcl_ctr=2~0~0~0&gap.gtb=2&emd=tvd.1&eme=tv.1~&gap.ch=1&ept=63&epp=5~22~63~74"
+    },
+    {
+      "id": "2f4e6b65ec134d02",
+      "kind": "image",
+      "name": "11287075596",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://www.tavus.io/avljl2rk9q5pNjhjOGU1N2Q2ZTUxMmI5NTczZGIxNDZm/as/d/ccm/conversion/11287075596/?random=1791015829011&cv=11&fst=1791015829011&fmt=3&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45g92e69u2v9105665726z89237993924za204zd9105665726xeaxf4&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~120895655&u_w=1536&u_h=864&url=https%3A%2F%2Fwww.tavus.io%2F&rcb=15&evjid=lbtFR0VH6r56jAYTcA&label=9KRLCJSc2-YbEIy2jIYq&frm=0&tiba=Tavus%3A%20The%20Human%20Computing%20Company&did=dZGVlNj%2CdYWYxNW&gdid=dZGVlNj.dYWYxNW.dNzQzZD&bttype=purchase&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&oid=GG_1936488888.1791015829&oidsrc=3&ecsid2=603236924.1791015302&_tu=CBA&gtb=2&mt=1&gcl_ctr=2~0~0~0&gap.gtb=2&category=acrcp_v1_512&emd=tvd.1&eme=tv.1~&gap.ch=1&_uip=%3A%3A"
+    },
+    {
+      "id": "847601ddaad3d02d",
+      "kind": "other",
+      "name": "rp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://alb.reddit.com/rp?id=a2_jchjd55exftz&event=PageVisit"
+    },
+    {
+      "id": "4c908079401600fa",
+      "kind": "other",
+      "name": "rp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://alb.reddit.com/rp?id=a2_hw2a7y5p26iw&event=gtm.init_consent"
+    },
+    {
+      "id": "8fba728f01361fe0",
+      "kind": "other",
+      "name": "rp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://alb.reddit.com/rp?id=a2_hw2a7y5p26iw&event=gtm.init"
+    },
+    {
+      "id": "03db5bba6dfe8fa5",
+      "kind": "other",
+      "name": "rp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://alb.reddit.com/rp?id=a2_hw2a7y5p26iw&event=gtm.js"
+    },
+    {
+      "id": "ac8fc3b95669546c",
+      "kind": "other",
+      "name": "rp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://alb.reddit.com/rp?id=a2_hw2a7y5p26iw&event=gtm.dom"
+    },
+    {
+      "id": "99030fdd374fb1c8",
+      "kind": "other",
+      "name": "sync-container",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "iframe"
+        }
+      ],
+      "url": "https://api.vector.co/pixel/phoenix/sync-container?duid=74c5054410c7--01m40d9c462m6y20edrh9zjtb6&ds=did-006l&euns=1&s=CgA&version=v3.17.0&cd=.tavus.io&pv=526a503e-6aa9-4392-8142-d94d409a8cd6"
+    },
+    {
+      "id": "1ce9740100190570",
+      "kind": "script",
+      "name": "modules.e762be2b6b709245aabb.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 313,
+          "property": "src"
+        }
+      ],
+      "url": "https://script.hotjar.com/modules.e762be2b6b709245aabb.js"
+    },
+    {
+      "id": "d7f2579afddb73c8",
+      "kind": "script",
+      "name": "embedded.9f9dad8f.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 314,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn-asset.optimonk.com/script.esm/embedded.9f9dad8f.js"
+    },
+    {
+      "id": "91d0ea5310de8b3b",
+      "kind": "script",
+      "name": "2025-tavus-staging.achunk.b4d5b565a85147c9.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/js/2025-tavus-staging.achunk.b4d5b565a85147c9.js"
+    },
+    {
+      "id": "a0df03a2de461d30",
+      "kind": "other",
+      "name": "event",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "beacon"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "beacon"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "beacon"
+        }
+      ],
+      "url": "https://api.claydar.com/tracker/event"
+    },
+    {
+      "id": "19780331915137c7",
+      "kind": "other",
+      "name": "settings",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://api.claydar.com/bp/cB6YenAtVL/settings"
+    },
+    {
+      "id": "655799b0bedced23",
+      "kind": "image",
+      "name": "11287075596",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11287075596/?random=569663236&cv=11&fst=1791015829011&fmt=3&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45g92e69u2v9105665726z89237993924za204zd9105665726xeaxf4&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~120895655&u_w=1536&u_h=864&url=https%3A%2F%2Fwww.tavus.io%2F&rcb=15&label=9KRLCJSc2-YbEIy2jIYq&frm=0&tiba=Tavus%3A%20The%20Human%20Computing%20Company&did=dZGVlNj%2CdYWYxNW&gdid=dZGVlNj.dYWYxNW.dNzQzZD&bttype=purchase&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&oid=GG_1936488888.1791015829&oidsrc=3&ecsid2=603236924.1791015302&_tu=CBA&gtb=2&mt=2&gcl_ctr=2~0~0~0&gap.gtb=2&emd=tvd.1&eme=tv.1~&gap.ch=1&ept=63&epp=5~22~63~74&ct_cookie_present=false&crd=&pscrd=IhMI4ObT87WdlwMVvZc3CB0UkRIcOhVodHRwczovL3d3dy50YXZ1cy5pby8"
+    },
+    {
+      "id": "9974e46a0cf03b76",
+      "kind": "other",
+      "name": "11287075596",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11287075596/?random=972218090&cv=11&fst=1791015829011&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45g92e69u2v9105665726z89237993924za204zd9105665726xeaxf4&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~120895655&u_w=1536&u_h=864&url=https%3A%2F%2Fwww.tavus.io%2F&rcb=15&evjid=lbtFR0VH6r56jAYTcA&label=9KRLCJSc2-YbEIy2jIYq&frm=0&tiba=Tavus%3A%20The%20Human%20Computing%20Company&did=dZGVlNj%2CdYWYxNW&gdid=dZGVlNj.dYWYxNW.dNzQzZD&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=603236924.1791015302&_tu=CBA&gtb=2&mt=1&gcl_ctr=2~0~0~0&gap.gtb=2&category=acrcp_v1_512&emd=tvd.1&eme=tv.1~&gap.ch=4&ept=5&epp=5~22~63~74&ct_cookie_present=false&eoid=CkcKEAjwz4LWBhDp9OrrnpXC3iQSMwCGPEPkZ9LzBsrhXcZ0AMem0nGjtdId9i4N7PSfpi9soRrnrH41kPwp12eMMDXVOl23xfD_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII6O6xAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIpt2xAgiw3rECCIDbsQIIzeGxAg&cerd=CgyU5L4tyOy-LZ3ptzg&eitems=ChEI8M-C1gYQ_azi9a7yvYS0ARIdAIuOvuMyIozCAW7EjBLi1J4iq7lrJVVoLPWfsBE&fsk=ChAI8M-C1gYQhMqi57ODqLhNEiwApcv7rNNqCwTGx83rZXrRoCmJ2VEUKFM8vMYzsnDodJLsc6PepJ2276OstxoCOWE&pscrd=IhMIiPTT87WdlwMVLIo3CB29TRKZOhVodHRwczovL3d3dy50YXZ1cy5pby9CV0NoRUk4TS1DMWdZUXR0LUl3YzM5dmZiUUFSSXNBR2ZsUnRPbHJDa1lqOFAwc0pFajJwWVExTnhsdUJhVGVFY0c1ZElIRXdJV1NrUWhRZHVvQzdqWlR5NHoMCAliCAgAEAAYACAA"
+    },
+    {
+      "id": "6b1653bd56cfdb7f",
+      "kind": "image",
+      "name": "collect",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=7341604&time=1791015829326&li_adsId=661e56f2-f269-4bcc-9b41-c325ac41902b&pageLoadId=30a2f29d-f8ec-4315-9c6a-c8f800d11026&url=https%3A%2F%2Fwww.tavus.io%2F"
+    },
+    {
+      "id": "0676de04f812ef5e",
+      "kind": "image",
+      "name": "11287075596",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://www.google.com/pagead/1p-user-list/11287075596/?random=1791015828474&cv=11&fst=1791014400000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e69u2v9105665726za204zd9105665726xecxf4&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1536&u_h=864&url=https%3A%2F%2Fwww.tavus.io%2F&rcb=15&frm=0&tiba=Tavus%3A%20The%20Human%20Computing%20Company&did=dZGVlNj%2CdYWYxNW&gdid=dZGVlNj.dYWYxNW.dNzQzZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&gtb=2&data=event%3Dgtag.config&gap.gtb=2&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3B9VXOy2xvR7RVw58IdrjgbBAKlS5aFIe33oc3vuLfVfRlL5EF5Tu9o-zQPlygaUK6ij6n5F3a-fkb4lE_RhecB5M_xAbad34RBPqJ9wkuzhUtjRIt58lSt7h2dH5e1McSbedxKJFFcOZzJPIXWDbKqV9lXws9mz5ZhoGa7kTvxs-QWtCgw4YMSKSuu9VVtbHEMKy4DAlvztd-DhA7K4JhGqQVEG79DiYObAuIWckyFTjz8KL1FYuIDqlFzwDGga8svA4Er04_0h2IHP7Trauq9UCC5EDdoEqnsVHYFO&random=1549794663&rmt_tld=0&ipr=y"
+    },
+    {
+      "id": "b76e13629b3efdf0",
+      "kind": "image",
+      "name": "11287075596",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://www.google.com.eg/pagead/1p-user-list/11287075596/?random=1791015828474&cv=11&fst=1791014400000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e69u2v9105665726za204zd9105665726xecxf4&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1536&u_h=864&url=https%3A%2F%2Fwww.tavus.io%2F&rcb=15&frm=0&tiba=Tavus%3A%20The%20Human%20Computing%20Company&did=dZGVlNj%2CdYWYxNW&gdid=dZGVlNj.dYWYxNW.dNzQzZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=734909484.1791015300&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.98%7CGoogle%2520Chrome%3B154.0.8037.98%7CNot%2520A(Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&gtb=2&data=event%3Dgtag.config&gap.gtb=2&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3B9VXOy2xvR7RVw58IdrjgbBAKlS5aFIe33oc3vuLfVfRlL5EF5Tu9o-zQPlygaUK6ij6n5F3a-fkb4lE_RhecB5M_xAbad34RBPqJ9wkuzhUtjRIt58lSt7h2dH5e1McSbedxKJFFcOZzJPIXWDbKqV9lXws9mz5ZhoGa7kTvxs-QWtCgw4YMSKSuu9VVtbHEMKy4DAlvztd-DhA7K4JhGqQVEG79DiYObAuIWckyFTjz8KL1FYuIDqlFzwDGga8svA4Er04_0h2IHP7Trauq9UCC5EDdoEqnsVHYFO&random=1549794663&rmt_tld=1&ipr=y"
+    },
+    {
+      "id": "c63dda5ea05c8ab0",
+      "kind": "other",
+      "name": "events",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://fh-118116076e9a4c2a96a99fbb70bea2a0.ecs.us-west-2.on.aws/events?cee=no"
+    },
+    {
+      "id": "dbe02d77d7f52957",
+      "kind": "image",
+      "name": "tr",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://www.facebook.com/tr/?id=1008078485164063&ev=PageView&dl=https%3A%2F%2Fwww.tavus.io%2F&rl=&if=false&ts=1791015829452&iw=false&sw=1536&sh=864&v=2.9.414&r=stable&ec=0&o=4126&aems=0%3B0&fbp=fb.1.1791015303037.890764612866262661&eid=ob3_plugin-set_38794a993402d2552bf227500feb17ebb739b3f01e5c6c018418c13480d36f1d&cs_est=true&ler=empty&cdl=API_unavailable&pmd[title]=Tavus%3A%20The%20Human%20Computing%20Company&pmd[locale]=en&pmd[description]=Personified%20Application%20Layers%20that%20see%2C%20hear%2C%20and%20respond%20face-to-face%20in%20real%20time.%20Build%20and%20deploy%20with%20our%20API%2C%20no-code%20PAL%20Maker%2C%20or%20enterprise%20Solutions.%20Interactive%20AI%20avatars%20and%20conversational%20video%20reimagined&plt=989.2999999998137&iss=1&ss=%7B%22page_description%22%3A%5B%7B%22rid%22%3A%221096075789460318%22%2C%22v%22%3A%5B%22Introducing%20Griffin%3A%2048%25%20thought%20it%20was%20a%20real%20person%2C%20the%20first%20model%20to%20pass%20the%20real-time%20video%20Turing%20test.%20Learn%20more.%22%5D%7D%5D%7D&imft=1&tz=180&it=1791015828867&coo=false&cf=1&expv2[0]=pl1&expv2[1]=el2&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh1&expv2[49]=ah1&rqm=GET"
+    },
+    {
+      "id": "a16182110bae6005",
+      "kind": "other",
+      "name": "events",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://bzr.openai.com/v1/sdk/events?pid=WQ7x2tofDQg1jdtYTz2ymn&st=oaiq-web&sv=0.1.41&t=1791015829910&ec=2"
+    },
+    {
+      "id": "ab39dd770fa22678",
+      "kind": "other",
+      "name": "j",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://api.vector.co/pixel/phoenix/rp/j?dtstmp=1791015829915&did=did-006l&se=e30&duid=74c5054410c7--01m40d9c462m6y20edrh9zjtb6&tv=v3.17.0&pu=https%3A%2F%2Fwww.tavus.io%2F&ext__fbp=fb.1.1791015303037.890764612866262661&wpn=lc-bundle&wpv=v3.17.0&cd=.tavus.io&pv=526a503e-6aa9-4392-8142-d94d409a8cd6"
+    },
+    {
+      "id": "68850afd859bd44d",
+      "kind": "other",
+      "name": "wa",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g"
+    },
+    {
+      "id": "d016c0f671b2884b",
+      "kind": "other",
+      "name": "settings",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://api.vector.co/pixel/c7f3f909-79ee-4aed-bb43-4e7bade04738/settings"
+    },
+    {
+      "id": "8c4a1e8dd548cb12",
+      "kind": "script",
+      "name": "botd.esm-d1d2d008.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn-asset.optimonk.com/script.esm/botd.esm-d1d2d008.js"
+    },
+    {
+      "id": "a5fced1a940bea7f",
+      "kind": "script",
+      "name": "JFRuleService-63ddc53d.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn-asset.optimonk.com/script.esm/JFRuleService-63ddc53d.js"
+    },
+    {
+      "id": "380d708234484216",
+      "kind": "other",
+      "name": "272173",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://front.optimonk.com/analytics/siteinfo/272173"
+    },
+    {
+      "id": "29b132842fb7dfa7",
+      "kind": "other",
+      "name": "accountInfo.json",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://cdn-account.optimonk.com/272173/accountInfo.json?v=1790002203008"
+    },
+    {
+      "id": "d5e55f1458ffebef",
+      "kind": "other",
+      "name": "limit.json",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://cdn-limit.optimonk.com/public/272173/limit.json"
+    },
+    {
+      "id": "623e8d1343a553d2",
+      "kind": "other",
+      "name": "campaigns.json",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://cdn-account.optimonk.com/272173/campaigns.json?v=1790002203204"
+    },
+    {
+      "id": "96a85671a3aa988a",
+      "kind": "script",
+      "name": "clarity.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 228,
+          "property": "src"
+        }
+      ],
+      "url": "https://scripts.clarity.ms/0.8.70/clarity.js"
+    },
+    {
+      "id": "eca574943f44942e",
+      "kind": "image",
+      "name": "6abd3262c848c0e4891bc036_waving_pal%20(1).webp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6abd3262c848c0e4891bc036_waving_pal%20(1).webp"
+    },
+    {
+      "id": "63da0d678d2c68d0",
+      "kind": "script",
+      "name": "jfclientsdk.min.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 315,
+          "property": "src"
+        }
+      ],
+      "url": "https://gs-cdn.optimonk.com/jfclientsdk/latest/jfclientsdk.min.js?ts=16"
+    },
+    {
+      "id": "a88bca1ab20e1203",
+      "kind": "other",
+      "name": "new-visitor",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://api.vector.co/pixel/c7f3f909-79ee-4aed-bb43-4e7bade04738/new-visitor"
+    },
+    {
+      "id": "cdf6b92ff167a2b5",
+      "kind": "script",
+      "name": "JFRuleEvaluator-cf29ddf4.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn-asset.optimonk.com/script.esm/JFRuleEvaluator-cf29ddf4.js"
+    },
+    {
+      "id": "7fb4fea29311ecac",
+      "kind": "script",
+      "name": "IndexedDataSetValidator-39cb7bf9.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://cdn-asset.optimonk.com/script.esm/IndexedDataSetValidator-39cb7bf9.js"
+    },
+    {
+      "id": "21bf3c3f34fae0af",
+      "kind": "other",
+      "name": "after-pre-init",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://front.optimonk.com/public/272173/embedded/after-pre-init"
+    },
+    {
+      "id": "6143238faf1a00fc",
+      "kind": "script",
+      "name": "aem.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 5716,
+          "property": "src"
+        }
+      ],
+      "url": "https://wsmcdn.audioeye.com/aem.js"
+    },
+    {
+      "id": "08308e392b797db6",
+      "kind": "other",
+      "name": "collect",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        },
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://b.clarity.ms/collect"
+    },
+    {
+      "id": "c68db519bd5894f2",
+      "kind": "other",
+      "name": "v2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://jfapiprod.optimonk.com/v2/"
+    },
+    {
+      "id": "7c4fe060e1e1195e",
+      "kind": "other",
+      "name": "rp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://alb.reddit.com/rp?id=a2_hw2a7y5p26iw&event=gtm.load"
+    },
+    {
+      "id": "346ff0c43b6ec6ba",
+      "kind": "script",
+      "name": "bootstrap.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 5718,
+          "property": "src"
+        }
+      ],
+      "url": "https://wsv3cdn.audioeye.com/bootstrap.js?h=f010fd31be675cd0bd563f81762f9cf4"
+    },
+    {
+      "id": "ad6787bb0a947b3e",
+      "kind": "script",
+      "name": "loader.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 5719,
+          "property": "src"
+        }
+      ],
+      "url": "https://wsv3cdn.audioeye.com/v2/scripts/loader.js?h=f010fd31be675cd0bd563f81762f9cf4&lang=en&cb=2026-09-14"
+    },
+    {
+      "id": "4995f1d2974577ea",
+      "kind": "script",
+      "name": "startup.bundle.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 5720,
+          "property": "src"
+        }
+      ],
+      "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-09-14/startup.bundle.js"
+    },
+    {
+      "id": "a7d87135862b4711",
+      "kind": "other",
+      "name": "send",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "beacon"
+        }
+      ],
+      "url": "https://analytics.audioeye.com/v1/send"
+    },
+    {
+      "id": "c8433abb13b80efa",
+      "kind": "script",
+      "name": "active.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "resource",
+          "property": "other"
+        }
+      ],
+      "url": "https://wsv3cdn.audioeye.com/static-scripts/sites/f010fd31be675cd0bd563f81762f9cf4/active.js"
+    },
+    {
+      "id": "d313bd61bbb1870c",
+      "kind": "script",
+      "name": "launcher.bundle.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-09-14/launcher.bundle.js"
+    },
+    {
+      "id": "244086c261b6f95c",
+      "kind": "stylesheet",
+      "name": "compliance.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 316,
+          "property": "href"
+        }
+      ],
+      "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-09-14/compliance.css"
+    },
+    {
+      "id": "e6f7bdb0bdef7c0e",
+      "kind": "script",
+      "name": "compliance.bundle.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-09-14/compliance.bundle.js"
+    },
+    {
+      "id": "4acecd57a9e5f2c3",
+      "kind": "stylesheet",
+      "name": "fullCSS.bundle.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 317,
+          "property": "href"
+        }
+      ],
+      "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-09-14/fullCSS.bundle.css"
+    },
+    {
+      "id": "2dd0fd23ddef1dfa",
+      "kind": "script",
+      "name": "tangoEngine.bundle.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-09-14/tangoEngine.bundle.js"
+    },
+    {
+      "id": "9361a983852cc33e",
+      "kind": "script",
+      "name": "audioeye-scanner-esm.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://wsv3cdn.audioeye.com/static-scripts/m/audioeye-scanner-esm/v11.2.41/audioeye-scanner-esm.js"
+    },
+    {
+      "id": "6d8000586a134728",
+      "kind": "image",
+      "name": "6a3a8e746de789ee5f01ebf2_Profile%20Image-1.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 10,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a3a8e746de789ee5f01ebf2_Profile%20Image-1.svg"
+    },
+    {
+      "id": "8502f2359bafb121",
+      "kind": "image",
+      "name": "6a3a8e7446a2e432809e8341_Image-9.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 5,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a3a8e7446a2e432809e8341_Image-9.svg"
+    },
+    {
+      "id": "408499781a2fe5cb",
+      "kind": "image",
+      "name": "6a3a8e73eb6246b44a7cb6c5_Profile%20Image-2.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 14,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a3a8e73eb6246b44a7cb6c5_Profile%20Image-2.svg"
+    },
+    {
+      "id": "9565b011aa59a127",
+      "kind": "image",
+      "name": "6a43a4535796e78ba1bcd11a_ear-listen-icon.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 3,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a43a4535796e78ba1bcd11a_ear-listen-icon.avif"
+    },
+    {
+      "id": "ab38de7252372341",
+      "kind": "image",
+      "name": "6a3a8e75c5c7bb26511d28ef_Product%20image.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a3a8e75c5c7bb26511d28ef_Product%20image.svg"
+    },
+    {
+      "id": "7220c503a38df59e",
+      "kind": "image",
+      "name": "6a3a8e74f5c2039f0e606578_Image-13.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a3a8e74f5c2039f0e606578_Image-13.svg"
+    },
+    {
+      "id": "a7c5e9a4c058ec47",
+      "kind": "image",
+      "name": "6ab6ac9cfa0f63f79d1354e0_grid_plastic.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1176,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6ab6ac9cfa0f63f79d1354e0_grid_plastic.svg"
+    },
+    {
+      "id": "6165ce1ad7707860",
+      "kind": "image",
+      "name": "6a33acbd90fab72948e49487_Llms%20(1)-p-800.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1103,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a33acbd90fab72948e49487_Llms%20(1)-p-800.png"
+    },
+    {
+      "id": "b313166ead4b7822",
+      "kind": "image",
+      "name": "6a3a8e74667d53bdc692428c_Profile%20Picture-2.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1199,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a3a8e74667d53bdc692428c_Profile%20Picture-2.svg"
+    },
+    {
+      "id": "1066d2550146c9fb",
+      "kind": "image",
+      "name": "adsct",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 5812,
+          "property": "src"
+        }
+      ],
+      "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=Africa%2FCairo%26en-US%26Google%20Inc.%26Win32%26255%261536%26864%268%2624%261536%26816%260%26na&eci=2&event_id=7a647a1f-0651-419b-8a57-0be5b469cff2&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9027f373-dee9-4861-874a-265e6b8842cf&tw_ch_fvl=Chromium%2F154.0.8037.98%2CGoogle%20Chrome%2F154.0.8037.98%2CNot%20A(Brand%2F99.0.0.0&tw_ch_pv=19.0.0&tw_document_href=https%3A%2F%2Fwww.tavus.io%2F&tw_engaged_ms=1149&tw_iframe_status=0&tw_pid_src=2&tw_session_count=1&tw_session_id=1791015301177-776358368&twpid=tw.1791015301177.31714670630440824&txn_id=pbx6x&type=javascript&version=2.4.11"
+    },
+    {
+      "id": "e2a946a9c14f0449",
+      "kind": "image",
+      "name": "adsct",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 5813,
+          "property": "src"
+        }
+      ],
+      "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=Africa%2FCairo%26en-US%26Google%20Inc.%26Win32%26255%261536%26864%268%2624%261536%26816%260%26na&eci=2&event_id=7a647a1f-0651-419b-8a57-0be5b469cff2&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9027f373-dee9-4861-874a-265e6b8842cf&tw_ch_fvl=Chromium%2F154.0.8037.98%2CGoogle%20Chrome%2F154.0.8037.98%2CNot%20A(Brand%2F99.0.0.0&tw_ch_pv=19.0.0&tw_document_href=https%3A%2F%2Fwww.tavus.io%2F&tw_engaged_ms=1149&tw_iframe_status=0&tw_pid_src=2&tw_session_count=1&tw_session_id=1791015301177-776358368&twpid=tw.1791015301177.31714670630440824&txn_id=pbx6x&type=javascript&version=2.4.11"
+    },
+    {
+      "id": "ba29edd7669b18d0",
+      "kind": "other",
+      "name": "rp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://alb.reddit.com/rp?id=a2_hw2a7y5p26iw&event=gtm.linkClick"
+    },
+    {
+      "id": "24042cc671171869",
+      "kind": "other",
+      "name": "adsctp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "beacon"
+        }
+      ],
+      "url": "https://analytics.twitter.com/i/adsctp"
+    },
+    {
+      "id": "d593d519af10f820",
+      "kind": "video",
+      "name": "default.mp4",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "video"
+        },
+        {
+          "kind": "resource",
+          "property": "video"
+        }
+      ],
+      "url": "https://customer-89oi2uqhvws3g49x.cloudflarestream.com/0ae9c02190b4ee9d85349641ba2bf329/dl/default.mp4?p=eyJ0eXBlIjoiZG93bmxvYWRzIiwidmlkZW9JRCI6IjBhZTljMDIxOTBiNGVlOWQ4NTM0OTY0MWJhMmJmMzI5Iiwib3duZXJJRCI6MTEzNzI0NTgzLCJjcmVhdG9ySUQiOiIiLCJkb3dubG9hZFR5cGUiOiJkZWZhdWx0Iiwic3RvcmFnZVByb3ZpZGVyIjo0LCJkdXJhdGlvblNlY3MiOjUuNTgzMywicmVzb2x1dGlvbiI6IjcyMCIsInRvdGFsQnl0ZVNpemUiOjQzMzcwNX0&s=bMKPD8OETcO0w6YzA8KVwpcGasOHwrElbjUYwrzDv8KSwp8mccOXwrgxUQJtMQ"
+    },
+    {
+      "id": "e8586b7e4aa54a61",
+      "kind": "image",
+      "name": "6a3b88f6b1eca458076a7b54_Cta-img-p-800.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1130,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a3b88f6b1eca458076a7b54_Cta-img-p-800.avif"
+    },
+    {
+      "id": "e41e64a86aa5014c",
+      "kind": "image",
+      "name": "6a9078e2d7c270765a25c836_processed-image%20(99).avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1154,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1154,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a9078e2d7c270765a25c836_processed-image%20(99).avif"
+    },
+    {
+      "id": "4e584a9c31f5b33c",
+      "kind": "image",
+      "name": "6a33afb6cf7d8d919be2fb18_memory-p-800.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 18,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a33afb6cf7d8d919be2fb18_memory-p-800.avif"
+    },
+    {
+      "id": "f9b68cd2733af8f9",
+      "kind": "image",
+      "name": "6abbb7e0a54389afa5a53b8a_6ee6172c16ae4d130919c047ff89e4a2_enterprise-card-art.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 16,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6abbb7e0a54389afa5a53b8a_6ee6172c16ae4d130919c047ff89e4a2_enterprise-card-art.svg"
+    },
+    {
+      "id": "0f0f40753c65c221",
+      "kind": "image",
+      "name": "6ab6dbb4167f1da71a5a9818_curl_code.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 19,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 19,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6ab6dbb4167f1da71a5a9818_curl_code.png"
+    },
+    {
+      "id": "291d36dc34569ab6",
+      "kind": "image",
+      "name": "6abd96345de5b07fb77576e9_piper.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 17,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 17,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6abd96345de5b07fb77576e9_piper.avif"
+    },
+    {
+      "id": "dc8e6132cf50e7e1",
+      "kind": "image",
+      "name": "68c8e57e6e512b9573db1a7c_bn1.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1466,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1520,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1567,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a7c_bn1.avif"
+    },
+    {
+      "id": "b285d5cc162d958c",
+      "kind": "image",
+      "name": "68c8e57e6e512b9573db1a7e_bn2.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1478,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1531,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1578,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a7e_bn2.avif"
+    },
+    {
+      "id": "38121be8e2b75283",
+      "kind": "image",
+      "name": "68c8e57e6e512b9573db1a7d_bn3.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1490,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1542,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1589,
+          "property": "src"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a7d_bn3.avif"
+    },
+    {
+      "id": "79e519b8eeca11db",
+      "kind": "image",
+      "name": "68c8e57e6e512b9573db1aca_yellow_dither_2.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1406,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1406,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1406,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1406,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1406,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1aca_yellow_dither_2.avif"
+    },
+    {
+      "id": "f0a91f829094606d",
+      "kind": "image",
+      "name": "6a8ed78ce4b8f1567ffb3f53_Inner%20(2)-p-1600.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1660,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a8ed78ce4b8f1567ffb3f53_Inner%20(2)-p-1600.avif"
+    },
+    {
+      "id": "46e2f7ae3f2549ec",
+      "kind": "image",
+      "name": "68efd07f4e34743d509785af_57d9500baba8a6010a59057f7c5a15e8_teaching_machines_img-single.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 3531,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 3531,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68efd07f4e34743d509785af_57d9500baba8a6010a59057f7c5a15e8_teaching_machines_img-single.avif"
+    },
+    {
+      "id": "975306cdbbff10e6",
+      "kind": "image",
+      "name": "6a33aea8a269851d911fc262_Scrolling%20Img-p-800.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1234,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1235,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1236,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1237,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a33aea8a269851d911fc262_Scrolling%20Img-p-800.avif"
+    },
+    {
+      "id": "1ddec2680b555e89",
+      "kind": "image",
+      "name": "6913af263342f85385be96c4_Frame%202147229100-p-500.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 920,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db147f/6913af263342f85385be96c4_Frame%202147229100-p-500.avif"
+    },
+    {
+      "id": "3a3494fbdcae8c1d",
+      "kind": "image",
+      "name": "6913d9caf5d4b8841ecc78ed_Amazon_logo-p-500.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 922,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db147f/6913d9caf5d4b8841ecc78ed_Amazon_logo-p-500.avif"
+    },
+    {
+      "id": "34c20e352a5e908d",
+      "kind": "image",
+      "name": "6abd3262c848c0e4891bc036_waving_pal%20(1)-p-500.webp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6abd3262c848c0e4891bc036_waving_pal%20(1)-p-500.webp"
+    },
+    {
+      "id": "922f2e353c41e0bb",
+      "kind": "image",
+      "name": "68f240c29170507fc386f3d7_Shadow-p-500.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68f240c29170507fc386f3d7_Shadow-p-500.png"
+    },
+    {
+      "id": "b5c038e77301b179",
+      "kind": "image",
+      "name": "68f0e3bb7519143839804c61_v2-p-500.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 13,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68f0e3bb7519143839804c61_v2-p-500.avif"
+    },
+    {
+      "id": "c2b1a398ebc5e0ce",
+      "kind": "image",
+      "name": "6a3b88f6b1eca458076a7b54_Cta-img-p-500.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1130,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a3b88f6b1eca458076a7b54_Cta-img-p-500.avif"
+    },
+    {
+      "id": "5762acc5438122d7",
+      "kind": "image",
+      "name": "6a9078e2d7c270765a25c836_processed-image%20(99)-p-500.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1154,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a9078e2d7c270765a25c836_processed-image%20(99)-p-500.avif"
+    },
+    {
+      "id": "4430fa9f08398862",
+      "kind": "image",
+      "name": "6a33afb6cf7d8d919be2fb18_memory-p-500.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 18,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a33afb6cf7d8d919be2fb18_memory-p-500.avif"
+    },
+    {
+      "id": "29b903943c5564af",
+      "kind": "image",
+      "name": "6ab6dbb4167f1da71a5a9818_curl_code-p-500.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 19,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6ab6dbb4167f1da71a5a9818_curl_code-p-500.png"
+    },
+    {
+      "id": "205e2faa2d84da1d",
+      "kind": "image",
+      "name": "6abd96345de5b07fb77576e9_piper-p-500.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 17,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6abd96345de5b07fb77576e9_piper-p-500.avif"
+    },
+    {
+      "id": "ea992196996aa3c5",
+      "kind": "image",
+      "name": "6a8ed78ce4b8f1567ffb3f53_Inner%20(2)-p-500.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1660,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a8ed78ce4b8f1567ffb3f53_Inner%20(2)-p-500.avif"
+    },
+    {
+      "id": "a817cb1e9c8e570f",
+      "kind": "image",
+      "name": "6a33aea8a269851d911fc262_Scrolling%20Img-p-500.avif",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1234,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1235,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1236,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1237,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/6a33aea8a269851d911fc262_Scrolling%20Img-p-500.avif"
+    }
+  ],
+  "id": "1ccdaeaf-1375-46a5-a139-97c3df13842f",
+  "inlineSvgs": [
+    {
+      "id": "42ec9c38423b4b9f",
+      "markup": "<svg width=\"18\" height=\"12\" viewBox=\"0 0 36 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">\n<path d=\"M32.5998 13.6007H29.1992V17.0013H32.5998V13.6007Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 17.0034H25.7989V20.4039H29.1995V17.0034Z\" fill=\"#140206\"></path>\n<path d=\"M25.7989 20.4039L22.3989 20.4036V23.8042H25.7995L25.7989 20.4039Z\" fill=\"#140206\"></path>\n<path d=\"M36 10.2005H32.5994L32.5998 13.6007L36 13.6011V10.2005Z\" fill=\"#140206\"></path>\n<path d=\"M29.1011 10.3471H0V13.5805H29.1011V10.3471Z\" fill=\"#140206\"></path>\n<path d=\"M32.5998 6.80036H29.1992V10.2009L32.5994 10.2005L32.5998 6.80036Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 3.40002H25.7989V6.8006L29.1992 6.80036L29.1995 3.40002Z\" fill=\"#140206\"></path>\n<path d=\"M25.7995 0H22.3989V3.40057L25.7989 3.40002L25.7995 0Z\" fill=\"#140206\"></path>\n</svg>",
+      "name": "svg-1"
+    },
+    {
+      "id": "5405bfb7871108be",
+      "markup": "<svg width=\"18\" height=\"12\" viewBox=\"0 0 36 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">\n<path d=\"M32.5998 13.6007H29.1992V17.0013H32.5998V13.6007Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 17.0034H25.7989V20.4039H29.1995V17.0034Z\" fill=\"#140206\"></path>\n<path d=\"M25.7989 20.4039L22.3989 20.4036V23.8042H25.7995L25.7989 20.4039Z\" fill=\"#140206\"></path>\n<path d=\"M36 10.2005H32.5994L32.5998 13.6007L36 13.6011V10.2005Z\" fill=\"#140206\"></path>\n<path d=\"M29.1011 10.3471H0V13.5805H29.1011V10.3471Z\" fill=\"#140206\"></path>\n<path d=\"M32.5998 6.80036H29.1992V10.2009L32.5994 10.2005L32.5998 6.80036Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 3.40002H25.7989V6.8006L29.1992 6.80036L29.1995 3.40002Z\" fill=\"#140206\"></path>\n<path d=\"M25.7995 0H22.3989V3.40057L25.7989 3.40002L25.7995 0Z\" fill=\"#140206\"></path>\n</svg>",
+      "name": "svg-2"
+    },
+    {
+      "id": "8dc07086dc997998",
+      "markup": "<svg width=\"18\" height=\"12\" viewBox=\"0 0 36 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">\n<path d=\"M32.5998 13.6007H29.1992V17.0013H32.5998V13.6007Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 17.0034H25.7989V20.4039H29.1995V17.0034Z\" fill=\"#140206\"></path>\n<path d=\"M25.7989 20.4039L22.3989 20.4036V23.8042H25.7995L25.7989 20.4039Z\" fill=\"#140206\"></path>\n<path d=\"M36 10.2005H32.5994L32.5998 13.6007L36 13.6011V10.2005Z\" fill=\"#140206\"></path>\n<path d=\"M29.1011 10.3471H0V13.5805H29.1011V10.3471Z\" fill=\"#140206\"></path>\n<path d=\"M32.5998 6.80036H29.1992V10.2009L32.5994 10.2005L32.5998 6.80036Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 3.40002H25.7989V6.8006L29.1992 6.80036L29.1995 3.40002Z\" fill=\"#140206\"></path>\n<path d=\"M25.7995 0H22.3989V3.40057L25.7989 3.40002L25.7995 0Z\" fill=\"#140206\"></path>\n</svg>",
+      "name": "svg-3"
+    },
+    {
+      "id": "6b8a4bd750da93cb",
+      "markup": "<svg width=\"18\" height=\"12\" viewBox=\"0 0 36 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">\n<path d=\"M32.5998 13.6007H29.1992V17.0013H32.5998V13.6007Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 17.0034H25.7989V20.4039H29.1995V17.0034Z\" fill=\"#140206\"></path>\n<path d=\"M25.7989 20.4039L22.3989 20.4036V23.8042H25.7995L25.7989 20.4039Z\" fill=\"#140206\"></path>\n<path d=\"M36 10.2005H32.5994L32.5998 13.6007L36 13.6011V10.2005Z\" fill=\"#140206\"></path>\n<path d=\"M29.1011 10.3471H0V13.5805H29.1011V10.3471Z\" fill=\"#140206\"></path>\n<path d=\"M32.5998 6.80036H29.1992V10.2009L32.5994 10.2005L32.5998 6.80036Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 3.40002H25.7989V6.8006L29.1992 6.80036L29.1995 3.40002Z\" fill=\"#140206\"></path>\n<path d=\"M25.7995 0H22.3989V3.40057L25.7989 3.40002L25.7995 0Z\" fill=\"#140206\"></path>\n</svg>",
+      "name": "svg-4"
+    },
+    {
+      "id": "df7a084c998a0b25",
+      "markup": "<svg width=\"18\" height=\"12\" viewBox=\"0 0 36 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">\n<path d=\"M32.5998 13.6007H29.1992V17.0013H32.5998V13.6007Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 17.0034H25.7989V20.4039H29.1995V17.0034Z\" fill=\"#140206\"></path>\n<path d=\"M25.7989 20.4039L22.3989 20.4036V23.8042H25.7995L25.7989 20.4039Z\" fill=\"#140206\"></path>\n<path d=\"M36 10.2005H32.5994L32.5998 13.6007L36 13.6011V10.2005Z\" fill=\"#140206\"></path>\n<path d=\"M29.1011 10.3471H0V13.5805H29.1011V10.3471Z\" fill=\"#140206\"></path>\n<path d=\"M32.5998 6.80036H29.1992V10.2009L32.5994 10.2005L32.5998 6.80036Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 3.40002H25.7989V6.8006L29.1992 6.80036L29.1995 3.40002Z\" fill=\"#140206\"></path>\n<path d=\"M25.7995 0H22.3989V3.40057L25.7989 3.40002L25.7995 0Z\" fill=\"#140206\"></path>\n</svg>",
+      "name": "svg-5"
+    },
+    {
+      "id": "1075dc8be0c5ae78",
+      "markup": "<svg width=\"18\" height=\"12\" viewBox=\"0 0 36 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">\n<path d=\"M32.5998 13.6007H29.1992V17.0013H32.5998V13.6007Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 17.0034H25.7989V20.4039H29.1995V17.0034Z\" fill=\"#140206\"></path>\n<path d=\"M25.7989 20.4039L22.3989 20.4036V23.8042H25.7995L25.7989 20.4039Z\" fill=\"#140206\"></path>\n<path d=\"M36 10.2005H32.5994L32.5998 13.6007L36 13.6011V10.2005Z\" fill=\"#140206\"></path>\n<path d=\"M29.1011 10.3471H0V13.5805H29.1011V10.3471Z\" fill=\"#140206\"></path>\n<path d=\"M32.5998 6.80036H29.1992V10.2009L32.5994 10.2005L32.5998 6.80036Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 3.40002H25.7989V6.8006L29.1992 6.80036L29.1995 3.40002Z\" fill=\"#140206\"></path>\n<path d=\"M25.7995 0H22.3989V3.40057L25.7989 3.40002L25.7995 0Z\" fill=\"#140206\"></path>\n</svg>",
+      "name": "svg-6"
+    },
+    {
+      "id": "9bf89eea119d0853",
+      "markup": "<svg width=\"18\" height=\"12\" viewBox=\"0 0 36 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">\n<path d=\"M32.5998 13.6007H29.1992V17.0013H32.5998V13.6007Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 17.0034H25.7989V20.4039H29.1995V17.0034Z\" fill=\"#140206\"></path>\n<path d=\"M25.7989 20.4039L22.3989 20.4036V23.8042H25.7995L25.7989 20.4039Z\" fill=\"#140206\"></path>\n<path d=\"M36 10.2005H32.5994L32.5998 13.6007L36 13.6011V10.2005Z\" fill=\"#140206\"></path>\n<path d=\"M29.1011 10.3471H0V13.5805H29.1011V10.3471Z\" fill=\"#140206\"></path>\n<path d=\"M32.5998 6.80036H29.1992V10.2009L32.5994 10.2005L32.5998 6.80036Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 3.40002H25.7989V6.8006L29.1992 6.80036L29.1995 3.40002Z\" fill=\"#140206\"></path>\n<path d=\"M25.7995 0H22.3989V3.40057L25.7989 3.40002L25.7995 0Z\" fill=\"#140206\"></path>\n</svg>",
+      "name": "svg-7"
+    },
+    {
+      "id": "9c9f32c450424ffb",
+      "markup": "<svg width=\"18\" height=\"12\" viewBox=\"0 0 36 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">\n<path d=\"M32.5998 13.6007H29.1992V17.0013H32.5998V13.6007Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 17.0034H25.7989V20.4039H29.1995V17.0034Z\" fill=\"#140206\"></path>\n<path d=\"M25.7989 20.4039L22.3989 20.4036V23.8042H25.7995L25.7989 20.4039Z\" fill=\"#140206\"></path>\n<path d=\"M36 10.2005H32.5994L32.5998 13.6007L36 13.6011V10.2005Z\" fill=\"#140206\"></path>\n<path d=\"M29.1011 10.3471H0V13.5805H29.1011V10.3471Z\" fill=\"#140206\"></path>\n<path d=\"M32.5998 6.80036H29.1992V10.2009L32.5994 10.2005L32.5998 6.80036Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 3.40002H25.7989V6.8006L29.1992 6.80036L29.1995 3.40002Z\" fill=\"#140206\"></path>\n<path d=\"M25.7995 0H22.3989V3.40057L25.7989 3.40002L25.7995 0Z\" fill=\"#140206\"></path>\n</svg>",
+      "name": "svg-8"
+    },
+    {
+      "id": "3b9b712d54524431",
+      "markup": "<svg width=\"18\" height=\"12\" viewBox=\"0 0 36 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">\n<path d=\"M32.5998 13.6007H29.1992V17.0013H32.5998V13.6007Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 17.0034H25.7989V20.4039H29.1995V17.0034Z\" fill=\"#140206\"></path>\n<path d=\"M25.7989 20.4039L22.3989 20.4036V23.8042H25.7995L25.7989 20.4039Z\" fill=\"#140206\"></path>\n<path d=\"M36 10.2005H32.5994L32.5998 13.6007L36 13.6011V10.2005Z\" fill=\"#140206\"></path>\n<path d=\"M29.1011 10.3471H0V13.5805H29.1011V10.3471Z\" fill=\"#140206\"></path>\n<path d=\"M32.5998 6.80036H29.1992V10.2009L32.5994 10.2005L32.5998 6.80036Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 3.40002H25.7989V6.8006L29.1992 6.80036L29.1995 3.40002Z\" fill=\"#140206\"></path>\n<path d=\"M25.7995 0H22.3989V3.40057L25.7989 3.40002L25.7995 0Z\" fill=\"#140206\"></path>\n</svg>",
+      "name": "svg-9"
+    },
+    {
+      "id": "e6121be07b457688",
+      "markup": "<svg width=\"18\" height=\"12\" viewBox=\"0 0 36 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">\n<path d=\"M32.5998 13.6007H29.1992V17.0013H32.5998V13.6007Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 17.0034H25.7989V20.4039H29.1995V17.0034Z\" fill=\"#140206\"></path>\n<path d=\"M25.7989 20.4039L22.3989 20.4036V23.8042H25.7995L25.7989 20.4039Z\" fill=\"#140206\"></path>\n<path d=\"M36 10.2005H32.5994L32.5998 13.6007L36 13.6011V10.2005Z\" fill=\"#140206\"></path>\n<path d=\"M29.1011 10.3471H0V13.5805H29.1011V10.3471Z\" fill=\"#140206\"></path>\n<path d=\"M32.5998 6.80036H29.1992V10.2009L32.5994 10.2005L32.5998 6.80036Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 3.40002H25.7989V6.8006L29.1992 6.80036L29.1995 3.40002Z\" fill=\"#140206\"></path>\n<path d=\"M25.7995 0H22.3989V3.40057L25.7989 3.40002L25.7995 0Z\" fill=\"#140206\"></path>\n</svg>",
+      "name": "svg-10"
+    },
+    {
+      "id": "cf218a435aad05d7",
+      "markup": "<svg width=\"18\" height=\"12\" viewBox=\"0 0 36 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">\n<path d=\"M32.5998 13.6007H29.1992V17.0013H32.5998V13.6007Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 17.0034H25.7989V20.4039H29.1995V17.0034Z\" fill=\"#140206\"></path>\n<path d=\"M25.7989 20.4039L22.3989 20.4036V23.8042H25.7995L25.7989 20.4039Z\" fill=\"#140206\"></path>\n<path d=\"M36 10.2005H32.5994L32.5998 13.6007L36 13.6011V10.2005Z\" fill=\"#140206\"></path>\n<path d=\"M29.1011 10.3471H0V13.5805H29.1011V10.3471Z\" fill=\"#140206\"></path>\n<path d=\"M32.5998 6.80036H29.1992V10.2009L32.5994 10.2005L32.5998 6.80036Z\" fill=\"#140206\"></path>\n<path d=\"M29.1995 3.40002H25.7989V6.8006L29.1992 6.80036L29.1995 3.40002Z\" fill=\"#140206\"></path>\n<path d=\"M25.7995 0H22.3989V3.40057L25.7989 3.40002L25.7995 0Z\" fill=\"#140206\"></path>\n</svg>",
+      "name": "svg-11"
+    },
+    {
+      "id": "b00f0829f7cb4a8b",
+      "markup": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 14 13\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">\n<rect x=\"0.766018\" y=\"1.25039\" width=\"12.2389\" height=\"11.3438\" stroke=\"#140206\" stroke-width=\"0.567192\"></rect>\n<rect x=\"6.2543\" y=\"6.35391\" width=\"6.75057\" height=\"6.23911\" stroke=\"#140206\" stroke-width=\"0.567192\"></rect>\n</svg>",
+      "name": "svg-12"
+    },
+    {
+      "id": "66b18456e408eef2",
+      "markup": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 14 13\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">\n<rect x=\"0.766018\" y=\"1.25039\" width=\"12.2389\" height=\"11.3438\" stroke=\"#140206\" stroke-width=\"0.567192\"></rect>\n<rect x=\"6.2543\" y=\"6.35391\" width=\"6.75057\" height=\"6.23911\" stroke=\"#140206\" stroke-width=\"0.567192\"></rect>\n</svg>",
+      "name": "svg-13"
+    },
+    {
+      "id": "eabd922e31f2c92b",
+      "markup": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 14 13\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">\n<rect x=\"0.766018\" y=\"1.25039\" width=\"12.2389\" height=\"11.3438\" stroke=\"#140206\" stroke-width=\"0.567192\"></rect>\n<rect x=\"6.2543\" y=\"6.35391\" width=\"6.75057\" height=\"6.23911\" stroke=\"#140206\" stroke-width=\"0.567192\"></rect>\n</svg>",
+      "name": "svg-14"
+    },
+    {
+      "id": "593af4ee307c5bf5",
+      "markup": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 14 13\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">\n<rect x=\"0.766018\" y=\"1.25039\" width=\"12.2389\" height=\"11.3438\" stroke=\"#140206\" stroke-width=\"0.567192\"></rect>\n<rect x=\"6.2543\" y=\"6.35391\" width=\"6.75057\" height=\"6.23911\" stroke=\"#140206\" stroke-width=\"0.567192\"></rect>\n</svg>",
+      "name": "svg-15"
+    },
+    {
+      "id": "8d7507166d5ba9e5",
+      "markup": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 14 13\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">\n<rect x=\"0.766018\" y=\"1.25039\" width=\"12.2389\" height=\"11.3438\" stroke=\"#140206\" stroke-width=\"0.567192\"></rect>\n<rect x=\"6.2543\" y=\"6.35391\" width=\"6.75057\" height=\"6.23911\" stroke=\"#140206\" stroke-width=\"0.567192\"></rect>\n</svg>",
+      "name": "svg-16"
+    },
+    {
+      "id": "b5d206908e7999df",
+      "markup": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 64 64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">\n<path d=\"M48 8H50V10H48V8Z\" fill=\"#030000\"></path>\n<path d=\"M44 8H48V10H44V8Z\" fill=\"#020100\"></path>\n<path d=\"M40 8H44V10H40V8Z\" fill=\"#030000\"></path>\n<path d=\"M50 10H52V12H50V10Z\" fill=\"#030000\"></path>\n<path d=\"M46 10H50V12H46V10Z\" fill=\"#6C6359\"></path>\n<path d=\"M42 10H46V12H42V10Z\" fill=\"#625C55\"></path>\n<path d=\"M40 10H42V12H40V10Z\" fill=\"#6C6359\"></path>\n<path d=\"M38 10H40V12H38V10Z\" fill=\"#030000\"></path>\n<path d=\"M52 12H54V14H52V12Z\" fill=\"#030303\"></path>\n<path d=\"M44 12H52V14H44V12Z\" fill=\"#79746D\"></path>\n<path d=\"M40 12H44V16H40V12Z\" fill=\"#6E331C\"></path>\n<path d=\"M38 12H40V14H38V12Z\" fill=\"#63311F\"></path>\n<path d=\"M36 12H38V14H36V12Z\" fill=\"#030000\"></path>\n<path d=\"M54 14H56V16H54V14Z\" fill=\"#020100\"></path>\n<path d=\"M52 14H54V16H52V14Z\" fill=\"#726A62\"></path>\n<path d=\"M48 14H52V16H48V14Z\" fill=\"#79746D\"></path>\n<path d=\"M46 14H48V16H46V14Z\" fill=\"#4B2A1B\"></path>\n<path d=\"M44 14H46V16H44V14Z\" fill=\"#63311F\"></path>\n<path d=\"M38 14H40V16H38V14Z\" fill=\"#6E331C\"></path>\n<path d=\"M36 14H38V20H36V14Z\" fill=\"#63311F\"></path>\n<path d=\"M34 14H36V16H34V14Z\" fill=\"#030000\"></path>\n<path d=\"M54 16H56V18H54V16Z\" fill=\"#030303\"></path>\n<path d=\"M52 16H54V18H52V16Z\" fill=\"#090808\"></path>\n<path d=\"M50 16H52V18H50V16Z\" fill=\"#4E3E31\"></path>\n<path d=\"M48 16H50V20H48V16Z\" fill=\"#090808\"></path>\n<path d=\"M46 16H48V18H46V16Z\" fill=\"#D8D6D2\"></path>\n<path d=\"M44 16H46V18H44V16Z\" fill=\"#090808\"></path>\n<path d=\"M42 16H44V18H42V16Z\" fill=\"#63311F\"></path>\n<path d=\"M40 16H42V18H40V16Z\" fill=\"#6E331C\"></path>\n<path d=\"M38 16H40V22H38V16Z\" fill=\"#63311F\"></path>\n<path d=\"M34 16H36V18H34V16Z\" fill=\"#070202\"></path>\n<path d=\"M32 16H34V18H32V16Z\" fill=\"#030000\"></path>\n<path d=\"M56 18H58V20H56V18Z\" fill=\"#030303\"></path>\n<path d=\"M52 18H56V20H52V18Z\" fill=\"#625C55\"></path>\n<path d=\"M50 18H52V20H50V18Z\" fill=\"#090808\"></path>\n<path d=\"M46 18H48V20H46V18Z\" fill=\"#070202\"></path>\n<path d=\"M42 18H46V26H42V18Z\" fill=\"#D8D6D2\"></path>\n<path d=\"M40 18H42V20H40V18Z\" fill=\"#63311F\"></path>\n<path d=\"M34 18H36V22H34V18Z\" fill=\"#63311F\"></path>\n<path d=\"M32 18H34V20H32V18Z\" fill=\"#030303\"></path>\n<path d=\"M30 18H32V20H30V18Z\" fill=\"#030000\"></path>\n<path d=\"M58 20H60V22H58V20Z\" fill=\"#070202\"></path>\n<path d=\"M56 20H58V22H56V20Z\" fill=\"#524B43\"></path>\n<path d=\"M54 20H56V22H54V20Z\" fill=\"#44352A\"></path>\n<path d=\"M52 20H54V22H52V20Z\" fill=\"#322921\"></path>\n<path d=\"M50 20H52V22H50V20Z\" fill=\"#030303\"></path>\n<path d=\"M46 20H50V24H46V20Z\" fill=\"#D8D6D2\"></path>\n<path d=\"M40 20H42V24H40V20Z\" fill=\"#D8D6D2\"></path>\n<path d=\"M36 20H38V24H36V20Z\" fill=\"#DBD1C6\"></path>\n<path d=\"M32 20H34V22H32V20Z\" fill=\"#6A3E27\"></path>\n<path d=\"M30 20H32V22H30V20Z\" fill=\"#754C2F\"></path>\n<path d=\"M28 20H30V22H28V20Z\" fill=\"#030000\"></path>\n<path d=\"M52 22H58V24H52V22Z\" fill=\"#030303\"></path>\n<path d=\"M50 22H52V24H50V22Z\" fill=\"#090808\"></path>\n<path d=\"M38 22H40V24H38V22Z\" fill=\"#DBD1C6\"></path>\n<path d=\"M34 22H36V24H34V22Z\" fill=\"#6A3E27\"></path>\n<path d=\"M32 22H34V24H32V22Z\" fill=\"#150401\"></path>\n<path d=\"M30 22H32V24H30V22Z\" fill=\"#804F2D\"></path>\n<path d=\"M28 22H30V24H28V22Z\" fill=\"#815735\"></path>\n<path d=\"M26 22H28V24H26V22Z\" fill=\"#030303\"></path>\n<path d=\"M52 24H54V28H52V24Z\" fill=\"#030303\"></path>\n<path d=\"M50 24H52V32H50V24Z\" fill=\"#242423\"></path>\n<path d=\"M48 24H50V26H48V24Z\" fill=\"#171717\"></path>\n<path d=\"M46 24H48V26H46V24Z\" fill=\"#D8D6D2\"></path>\n<path d=\"M40 24H42V26H40V24Z\" fill=\"#DBD1C6\"></path>\n<path d=\"M38 24H40V26H38V24Z\" fill=\"#D8D6D2\"></path>\n<path d=\"M36 24H38V26H36V24Z\" fill=\"#63311F\"></path>\n<path d=\"M34 24H36V26H34V24Z\" fill=\"#4B2A1B\"></path>\n<path d=\"M32 24H34V26H32V24Z\" fill=\"#88603F\"></path>\n<path d=\"M30 24H32V26H30V24Z\" fill=\"#241106\"></path>\n<path d=\"M28 24H30V26H28V24Z\" fill=\"#754C2F\"></path>\n<path d=\"M26 24H28V26H26V24Z\" fill=\"#7B5F49\"></path>\n<path d=\"M24 24H26V26H24V24Z\" fill=\"#030303\"></path>\n<path d=\"M48 26H50V30H48V26Z\" fill=\"#242423\"></path>\n<path d=\"M46 26H48V28H46V26Z\" fill=\"#171717\"></path>\n<path d=\"M42 26H46V28H42V26Z\" fill=\"#A09E97\"></path>\n<path d=\"M40 26H42V32H40V26Z\" fill=\"#8B8780\"></path>\n<path d=\"M38 26H40V28H38V26Z\" fill=\"#6A3E27\"></path>\n<path d=\"M36 26H38V28H36V26Z\" fill=\"#88603F\"></path>\n<path d=\"M34 26H36V28H34V26Z\" fill=\"#815735\"></path>\n<path d=\"M32 26H34V28H32V26Z\" fill=\"#241106\"></path>\n<path d=\"M30 26H32V28H30V26Z\" fill=\"#815735\"></path>\n<path d=\"M28 26H30V28H28V26Z\" fill=\"#150D08\"></path>\n<path d=\"M26 26H28V28H26V26Z\" fill=\"#754C2F\"></path>\n<path d=\"M24 26H26V30H24V26Z\" fill=\"#88603F\"></path>\n<path d=\"M22 26H24V28H22V26Z\" fill=\"#030000\"></path>\n<path d=\"M54 28H56V30H54V28Z\" fill=\"#070202\"></path>\n<path d=\"M52 28H54V32H52V28Z\" fill=\"#242423\"></path>\n<path d=\"M44 28H48V30H44V28Z\" fill=\"#242423\"></path>\n<path d=\"M42 28H44V36H42V28Z\" fill=\"#A09E97\"></path>\n<path d=\"M38 28H40V32H38V28Z\" fill=\"#804F2D\"></path>\n<path d=\"M36 28H38V30H36V28Z\" fill=\"#815735\"></path>\n<path d=\"M32 28H36V30H32V28Z\" fill=\"#804F2D\"></path>\n<path d=\"M28 28H32V30H28V28Z\" fill=\"#C0A78F\"></path>\n<path d=\"M26 28H28V30H26V28Z\" fill=\"#070202\"></path>\n<path d=\"M22 28H24V32H22V28Z\" fill=\"#815735\"></path>\n<path d=\"M20 28H22V30H20V28Z\" fill=\"#030000\"></path>\n<path d=\"M54 30H56V36H54V30Z\" fill=\"#030303\"></path>\n<path d=\"M48 30H50V32H48V30Z\" fill=\"#5D554C\"></path>\n<path d=\"M46 30H48V36H46V30Z\" fill=\"#A09E97\"></path>\n<path d=\"M44 30H46V32H44V30Z\" fill=\"#322921\"></path>\n<path d=\"M36 30H38V32H36V30Z\" fill=\"#C0A78F\"></path>\n<path d=\"M34 30H36V36H34V30Z\" fill=\"#815735\"></path>\n<path d=\"M32 30H34V32H32V30Z\" fill=\"#C0A78F\"></path>\n<path d=\"M30 30H32V34H30V30Z\" fill=\"#754C2F\"></path>\n<path d=\"M28 30H30V32H28V30Z\" fill=\"#3D2112\"></path>\n<path d=\"M26 30H28V32H26V30Z\" fill=\"#75543B\"></path>\n<path d=\"M24 30H26V32H24V30Z\" fill=\"#070202\"></path>\n<path d=\"M20 30H22V32H20V30Z\" fill=\"#88603F\"></path>\n<path d=\"M18 30H20V32H18V30Z\" fill=\"#030303\"></path>\n<path d=\"M52 32H54V36H52V32Z\" fill=\"#8B8780\"></path>\n<path d=\"M50 32H52V34H50V32Z\" fill=\"#79746D\"></path>\n<path d=\"M48 32H50V36H48V32Z\" fill=\"#94918B\"></path>\n<path d=\"M44 32H46V38H44V32Z\" fill=\"#A09E97\"></path>\n<path d=\"M40 32H42V38H40V32Z\" fill=\"#94918B\"></path>\n<path d=\"M38 32H40V34H38V32Z\" fill=\"#090808\"></path>\n<path d=\"M36 32H38V34H36V32Z\" fill=\"#6B4A32\"></path>\n<path d=\"M32 32H34V34H32V32Z\" fill=\"#301D0F\"></path>\n<path d=\"M28 32H30V34H28V32Z\" fill=\"#754C2F\"></path>\n<path d=\"M26 32H28V34H26V32Z\" fill=\"#241106\"></path>\n<path d=\"M24 32H26V34H24V32Z\" fill=\"#9A704C\"></path>\n<path d=\"M22 32H24V34H22V32Z\" fill=\"#301D0F\"></path>\n<path d=\"M18 32H22V34H18V32Z\" fill=\"#815735\"></path>\n<path d=\"M16 32H18V34H16V32Z\" fill=\"#020100\"></path>\n<path d=\"M50 34H52V38H50V34Z\" fill=\"#8B8780\"></path>\n<path d=\"M38 34H40V40H38V34Z\" fill=\"#94918B\"></path>\n<path d=\"M36 34H38V36H36V34Z\" fill=\"#090808\"></path>\n<path d=\"M32 34H34V36H32V34Z\" fill=\"#88603F\"></path>\n<path d=\"M28 34H32V36H28V34Z\" fill=\"#301D0F\"></path>\n<path d=\"M26 34H28V36H26V34Z\" fill=\"#DBD1C6\"></path>\n<path d=\"M24 34H26V36H24V34Z\" fill=\"#070202\"></path>\n<path d=\"M22 34H24V36H22V34Z\" fill=\"#9A704C\"></path>\n<path d=\"M20 34H22V36H20V34Z\" fill=\"#150401\"></path>\n<path d=\"M18 34H20V36H18V34Z\" fill=\"#815735\"></path>\n<path d=\"M16 34H18V36H16V34Z\" fill=\"#070202\"></path>\n<path d=\"M14 34H16V36H14V34Z\" fill=\"#020101\"></path>\n<path d=\"M52 36H54V38H52V36Z\" fill=\"#020100\"></path>\n<path d=\"M48 36H50V38H48V36Z\" fill=\"#8B8780\"></path>\n<path d=\"M46 36H48V38H46V36Z\" fill=\"#94918B\"></path>\n<path d=\"M42 36H44V38H42V36Z\" fill=\"#8B8780\"></path>\n<path d=\"M36 36H38V42H36V36Z\" fill=\"#94918B\"></path>\n<path d=\"M34 36H36V38H34V36Z\" fill=\"#030303\"></path>\n<path d=\"M30 36H34V38H30V36Z\" fill=\"#9A704C\"></path>\n<path d=\"M26 36H30V38H26V36Z\" fill=\"#070202\"></path>\n<path d=\"M24 36H26V38H24V36Z\" fill=\"#88603F\"></path>\n<path d=\"M22 36H24V38H22V36Z\" fill=\"#A88261\"></path>\n<path d=\"M20 36H22V38H20V36Z\" fill=\"#AC9884\"></path>\n<path d=\"M18 36H20V38H18V36Z\" fill=\"#070202\"></path>\n<path d=\"M16 36H18V38H16V36Z\" fill=\"#C0A78F\"></path>\n<path d=\"M14 36H16V38H14V36Z\" fill=\"#020100\"></path>\n<path d=\"M52 38H54V40H52V38Z\" fill=\"#030303\"></path>\n<path d=\"M50 38H52V40H50V38Z\" fill=\"#79746D\"></path>\n<path d=\"M48 38H50V40H48V38Z\" fill=\"#94918B\"></path>\n<path d=\"M44 38H48V40H44V38Z\" fill=\"#8B8780\"></path>\n<path d=\"M42 38H44V40H42V38Z\" fill=\"#A09E97\"></path>\n<path d=\"M40 38H42V40H40V38Z\" fill=\"#8B8780\"></path>\n<path d=\"M34 38H36V42H34V38Z\" fill=\"#726A62\"></path>\n<path d=\"M32 38H34V40H32V38Z\" fill=\"#030000\"></path>\n<path d=\"M30 38H32V40H30V38Z\" fill=\"#754C2F\"></path>\n<path d=\"M26 38H30V40H26V38Z\" fill=\"#815735\"></path>\n<path d=\"M24 38H26V40H24V38Z\" fill=\"#3D2112\"></path>\n<path d=\"M22 38H24V40H22V38Z\" fill=\"#88603F\"></path>\n<path d=\"M20 38H22V40H20V38Z\" fill=\"#3D2112\"></path>\n<path d=\"M18 38H20V40H18V38Z\" fill=\"#815735\"></path>\n<path d=\"M16 38H18V40H16V38Z\" fill=\"#070202\"></path>\n<path d=\"M14 38H16V40H14V38Z\" fill=\"#030303\"></path>\n<path d=\"M12 38H14V40H12V38Z\" fill=\"#030000\"></path>\n<path d=\"M50 40H52V42H50V40Z\" fill=\"#030303\"></path>\n<path d=\"M48 40H50V42H48V40Z\" fill=\"#79746D\"></path>\n<path d=\"M40 40H48V42H40V40Z\" fill=\"#94918B\"></path>\n<path d=\"M38 40H40V42H38V40Z\" fill=\"#79746D\"></path>\n<path d=\"M32 40H34V42H32V40Z\" fill=\"#726A62\"></path>\n<path d=\"M30 40H32V42H30V40Z\" fill=\"#030000\"></path>\n<path d=\"M28 40H30V42H28V40Z\" fill=\"#754C2F\"></path>\n<path d=\"M26 40H28V42H26V40Z\" fill=\"#C89A66\"></path>\n<path d=\"M24 40H26V42H24V40Z\" fill=\"#A88261\"></path>\n<path d=\"M22 40H24V42H22V40Z\" fill=\"#3D2112\"></path>\n<path d=\"M20 40H22V42H20V40Z\" fill=\"#815735\"></path>\n<path d=\"M18 40H20V42H18V40Z\" fill=\"#3D2112\"></path>\n<path d=\"M16 40H18V42H16V40Z\" fill=\"#88603F\"></path>\n<path d=\"M14 40H16V42H14V40Z\" fill=\"#171717\"></path>\n<path d=\"M12 40H14V42H12V40Z\" fill=\"#030303\"></path>\n<path d=\"M48 42H50V44H48V42Z\" fill=\"#030303\"></path>\n<path d=\"M44 42H48V44H44V42Z\" fill=\"#79746D\"></path>\n<path d=\"M40 42H44V44H40V42Z\" fill=\"#8B8780\"></path>\n<path d=\"M38 42H40V46H38V42Z\" fill=\"#94918B\"></path>\n<path d=\"M36 42H38V44H36V42Z\" fill=\"#79746D\"></path>\n<path d=\"M34 42H36V46H34V42Z\" fill=\"#94918B\"></path>\n<path d=\"M32 42H34V48H32V42Z\" fill=\"#79746D\"></path>\n<path d=\"M30 42H32V44H30V42Z\" fill=\"#726A62\"></path>\n<path d=\"M28 42H30V44H28V42Z\" fill=\"#020100\"></path>\n<path d=\"M26 42H28V44H26V42Z\" fill=\"#030000\"></path>\n<path d=\"M22 42H26V44H22V42Z\" fill=\"#815735\"></path>\n<path d=\"M20 42H22V44H20V42Z\" fill=\"#3D2112\"></path>\n<path d=\"M18 42H20V44H18V42Z\" fill=\"#88603F\"></path>\n<path d=\"M16 42H18V46H16V42Z\" fill=\"#271B10\"></path>\n<path d=\"M14 42H16V46H14V42Z\" fill=\"#604935\"></path>\n<path d=\"M12 42H14V44H12V42Z\" fill=\"#030000\"></path>\n<path d=\"M46 44H48V46H46V44Z\" fill=\"#030303\"></path>\n<path d=\"M40 44H46V46H40V44Z\" fill=\"#79746D\"></path>\n<path d=\"M36 44H38V46H36V44Z\" fill=\"#94918B\"></path>\n<path d=\"M30 44H32V50H30V44Z\" fill=\"#79746D\"></path>\n<path d=\"M28 44H30V46H28V44Z\" fill=\"#625C55\"></path>\n<path d=\"M26 44H28V52H26V44Z\" fill=\"#5D554C\"></path>\n<path d=\"M24 44H26V46H24V44Z\" fill=\"#020100\"></path>\n<path d=\"M22 44H24V46H22V44Z\" fill=\"#030303\"></path>\n<path d=\"M20 44H22V46H20V44Z\" fill=\"#7B5F49\"></path>\n<path d=\"M18 44H20V46H18V44Z\" fill=\"#271B10\"></path>\n<path d=\"M12 44H14V48H12V44Z\" fill=\"#070202\"></path>\n<path d=\"M44 46H46V48H44V46Z\" fill=\"#090808\"></path>\n<path d=\"M42 46H44V48H42V46Z\" fill=\"#030303\"></path>\n<path d=\"M34 46H42V48H34V46Z\" fill=\"#79746D\"></path>\n<path d=\"M28 46H30V48H28V46Z\" fill=\"#79746D\"></path>\n<path d=\"M24 46H26V48H24V46Z\" fill=\"#524B43\"></path>\n<path d=\"M22 46H24V48H22V46Z\" fill=\"#7B5F49\"></path>\n<path d=\"M20 46H22V48H20V46Z\" fill=\"#030303\"></path>\n<path d=\"M16 46H20V48H16V46Z\" fill=\"#020101\"></path>\n<path d=\"M14 46H16V48H14V46Z\" fill=\"#030303\"></path>\n<path d=\"M10 46H12V48H10V46Z\" fill=\"#030303\"></path>\n<path d=\"M40 48H42V50H40V48Z\" fill=\"#030303\"></path>\n<path d=\"M38 48H40V50H38V48Z\" fill=\"#090808\"></path>\n<path d=\"M32 48H38V50H32V48Z\" fill=\"#726A62\"></path>\n<path d=\"M28 48H30V50H28V48Z\" fill=\"#726A62\"></path>\n<path d=\"M24 48H26V50H24V48Z\" fill=\"#5D554C\"></path>\n<path d=\"M22 48H24V50H22V48Z\" fill=\"#030303\"></path>\n<path d=\"M20 48H22V50H20V48Z\" fill=\"#030000\"></path>\n<path d=\"M18 48H20V50H18V48Z\" fill=\"#020101\"></path>\n<path d=\"M16 48H18V50H16V48Z\" fill=\"#171717\"></path>\n<path d=\"M12 48H16V50H12V48Z\" fill=\"#75543B\"></path>\n<path d=\"M10 48H12V50H10V48Z\" fill=\"#4B2A1B\"></path>\n<path d=\"M8 48H10V50H8V48Z\" fill=\"#020100\"></path>\n<path d=\"M28 50H38V52H28V50Z\" fill=\"#030303\"></path>\n<path d=\"M24 50H26V52H24V50Z\" fill=\"#030303\"></path>\n<path d=\"M16 50H18V52H16V50Z\" fill=\"#030303\"></path>\n<path d=\"M14 50H16V52H14V50Z\" fill=\"#090808\"></path>\n<path d=\"M10 50H14V52H10V50Z\" fill=\"#6B4A32\"></path>\n<path d=\"M8 50H10V52H8V50Z\" fill=\"#5F3F2B\"></path>\n<path d=\"M6 50H8V52H6V50Z\" fill=\"#030303\"></path>\n<path d=\"M36 52H38V54H36V52Z\" fill=\"#4E3E31\"></path>\n<path d=\"M34 52H36V54H34V52Z\" fill=\"#271B10\"></path>\n<path d=\"M26 52H28V54H26V52Z\" fill=\"#150D08\"></path>\n<path d=\"M24 52H26V54H24V52Z\" fill=\"#070202\"></path>\n<path d=\"M10 52H14V54H10V52Z\" fill=\"#030303\"></path>\n<path d=\"M8 52H10V54H8V52Z\" fill=\"#75543B\"></path>\n<path d=\"M6 52H8V54H6V52Z\" fill=\"#604935\"></path>\n<path d=\"M4 52H6V54H4V52Z\" fill=\"#030000\"></path>\n<path d=\"M36 54H40V56H36V54Z\" fill=\"#543528\"></path>\n<path d=\"M28 54H30V56H28V54Z\" fill=\"#6B4A32\"></path>\n<path d=\"M26 54H28V56H26V54Z\" fill=\"#070202\"></path>\n<path d=\"M4 54H10V56H4V54Z\" fill=\"#030303\"></path>\n<path d=\"M2 54H4V56H2V54Z\" fill=\"#030000\"></path>\n<path d=\"M32 56H44V58H32V56Z\" fill=\"#4E3E31\"></path>\n<path d=\"M30 56H32V60H30V56Z\" fill=\"#968475\"></path>\n<path d=\"M28 56H30V58H28V56Z\" fill=\"#44352A\"></path>\n<path d=\"M34 58H36V60H34V58Z\" fill=\"#5F3F2B\"></path>\n<path d=\"M32 58H34V60H32V58Z\" fill=\"#C0A78F\"></path>\n<path d=\"M28 58H30V60H28V58Z\" fill=\"#8A6D55\"></path>\n<path d=\"M26 58H28V60H26V58Z\" fill=\"#030000\"></path>\n<path d=\"M24 58H26V60H24V58Z\" fill=\"#070202\"></path>\n</svg>",
+      "name": "svg-17"
+    },
+    {
+      "id": "2c9cd0d60b32bd2b",
+      "markup": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 64 64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">\n<g clip-path=\"url(#clip0_312_18466)\">\n<path d=\"M46 4H44V6H46V4Z\" fill=\"#6C0F12\"></path>\n<path d=\"M8 6H6V8H8V6Z\" fill=\"#2C0202\"></path>\n<path d=\"M10 6H8V8H10V6Z\" fill=\"#1F0101\"></path>\n<path d=\"M24 6H22V8H24V6Z\" fill=\"#120000\"></path>\n<path d=\"M38 6H36V10H38V6Z\" fill=\"#902618\"></path>\n<path d=\"M44 6H42V8H44V6Z\" fill=\"#620B10\"></path>\n<path d=\"M46 6H44V8H46V6Z\" fill=\"#780F0F\"></path>\n<path d=\"M6 8H4V10H6V8Z\" fill=\"#1F0101\"></path>\n<path d=\"M8 8H6V10H8V8Z\" fill=\"#F8993B\"></path>\n<path d=\"M10 8H8V10H10V8Z\" fill=\"#120000\"></path>\n<path d=\"M22 8H20V10H22V8Z\" fill=\"#0B0000\"></path>\n<path d=\"M24 8H22V10H24V8Z\" fill=\"#2D0B0C\"></path>\n<path d=\"M40 8H38V10H40V8Z\" fill=\"#A16749\"></path>\n<path d=\"M44 8H42V10H44V8Z\" fill=\"#E99D45\"></path>\n<path d=\"M46 8H44V10H46V8Z\" fill=\"#FBB243\"></path>\n<path d=\"M48 8H46V10H48V8Z\" fill=\"#1F0101\"></path>\n<path d=\"M6 10H4V12H6V10Z\" fill=\"#120000\"></path>\n<path d=\"M8 10H6V12H8V10Z\" fill=\"#F58934\"></path>\n<path d=\"M10 10H8V12H10V10Z\" fill=\"#CC9C62\"></path>\n<path d=\"M12 10H10V12H12V10Z\" fill=\"#0B0000\"></path>\n<path d=\"M22 10H20V12H22V10Z\" fill=\"#120000\"></path>\n<path d=\"M24 10H22V12H24V10Z\" fill=\"#7C241E\"></path>\n<path d=\"M40 10H38V12H40V10Z\" fill=\"#902618\"></path>\n<path d=\"M42 10H40V12H42V10Z\" fill=\"#A44F27\"></path>\n<path d=\"M44 10H42V12H44V10Z\" fill=\"#B8411F\"></path>\n<path d=\"M46 10H44V12H46V10Z\" fill=\"#8C190E\"></path>\n<path d=\"M48 10H46V14H48V10Z\" fill=\"#ED7A30\"></path>\n<path d=\"M50 10H48V12H50V10Z\" fill=\"#1F0101\"></path>\n<path d=\"M4 12H2V16H4V12Z\" fill=\"#0B0000\"></path>\n<path d=\"M6 12H4V14H6V12Z\" fill=\"#1F0101\"></path>\n<path d=\"M8 12H6V16H8V12Z\" fill=\"#8C190E\"></path>\n<path d=\"M10 12H8V16H10V12Z\" fill=\"#ED7A30\"></path>\n<path d=\"M12 12H10V14H12V12Z\" fill=\"#6C0F12\"></path>\n<path d=\"M14 12H12V14H14V12Z\" fill=\"#0B0000\"></path>\n<path d=\"M20 12H18V16H20V12Z\" fill=\"#0B0000\"></path>\n<path d=\"M22 12H20V14H22V12Z\" fill=\"#2D0B0C\"></path>\n<path d=\"M24 12H22V14H24V12Z\" fill=\"#902618\"></path>\n<path d=\"M26 12H24V16H26V12Z\" fill=\"#B8411F\"></path>\n<path d=\"M28 12H26V14H28V12Z\" fill=\"#0B0000\"></path>\n<path d=\"M36 12H34V14H36V12Z\" fill=\"#5B181C\"></path>\n<path d=\"M40 12H38V14H40V12Z\" fill=\"#AB3519\"></path>\n<path d=\"M42 12H40V14H42V12Z\" fill=\"#9D2114\"></path>\n<path d=\"M46 12H42V14H46V12Z\" fill=\"#F58934\"></path>\n<path d=\"M50 12H48V14H50V12Z\" fill=\"#ED7A30\"></path>\n<path d=\"M52 12H50V14H52V12Z\" fill=\"#120000\"></path>\n<path d=\"M6 14H4V16H6V14Z\" fill=\"#DC8941\"></path>\n<path d=\"M12 14H10V18H12V14Z\" fill=\"#ED7A30\"></path>\n<path d=\"M14 14H12V16H14V14Z\" fill=\"#780F0F\"></path>\n<path d=\"M16 14H14V16H16V14Z\" fill=\"#030000\"></path>\n<path d=\"M22 14H20V16H22V14Z\" fill=\"#4D0F18\"></path>\n<path d=\"M24 14H22V16H24V14Z\" fill=\"#47060A\"></path>\n<path d=\"M28 14H26V16H28V14Z\" fill=\"#69161C\"></path>\n<path d=\"M30 14H28V16H30V14Z\" fill=\"#0B0000\"></path>\n<path d=\"M38 14H36V16H38V14Z\" fill=\"#AB3519\"></path>\n<path d=\"M40 14H38V16H40V14Z\" fill=\"#FBB243\"></path>\n<path d=\"M42 14H40V16H42V14Z\" fill=\"#8C190E\"></path>\n<path d=\"M44 14H42V16H44V14Z\" fill=\"#6C0F12\"></path>\n<path d=\"M48 14H44V16H48V14Z\" fill=\"#47060A\"></path>\n<path d=\"M50 14H48V16H50V14Z\" fill=\"#F58934\"></path>\n<path d=\"M52 14H50V16H52V14Z\" fill=\"#ED7A30\"></path>\n<path d=\"M54 14H52V16H54V14Z\" fill=\"#0B0000\"></path>\n<path d=\"M6 16H4V18H6V16Z\" fill=\"#120000\"></path>\n<path d=\"M8 16H6V18H8V16Z\" fill=\"#F58934\"></path>\n<path d=\"M10 16H8V18H10V16Z\" fill=\"#C2441D\"></path>\n<path d=\"M14 16H12V18H14V16Z\" fill=\"#ED7A30\"></path>\n<path d=\"M16 16H14V18H16V16Z\" fill=\"#A16749\"></path>\n<path d=\"M18 16H16V18H18V16Z\" fill=\"#0B0000\"></path>\n<path d=\"M22 16H20V18H22V16Z\" fill=\"#0F0403\"></path>\n<path d=\"M24 16H22V18H24V16Z\" fill=\"#69161C\"></path>\n<path d=\"M30 16H24V18H30V16Z\" fill=\"#6C0F12\"></path>\n<path d=\"M32 16H30V18H32V16Z\" fill=\"#0B0000\"></path>\n<path d=\"M40 16H38V18H40V16Z\" fill=\"#B8411F\"></path>\n<path d=\"M42 16H40V18H42V16Z\" fill=\"#780F0F\"></path>\n<path d=\"M44 16H42V18H44V16Z\" fill=\"#9D2114\"></path>\n<path d=\"M48 16H44V18H48V16Z\" fill=\"#C84F25\"></path>\n<path d=\"M50 16H48V18H50V16Z\" fill=\"#120000\"></path>\n<path d=\"M52 16H50V18H52V16Z\" fill=\"#A16749\"></path>\n<path d=\"M54 16H52V18H54V16Z\" fill=\"#3E1B15\"></path>\n<path d=\"M56 16H54V18H56V16Z\" fill=\"#0B0000\"></path>\n<path d=\"M8 18H6V20H8V18Z\" fill=\"#5B181C\"></path>\n<path d=\"M12 18H8V20H12V18Z\" fill=\"#F58934\"></path>\n<path d=\"M14 18H12V22H14V18Z\" fill=\"#8C190E\"></path>\n<path d=\"M16 18H14V20H16V18Z\" fill=\"#DE6730\"></path>\n<path d=\"M18 18H16V20H18V18Z\" fill=\"#D87737\"></path>\n<path d=\"M22 18H18V20H22V18Z\" fill=\"#0B0000\"></path>\n<path d=\"M24 18H22V20H24V18Z\" fill=\"#5B181C\"></path>\n<path d=\"M26 18H24V20H26V18Z\" fill=\"#1F0101\"></path>\n<path d=\"M28 18H26V20H28V18Z\" fill=\"#2D0B0C\"></path>\n<path d=\"M32 18H28V20H32V18Z\" fill=\"#69161C\"></path>\n<path d=\"M34 18H32V20H34V18Z\" fill=\"#0B0000\"></path>\n<path d=\"M40 18H38V20H40V18Z\" fill=\"#120000\"></path>\n<path d=\"M44 18H42V20H44V18Z\" fill=\"#47060A\"></path>\n<path d=\"M46 18H44V20H46V18Z\" fill=\"#9D2114\"></path>\n<path d=\"M48 18H46V20H48V18Z\" fill=\"#A72B1B\"></path>\n<path d=\"M50 18H48V20H50V18Z\" fill=\"#A44F27\"></path>\n<path d=\"M56 18H50V20H56V18Z\" fill=\"#CC9C62\"></path>\n<path d=\"M58 18H56V20H58V18Z\" fill=\"#120000\"></path>\n<path d=\"M6 20H4V22H6V20Z\" fill=\"#1F0101\"></path>\n<path d=\"M10 20H6V22H10V20Z\" fill=\"#6C0F12\"></path>\n<path d=\"M12 20H10V22H12V20Z\" fill=\"#780F0F\"></path>\n<path d=\"M16 20H14V22H16V20Z\" fill=\"#8C190E\"></path>\n<path d=\"M18 20H16V26H18V20Z\" fill=\"#9D2114\"></path>\n<path d=\"M20 20H18V22H20V20Z\" fill=\"#C2441D\"></path>\n<path d=\"M22 20H20V22H22V20Z\" fill=\"#A16749\"></path>\n<path d=\"M24 20H22V22H24V20Z\" fill=\"#120000\"></path>\n<path d=\"M26 20H24V22H26V20Z\" fill=\"#CB612E\"></path>\n<path d=\"M28 20H26V22H28V20Z\" fill=\"#5B181C\"></path>\n<path d=\"M30 20H28V22H30V20Z\" fill=\"#2D0B0C\"></path>\n<path d=\"M32 20H30V28H32V20Z\" fill=\"#4D0F18\"></path>\n<path d=\"M34 20H32V28H34V20Z\" fill=\"#69161C\"></path>\n<path d=\"M36 20H34V26H36V20Z\" fill=\"#0B0000\"></path>\n<path d=\"M42 20H40V30H42V20Z\" fill=\"#0B0000\"></path>\n<path d=\"M44 20H42V22H44V20Z\" fill=\"#780F0F\"></path>\n<path d=\"M46 20H44V22H46V20Z\" fill=\"#A72B1B\"></path>\n<path d=\"M48 20H46V22H48V20Z\" fill=\"#AB3519\"></path>\n<path d=\"M50 20H48V22H50V20Z\" fill=\"#A16749\"></path>\n<path d=\"M56 20H50V22H56V20Z\" fill=\"#0B0000\"></path>\n<path d=\"M58 20H56V22H58V20Z\" fill=\"#E3B25B\"></path>\n<path d=\"M8 22H6V24H8V22Z\" fill=\"#F58934\"></path>\n<path d=\"M10 22H8V24H10V22Z\" fill=\"#F8A53D\"></path>\n<path d=\"M12 22H10V24H12V22Z\" fill=\"#F8993B\"></path>\n<path d=\"M14 22H12V24H14V22Z\" fill=\"#AB3519\"></path>\n<path d=\"M16 22H14V24H16V22Z\" fill=\"#9D2114\"></path>\n<path d=\"M22 22H18V26H22V22Z\" fill=\"#9D2114\"></path>\n<path d=\"M24 22H22V24H24V22Z\" fill=\"#902618\"></path>\n<path d=\"M26 22H24V24H26V22Z\" fill=\"#B5371B\"></path>\n<path d=\"M28 22H26V24H28V22Z\" fill=\"#C84F25\"></path>\n<path d=\"M30 22H28V28H30V22Z\" fill=\"#120000\"></path>\n<path d=\"M44 22H42V24H44V22Z\" fill=\"#B5371B\"></path>\n<path d=\"M48 22H44V24H48V22Z\" fill=\"#902618\"></path>\n<path d=\"M50 22H48V24H50V22Z\" fill=\"#0B0000\"></path>\n<path d=\"M58 22H56V24H58V22Z\" fill=\"#0B0000\"></path>\n<path d=\"M8 24H6V26H8V24Z\" fill=\"#120000\"></path>\n<path d=\"M10 24H8V26H10V24Z\" fill=\"#A0341B\"></path>\n<path d=\"M12 24H10V26H12V24Z\" fill=\"#AB3519\"></path>\n<path d=\"M14 24H12V26H14V24Z\" fill=\"#F58934\"></path>\n<path d=\"M16 24H14V26H16V24Z\" fill=\"#AB3519\"></path>\n<path d=\"M24 24H22V26H24V24Z\" fill=\"#C84F25\"></path>\n<path d=\"M26 24H24V26H26V24Z\" fill=\"#8C190E\"></path>\n<path d=\"M28 24H26V28H28V24Z\" fill=\"#B8411F\"></path>\n<path d=\"M44 24H42V26H44V24Z\" fill=\"#B8411F\"></path>\n<path d=\"M46 24H44V28H46V24Z\" fill=\"#C2441D\"></path>\n<path d=\"M48 24H46V26H48V24Z\" fill=\"#902618\"></path>\n<path d=\"M50 24H48V26H50V24Z\" fill=\"#823422\"></path>\n<path d=\"M10 26H8V28H10V26Z\" fill=\"#120000\"></path>\n<path d=\"M12 26H10V28H12V26Z\" fill=\"#CC9C62\"></path>\n<path d=\"M14 26H12V28H14V26Z\" fill=\"#5B181C\"></path>\n<path d=\"M16 26H14V28H16V26Z\" fill=\"#954124\"></path>\n<path d=\"M18 26H16V28H18V26Z\" fill=\"#47060A\"></path>\n<path d=\"M20 26H18V28H20V26Z\" fill=\"#DE6730\"></path>\n<path d=\"M24 26H20V28H24V26Z\" fill=\"#C2441D\"></path>\n<path d=\"M26 26H24V28H26V26Z\" fill=\"#902618\"></path>\n<path d=\"M36 26H34V28H36V26Z\" fill=\"#360202\"></path>\n<path d=\"M40 26H38V30H40V26Z\" fill=\"#0B0000\"></path>\n<path d=\"M44 26H42V28H44V26Z\" fill=\"#902618\"></path>\n<path d=\"M48 26H46V30H48V26Z\" fill=\"#C2441D\"></path>\n<path d=\"M50 26H48V28H50V26Z\" fill=\"#A0341B\"></path>\n<path d=\"M52 26H50V28H52V26Z\" fill=\"#0B0000\"></path>\n<path d=\"M12 28H10V30H12V28Z\" fill=\"#120000\"></path>\n<path d=\"M14 28H12V30H14V28Z\" fill=\"#B8411F\"></path>\n<path d=\"M16 28H14V30H16V28Z\" fill=\"#C84F25\"></path>\n<path d=\"M18 28H16V30H18V28Z\" fill=\"#E3B25B\"></path>\n<path d=\"M20 28H18V30H20V28Z\" fill=\"#620B10\"></path>\n<path d=\"M22 28H20V32H22V28Z\" fill=\"#8C190E\"></path>\n<path d=\"M24 28H22V30H24V28Z\" fill=\"#9D2114\"></path>\n<path d=\"M26 28H24V30H26V28Z\" fill=\"#C2441D\"></path>\n<path d=\"M28 28H26V30H28V28Z\" fill=\"#9D2114\"></path>\n<path d=\"M30 28H28V30H30V28Z\" fill=\"#1F0101\"></path>\n<path d=\"M32 28H30V34H32V28Z\" fill=\"#120000\"></path>\n<path d=\"M34 28H32V30H34V28Z\" fill=\"#4D0F18\"></path>\n<path d=\"M36 28H34V30H36V28Z\" fill=\"#3E1B15\"></path>\n<path d=\"M38 28H36V30H38V28Z\" fill=\"#0B0000\"></path>\n<path d=\"M44 28H42V30H44V28Z\" fill=\"#120000\"></path>\n<path d=\"M46 28H44V30H46V28Z\" fill=\"#A0341B\"></path>\n<path d=\"M50 28H48V32H50V28Z\" fill=\"#C2441D\"></path>\n<path d=\"M52 28H50V30H52V28Z\" fill=\"#5B181C\"></path>\n<path d=\"M54 28H52V30H54V28Z\" fill=\"#0B0000\"></path>\n<path d=\"M14 30H12V32H14V30Z\" fill=\"#0F0403\"></path>\n<path d=\"M16 30H14V32H16V30Z\" fill=\"#120000\"></path>\n<path d=\"M18 30H16V32H18V30Z\" fill=\"#C84F25\"></path>\n<path d=\"M20 30H18V32H20V30Z\" fill=\"#D87737\"></path>\n<path d=\"M24 30H22V32H24V30Z\" fill=\"#C2441D\"></path>\n<path d=\"M26 30H24V34H26V30Z\" fill=\"#B5371B\"></path>\n<path d=\"M28 30H26V34H28V30Z\" fill=\"#8C190E\"></path>\n<path d=\"M30 30H28V32H30V30Z\" fill=\"#7C241E\"></path>\n<path d=\"M36 30H32V32H36V30Z\" fill=\"#120000\"></path>\n<path d=\"M38 30H36V32H38V30Z\" fill=\"#902618\"></path>\n<path d=\"M42 30H38V32H42V30Z\" fill=\"#9D2114\"></path>\n<path d=\"M44 30H42V32H44V30Z\" fill=\"#1F0101\"></path>\n<path d=\"M46 30H44V32H46V30Z\" fill=\"#7C241E\"></path>\n<path d=\"M48 30H46V32H48V30Z\" fill=\"#AB3519\"></path>\n<path d=\"M52 30H50V36H52V30Z\" fill=\"#C2441D\"></path>\n<path d=\"M54 30H52V36H54V30Z\" fill=\"#120000\"></path>\n<path d=\"M18 32H16V34H18V32Z\" fill=\"#120000\"></path>\n<path d=\"M24 32H18V34H24V32Z\" fill=\"#620B10\"></path>\n<path d=\"M30 32H28V34H30V32Z\" fill=\"#69161C\"></path>\n<path d=\"M36 32H32V34H36V32Z\" fill=\"#902618\"></path>\n<path d=\"M38 32H36V34H38V32Z\" fill=\"#9D2114\"></path>\n<path d=\"M42 32H38V38H42V32Z\" fill=\"#A72B1B\"></path>\n<path d=\"M44 32H42V36H44V32Z\" fill=\"#A0341B\"></path>\n<path d=\"M46 32H44V36H46V32Z\" fill=\"#120000\"></path>\n<path d=\"M48 32H46V34H48V32Z\" fill=\"#780F0F\"></path>\n<path d=\"M50 32H48V34H50V32Z\" fill=\"#C84F25\"></path>\n<path d=\"M18 34H16V36H18V34Z\" fill=\"#0B0000\"></path>\n<path d=\"M20 34H18V36H20V34Z\" fill=\"#F58934\"></path>\n<path d=\"M22 34H20V36H22V34Z\" fill=\"#780F0F\"></path>\n<path d=\"M24 34H22V36H24V34Z\" fill=\"#902618\"></path>\n<path d=\"M26 34H24V36H26V34Z\" fill=\"#780F0F\"></path>\n<path d=\"M28 34H26V36H28V34Z\" fill=\"#7C241E\"></path>\n<path d=\"M30 34H28V36H30V34Z\" fill=\"#120000\"></path>\n<path d=\"M32 34H30V36H32V34Z\" fill=\"#1F0101\"></path>\n<path d=\"M34 34H32V36H34V34Z\" fill=\"#9D2114\"></path>\n<path d=\"M36 34H34V36H36V34Z\" fill=\"#DE6730\"></path>\n<path d=\"M38 34H36V38H38V34Z\" fill=\"#A72B1B\"></path>\n<path d=\"M48 34H46V38H48V34Z\" fill=\"#69161C\"></path>\n<path d=\"M50 34H48V42H50V34Z\" fill=\"#6C0F12\"></path>\n<path d=\"M20 36H18V38H20V36Z\" fill=\"#0B0000\"></path>\n<path d=\"M22 36H20V38H22V36Z\" fill=\"#CB612E\"></path>\n<path d=\"M24 36H22V38H24V36Z\" fill=\"#780F0F\"></path>\n<path d=\"M26 36H24V38H26V36Z\" fill=\"#823422\"></path>\n<path d=\"M28 36H26V38H28V36Z\" fill=\"#0F0403\"></path>\n<path d=\"M30 36H28V38H30V36Z\" fill=\"#69161C\"></path>\n<path d=\"M32 36H30V38H32V36Z\" fill=\"#6C0F12\"></path>\n<path d=\"M34 36H32V38H34V36Z\" fill=\"#B8411F\"></path>\n<path d=\"M36 36H34V38H36V36Z\" fill=\"#9D2114\"></path>\n<path d=\"M44 36H42V38H44V36Z\" fill=\"#E99D45\"></path>\n<path d=\"M46 36H44V38H46V36Z\" fill=\"#0B0000\"></path>\n<path d=\"M52 36H50V38H52V36Z\" fill=\"#954124\"></path>\n<path d=\"M54 36H52V40H54V36Z\" fill=\"#0B0000\"></path>\n<path d=\"M26 38H20V40H26V38Z\" fill=\"#0B0000\"></path>\n<path d=\"M28 38H26V40H28V38Z\" fill=\"#B47B74\"></path>\n<path d=\"M30 38H28V40H30V38Z\" fill=\"#AB3519\"></path>\n<path d=\"M32 38H30V40H32V38Z\" fill=\"#D87737\"></path>\n<path d=\"M34 38H32V40H34V38Z\" fill=\"#780F0F\"></path>\n<path d=\"M36 38H34V40H36V38Z\" fill=\"#CB612E\"></path>\n<path d=\"M40 38H36V40H40V38Z\" fill=\"#780F0F\"></path>\n<path d=\"M42 38H40V40H42V38Z\" fill=\"#C84F25\"></path>\n<path d=\"M44 38H42V42H44V38Z\" fill=\"#120000\"></path>\n<path d=\"M46 38H44V40H46V38Z\" fill=\"#5B181C\"></path>\n<path d=\"M48 38H46V44H48V38Z\" fill=\"#6C0F12\"></path>\n<path d=\"M52 38H50V40H52V38Z\" fill=\"#4D0F18\"></path>\n<path d=\"M26 40H24V44H26V40Z\" fill=\"#0B0000\"></path>\n<path d=\"M28 40H26V42H28V40Z\" fill=\"#DC8941\"></path>\n<path d=\"M30 40H28V42H30V40Z\" fill=\"#9D2114\"></path>\n<path d=\"M32 40H30V42H32V40Z\" fill=\"#DE6730\"></path>\n<path d=\"M34 40H32V42H34V40Z\" fill=\"#B5371B\"></path>\n<path d=\"M36 40H34V42H36V40Z\" fill=\"#360202\"></path>\n<path d=\"M38 40H36V42H38V40Z\" fill=\"#780F0F\"></path>\n<path d=\"M40 40H38V42H40V40Z\" fill=\"#D87737\"></path>\n<path d=\"M42 40H40V42H42V40Z\" fill=\"#69161C\"></path>\n<path d=\"M46 40H44V42H46V40Z\" fill=\"#69161C\"></path>\n<path d=\"M52 40H50V42H52V40Z\" fill=\"#0B0000\"></path>\n<path d=\"M8 42H6V44H8V42Z\" fill=\"#360202\"></path>\n<path d=\"M10 42H8V44H10V42Z\" fill=\"#620B10\"></path>\n<path d=\"M24 42H22V44H24V42Z\" fill=\"#0B0000\"></path>\n<path d=\"M28 42H26V44H28V42Z\" fill=\"#F8A53D\"></path>\n<path d=\"M30 42H28V44H30V42Z\" fill=\"#ED7A30\"></path>\n<path d=\"M32 42H30V44H32V42Z\" fill=\"#360202\"></path>\n<path d=\"M34 42H32V44H34V42Z\" fill=\"#2C0202\"></path>\n<path d=\"M36 42H34V44H36V42Z\" fill=\"#F8A53D\"></path>\n<path d=\"M38 42H36V44H38V42Z\" fill=\"#E99D45\"></path>\n<path d=\"M42 42H38V44H42V42Z\" fill=\"#120000\"></path>\n<path d=\"M44 42H42V48H44V42Z\" fill=\"#69161C\"></path>\n<path d=\"M46 42H44V44H46V42Z\" fill=\"#6C0F12\"></path>\n<path d=\"M50 42H48V44H50V42Z\" fill=\"#120000\"></path>\n<path d=\"M6 44H4V46H6V44Z\" fill=\"#1F0101\"></path>\n<path d=\"M8 44H6V46H8V44Z\" fill=\"#DE6730\"></path>\n<path d=\"M10 44H8V46H10V44Z\" fill=\"#F58934\"></path>\n<path d=\"M12 44H10V46H12V44Z\" fill=\"#47060A\"></path>\n<path d=\"M22 44H20V46H22V44Z\" fill=\"#120000\"></path>\n<path d=\"M24 44H22V46H24V44Z\" fill=\"#FAE4BD\"></path>\n<path d=\"M26 44H24V46H26V44Z\" fill=\"#FCC762\"></path>\n<path d=\"M30 44H26V46H30V44Z\" fill=\"#AB3519\"></path>\n<path d=\"M34 44H30V46H34V44Z\" fill=\"#F8A53D\"></path>\n<path d=\"M36 44H34V46H36V44Z\" fill=\"#E6C785\"></path>\n<path d=\"M38 44H36V46H38V44Z\" fill=\"#0B0000\"></path>\n<path d=\"M40 44H38V46H40V44Z\" fill=\"#120000\"></path>\n<path d=\"M42 44H40V50H42V44Z\" fill=\"#69161C\"></path>\n<path d=\"M46 44H44V46H46V44Z\" fill=\"#69161C\"></path>\n<path d=\"M48 44H46V46H48V44Z\" fill=\"#1F0101\"></path>\n<path d=\"M50 44H48V46H50V44Z\" fill=\"#0B0000\"></path>\n<path d=\"M4 46H2V48H4V46Z\" fill=\"#1F0101\"></path>\n<path d=\"M6 46H4V48H6V46Z\" fill=\"#DE6730\"></path>\n<path d=\"M8 46H6V48H8V46Z\" fill=\"#47060A\"></path>\n<path d=\"M10 46H8V48H10V46Z\" fill=\"#F8993B\"></path>\n<path d=\"M12 46H10V48H12V46Z\" fill=\"#DE6730\"></path>\n<path d=\"M14 46H12V48H14V46Z\" fill=\"#2C0202\"></path>\n<path d=\"M20 46H18V48H20V46Z\" fill=\"#0B0000\"></path>\n<path d=\"M22 46H20V48H22V46Z\" fill=\"#C84F25\"></path>\n<path d=\"M26 46H22V48H26V46Z\" fill=\"#C2441D\"></path>\n<path d=\"M28 46H26V48H28V46Z\" fill=\"#F8993B\"></path>\n<path d=\"M30 46H28V48H30V46Z\" fill=\"#F8A53D\"></path>\n<path d=\"M32 46H30V48H32V46Z\" fill=\"#69161C\"></path>\n<path d=\"M36 46H32V48H36V46Z\" fill=\"#0B0000\"></path>\n<path d=\"M38 46H36V48H38V46Z\" fill=\"#4D0F18\"></path>\n<path d=\"M40 46H38V48H40V46Z\" fill=\"#69161C\"></path>\n<path d=\"M46 46H44V48H46V46Z\" fill=\"#2D0B0C\"></path>\n<path d=\"M48 46H46V48H48V46Z\" fill=\"#0B0000\"></path>\n<path d=\"M4 48H2V50H4V48Z\" fill=\"#360202\"></path>\n<path d=\"M6 48H4V50H6V48Z\" fill=\"#ED7A30\"></path>\n<path d=\"M8 48H6V50H8V48Z\" fill=\"#FBB243\"></path>\n<path d=\"M10 48H8V50H10V48Z\" fill=\"#360202\"></path>\n<path d=\"M12 48H10V50H12V48Z\" fill=\"#E99D45\"></path>\n<path d=\"M14 48H12V50H14V48Z\" fill=\"#120000\"></path>\n<path d=\"M18 48H16V50H18V48Z\" fill=\"#120000\"></path>\n<path d=\"M20 48H18V50H20V48Z\" fill=\"#FCC762\"></path>\n<path d=\"M26 48H20V50H26V48Z\" fill=\"#FBB243\"></path>\n<path d=\"M28 48H26V50H28V48Z\" fill=\"#FCC762\"></path>\n<path d=\"M30 48H28V50H30V48Z\" fill=\"#120000\"></path>\n<path d=\"M32 48H30V50H32V48Z\" fill=\"#0B0000\"></path>\n<path d=\"M34 48H32V50H34V48Z\" fill=\"#120000\"></path>\n<path d=\"M36 48H34V54H36V48Z\" fill=\"#581021\"></path>\n<path d=\"M38 48H36V50H38V48Z\" fill=\"#69161C\"></path>\n<path d=\"M40 48H38V50H40V48Z\" fill=\"#581021\"></path>\n<path d=\"M44 48H42V50H44V48Z\" fill=\"#1F0101\"></path>\n<path d=\"M46 48H44V50H46V48Z\" fill=\"#0B0000\"></path>\n<path d=\"M2 50H0V58H2V50Z\" fill=\"#120000\"></path>\n<path d=\"M4 50H2V54H4V50Z\" fill=\"#C84F25\"></path>\n<path d=\"M6 50H4V52H6V50Z\" fill=\"#8C190E\"></path>\n<path d=\"M8 50H6V52H8V50Z\" fill=\"#CB612E\"></path>\n<path d=\"M10 50H8V52H10V50Z\" fill=\"#2C0202\"></path>\n<path d=\"M18 50H14V52H18V50Z\" fill=\"#0B0000\"></path>\n<path d=\"M20 50H18V52H20V50Z\" fill=\"#0F0403\"></path>\n<path d=\"M28 50H20V52H28V50Z\" fill=\"#0B0000\"></path>\n<path d=\"M32 50H28V52H32V50Z\" fill=\"#2D0B0C\"></path>\n<path d=\"M34 50H32V52H34V50Z\" fill=\"#581021\"></path>\n<path d=\"M38 50H36V52H38V50Z\" fill=\"#581021\"></path>\n<path d=\"M40 50H38V52H40V50Z\" fill=\"#0B0000\"></path>\n<path d=\"M42 50H40V52H42V50Z\" fill=\"#0F0403\"></path>\n<path d=\"M44 50H42V52H44V50Z\" fill=\"#0B0000\"></path>\n<path d=\"M6 52H4V56H6V52Z\" fill=\"#780F0F\"></path>\n<path d=\"M8 52H6V54H8V52Z\" fill=\"#F8A53D\"></path>\n<path d=\"M10 52H8V54H10V52Z\" fill=\"#902618\"></path>\n<path d=\"M24 52H18V54H24V52Z\" fill=\"#0B0000\"></path>\n<path d=\"M26 52H24V54H26V52Z\" fill=\"#7C241E\"></path>\n<path d=\"M28 52H26V56H28V52Z\" fill=\"#2D0B0C\"></path>\n<path d=\"M30 52H28V54H30V52Z\" fill=\"#5B181C\"></path>\n<path d=\"M32 52H30V56H32V52Z\" fill=\"#120000\"></path>\n<path d=\"M34 52H32V56H34V52Z\" fill=\"#69161C\"></path>\n<path d=\"M38 52H36V56H38V52Z\" fill=\"#0B0000\"></path>\n<path d=\"M40 52H38V56H40V52Z\" fill=\"#2D0B0C\"></path>\n<path d=\"M42 52H40V60H42V52Z\" fill=\"#0B0000\"></path>\n<path d=\"M4 54H2V56H4V54Z\" fill=\"#DE6730\"></path>\n<path d=\"M10 54H6V56H10V54Z\" fill=\"#FBB243\"></path>\n<path d=\"M14 54H10V56H14V54Z\" fill=\"#120000\"></path>\n<path d=\"M16 54H14V56H16V54Z\" fill=\"#0B0000\"></path>\n<path d=\"M18 54H16V56H18V54Z\" fill=\"#120000\"></path>\n<path d=\"M20 54H18V56H20V54Z\" fill=\"#954124\"></path>\n<path d=\"M22 54H20V58H22V54Z\" fill=\"#69161C\"></path>\n<path d=\"M24 54H22V56H24V54Z\" fill=\"#5B181C\"></path>\n<path d=\"M26 54H24V56H26V54Z\" fill=\"#4D0F18\"></path>\n<path d=\"M30 54H28V56H30V54Z\" fill=\"#120000\"></path>\n<path d=\"M36 54H34V56H36V54Z\" fill=\"#69161C\"></path>\n<path d=\"M4 56H2V58H4V56Z\" fill=\"#902618\"></path>\n<path d=\"M6 56H4V58H6V56Z\" fill=\"#DE6730\"></path>\n<path d=\"M16 56H6V58H16V56Z\" fill=\"#780F0F\"></path>\n<path d=\"M18 56H16V58H18V56Z\" fill=\"#ED7A30\"></path>\n<path d=\"M20 56H18V58H20V56Z\" fill=\"#6C0F12\"></path>\n<path d=\"M24 56H22V58H24V56Z\" fill=\"#120000\"></path>\n<path d=\"M26 56H24V58H26V56Z\" fill=\"#5B181C\"></path>\n<path d=\"M28 56H26V58H28V56Z\" fill=\"#0B0000\"></path>\n<path d=\"M34 56H32V58H34V56Z\" fill=\"#0B0000\"></path>\n<path d=\"M40 56H38V60H40V56Z\" fill=\"#0B0000\"></path>\n<path d=\"M4 58H2V60H4V58Z\" fill=\"#120000\"></path>\n<path d=\"M6 58H4V60H6V58Z\" fill=\"#B8411F\"></path>\n<path d=\"M12 58H6V60H12V58Z\" fill=\"#DE6730\"></path>\n<path d=\"M14 58H12V60H14V58Z\" fill=\"#D87737\"></path>\n<path d=\"M16 58H14V60H16V58Z\" fill=\"#DC8941\"></path>\n<path d=\"M18 58H16V60H18V58Z\" fill=\"#620B10\"></path>\n<path d=\"M20 58H18V60H20V58Z\" fill=\"#69161C\"></path>\n<path d=\"M22 58H20V60H22V58Z\" fill=\"#120000\"></path>\n<path d=\"M24 58H22V60H24V58Z\" fill=\"#954124\"></path>\n<path d=\"M26 58H24V60H26V58Z\" fill=\"#0B0000\"></path>\n<path d=\"M34 58H32V60H34V58Z\" fill=\"#E99D45\"></path>\n<path d=\"M36 58H34V60H36V58Z\" fill=\"#120000\"></path>\n<path d=\"M44 58H42V60H44V58Z\" fill=\"#0B0000\"></path>\n<path d=\"M46 58H44V60H46V58Z\" fill=\"#030000\"></path>\n<path d=\"M6 60H4V62H6V60Z\" fill=\"#120000\"></path>\n<path d=\"M8 60H6V62H8V60Z\" fill=\"#A0341B\"></path>\n<path d=\"M12 60H8V62H12V60Z\" fill=\"#ED7A30\"></path>\n<path d=\"M16 60H12V62H16V60Z\" fill=\"#6C0F12\"></path>\n<path d=\"M18 60H16V62H18V60Z\" fill=\"#4D0F18\"></path>\n<path d=\"M24 60H18V62H24V60Z\" fill=\"#0B0000\"></path>\n<path d=\"M32 60H30V64H32V60Z\" fill=\"#0B0000\"></path>\n<path d=\"M34 60H32V62H34V60Z\" fill=\"#954124\"></path>\n<path d=\"M36 60H34V62H36V60Z\" fill=\"#E99D45\"></path>\n<path d=\"M38 60H36V62H38V60Z\" fill=\"#1F0101\"></path>\n<path d=\"M40 60H38V62H40V60Z\" fill=\"#69161C\"></path>\n<path d=\"M42 60H40V62H42V60Z\" fill=\"#A44F27\"></path>\n<path d=\"M44 60H42V62H44V60Z\" fill=\"#3E1B15\"></path>\n<path d=\"M46 60H44V62H46V60Z\" fill=\"#CC9C62\"></path>\n<path d=\"M48 60H46V62H48V60Z\" fill=\"#030000\"></path>\n<path d=\"M8 62H6V64H8V62Z\" fill=\"#120000\"></path>\n<path d=\"M18 62H8V64H18V62Z\" fill=\"#0B0000\"></path>\n<path d=\"M30 62H28V64H30V62Z\" fill=\"#0B0000\"></path>\n<path d=\"M34 62H32V64H34V62Z\" fill=\"#0F0403\"></path>\n<path d=\"M36 62H34V64H36V62Z\" fill=\"#0B0000\"></path>\n<path d=\"M38 62H36V64H38V62Z\" fill=\"#0F0403\"></path>\n<path d=\"M42 62H38V64H42V62Z\" fill=\"#120000\"></path>\n<path d=\"M50 62H42V64H50V62Z\" fill=\"#0B0000\"></path>\n</g>\n<defs>\n<clipPath id=\"clip0_312_18466\">\n<rect width=\"64\" height=\"64\" fill=\"white\"></rect>\n</clipPath>\n</defs>\n</svg>",
+      "name": "svg-18"
+    },
+    {
+      "id": "db57f4287e48794a",
+      "markup": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 64 64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">\n<path d=\"M54 12H42V14H54V12Z\" fill=\"#140206\"></path>\n<path d=\"M42 14H38V16H42V14Z\" fill=\"#140206\"></path>\n<path d=\"M46 14H42V16H46V14Z\" fill=\"#54527B\"></path>\n<path d=\"M48 14H46V16H48V14Z\" fill=\"#8E9CB6\"></path>\n<path d=\"M54 14H48V16H54V14Z\" fill=\"#54527B\"></path>\n<path d=\"M56 14H54V16H56V14Z\" fill=\"#140206\"></path>\n<path d=\"M38 16H36V18H38V16Z\" fill=\"#140206\"></path>\n<path d=\"M42 16H38V18H42V16Z\" fill=\"#54527B\"></path>\n<path d=\"M52 16H42V18H52V16Z\" fill=\"#402E55\"></path>\n<path d=\"M54 16H52V18H54V16Z\" fill=\"#170D25\"></path>\n<path d=\"M56 16H54V18H56V16Z\" fill=\"#F0F4FC\"></path>\n<path d=\"M60 16H56V18H60V16Z\" fill=\"#140206\"></path>\n<path d=\"M36 18H34V22H36V18Z\" fill=\"#140206\"></path>\n<path d=\"M38 18H36V22H38V18Z\" fill=\"#54527B\"></path>\n<path d=\"M40 18H38V22H40V18Z\" fill=\"#402E55\"></path>\n<path d=\"M42 18H40V20H42V18Z\" fill=\"#8E9CB6\"></path>\n<path d=\"M46 18H42V20H46V18Z\" fill=\"#402E55\"></path>\n<path d=\"M48 18H46V22H48V18Z\" fill=\"#170D25\"></path>\n<path d=\"M50 18H48V20H50V18Z\" fill=\"#EB2424\"></path>\n<path d=\"M52 18H50V28H52V18Z\" fill=\"#170D25\"></path>\n<path d=\"M60 18H52V20H60V18Z\" fill=\"#8E9CB6\"></path>\n<path d=\"M62 18H60V20H62V18Z\" fill=\"#140206\"></path>\n<path d=\"M42 20H40V24H42V20Z\" fill=\"#402E55\"></path>\n<path d=\"M44 20H42V22H44V20Z\" fill=\"#54527B\"></path>\n<path d=\"M46 20H44V22H46V20Z\" fill=\"#402E55\"></path>\n<path d=\"M50 20H48V22H50V20Z\" fill=\"#170D25\"></path>\n<path d=\"M54 20H52V24H54V20Z\" fill=\"#170D25\"></path>\n<path d=\"M62 20H54V22H62V20Z\" fill=\"#402E55\"></path>\n<path d=\"M64 20H62V22H64V20Z\" fill=\"#140206\"></path>\n<path d=\"M34 22H32V24H34V22Z\" fill=\"#140206\"></path>\n<path d=\"M36 22H34V24H36V22Z\" fill=\"#54527B\"></path>\n<path d=\"M38 22H36V26H38V22Z\" fill=\"#402E55\"></path>\n<path d=\"M40 22H38V24H40V22Z\" fill=\"#8E9CB6\"></path>\n<path d=\"M44 22H42V24H44V22Z\" fill=\"#402E55\"></path>\n<path d=\"M46 22H44V24H46V22Z\" fill=\"#54527B\"></path>\n<path d=\"M50 22H46V24H50V22Z\" fill=\"#402E55\"></path>\n<path d=\"M62 22H54V24H62V22Z\" fill=\"#140206\"></path>\n<path d=\"M32 24H28V26H32V24Z\" fill=\"#140206\"></path>\n<path d=\"M34 24H32V26H34V24Z\" fill=\"#54527B\"></path>\n<path d=\"M36 24H34V26H36V24Z\" fill=\"#402E55\"></path>\n<path d=\"M40 24H38V26H40V24Z\" fill=\"#402E55\"></path>\n<path d=\"M44 24H40V26H44V24Z\" fill=\"#170D25\"></path>\n<path d=\"M46 24H44V26H46V24Z\" fill=\"#402E55\"></path>\n<path d=\"M50 24H46V26H50V24Z\" fill=\"#170D25\"></path>\n<path d=\"M54 24H52V26H54V24Z\" fill=\"#140206\"></path>\n<path d=\"M28 26H24V28H28V26Z\" fill=\"#140206\"></path>\n<path d=\"M34 26H28V28H34V26Z\" fill=\"#F0F4FC\"></path>\n<path d=\"M38 26H34V30H38V26Z\" fill=\"#8E9CB6\"></path>\n<path d=\"M40 26H38V28H40V26Z\" fill=\"#F0F4FC\"></path>\n<path d=\"M44 26H40V28H44V26Z\" fill=\"#8E9CB6\"></path>\n<path d=\"M48 26H44V28H48V26Z\" fill=\"#170D25\"></path>\n<path d=\"M50 26H48V28H50V26Z\" fill=\"#402E55\"></path>\n<path d=\"M54 26H52V32H54V26Z\" fill=\"#170D25\"></path>\n<path d=\"M56 26H54V32H56V26Z\" fill=\"#140206\"></path>\n<path d=\"M24 28H22V30H24V28Z\" fill=\"#0B0612\"></path>\n<path d=\"M32 28H24V30H32V28Z\" fill=\"#F0F4FC\"></path>\n<path d=\"M34 28H32V34H34V28Z\" fill=\"#8E9CB6\"></path>\n<path d=\"M40 28H38V30H40V28Z\" fill=\"#8E9CB6\"></path>\n<path d=\"M42 28H40V32H42V28Z\" fill=\"#54527B\"></path>\n<path d=\"M44 28H42V30H44V28Z\" fill=\"#402E55\"></path>\n<path d=\"M46 28H44V32H46V28Z\" fill=\"#8E9CB6\"></path>\n<path d=\"M50 28H46V32H50V28Z\" fill=\"#170D25\"></path>\n<path d=\"M52 28H50V32H52V28Z\" fill=\"#402E55\"></path>\n<path d=\"M22 30H20V32H22V30Z\" fill=\"#0B0612\"></path>\n<path d=\"M26 30H22V32H26V30Z\" fill=\"#8E9CB6\"></path>\n<path d=\"M28 30H26V32H28V30Z\" fill=\"#F0F4FC\"></path>\n<path d=\"M32 30H28V34H32V30Z\" fill=\"#8E9CB6\"></path>\n<path d=\"M36 30H34V32H36V30Z\" fill=\"#8E9CB6\"></path>\n<path d=\"M40 30H36V32H40V30Z\" fill=\"#54527B\"></path>\n<path d=\"M44 30H42V34H44V30Z\" fill=\"#8E9CB6\"></path>\n<path d=\"M20 32H18V34H20V32Z\" fill=\"#140206\"></path>\n<path d=\"M24 32H20V34H24V32Z\" fill=\"#8E9CB6\"></path>\n<path d=\"M26 32H24V34H26V32Z\" fill=\"#F0F4FC\"></path>\n<path d=\"M28 32H26V36H28V32Z\" fill=\"#8E9CB6\"></path>\n<path d=\"M36 32H34V34H36V32Z\" fill=\"#54527B\"></path>\n<path d=\"M40 32H36V34H40V32Z\" fill=\"#170D25\"></path>\n<path d=\"M42 32H40V34H42V32Z\" fill=\"#402E55\"></path>\n<path d=\"M46 32H44V34H46V32Z\" fill=\"#170D25\"></path>\n<path d=\"M48 32H46V34H48V32Z\" fill=\"#402E55\"></path>\n<path d=\"M52 32H48V34H52V32Z\" fill=\"#170D25\"></path>\n<path d=\"M54 32H52V34H54V32Z\" fill=\"#140206\"></path>\n<path d=\"M18 34H16V36H18V34Z\" fill=\"#140206\"></path>\n<path d=\"M22 34H18V38H22V34Z\" fill=\"#54527B\"></path>\n<path d=\"M26 34H22V36H26V34Z\" fill=\"#8E9CB6\"></path>\n<path d=\"M34 34H28V36H34V34Z\" fill=\"#54527B\"></path>\n<path d=\"M36 34H34V36H36V34Z\" fill=\"#170D25\"></path>\n<path d=\"M40 34H36V36H40V34Z\" fill=\"#402E55\"></path>\n<path d=\"M42 34H40V36H42V34Z\" fill=\"#8E9CB6\"></path>\n<path d=\"M44 34H42V42H44V34Z\" fill=\"#170D25\"></path>\n<path d=\"M46 34H44V36H46V34Z\" fill=\"#402E55\"></path>\n<path d=\"M50 34H46V36H50V34Z\" fill=\"#170D25\"></path>\n<path d=\"M52 34H50V36H52V34Z\" fill=\"#140206\"></path>\n<path d=\"M16 36H12V38H16V36Z\" fill=\"#140206\"></path>\n<path d=\"M18 36H16V40H18V36Z\" fill=\"#54527B\"></path>\n<path d=\"M32 36H22V38H32V36Z\" fill=\"#54527B\"></path>\n<path d=\"M34 36H32V38H34V36Z\" fill=\"#170D25\"></path>\n<path d=\"M36 36H34V38H36V36Z\" fill=\"#402E55\"></path>\n<path d=\"M40 36H36V38H40V36Z\" fill=\"#8E9CB6\"></path>\n<path d=\"M42 36H40V44H42V36Z\" fill=\"#170D25\"></path>\n<path d=\"M48 36H44V38H48V36Z\" fill=\"#170D25\"></path>\n<path d=\"M50 36H48V38H50V36Z\" fill=\"#140206\"></path>\n<path d=\"M12 38H10V40H12V38Z\" fill=\"#140206\"></path>\n<path d=\"M16 38H12V40H16V38Z\" fill=\"#54527B\"></path>\n<path d=\"M20 38H18V44H20V38Z\" fill=\"#402E55\"></path>\n<path d=\"M28 38H20V40H28V38Z\" fill=\"#54527B\"></path>\n<path d=\"M30 38H28V40H30V38Z\" fill=\"#402E55\"></path>\n<path d=\"M32 38H30V40H32V38Z\" fill=\"#170D25\"></path>\n<path d=\"M34 38H32V42H34V38Z\" fill=\"#402E55\"></path>\n<path d=\"M36 38H34V40H36V38Z\" fill=\"#8E9CB6\"></path>\n<path d=\"M40 38H36V44H40V38Z\" fill=\"#170D25\"></path>\n<path d=\"M46 38H44V40H46V38Z\" fill=\"#170D25\"></path>\n<path d=\"M48 38H46V40H48V38Z\" fill=\"#140206\"></path>\n<path d=\"M10 40H8V42H10V40Z\" fill=\"#140206\"></path>\n<path d=\"M14 40H10V42H14V40Z\" fill=\"#54527B\"></path>\n<path d=\"M18 40H14V42H18V40Z\" fill=\"#402E55\"></path>\n<path d=\"M28 40H20V42H28V40Z\" fill=\"#402E55\"></path>\n<path d=\"M30 40H28V44H30V40Z\" fill=\"#170D25\"></path>\n<path d=\"M32 40H30V44H32V40Z\" fill=\"#402E55\"></path>\n<path d=\"M36 40H34V52H36V40Z\" fill=\"#170D25\"></path>\n<path d=\"M46 40H44V42H46V40Z\" fill=\"#140206\"></path>\n<path d=\"M8 42H6V44H8V42Z\" fill=\"#140206\"></path>\n<path d=\"M12 42H8V44H12V42Z\" fill=\"#54527B\"></path>\n<path d=\"M16 42H12V44H16V42Z\" fill=\"#170D25\"></path>\n<path d=\"M18 42H16V44H18V42Z\" fill=\"#402E55\"></path>\n<path d=\"M28 42H20V44H28V42Z\" fill=\"#170D25\"></path>\n<path d=\"M34 42H32V48H34V42Z\" fill=\"#170D25\"></path>\n<path d=\"M44 42H42V44H44V42Z\" fill=\"#140206\"></path>\n<path d=\"M6 44H2V46H6V44Z\" fill=\"#140206\"></path>\n<path d=\"M10 44H6V46H10V44Z\" fill=\"#54527B\"></path>\n<path d=\"M16 44H10V46H16V44Z\" fill=\"#402E55\"></path>\n<path d=\"M24 44H16V46H24V44Z\" fill=\"#170D25\"></path>\n<path d=\"M30 44H24V46H30V44Z\" fill=\"#402E55\"></path>\n<path d=\"M32 44H30V50H32V44Z\" fill=\"#170D25\"></path>\n<path d=\"M38 44H36V46H38V44Z\" fill=\"#170D25\"></path>\n<path d=\"M42 44H38V46H42V44Z\" fill=\"#140206\"></path>\n<path d=\"M2 46H0V48H2V46Z\" fill=\"#140206\"></path>\n<path d=\"M8 46H2V48H8V46Z\" fill=\"#54527B\"></path>\n<path d=\"M12 46H8V48H12V46Z\" fill=\"#402E55\"></path>\n<path d=\"M20 46H12V48H20V46Z\" fill=\"#170D25\"></path>\n<path d=\"M26 46H20V48H26V46Z\" fill=\"#402E55\"></path>\n<path d=\"M30 46H26V48H30V46Z\" fill=\"#170D25\"></path>\n<path d=\"M38 46H36V48H38V46Z\" fill=\"#140206\"></path>\n<path d=\"M10 48H2V50H10V48Z\" fill=\"#140206\"></path>\n<path d=\"M14 48H10V50H14V48Z\" fill=\"#170D25\"></path>\n<path d=\"M18 48H14V50H18V48Z\" fill=\"#402E55\"></path>\n<path d=\"M28 48H18V50H28V48Z\" fill=\"#170D25\"></path>\n<path d=\"M30 48H28V52H30V48Z\" fill=\"#402E55\"></path>\n<path d=\"M34 48H32V50H34V48Z\" fill=\"#140206\"></path>\n<path d=\"M8 50H6V52H8V50Z\" fill=\"#140206\"></path>\n<path d=\"M10 50H8V56H10V50Z\" fill=\"#170D25\"></path>\n<path d=\"M14 50H10V52H14V50Z\" fill=\"#402E55\"></path>\n<path d=\"M20 50H14V52H20V50Z\" fill=\"#170D25\"></path>\n<path d=\"M26 50H20V52H26V50Z\" fill=\"#140206\"></path>\n<path d=\"M28 50H26V52H28V50Z\" fill=\"#170D25\"></path>\n<path d=\"M6 52H4V54H6V52Z\" fill=\"#140206\"></path>\n<path d=\"M8 52H6V56H8V52Z\" fill=\"#54527B\"></path>\n<path d=\"M16 52H10V54H16V52Z\" fill=\"#170D25\"></path>\n<path d=\"M20 52H16V54H20V52Z\" fill=\"#140206\"></path>\n<path d=\"M30 52H28V54H30V52Z\" fill=\"#170D25\"></path>\n<path d=\"M38 52H36V54H38V52Z\" fill=\"#170D25\"></path>\n<path d=\"M40 52H38V54H40V52Z\" fill=\"#402E55\"></path>\n<path d=\"M4 54H2V56H4V54Z\" fill=\"#140206\"></path>\n<path d=\"M6 54H4V56H6V54Z\" fill=\"#54527B\"></path>\n<path d=\"M14 54H10V56H14V54Z\" fill=\"#170D25\"></path>\n<path d=\"M16 54H14V56H16V54Z\" fill=\"#140206\"></path>\n<path d=\"M32 54H30V56H32V54Z\" fill=\"#170D25\"></path>\n<path d=\"M34 54H32V56H34V54Z\" fill=\"#402E55\"></path>\n<path d=\"M42 54H38V56H42V54Z\" fill=\"#170D25\"></path>\n<path d=\"M44 54H42V56H44V54Z\" fill=\"#402E55\"></path>\n<path d=\"M2 56H0V58H2V56Z\" fill=\"#140206\"></path>\n<path d=\"M4 56H2V58H4V56Z\" fill=\"#54527B\"></path>\n<path d=\"M8 56H4V58H8V56Z\" fill=\"#170D25\"></path>\n<path d=\"M14 56H8V58H14V56Z\" fill=\"#140206\"></path>\n<path d=\"M36 56H32V58H36V56Z\" fill=\"#170D25\"></path>\n<path d=\"M38 56H36V58H38V56Z\" fill=\"#402E55\"></path>\n<path d=\"M42 56H40V58H42V56Z\" fill=\"#170D25\"></path>\n<path d=\"M46 56H44V58H46V56Z\" fill=\"#402E55\"></path>\n<path d=\"M8 58H2V60H8V58Z\" fill=\"#140206\"></path>\n<path d=\"M32 58H30V60H32V58Z\" fill=\"#170D25\"></path>\n<path d=\"M36 58H34V60H36V58Z\" fill=\"#170D25\"></path>\n<path d=\"M40 58H38V60H40V58Z\" fill=\"#402E55\"></path>\n</svg>",
+      "name": "svg-19"
+    },
+    {
+      "id": "15b6cc1b48404829",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" viewBox=\"0 0 12 12\" fill=\"none\" aria-hidden=\"true\"><g clip-path=\"url(#clip0_1176_4953)\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.635 7.645L8.624 4.6965C8.8195 4.5515 9.099 4.608 9.1925 4.8325C9.6825 6.017 9.4635 7.44 8.4875 8.417C7.512 9.394 6.154 9.608 4.913 9.12L3.5575 9.7485C5.502 11.079 7.863 10.75 9.3385 9.272C10.509 8.1 10.8715 6.5025 10.5325 5.062L10.5355 5.0655C10.044 2.9495 10.6565 2.1035 11.9105 0.374C11.9405 0.333 11.9705 0.292 12 0.25L10.3495 1.9025V1.8975L4.6335 7.646M3.8115 8.3615C2.4155 7.0265 2.6565 4.961 3.847 3.7695C4.7275 2.888 6.1705 2.528 7.43 3.057L8.7825 2.432C8.50138 2.22521 8.19381 2.05704 7.868 1.932C7.04889 1.59675 6.14894 1.5112 5.28134 1.68611C4.41374 1.86101 3.61723 2.28857 2.992 2.915C1.7255 4.183 1.327 6.133 2.011 7.797C2.522 9.0405 1.6845 9.92 0.841 10.808C0.5415 11.123 0.2415 11.4375 0 11.7705L3.81 8.363\" fill=\"currentColor\"></path></g><defs><clipPath id=\"clip0_1176_4953\"><rect width=\"12\" height=\"12\" fill=\"currentColor\"></rect></clipPath></defs></svg>",
+      "name": "svg-20"
+    },
+    {
+      "id": "b288a2071afa6c7d",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" viewBox=\"0 0 12 12\" fill=\"none\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.775 5.00202C10.8998 4.63186 10.9431 4.23907 10.9019 3.85061C10.8606 3.46214 10.7358 3.0872 10.536 2.75152C9.9275 1.70652 8.705 1.16852 7.511 1.42152C7.24655 1.12872 6.92309 0.895225 6.56192 0.736399C6.20075 0.577574 5.81004 0.497014 5.4155 0.50002C4.195 0.49752 3.112 1.27302 2.7365 2.41902C2.35053 2.49628 1.9854 2.65474 1.66533 2.88386C1.34526 3.11299 1.07756 3.40756 0.880004 3.74802C0.581394 4.25515 0.453773 4.84486 0.515986 5.43008C0.578199 6.0153 0.826949 6.565 1.2255 6.99802C1.10051 7.36822 1.05711 7.76108 1.09827 8.14964C1.13944 8.53819 1.26421 8.91323 1.464 9.24902C2.0725 10.294 3.295 10.8315 4.489 10.579C4.75337 10.8718 5.07675 11.1052 5.43784 11.2639C5.79894 11.4227 6.18957 11.5031 6.584 11.5C7.8055 11.503 8.889 10.727 9.2645 9.58002C9.65074 9.50277 10.0161 9.34423 10.3364 9.11492C10.6566 8.88561 10.9244 8.59078 11.122 8.25002C11.42 7.74292 11.5473 7.15347 11.4849 6.56859C11.4225 5.9837 11.1738 5.43434 10.7755 5.00152L10.775 5.00202ZM6.5845 10.781C6.0968 10.7822 5.6239 10.6135 5.247 10.304C5.264 10.295 5.2935 10.279 5.313 10.267L7.533 9.00202C7.58841 8.9711 7.63452 8.9259 7.66652 8.87111C7.69853 8.81633 7.71527 8.75397 7.715 8.69052V5.60252L8.6535 6.13702C8.6635 6.14202 8.67 6.15152 8.6715 6.16202V8.71952C8.67 9.85652 7.7365 10.7785 6.5845 10.781ZM2.096 8.89002C1.85132 8.4738 1.76303 7.98398 1.847 7.50852C1.863 7.51852 1.892 7.53602 1.9125 7.54752L4.1325 8.81252C4.245 8.87752 4.3845 8.87752 4.4975 8.81252L7.2075 7.26852V8.33752C7.20772 8.34301 7.20661 8.34847 7.20426 8.35343C7.20191 8.35839 7.19839 8.36271 7.194 8.36602L4.95 9.64402C3.9505 10.212 2.674 9.87402 2.0965 8.88902L2.096 8.89002ZM1.5115 4.10802C1.75715 3.68902 2.14199 3.36947 2.599 3.20502L2.598 3.28052V5.81052C2.5977 5.87404 2.61442 5.93649 2.64643 5.99136C2.67843 6.04623 2.72456 6.09152 2.78 6.12252L5.49 7.66602L4.552 8.20102C4.54736 8.204 4.54206 8.20578 4.53657 8.20622C4.53107 8.20665 4.52556 8.20573 4.5205 8.20352L2.276 6.92402C1.2785 6.35402 0.936504 5.09502 1.511 4.10902L1.5115 4.10802ZM9.22 5.87802L6.51 4.33402L7.448 3.80002C7.4526 3.79696 7.45788 3.79509 7.46338 3.79457C7.46887 3.79404 7.47441 3.79489 7.4795 3.79702L9.724 5.07552C10.723 5.64552 11.0655 6.90652 10.4885 7.89202C10.2426 8.31076 9.85813 8.63036 9.4015 8.79552V6.19002C9.40182 6.12662 9.38516 6.06429 9.35324 6.00952C9.32132 5.95474 9.27532 5.9095 9.22 5.87852V5.87802ZM10.1535 4.49152C10.1317 4.47824 10.1097 4.46524 10.0875 4.45252L7.8675 3.18752C7.81206 3.15563 7.74922 3.13884 7.68525 3.13884C7.62129 3.13884 7.55845 3.15563 7.503 3.18752L4.793 4.73152V3.66252C4.79279 3.65703 4.7939 3.65157 4.79625 3.64661C4.7986 3.64165 4.80212 3.63733 4.8065 3.63402L7.05 2.35652C8.05 1.78802 9.3275 2.12652 9.9035 3.11302C10.147 3.52952 10.236 4.01752 10.1535 4.49152ZM4.283 6.39652L3.3445 5.86252C3.33961 5.86012 3.33539 5.85653 3.33224 5.85207C3.3291 5.84762 3.32712 5.84244 3.3265 5.83702V3.27952C3.327 2.14102 4.263 1.21852 5.417 1.21952C5.905 1.21952 6.377 1.38852 6.7525 1.69652C6.7355 1.70552 6.7065 1.72152 6.687 1.73302L4.467 2.99802C4.41151 3.02887 4.3653 3.07405 4.3332 3.12884C4.3011 3.18363 4.28429 3.24602 4.2845 3.30952L4.283 6.39602V6.39652ZM4.793 5.31252L6 4.62502L7.207 5.31252V6.68752L6 7.37502L4.7925 6.68752V5.31252H4.793Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-21"
+    },
+    {
+      "id": "afb07751e9f32a9c",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" viewBox=\"0 0 12 12\" fill=\"none\" aria-hidden=\"true\"><g clip-path=\"url(#clip0_1176_4962)\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.8925 0V3.636H11.25V8.81H9.7825V12L6.264 8.903V11.9755H5.7185V8.8995L2.196 12V8.7675H0.75V3.594H2.192V0L5.7185 3.247V0.095H6.2635V3.34L9.8925 0ZM6.264 4.522V8.1815L9.237 10.7985V7.22L6.264 4.522ZM5.7145 4.482L2.7415 7.181V10.7985L5.7145 8.1815V4.4825V4.482ZM9.7825 8.272H10.7045V4.1745H6.73L9.7825 6.9445V8.272ZM5.2915 4.132H1.295V8.2295H2.195V6.9415L5.291 4.1315L5.2915 4.132ZM2.7375 1.238V3.593H5.295L2.7375 1.238ZM9.347 1.238L6.7895 3.593H9.347V1.238Z\" fill=\"currentColor\"></path></g><defs><clipPath id=\"clip0_1176_4962\"><rect width=\"12\" height=\"12\" fill=\"currentColor\"></rect></clipPath></defs></svg>",
+      "name": "svg-22"
+    },
+    {
+      "id": "09cc04cb795722e1",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" viewBox=\"0 0 12 12\" fill=\"none\" aria-hidden=\"true\"><g clip-path=\"url(#clip0_1176_4965)\"><path d=\"M2.34525 7.953L4.6965 6.633L4.73625 6.51825L4.6965 6.4545H4.5825L4.18875 6.4305L2.8455 6.3945L1.68 6.34575L0.55125 6.28575L0.26625 6.225L0 5.874L0.027 5.6985L0.267 5.538L0.60825 5.568L1.365 5.61975L2.49975 5.6985L3.3225 5.7465L4.542 5.874H4.73625L4.76325 5.79525L4.6965 5.7465L4.6455 5.6985L3.471 4.902L2.19975 4.06125L1.5345 3.57675L1.1745 3.3315L0.99225 3.102L0.91425 2.5995L1.2405 2.2395L1.67925 2.2695L1.79175 2.2995L2.2365 2.6415L3.18675 3.37725L4.42725 4.29075L4.60875 4.44225L4.6815 4.39125L4.6905 4.3545L4.60875 4.21875L3.93375 2.99925L3.21375 1.758L2.89275 1.2435L2.808 0.93525C2.77622 0.81679 2.7591 0.69488 2.757 0.57225L3.129 0.06675L3.3345 0L3.831 0.06675L4.04025 0.24825L4.3485 0.95325L4.848 2.06325L5.62275 3.57375L5.84925 4.0215L5.97075 4.43625L6.01575 4.56375H6.0945V4.491L6.15825 3.6405L6.276 2.5965L6.3915 1.2525L6.4305 0.8745L6.618 0.42075L6.99075 0.1755L7.281 0.315L7.52025 0.657L7.4865 0.8775L7.344 1.8L7.0665 3.2475L6.88425 4.215H6.99075L7.1115 4.095L7.602 3.444L8.42475 2.415L8.78775 2.00625L9.2115 1.5555L9.48375 1.34025H9.99825L10.377 1.9035L10.2075 2.48475L9.67725 3.156L9.2385 3.72525L8.60925 4.57275L8.21625 5.25075L8.25225 5.30475L8.346 5.29575L9.76875 4.9935L10.5367 4.854L11.454 4.6965L11.8687 4.89L11.9137 5.08725L11.7502 5.48925L10.77 5.7315L9.62025 5.96175L7.90725 6.36675L7.88625 6.38175L7.91025 6.41175L8.682 6.48525L9.012 6.50325H9.81975L11.3235 6.61575L11.7172 6.87525L11.9535 7.19325L11.9137 7.4355L11.3085 7.74375L8.58525 7.0965L7.93125 6.933H7.84125V6.98775L8.38575 7.52025L9.384 8.42175L10.6342 9.58425L10.6972 9.8715L10.5367 10.098L10.3673 10.074L9.26925 9.24825L8.8455 8.8755L7.8855 8.06775H7.8225V8.1525L8.04375 8.4765L9.2115 10.2315L9.2715 10.77L9.1875 10.9455L8.8845 11.0512L8.5515 10.9913L7.86825 10.0312L7.16325 8.95125L6.594 7.983L6.52425 8.02275L6.18825 11.6385L6.03075 11.823L5.66775 11.9625L5.3655 11.7323L5.205 11.3603L5.3655 10.6252L5.559 9.66525L5.7165 8.90325L5.859 7.956L5.943 7.641L5.937 7.62L5.868 7.629L5.15325 8.60925L4.06725 10.077L3.20775 10.9972L3.00225 11.079L2.6445 10.8937L2.67825 10.5638L2.87775 10.2712L4.06725 8.75775L4.78425 7.82025L5.247 7.278L5.244 7.19925H5.217L2.058 9.25125L1.4955 9.32325L1.2525 9.09675L1.2825 8.72475L1.398 8.60325L2.34825 7.95L2.34525 7.953Z\" fill=\"currentColor\"></path></g><defs><clipPath id=\"clip0_1176_4965\"><rect width=\"12\" height=\"12\" fill=\"currentColor\"></rect></clipPath></defs></svg>",
+      "name": "svg-23"
+    },
+    {
+      "id": "28dc5581c36ff67e",
+      "markup": "<svg style=\"position: absolute; width: 0; height: 0; overflow: hidden;\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n        <defs>\n            <symbol id=\"icon-close-carousel\" viewBox=\"0 0 32 32\">\n                <path fill=\"#ffffff\" style=\"fill: var(--color1, #ffffff)\" d=\"M28.992 0l-12.992 12.992-12.992-12.992-3.008 3.008 12.992 12.992-12.992 12.992 3.008 3.008 12.992-12.992 12.992 12.992 3.008-3.008-12.992-12.992 12.992-12.992-3.008-3.008z\"></path>\n            </symbol>\n        </defs>\n    </svg>",
+      "name": "svg-24"
+    }
+  ],
+  "pageUrl": "https://www.tavus.io/",
+  "summary": {
+    "byKind": {
+      "font": 5,
+      "image": 68,
+      "other": 46,
+      "script": 88,
+      "stylesheet": 6,
+      "video": 2
+    },
+    "inlineSvgCount": 24,
+    "totalCount": 215
+  }
+}

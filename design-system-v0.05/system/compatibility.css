@@ -1,0 +1,14 @@
+/* Bridge for existing v0.05 consumers. Canonical values live in tokens/tokens.json. */
+@import url('../integration/ui-templates/typography.css');
+@import url('./tokens/tokens.css');
+:root{
+ --ink:var(--gmd-color-ink);--paper:var(--gmd-color-paper);--warm:var(--gmd-color-warm);--surface:var(--gmd-color-surface);
+ --nile:var(--gmd-color-nile);--pink:var(--gmd-color-pink);--muted:var(--gmd-color-text-muted);--sand:var(--gmd-ref-color-sand-300);--charcoal:var(--gmd-ref-color-charcoal);
+ --text-primary:var(--gmd-color-text);--text-secondary:var(--gmd-color-text-muted);--text-muted:var(--gmd-color-text-muted);--text-inverse:var(--gmd-color-text-inverse);
+ --canvas:var(--gmd-color-canvas);--surface-raised:var(--gmd-color-surface-raised);--surface-subtle:var(--gmd-color-surface-subtle);--border:var(--gmd-color-border);--border-subtle:var(--gmd-color-border-subtle);
+ --action:var(--gmd-color-action);--action-link:var(--gmd-color-primary);--selection:var(--gmd-color-selection);--focus:var(--gmd-color-focus);
+ --success:var(--gmd-color-success);--success-surface:var(--gmd-color-success-surface);--warning:var(--gmd-color-warning);--warning-surface:var(--gmd-color-warning-surface);--error:var(--gmd-color-error);--error-surface:var(--gmd-color-error-surface);
+ --font-display:var(--gmd-type-display);--font-body:var(--gmd-type-ui);--font-label:var(--gmd-type-ui);--font-ar-display:var(--gmd-type-ar-heading);--font-ar-body:var(--gmd-type-ar-body);--font-ar-heading:var(--gmd-type-ar-heading);
+ --radius:0px;--shadow:var(--gmd-component-button-depth);--shadow-hover:var(--gmd-depth-hover);
+}
+

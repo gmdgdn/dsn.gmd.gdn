@@ -1,0 +1,741 @@
+{
+  "title": "Egypt design inspiration asset inventory",
+  "sourceRoot": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics",
+  "assetCount": 37,
+  "sourceFilesModified": false,
+  "contactSheets": [
+    {
+      "path": "contact-sheets/contact-sheet-01.png",
+      "ids": [
+        "EG-001",
+        "EG-002",
+        "EG-003",
+        "EG-004",
+        "EG-005",
+        "EG-006",
+        "EG-007",
+        "EG-008",
+        "EG-009",
+        "EG-010",
+        "EG-011",
+        "EG-012"
+      ],
+      "width": 1524,
+      "height": 1722
+    },
+    {
+      "path": "contact-sheets/contact-sheet-02.png",
+      "ids": [
+        "EG-013",
+        "EG-014",
+        "EG-015",
+        "EG-016",
+        "EG-017",
+        "EG-018",
+        "EG-019",
+        "EG-020",
+        "EG-021",
+        "EG-022",
+        "EG-023",
+        "EG-024"
+      ],
+      "width": 1524,
+      "height": 1722
+    },
+    {
+      "path": "contact-sheets/contact-sheet-03.png",
+      "ids": [
+        "EG-025",
+        "EG-026",
+        "EG-027",
+        "EG-028",
+        "EG-029",
+        "EG-030",
+        "EG-031",
+        "EG-032",
+        "EG-033",
+        "EG-034",
+        "EG-035",
+        "EG-036"
+      ],
+      "width": 1524,
+      "height": 1722
+    },
+    {
+      "path": "contact-sheets/contact-sheet-04.png",
+      "ids": [
+        "EG-037"
+      ],
+      "width": 1524,
+      "height": 498
+    }
+  ],
+  "assets": [
+    {
+      "id": "EG-001",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\EEGYPT Aziz & Dorés in Alexandria Kids Fashion Vintage Print c.1908 - back wow.png",
+      "originalFilename": "EEGYPT Aziz & Dorés in Alexandria Kids Fashion Vintage Print c.1908 - back wow.png",
+      "sourceGroup": "graphics",
+      "extension": ".png",
+      "bytes": 2828209,
+      "dimensions": {
+        "width": 826,
+        "height": 1600
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 826,
+        "height": 1600
+      },
+      "sha256": "9e04d0c7e72c0a6b4486cfc8c35a9b87f5a580aed5d7a2d3dc3eb6407a05843b",
+      "reviewCopy": "assets/EG-001.png"
+    },
+    {
+      "id": "EG-002",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\EGYPT 1971 FDC FIRST DAY COVER OPERA OF AIDA.jpg",
+      "originalFilename": "EGYPT 1971 FDC FIRST DAY COVER OPERA OF AIDA.jpg",
+      "sourceGroup": "graphics",
+      "extension": ".jpg",
+      "bytes": 221406,
+      "dimensions": {
+        "width": 1600,
+        "height": 1138
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1600,
+        "height": 1138
+      },
+      "sha256": "aea64e1a6324d07a578ccb10fc156260cdcbb9a69eb293cd5c80a6123ea6431b",
+      "reviewCopy": "assets/EG-002.jpg"
+    },
+    {
+      "id": "EG-003",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\EGYPT CAIRO TOURISM BROCHURE .,,., 2.webp",
+      "originalFilename": "EGYPT CAIRO TOURISM BROCHURE .,,., 2.webp",
+      "sourceGroup": "graphics",
+      "extension": ".webp",
+      "bytes": 413008,
+      "dimensions": {
+        "width": 1600,
+        "height": 1142
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1600,
+        "height": 1142
+      },
+      "sha256": "431c565db77f02d6d89153da2e1cfe5bc113c1b855b26f79fa2dc37a0a14e795",
+      "reviewCopy": "assets/EG-003.webp"
+    },
+    {
+      "id": "EG-004",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\Egypt DIFFERENT Islamic RAMADAN Calendar 1375 3 wow.jpg",
+      "originalFilename": "Egypt DIFFERENT Islamic RAMADAN Calendar 1375 3 wow.jpg",
+      "sourceGroup": "graphics",
+      "extension": ".jpg",
+      "bytes": 310509,
+      "dimensions": {
+        "width": 1120,
+        "height": 1384
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1120,
+        "height": 1384
+      },
+      "sha256": "fb9d7d0334fa9904cf6e488e06a0e151ed0b5cf482c3f046d1abfe094096de1c",
+      "reviewCopy": "assets/EG-004.jpg"
+    },
+    {
+      "id": "EG-005",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\EGYPT EGITTO TOURISM BROCHURE WITH MAP.webp",
+      "originalFilename": "EGYPT EGITTO TOURISM BROCHURE WITH MAP.webp",
+      "sourceGroup": "graphics",
+      "extension": ".webp",
+      "bytes": 175396,
+      "dimensions": {
+        "width": 664,
+        "height": 1600
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 664,
+        "height": 1600
+      },
+      "sha256": "d72efcc2cef92f6909ee22c5d2fcadb2f87090829ec7246d34face7fbac0ac14",
+      "reviewCopy": "assets/EG-005.webp"
+    },
+    {
+      "id": "EG-006",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\Egypt Fouad I Secondary School Magazine 1934.webp",
+      "originalFilename": "Egypt Fouad I Secondary School Magazine 1934.webp",
+      "sourceGroup": "graphics",
+      "extension": ".webp",
+      "bytes": 240458,
+      "dimensions": {
+        "width": 1198,
+        "height": 1600
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1198,
+        "height": 1600
+      },
+      "sha256": "88b494a793b5ef46ce14f8ace647297354d4d8c9b45df986604c3e05afebe164",
+      "reviewCopy": "assets/EG-006.webp"
+    },
+    {
+      "id": "EG-007",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\EGYPT old Rare Advertising Brochure Medical Preparations Co. Cairo 1950s.webp",
+      "originalFilename": "EGYPT old Rare Advertising Brochure Medical Preparations Co. Cairo 1950s.webp",
+      "sourceGroup": "graphics",
+      "extension": ".webp",
+      "bytes": 116638,
+      "dimensions": {
+        "width": 1600,
+        "height": 1198
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1600,
+        "height": 1198
+      },
+      "sha256": "7c89f2961914ee19ccc57fd23a2e26b451e1e2fcdb332d7d0c3584bb44923595",
+      "reviewCopy": "assets/EG-007.webp"
+    },
+    {
+      "id": "EG-008",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\EGYPT THE HOLY FAMILY IN EGYPT ADVERTISING TOURISM BROCHURE WITH MAP.webp",
+      "originalFilename": "EGYPT THE HOLY FAMILY IN EGYPT ADVERTISING TOURISM BROCHURE WITH MAP.webp",
+      "sourceGroup": "graphics",
+      "extension": ".webp",
+      "bytes": 291996,
+      "dimensions": {
+        "width": 812,
+        "height": 1600
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 812,
+        "height": 1600
+      },
+      "sha256": "dea96407621011c2639931612efea828c009ab46def19a1089ff4eb0c60f93a4",
+      "reviewCopy": "assets/EG-008.webp"
+    },
+    {
+      "id": "EG-009",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\EGYPT UAR HOTELS ON EGYPT Brochure .. 2.webp",
+      "originalFilename": "EGYPT UAR HOTELS ON EGYPT Brochure .. 2.webp",
+      "sourceGroup": "graphics",
+      "extension": ".webp",
+      "bytes": 257484,
+      "dimensions": {
+        "width": 827,
+        "height": 1600
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 827,
+        "height": 1600
+      },
+      "sha256": "37fb22730a26f775c7ef531831e70dc01b14a8142b8db33936e8fa06f2577a20",
+      "reviewCopy": "assets/EG-009.webp"
+    },
+    {
+      "id": "EG-010",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\Egypt Vintage Brochure Fayoum.webp",
+      "originalFilename": "Egypt Vintage Brochure Fayoum.webp",
+      "sourceGroup": "graphics",
+      "extension": ".webp",
+      "bytes": 427340,
+      "dimensions": {
+        "width": 1510,
+        "height": 1600
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1510,
+        "height": 1600
+      },
+      "sha256": "a7672cb48529bc6c0d7ea4b70feae7a880f7cc97f45ece9225370f0b79c378e3",
+      "reviewCopy": "assets/EG-010.webp"
+    },
+    {
+      "id": "EG-011",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\First Day Letter FDC EGYPT - Campaign for Museums (October 15, 1956.jpg",
+      "originalFilename": "First Day Letter FDC EGYPT - Campaign for Museums (October 15, 1956.jpg",
+      "sourceGroup": "graphics",
+      "extension": ".jpg",
+      "bytes": 263370,
+      "dimensions": {
+        "width": 1600,
+        "height": 956
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1600,
+        "height": 956
+      },
+      "sha256": "b1210b71bbd9e372a9f3e3b087bc21afc71e5a315a5d5db9d19eef4d7e026057",
+      "reviewCopy": "assets/EG-011.jpg"
+    },
+    {
+      "id": "EG-012",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\Groppi Le Caire Egypt Tourist Map Vintage 1962 Travel Brochure Swissair Ad.webp",
+      "originalFilename": "Groppi Le Caire Egypt Tourist Map Vintage 1962 Travel Brochure Swissair Ad.webp",
+      "sourceGroup": "graphics",
+      "extension": ".webp",
+      "bytes": 148972,
+      "dimensions": {
+        "width": 1069,
+        "height": 1496
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1069,
+        "height": 1496
+      },
+      "sha256": "6fc64a8de0043e914ecb3643a15c159f3e16c2e8f76e4a7554f18b933a9002c0",
+      "reviewCopy": "assets/EG-012.webp"
+    },
+    {
+      "id": "EG-013",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\Laila Bint Al Sahraa movie brochure on the occasion of the centenary of the Egyp.webp",
+      "originalFilename": "Laila Bint Al Sahraa movie brochure on the occasion of the centenary of the Egyp.webp",
+      "sourceGroup": "graphics",
+      "extension": ".webp",
+      "bytes": 198502,
+      "dimensions": {
+        "width": 1003,
+        "height": 1348
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1003,
+        "height": 1348
+      },
+      "sha256": "8f363501ab36917d966ca748ca5b636f417f156071a3cdf70ebbb576ad1b22fe",
+      "reviewCopy": "assets/EG-013.webp"
+    },
+    {
+      "id": "EG-014",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\Queen Cleopatra of Egypt Caricature Game Card wow.jpg",
+      "originalFilename": "Queen Cleopatra of Egypt Caricature Game Card wow.jpg",
+      "sourceGroup": "graphics",
+      "extension": ".jpg",
+      "bytes": 475890,
+      "dimensions": {
+        "width": 1069,
+        "height": 1519
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1069,
+        "height": 1519
+      },
+      "sha256": "804904fc825ed47a928f7e9778473765e66ff0b8ae54db5fe8323e30889503bc",
+      "reviewCopy": "assets/EG-014.jpg"
+    },
+    {
+      "id": "EG-015",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\Screenshot_6.png",
+      "originalFilename": "Screenshot_6.png",
+      "sourceGroup": "graphics",
+      "extension": ".png",
+      "bytes": 406232,
+      "dimensions": {
+        "width": 411,
+        "height": 676
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 411,
+        "height": 676
+      },
+      "sha256": "a3c17ecb542af734e3ad10770079b7365d5b26763035d779016bb42d0f601920",
+      "reviewCopy": "assets/EG-015.png"
+    },
+    {
+      "id": "EG-016",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\Tower Of Cairo Egypt UAR Prices Vintage 1960s Travel Brochure Tourist Tourism.webp",
+      "originalFilename": "Tower Of Cairo Egypt UAR Prices Vintage 1960s Travel Brochure Tourist Tourism.webp",
+      "sourceGroup": "graphics",
+      "extension": ".webp",
+      "bytes": 142818,
+      "dimensions": {
+        "width": 960,
+        "height": 1545
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 960,
+        "height": 1545
+      },
+      "sha256": "6d977dfe53bc5443c7006dda96500a7770f782575b359434daee84c53359b2b2",
+      "reviewCopy": "assets/EG-016.webp"
+    },
+    {
+      "id": "EG-017",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\Vintage Higbees Cleveland OH Magical Mystery Tour Travel Brochure Egypt.webp",
+      "originalFilename": "Vintage Higbees Cleveland OH Magical Mystery Tour Travel Brochure Egypt.webp",
+      "sourceGroup": "graphics",
+      "extension": ".webp",
+      "bytes": 161644,
+      "dimensions": {
+        "width": 848,
+        "height": 1600
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 848,
+        "height": 1600
+      },
+      "sha256": "6e77c3812f4dd176986c79ff9611a74684f8e03c8cde6a1d6fdcba3ff5c32500",
+      "reviewCopy": "assets/EG-017.webp"
+    },
+    {
+      "id": "EG-018",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\Vintage Islamic Islam الخط الإسلامي Muslim Calligraphy Card Poster 1385 - 1963.jpg",
+      "originalFilename": "Vintage Islamic Islam الخط الإسلامي Muslim Calligraphy Card Poster 1385 - 1963.jpg",
+      "sourceGroup": "graphics",
+      "extension": ".jpg",
+      "bytes": 371562,
+      "dimensions": {
+        "width": 1600,
+        "height": 1200
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1600,
+        "height": 1200
+      },
+      "sha256": "75e4810a407a75f146998fae98993c74b18bc298f0b23b834b968d7ddea12658",
+      "reviewCopy": "assets/EG-018.jpg"
+    },
+    {
+      "id": "EG-019",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\Who wants To See Egypt When There is This Posted Divided Back Vintage Postcard wow design 2.jpg",
+      "originalFilename": "Who wants To See Egypt When There is This Posted Divided Back Vintage Postcard wow design 2.jpg",
+      "sourceGroup": "graphics",
+      "extension": ".jpg",
+      "bytes": 351001,
+      "dimensions": {
+        "width": 1600,
+        "height": 1200
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1600,
+        "height": 1200
+      },
+      "sha256": "baa09386bde5551b9bb7a795015c9d5584c4a6e5dd7c514ca23f456c8bc26ff5",
+      "reviewCopy": "assets/EG-019.jpg"
+    },
+    {
+      "id": "EG-020",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\جمال عبد الناصر Gamal Abdel Nasser E Lebanese Political Arabic Poster 60s.jpg",
+      "originalFilename": "جمال عبد الناصر Gamal Abdel Nasser E Lebanese Political Arabic Poster 60s.jpg",
+      "sourceGroup": "graphics",
+      "extension": ".jpg",
+      "bytes": 389397,
+      "dimensions": {
+        "width": 1200,
+        "height": 1600
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1200,
+        "height": 1600
+      },
+      "sha256": "eee2634735802468d42d6911311c1970e34b20c6240becdfd604cbd5788e8d96",
+      "reviewCopy": "assets/EG-020.jpg"
+    },
+    {
+      "id": "EG-021",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\جمال عبد الناصر Gamal Abdel Nasser G Lebanese Political Arabic Poster 60s.jpg",
+      "originalFilename": "جمال عبد الناصر Gamal Abdel Nasser G Lebanese Political Arabic Poster 60s.jpg",
+      "sourceGroup": "graphics",
+      "extension": ".jpg",
+      "bytes": 368438,
+      "dimensions": {
+        "width": 1200,
+        "height": 1600
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1200,
+        "height": 1600
+      },
+      "sha256": "988e62e98e195502ad8201f3c1778d4ded0142213de09b2dd57df6c9ebd38209",
+      "reviewCopy": "assets/EG-021.jpg"
+    },
+    {
+      "id": "EG-022",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\مجلة الحرب العظمى, العرب Arabic Lebanese #6 Magazine 1939 design wow.jpg",
+      "originalFilename": "مجلة الحرب العظمى, العرب Arabic Lebanese #6 Magazine 1939 design wow.jpg",
+      "sourceGroup": "graphics",
+      "extension": ".jpg",
+      "bytes": 525952,
+      "dimensions": {
+        "width": 1200,
+        "height": 1600
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1200,
+        "height": 1600
+      },
+      "sha256": "2eadbe5b150df4309301990641854b8813d4fa81fd18f381d066747fbd36d643",
+      "reviewCopy": "assets/EG-022.jpg"
+    },
+    {
+      "id": "EG-023",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\images\\1939 Grant Wood Shriners' Quartet Egypt Masonic Art Print Treasury Collection wow.jpg",
+      "originalFilename": "1939 Grant Wood Shriners' Quartet Egypt Masonic Art Print Treasury Collection wow.jpg",
+      "sourceGroup": "images",
+      "extension": ".jpg",
+      "bytes": 422158,
+      "dimensions": {
+        "width": 1546,
+        "height": 1600
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1546,
+        "height": 1600
+      },
+      "sha256": "377b1276f21af3e44d512e609d4e9b9c9ef62017e2bf87462c1220f525ff480f",
+      "reviewCopy": "assets/EG-023.jpg"
+    },
+    {
+      "id": "EG-024",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\images\\Africa Egypt Arab Beauty Egyptian Girl original early 1910s REISER real photo wow.png",
+      "originalFilename": "Africa Egypt Arab Beauty Egyptian Girl original early 1910s REISER real photo wow.png",
+      "sourceGroup": "images",
+      "extension": ".png",
+      "bytes": 1426728,
+      "dimensions": {
+        "width": 712,
+        "height": 1097
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 712,
+        "height": 1097
+      },
+      "sha256": "8fc15adfc0eefd40358ba0c45c93f58a1656e480d801504ec421deca97426732",
+      "reviewCopy": "assets/EG-024.png"
+    },
+    {
+      "id": "EG-025",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\images\\DP138837.jpg",
+      "originalFilename": "DP138837.jpg",
+      "sourceGroup": "images",
+      "extension": ".jpg",
+      "bytes": 2204905,
+      "dimensions": {
+        "width": 3077,
+        "height": 3852
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 3077,
+        "height": 3852
+      },
+      "sha256": "2506c545e24bfedbddf6105900ad80895be20037a6d05d6c0d92de69ece8b375",
+      "reviewCopy": "assets/EG-025.jpg"
+    },
+    {
+      "id": "EG-026",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\images\\EGYPT OLD VINTAGE PHOTO . The whole family on the balcony of the house wow.jpg",
+      "originalFilename": "EGYPT OLD VINTAGE PHOTO . The whole family on the balcony of the house wow.jpg",
+      "sourceGroup": "images",
+      "extension": ".jpg",
+      "bytes": 256842,
+      "dimensions": {
+        "width": 1600,
+        "height": 1007
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1600,
+        "height": 1007
+      },
+      "sha256": "c6b7185e731967b53c91627a0335ad83eba9c93fa2035c0be142a3e0e57c3344",
+      "reviewCopy": "assets/EG-026.jpg"
+    },
+    {
+      "id": "EG-027",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\images\\Egypt TV Studio Actress 1988 A1942 A19 Original Photo wow.jpg",
+      "originalFilename": "Egypt TV Studio Actress 1988 A1942 A19 Original Photo wow.jpg",
+      "sourceGroup": "images",
+      "extension": ".jpg",
+      "bytes": 386149,
+      "dimensions": {
+        "width": 1522,
+        "height": 1600
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1522,
+        "height": 1600
+      },
+      "sha256": "8c3178fd4b5e2006782ea19a74013640c23229d63f3494102177e47c2bc5dd7b",
+      "reviewCopy": "assets/EG-027.jpg"
+    },
+    {
+      "id": "EG-028",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\images\\EGYPT VINTAGE PHOTO - Boxing team with cup and shield wow.jpg",
+      "originalFilename": "EGYPT VINTAGE PHOTO - Boxing team with cup and shield wow.jpg",
+      "sourceGroup": "images",
+      "extension": ".jpg",
+      "bytes": 249982,
+      "dimensions": {
+        "width": 1600,
+        "height": 1020
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1600,
+        "height": 1020
+      },
+      "sha256": "c4f8b4bce720c98e89caac7b8d3a19ef12097d0c9e81d9970fd7783d139e1a02",
+      "reviewCopy": "assets/EG-028.jpg"
+    },
+    {
+      "id": "EG-029",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\images\\EGYPT VINTAGE PHOTO - CUTE CURVE LADY . 1910 S design wow.jpg",
+      "originalFilename": "EGYPT VINTAGE PHOTO - CUTE CURVE LADY . 1910 S design wow.jpg",
+      "sourceGroup": "images",
+      "extension": ".jpg",
+      "bytes": 233918,
+      "dimensions": {
+        "width": 1316,
+        "height": 1600
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1316,
+        "height": 1600
+      },
+      "sha256": "c742a250acd22a03445c52236aa1cb67be29c6db54571871038795c9158660a3",
+      "reviewCopy": "assets/EG-029.jpg"
+    },
+    {
+      "id": "EG-030",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\images\\EGYPT VINTAGE PHOTO - Egyptian players in the Amsterdam Olympics 1928 - A1 wow.jpg",
+      "originalFilename": "EGYPT VINTAGE PHOTO - Egyptian players in the Amsterdam Olympics 1928 - A1 wow.jpg",
+      "sourceGroup": "images",
+      "extension": ".jpg",
+      "bytes": 282571,
+      "dimensions": {
+        "width": 1211,
+        "height": 1600
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1211,
+        "height": 1600
+      },
+      "sha256": "69d1698c5778b36ab7fa53e6048ae2cd6ea94d72182f6a06c29b66abef9c3aae",
+      "reviewCopy": "assets/EG-030.jpg"
+    },
+    {
+      "id": "EG-031",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\images\\EGYPT VINTAGE PHOTO - Sexy lady smoking hookah with her husband wow.webp",
+      "originalFilename": "EGYPT VINTAGE PHOTO - Sexy lady smoking hookah with her husband wow.webp",
+      "sourceGroup": "images",
+      "extension": ".webp",
+      "bytes": 100922,
+      "dimensions": {
+        "width": 1599,
+        "height": 1139
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1599,
+        "height": 1139
+      },
+      "sha256": "8bb9399865642dfe71b74ae9f2bd694d38c8af1fe9d08f6b2bffc7e067fe622a",
+      "reviewCopy": "assets/EG-031.webp"
+    },
+    {
+      "id": "EG-032",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\images\\EGYPT VINTAGE PHOTO . Painter with his drawing Mustafa Kamel and Saad Zaghloul wow.jpg",
+      "originalFilename": "EGYPT VINTAGE PHOTO . Painter with his drawing Mustafa Kamel and Saad Zaghloul wow.jpg",
+      "sourceGroup": "images",
+      "extension": ".jpg",
+      "bytes": 209630,
+      "dimensions": {
+        "width": 1016,
+        "height": 1580
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1016,
+        "height": 1580
+      },
+      "sha256": "bbed2650c394ed7b25be630feee059639a6c9b5f736b20fc87a416439f591fb6",
+      "reviewCopy": "assets/EG-032.jpg"
+    },
+    {
+      "id": "EG-033",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\images\\EGYPT VINTAGE PHOTO . The mummy of King Ramesses II -- wow.jpg",
+      "originalFilename": "EGYPT VINTAGE PHOTO . The mummy of King Ramesses II -- wow.jpg",
+      "sourceGroup": "images",
+      "extension": ".jpg",
+      "bytes": 163536,
+      "dimensions": {
+        "width": 1173,
+        "height": 1600
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1173,
+        "height": 1600
+      },
+      "sha256": "39568418cbb6438e6cedbc11d9d08a9efef52dc2ea4fb41f42f22c788ba5e79c",
+      "reviewCopy": "assets/EG-033.jpg"
+    },
+    {
+      "id": "EG-034",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\images\\EGYPT VINTAGE PHOTO. Women's Union Workshop at the Industrial Exhibition 1931 wow.webp",
+      "originalFilename": "EGYPT VINTAGE PHOTO. Women's Union Workshop at the Industrial Exhibition 1931 wow.webp",
+      "sourceGroup": "images",
+      "extension": ".webp",
+      "bytes": 189814,
+      "dimensions": {
+        "width": 1600,
+        "height": 1169
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1600,
+        "height": 1169
+      },
+      "sha256": "8040388a30924293171c6f03ad0d140bf5a8eb5abf589eca19e285cf6acfc277",
+      "reviewCopy": "assets/EG-034.webp"
+    },
+    {
+      "id": "EG-035",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\images\\Egypt, Biskra, Arab Orchestra Vintage Albumen Print. Albumen Print 20- wow.webp",
+      "originalFilename": "Egypt, Biskra, Arab Orchestra Vintage Albumen Print. Albumen Print 20- wow.webp",
+      "sourceGroup": "images",
+      "extension": ".webp",
+      "bytes": 155038,
+      "dimensions": {
+        "width": 820,
+        "height": 959
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 820,
+        "height": 959
+      },
+      "sha256": "8579817025ff73551daff59b9bbda3b54e82329c0f735f9188a783ecb5883a0b",
+      "reviewCopy": "assets/EG-035.webp"
+    },
+    {
+      "id": "EG-036",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\images\\Egypt, Cairo, citadel vintage silver print drawing silver 8x10- wow.png",
+      "originalFilename": "Egypt, Cairo, citadel vintage silver print drawing silver 8x10- wow.png",
+      "sourceGroup": "images",
+      "extension": ".png",
+      "bytes": 2019784,
+      "dimensions": {
+        "width": 1050,
+        "height": 1319
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 1050,
+        "height": 1319
+      },
+      "sha256": "02087533ca8070d9d15f69c400adc933078a8ce3a0b7de9334e026b32219f256",
+      "reviewCopy": "assets/EG-036.png"
+    },
+    {
+      "id": "EG-037",
+      "originalPath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\images\\Egypt, girl and laborers picking cotton in Cairo wow.jpg",
+      "originalFilename": "Egypt, girl and laborers picking cotton in Cairo wow.jpg",
+      "sourceGroup": "images",
+      "extension": ".jpg",
+      "bytes": 824621,
+      "dimensions": {
+        "width": 3314,
+        "height": 3292
+      },
+      "rawDimensionsBeforeExif": {
+        "width": 3314,
+        "height": 3292
+      },
+      "sha256": "e01699f5d03113b6d54215fdef02614d8cfc766a3b262221f17d311758121e3e",
+      "reviewCopy": "assets/EG-037.jpg"
+    }
+  ]
+}

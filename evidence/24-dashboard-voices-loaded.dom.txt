@@ -1,0 +1,388 @@
+- main:
+  - complementary:
+    - navigation:
+      - link "Go to Home Page":
+        - /url: /dev/home
+      - link "New PAL":
+        - /url: /dev/pals/create
+        - generic: New PAL
+      - list:
+        - link "Home":
+          - /url: /dev/home
+          - generic: Home
+        - link "PALs":
+          - /url: /dev/pals
+          - generic: PALs
+        - link "Deployments":
+          - /url: /dev/deployments
+          - generic: Deployments
+        - link "Conversations":
+          - /url: /dev/conversations
+          - generic: Conversations
+      - heading "ASSETS" [level=3]
+      - list:
+        - link "Starter Kits":
+          - /url: /dev/starter-kits
+          - generic: Starter Kits
+        - link "Faces":
+          - /url: /dev/faces
+          - generic: Faces
+        - link "Voices" [active]:
+          - /url: /dev/voices
+          - generic: Voices
+        - link "Knowledge Base":
+          - /url: /dev/documents
+          - generic: Knowledge Base
+        - link "Memories":
+          - /url: /dev/memories
+          - generic: Memories
+        - link "Connectors & Tools":
+          - /url: /dev/connectors
+          - generic: Connectors & Tools
+        - link "Guardrails":
+          - /url: /dev/guardrails
+          - generic: Guardrails
+        - link "Pronunciations":
+          - /url: /dev/pronunciation-dictionaries
+          - generic: Pronunciations
+    - list:
+      - link "Get 2× minutes when you upgrade":
+        - /url: /dev/billing
+        - generic: Get 2× minutes when you upgrade
+      - list:
+        - link "API Keys":
+          - /url: /dev/api-keys
+          - generic: API Keys
+        - button "Support":
+          - generic: Support
+      - button "gg gmd gdn":
+        - generic: gg
+        - generic: gmd gdn
+  - complementary "Griffin announcement":
+    - paragraph: "Coming soon: Griffin"
+    - paragraph: The first Human Interaction Model
+    - link "Read the research":
+      - /url: https://www.tavus.io/griffin
+      - text: Read the research
+    - link "Join the waitlist":
+      - /url: https://griffin.tavus.io/waitlist
+      - text: Join the waitlist
+    - button "Dismiss the Griffin announcement":
+  - heading "Voices" [level=1]
+  - paragraph: Audition Tavus curated voices and your cloned voices, and assign them to your Faces and PALs.
+  - textbox "Search voices by name, ID, or tag"
+  - button "Type":
+    - generic: Type
+  - button "Gender":
+    - generic: Gender
+  - button "Tags":
+    - generic: Tags
+  - 'button "Preview language: English"':
+    - text: English
+  - button "New Voice":
+    - text: New Voice
+  - table:
+    - rowgroup:
+      - row "Name Type Gender Added":
+        - columnheader "Name":
+          - button "Name":
+            - text: Name
+        - columnheader "Type"
+        - columnheader "Gender"
+        - columnheader "Added":
+          - button "Added":
+            - text: Added
+        - columnheader
+    - rowgroup:
+      - row "Play preview Mateo Deep, smooth adult voice with a laid-back delivery. Suits relaxed conversation. System Male Sep 9":
+        - cell "Play preview Mateo Deep, smooth adult voice with a laid-back delivery. Suits relaxed conversation.":
+          - button "Play preview":
+          - generic: Mateo
+          - generic: Deep, smooth adult voice with a laid-back delivery. Suits relaxed conversation.
+        - cell "System":
+          - text: System
+        - cell "Male"
+        - cell "Sep 9"
+        - cell:
+          - button:
+      - row "Play preview Dr. Adams Energetic, professional mid-range adult voice. Suits formal customer conversations and guided support. System Female Sep 9":
+        - cell "Play preview Dr. Adams Energetic, professional mid-range adult voice. Suits formal customer conversations and guided support.":
+          - button "Play preview":
+          - generic: Dr. Adams
+          - generic: Energetic, professional mid-range adult voice. Suits formal customer conversations and guided support.
+        - cell "System":
+          - text: System
+        - cell "Female"
+        - cell "Sep 9"
+        - cell:
+          - button:
+      - row "Play preview Maya Bright, clear adult voice with a mid-to-high register. Suits customer support and frontline conversations. System Female Sep 9":
+        - cell "Play preview Maya Bright, clear adult voice with a mid-to-high register. Suits customer support and frontline conversations.":
+          - button "Play preview":
+          - generic: Maya
+          - generic: Bright, clear adult voice with a mid-to-high register. Suits customer support and frontline conversations.
+        - cell "System":
+          - text: System
+        - cell "Female"
+        - cell "Sep 9"
+        - cell:
+          - button:
+      - row "Play preview Janet Crisp, kind young voice. Suits attentive customer support. System Female Sep 9":
+        - cell "Play preview Janet Crisp, kind young voice. Suits attentive customer support.":
+          - button "Play preview":
+          - generic: Janet
+          - generic: Crisp, kind young voice. Suits attentive customer support.
+        - cell "System":
+          - text: System
+        - cell "Female"
+        - cell "Sep 9"
+        - cell:
+          - button:
+      - row "Play preview Thomas Very deep, firm voice with a soothing, calm delivery. Suits narration and long-form reads. System Male Sep 9":
+        - cell "Play preview Thomas Very deep, firm voice with a soothing, calm delivery. Suits narration and long-form reads.":
+          - button "Play preview":
+          - generic: Thomas
+          - generic: Very deep, firm voice with a soothing, calm delivery. Suits narration and long-form reads.
+        - cell "System":
+          - text: System
+        - cell "Male"
+        - cell "Sep 9"
+        - cell:
+          - button:
+      - row "Play preview Jamie Warm, energetic young adult voice. Suits casual conversation and friendly check-ins. System Male Sep 9":
+        - cell "Play preview Jamie Warm, energetic young adult voice. Suits casual conversation and friendly check-ins.":
+          - button "Play preview":
+          - generic: Jamie
+          - generic: Warm, energetic young adult voice. Suits casual conversation and friendly check-ins.
+        - cell "System":
+          - text: System
+        - cell "Male"
+        - cell "Sep 9"
+        - cell:
+          - button:
+      - row "Play preview Dr. Lee Deep, breathy adult voice with energetic delivery. Suits narration and long-form reads. System Male Sep 9":
+        - cell "Play preview Dr. Lee Deep, breathy adult voice with energetic delivery. Suits narration and long-form reads.":
+          - button "Play preview":
+          - generic: Dr. Lee
+          - generic: Deep, breathy adult voice with energetic delivery. Suits narration and long-form reads.
+        - cell "System":
+          - text: System
+        - cell "Male"
+        - cell "Sep 9"
+        - cell:
+          - button:
+      - row "Play preview Dr. Paws Bright, high young voice with a professional presence. Suits formal customer conversations and guided support. System Female Sep 9":
+        - cell "Play preview Dr. Paws Bright, high young voice with a professional presence. Suits formal customer conversations and guided support.":
+          - button "Play preview":
+          - generic: Dr. Paws
+          - generic: Bright, high young voice with a professional presence. Suits formal customer conversations and guided support.
+        - cell "System":
+          - text: System
+        - cell "Female"
+        - cell "Sep 9"
+        - cell:
+          - button:
+      - row "Play preview Brooke Clear, calm young voice with a kind delivery. Suits customer care and everyday support. System Female Sep 9":
+        - cell "Play preview Brooke Clear, calm young voice with a kind delivery. Suits customer care and everyday support.":
+          - button "Play preview":
+          - generic: Brooke
+          - generic: Clear, calm young voice with a kind delivery. Suits customer care and everyday support.
+        - cell "System":
+          - text: System
+        - cell "Female"
+        - cell "Sep 9"
+        - cell:
+          - button:
+      - row "Play preview Lee Breathy, energetic adult voice with a mid-range register. Suits everyday conversation. System Male Sep 9":
+        - cell "Play preview Lee Breathy, energetic adult voice with a mid-range register. Suits everyday conversation.":
+          - button "Play preview":
+          - generic: Lee
+          - generic: Breathy, energetic adult voice with a mid-range register. Suits everyday conversation.
+        - cell "System":
+          - text: System
+        - cell "Male"
+        - cell "Sep 9"
+        - cell:
+          - button:
+      - row "Play preview Dr. Lizzie Warm, clear adult voice with a kind, friendly tone. Suits everyday conversation. System Female Sep 9":
+        - cell "Play preview Dr. Lizzie Warm, clear adult voice with a kind, friendly tone. Suits everyday conversation.":
+          - button "Play preview":
+          - generic: Dr. Lizzie
+          - generic: Warm, clear adult voice with a kind, friendly tone. Suits everyday conversation.
+        - cell "System":
+          - text: System
+        - cell "Female"
+        - cell "Sep 9"
+        - cell:
+          - button:
+      - row "Play preview Dr. Carol Bright, clear mature voice with a professional, composed tone. Suits formal customer conversations and guided support. System Female Sep 9":
+        - cell "Play preview Dr. Carol Bright, clear mature voice with a professional, composed tone. Suits formal customer conversations and guided support.":
+          - button "Play preview":
+          - generic: Dr. Carol
+          - generic: Bright, clear mature voice with a professional, composed tone. Suits formal customer conversations and guided support.
+        - cell "System":
+          - text: System
+        - cell "Female"
+        - cell "Sep 9"
+        - cell:
+          - button:
+      - row "Play preview Deborah Warm, calm older voice with a mid-range register. Suits everyday conversation. System Female Sep 9":
+        - cell "Play preview Deborah Warm, calm older voice with a mid-range register. Suits everyday conversation.":
+          - button "Play preview":
+          - generic: Deborah
+          - generic: Warm, calm older voice with a mid-range register. Suits everyday conversation.
+        - cell "System":
+          - text: System
+        - cell "Female"
+        - cell "Sep 9"
+        - cell:
+          - button:
+      - row "Play preview Evan Deep, warm voice with a firm, kind delivery. Suits narration and high-trust reads. System Male Sep 9":
+        - cell "Play preview Evan Deep, warm voice with a firm, kind delivery. Suits narration and high-trust reads.":
+          - button "Play preview":
+          - generic: Evan
+          - generic: Deep, warm voice with a firm, kind delivery. Suits narration and high-trust reads.
+        - cell "System":
+          - text: System
+        - cell "Male"
+        - cell "Sep 9"
+        - cell:
+          - button:
+      - row "Play preview Mr. Edward Low, composed adult voice with a laid-back delivery. Suits informal conversation. System Male Sep 9":
+        - cell "Play preview Mr. Edward Low, composed adult voice with a laid-back delivery. Suits informal conversation.":
+          - button "Play preview":
+          - generic: Mr. Edward
+          - generic: Low, composed adult voice with a laid-back delivery. Suits informal conversation.
+        - cell "System":
+          - text: System
+        - cell "Male"
+        - cell "Sep 9"
+        - cell:
+          - button:
+      - row "Play preview Mrs. Hart Breathy, bright older voice with a kind mid-range tone. Suits everyday conversation. System Female Sep 9":
+        - cell "Play preview Mrs. Hart Breathy, bright older voice with a kind mid-range tone. Suits everyday conversation.":
+          - button "Play preview":
+          - generic: Mrs. Hart
+          - generic: Breathy, bright older voice with a kind mid-range tone. Suits everyday conversation.
+        - cell "System":
+          - text: System
+        - cell "Female"
+        - cell "Sep 9"
+        - cell:
+          - button:
+      - row "Play preview Dominic Low, measured older voice with a formal, courteous delivery. Suits butler-style assistants and refined concierge conversation. System Male Aug 27":
+        - cell "Play preview Dominic Low, measured older voice with a formal, courteous delivery. Suits butler-style assistants and refined concierge conversation.":
+          - button "Play preview":
+          - generic: Dominic
+          - generic: Low, measured older voice with a formal, courteous delivery. Suits butler-style assistants and refined concierge conversation.
+        - cell "System":
+          - text: System
+        - cell "Male"
+        - cell "Aug 27"
+        - cell:
+          - button:
+      - row "Play preview Laurel Cheerful, helpful adult voice. Suits positive customer interactions. System Female Aug 21":
+        - cell "Play preview Laurel Cheerful, helpful adult voice. Suits positive customer interactions.":
+          - button "Play preview":
+          - generic: Laurel
+          - generic: Cheerful, helpful adult voice. Suits positive customer interactions.
+        - cell "System":
+          - text: System
+        - cell "Female"
+        - cell "Aug 21"
+        - cell:
+          - button:
+      - row "Play preview Elyse Bright, cheerful adult voice. Suits upbeat support and promotional reads. System Female Aug 11":
+        - cell "Play preview Elyse Bright, cheerful adult voice. Suits upbeat support and promotional reads.":
+          - button "Play preview":
+          - generic: Elyse
+          - generic: Bright, cheerful adult voice. Suits upbeat support and promotional reads.
+        - cell "System":
+          - text: System
+        - cell "Female"
+        - cell "Aug 11"
+        - cell:
+          - button:
+      - row "Play preview Casey Relaxed, easygoing adult voice with a laid-back delivery. Suits informal conversation. System Female Aug 11":
+        - cell "Play preview Casey Relaxed, easygoing adult voice with a laid-back delivery. Suits informal conversation.":
+          - button "Play preview":
+          - generic: Casey
+          - generic: Relaxed, easygoing adult voice with a laid-back delivery. Suits informal conversation.
+        - cell "System":
+          - text: System
+        - cell "Female"
+        - cell "Aug 11"
+        - cell:
+          - button:
+      - row "Play preview Alice Confident, persuasive adult voice with warm conviction. Suits sales conversations and outreach. System Female Aug 11":
+        - cell "Play preview Alice Confident, persuasive adult voice with warm conviction. Suits sales conversations and outreach.":
+          - button "Play preview":
+          - generic: Alice
+          - generic: Confident, persuasive adult voice with warm conviction. Suits sales conversations and outreach.
+        - cell "System":
+          - text: System
+        - cell "Female"
+        - cell "Aug 11"
+        - cell:
+          - button:
+      - row "Play preview Cynthia Crisp, modern voice with an intelligent tone. Suits guidance and virtual-assistant narration. System Female Aug 11":
+        - cell "Play preview Cynthia Crisp, modern voice with an intelligent tone. Suits guidance and virtual-assistant narration.":
+          - button "Play preview":
+          - generic: Cynthia
+          - generic: Crisp, modern voice with an intelligent tone. Suits guidance and virtual-assistant narration.
+        - cell "System":
+          - text: System
+        - cell "Female"
+        - cell "Aug 11"
+        - cell:
+          - button:
+      - row "Play preview Sharon Enthusiastic, expressive young adult voice. Suits lively, emotive discussion. System Female Aug 11":
+        - cell "Play preview Sharon Enthusiastic, expressive young adult voice. Suits lively, emotive discussion.":
+          - button "Play preview":
+          - generic: Sharon
+          - generic: Enthusiastic, expressive young adult voice. Suits lively, emotive discussion.
+        - cell "System":
+          - text: System
+        - cell "Female"
+        - cell "Aug 11"
+        - cell:
+          - button:
+      - row "Play preview Stephanie Warm, relatable mature voice. Suits casual, natural support conversations. System Female Aug 11":
+        - cell "Play preview Stephanie Warm, relatable mature voice. Suits casual, natural support conversations.":
+          - button "Play preview":
+          - generic: Stephanie
+          - generic: Warm, relatable mature voice. Suits casual, natural support conversations.
+        - cell "System":
+          - text: System
+        - cell "Female"
+        - cell "Aug 11"
+        - cell:
+          - button:
+      - row "Play preview Melissa Mature, capable voice. Suits instructional content and empathetic support. System Female Aug 11":
+        - cell "Play preview Melissa Mature, capable voice. Suits instructional content and empathetic support.":
+          - button "Play preview":
+          - generic: Melissa
+          - generic: Mature, capable voice. Suits instructional content and empathetic support.
+        - cell "System":
+          - text: System
+        - cell "Female"
+        - cell "Aug 11"
+        - cell:
+          - button:
+  - text: Showing
+  - strong: 1 - 25
+  - text: of
+  - strong: "75"
+  - text: voices
+  - navigation "pagination":
+    - list:
+      - button "Go to previous page" [disabled]:
+        - generic: Previous
+      - button "1"
+      - button "2"
+      - button "3"
+      - button "Go to next page":
+        - generic: Next
+- region "Notifications (F8)":
+  - list
+- iframe [id="I0_1791015854049"] [name="I0_1791015854049"]

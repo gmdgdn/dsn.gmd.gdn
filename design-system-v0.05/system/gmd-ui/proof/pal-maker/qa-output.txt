@@ -1,0 +1,291 @@
+{
+  "url": "http://127.0.0.1:8766/design-system-v0.05/system/gmd-ui/registry-dist/catalog/?study=pal-maker",
+  "runs": [
+    {
+      "name": "desktop-en",
+      "initial": {
+        "title": "A good system makes knowledge move.",
+        "lang": "en",
+        "dir": "ltr",
+        "width": 1440,
+        "viewport": 1440,
+        "displayFont": "\"Source Serif 4\"",
+        "displaySize": "90.72px",
+        "proseFont": "\"Source Serif 4\"",
+        "badImages": []
+      },
+      "count": 5,
+      "clicks": [
+        {
+          "name": "01\nCollect with context\nBring photographs, films, documents and oral histories into one carefully described collection.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-026.jpg"
+        },
+        {
+          "name": "02\nDescribe each source\nKeep attribution, dates, contributors and uncertainty attached to every record.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-027.jpg"
+        },
+        {
+          "name": "03\nConnect the knowledge\nLink people, works, places and themes so that each record opens useful paths through the archive.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-028.jpg"
+        },
+        {
+          "name": "04\nPrepare responsibly\nReview rights, sensitive details and permitted reuse before material moves into a new product.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-032.jpg"
+        },
+        {
+          "name": "05\nDistribute for discovery\nDeliver clear catalogs, research data and licensed datasets with their source and access terms intact.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-034.webp"
+        }
+      ],
+      "keyboard": {
+        "end": "true",
+        "home": "true",
+        "down": "true"
+      },
+      "motion": {
+        "trigger": "0.5s, 0.5s",
+        "image": "0.55s"
+      },
+      "failures": []
+    },
+    {
+      "name": "mobile-en",
+      "initial": {
+        "title": "A good system makes knowledge move.",
+        "lang": "en",
+        "dir": "ltr",
+        "width": 390,
+        "viewport": 390,
+        "displayFont": "\"Source Serif 4\"",
+        "displaySize": "48px",
+        "proseFont": "\"Source Serif 4\"",
+        "badImages": []
+      },
+      "count": 5,
+      "clicks": [
+        {
+          "name": "01\nCollect with context\nBring photographs, films, documents and oral histories into one carefully described collection.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-026.jpg"
+        },
+        {
+          "name": "02\nDescribe each source\nKeep attribution, dates, contributors and uncertainty attached to every record.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-027.jpg"
+        },
+        {
+          "name": "03\nConnect the knowledge\nLink people, works, places and themes so that each record opens useful paths through the archive.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-028.jpg"
+        },
+        {
+          "name": "04\nPrepare responsibly\nReview rights, sensitive details and permitted reuse before material moves into a new product.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-032.jpg"
+        },
+        {
+          "name": "05\nDistribute for discovery\nDeliver clear catalogs, research data and licensed datasets with their source and access terms intact.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-034.webp"
+        }
+      ],
+      "keyboard": {
+        "end": "true",
+        "home": "true",
+        "down": "true"
+      },
+      "motion": {
+        "trigger": "0.5s, 0.5s",
+        "image": "0.55s"
+      },
+      "failures": []
+    },
+    {
+      "name": "desktop-ar",
+      "initial": {
+        "title": "النظام الجيد يحرّك المعرفة.",
+        "lang": "ar",
+        "dir": "rtl",
+        "width": 1440,
+        "viewport": 1440,
+        "displayFont": "Mada",
+        "displaySize": "48px",
+        "proseFont": "Amiri",
+        "badImages": []
+      },
+      "count": 5,
+      "clicks": [
+        {
+          "name": "01\nنجمع بسياق واضح\nنجمع الصور والأفلام والوثائق والتاريخ الشفهي في مجموعة موصوفة بعناية.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-026.jpg"
+        },
+        {
+          "name": "02\nنوثق كل مصدر\nنحفظ النسبة والتواريخ والمساهمين وما لا نعرفه ضمن كل سجل.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-027.jpg"
+        },
+        {
+          "name": "03\nنربط المعرفة\nنربط الأشخاص والأعمال والأماكن والموضوعات لتفتح السجلات مسارات مفيدة داخل الأرشيف.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-028.jpg"
+        },
+        {
+          "name": "04\nنُعد بمسؤولية\nنراجع الحقوق والتفاصيل الحساسة والاستخدام المسموح قبل انتقال المادة إلى منتج جديد.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-032.jpg"
+        },
+        {
+          "name": "05\nنوزع للاكتشاف\nنقدم فهارس واضحة وبيانات بحثية ومجموعات مرخصة مع الحفاظ على المصدر وشروط الوصول.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-034.webp"
+        }
+      ],
+      "keyboard": {
+        "end": "true",
+        "home": "true",
+        "down": "true"
+      },
+      "motion": {
+        "trigger": "0.5s, 0.5s",
+        "image": "0.55s"
+      },
+      "failures": []
+    },
+    {
+      "name": "mobile-ar",
+      "initial": {
+        "title": "النظام الجيد يحرّك المعرفة.",
+        "lang": "ar",
+        "dir": "rtl",
+        "width": 390,
+        "viewport": 390,
+        "displayFont": "Mada",
+        "displaySize": "36px",
+        "proseFont": "Amiri",
+        "badImages": []
+      },
+      "count": 5,
+      "clicks": [
+        {
+          "name": "01\nنجمع بسياق واضح\nنجمع الصور والأفلام والوثائق والتاريخ الشفهي في مجموعة موصوفة بعناية.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-026.jpg"
+        },
+        {
+          "name": "02\nنوثق كل مصدر\nنحفظ النسبة والتواريخ والمساهمين وما لا نعرفه ضمن كل سجل.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-027.jpg"
+        },
+        {
+          "name": "03\nنربط المعرفة\nنربط الأشخاص والأعمال والأماكن والموضوعات لتفتح السجلات مسارات مفيدة داخل الأرشيف.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-028.jpg"
+        },
+        {
+          "name": "04\nنُعد بمسؤولية\nنراجع الحقوق والتفاصيل الحساسة والاستخدام المسموح قبل انتقال المادة إلى منتج جديد.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-032.jpg"
+        },
+        {
+          "name": "05\nنوزع للاكتشاف\nنقدم فهارس واضحة وبيانات بحثية ومجموعات مرخصة مع الحفاظ على المصدر وشروط الوصول.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-034.webp"
+        }
+      ],
+      "keyboard": {
+        "end": "true",
+        "home": "true",
+        "down": "true"
+      },
+      "motion": {
+        "trigger": "0.5s, 0.5s",
+        "image": "0.55s"
+      },
+      "failures": []
+    },
+    {
+      "name": "reduced-motion",
+      "initial": {
+        "title": "A good system makes knowledge move.",
+        "lang": "en",
+        "dir": "ltr",
+        "width": 1440,
+        "viewport": 1440,
+        "displayFont": "\"Source Serif 4\"",
+        "displaySize": "90.72px",
+        "proseFont": "\"Source Serif 4\"",
+        "badImages": []
+      },
+      "count": 5,
+      "clicks": [
+        {
+          "name": "01\nCollect with context\nBring photographs, films, documents and oral histories into one carefully described collection.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-026.jpg"
+        },
+        {
+          "name": "02\nDescribe each source\nKeep attribution, dates, contributors and uncertainty attached to every record.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-027.jpg"
+        },
+        {
+          "name": "03\nConnect the knowledge\nLink people, works, places and themes so that each record opens useful paths through the archive.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-028.jpg"
+        },
+        {
+          "name": "04\nPrepare responsibly\nReview rights, sensitive details and permitted reuse before material moves into a new product.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-032.jpg"
+        },
+        {
+          "name": "05\nDistribute for discovery\nDeliver clear catalogs, research data and licensed datasets with their source and access terms intact.",
+          "selected": "true",
+          "panel": 1,
+          "image": "./assets/eg-034.webp"
+        }
+      ],
+      "keyboard": {
+        "end": "true",
+        "home": "true",
+        "down": "true"
+      },
+      "motion": {
+        "trigger": "0s",
+        "image": "0s"
+      },
+      "failures": []
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,228 @@
+{
+  "source_archive": "C:\\Users\\khorm\\Downloads\\68defe67290d1a25593c5525_Tavus Brand Lite.zip",
+  "extracted_at": "2026-10-03",
+  "excluded": [
+    "__MACOSX",
+    "._*",
+    "DS_Store"
+  ],
+  "font_files_present": false,
+  "files": [
+    {
+      "archive_path": "Tavus Brand Lite/Logos/3D Symbol/1755519604230.png",
+      "local_path": "Logos/3D Symbol/1755519604230.png",
+      "size_bytes": 1041464,
+      "sha256": "e77569baaec3edfa03d9b2525126ec4ec23634b20674c988c4ca8ba4111ee3ba"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Logos/3D Symbol/1752065809841 7.png",
+      "local_path": "Logos/3D Symbol/1752065809841 7.png",
+      "size_bytes": 1161194,
+      "sha256": "3da83cd8997213208182e68b15bbc8661144ea1598019b805cb8f51e3ea54f92"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Logos/Favicons/favicon-light.ico",
+      "local_path": "Logos/Favicons/favicon-light.ico",
+      "size_bytes": 4286,
+      "sha256": "8ce19b71dfdae95d1f974958b7cc1399bdea4a7a98c6838247c18f55b838ef40"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Logos/Favicons/favicon-dark.ico",
+      "local_path": "Logos/Favicons/favicon-dark.ico",
+      "size_bytes": 4286,
+      "sha256": "70de51f9f2a9956747e5813371a8880933fa984f42dd31798fb70515e51d69bd"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Logos/Symbol w_ Background/hifi-black.png",
+      "local_path": "Logos/Symbol w_ Background/hifi-black.png",
+      "size_bytes": 14488,
+      "sha256": "c3a2b924ea5f625552686611e77b88de95dbf3f661b2dbabd25fe26253f0af5b"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Logos/Symbol w_ Background/lofi-white.png",
+      "local_path": "Logos/Symbol w_ Background/lofi-white.png",
+      "size_bytes": 5917,
+      "sha256": "c39722505c582531bc24dd503d0af11a0dfb63212169fc8859ea602ef60fd9ec"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Logos/Symbol w_ Background/hifi-white.png",
+      "local_path": "Logos/Symbol w_ Background/hifi-white.png",
+      "size_bytes": 14568,
+      "sha256": "5f6f58e3c5fd85a52b744adac8af46147e9394691d0d83253b229c9d9f759f3b"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Logos/Symbol w_ Background/lowfi-black.png",
+      "local_path": "Logos/Symbol w_ Background/lowfi-black.png",
+      "size_bytes": 5942,
+      "sha256": "3547905707059f36b4650c528e4a420c046cc08236bafc231b3d3ed6abb605b0"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Logos/Tavus Logo/TAVUS-LOGO4.png",
+      "local_path": "Logos/Tavus Logo/TAVUS-LOGO4.png",
+      "size_bytes": 39130,
+      "sha256": "40340bd5d47044f21816a1522f8728704e5f06f2a81930ba5d0cca2084365ffb"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Logos/Tavus Logo/TAVUS-LOGO3.png",
+      "local_path": "Logos/Tavus Logo/TAVUS-LOGO3.png",
+      "size_bytes": 30158,
+      "sha256": "7b8e5a94d6bce349d51d979945f027294bc8195ec81be4d0fc801188569dcf47"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Logos/Tavus Logo/TAVUS-LOGO3.svg",
+      "local_path": "Logos/Tavus Logo/TAVUS-LOGO3.svg",
+      "size_bytes": 2606,
+      "sha256": "dfb439eac639e8e26aceb45901bb966aff95249e5989d3a7badda79f593670ac"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Logos/Tavus Logo/TAVUS-LOGO4.svg",
+      "local_path": "Logos/Tavus Logo/TAVUS-LOGO4.svg",
+      "size_bytes": 2612,
+      "sha256": "9761686d784acb134f0e29d87706f7fb712e3f1a5719be407f70520d8e71188f"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Logos/Tavus Symbol/TAVUS-SYMBOL4.png",
+      "local_path": "Logos/Tavus Symbol/TAVUS-SYMBOL4.png",
+      "size_bytes": 8131,
+      "sha256": "37f14f00f6e8a2674ff0fd216bd6bcc545210451a0043edd54c7a7dd6f15770b"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Logos/Tavus Symbol/TAVUS-SYMBOL3.png",
+      "local_path": "Logos/Tavus Symbol/TAVUS-SYMBOL3.png",
+      "size_bytes": 6784,
+      "sha256": "e5d7ed0c7c225b9b63a393bf0c73194cf57392a11938bf0c517d750c295f8bef"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Logos/Tavus Symbol/TAVUS-SYMBOL3.svg",
+      "local_path": "Logos/Tavus Symbol/TAVUS-SYMBOL3.svg",
+      "size_bytes": 677,
+      "sha256": "ed3302bcfd0e5abca3c274c4f594dd1b0f1fd74d8aabe11cb2fa2f3c77dc1dea"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Logos/Tavus Symbol/TAVUS-SYMBOL4.svg",
+      "local_path": "Logos/Tavus Symbol/TAVUS-SYMBOL4.svg",
+      "size_bytes": 681,
+      "sha256": "fd2c66c3cb512264df13fc66c1dcf47fb9406c728fd6883e54a5446007d3bb37"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Social Banners/X - General/Frame 2147228838.png",
+      "local_path": "Social Banners/X - General/Frame 2147228838.png",
+      "size_bytes": 24159,
+      "sha256": "6d81cfa7166e26d0170e2e6aae4f422162da8ef6963c26bab6ae0edb7707bfac"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Social Banners/X - General/Frame 2147228848.png",
+      "local_path": "Social Banners/X - General/Frame 2147228848.png",
+      "size_bytes": 23031,
+      "sha256": "db837ce340affb1f61ade421994d29b1950070fdc05bdeb1d069f4a94ced03d8"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Social Banners/X - General/Frame 2147228844.png",
+      "local_path": "Social Banners/X - General/Frame 2147228844.png",
+      "size_bytes": 419838,
+      "sha256": "b3caa95a92f798f9d9d41610880293d90df64feef2208f09c6fd5654eaeda6b9"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Social Banners/X - General/Frame 2147228850.png",
+      "local_path": "Social Banners/X - General/Frame 2147228850.png",
+      "size_bytes": 23026,
+      "sha256": "6179afc8f9bfe2301065fa28cfb2b462d3a98828a1bd03a1cc3be93fb646dddf"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Social Banners/X - General/Frame 2147228851.png",
+      "local_path": "Social Banners/X - General/Frame 2147228851.png",
+      "size_bytes": 20649,
+      "sha256": "95c2ac739384ac07ab9d14adc608b9541a67148412da3a81a81b275b2725b7f1"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Social Banners/X - General/Frame 2147228847.png",
+      "local_path": "Social Banners/X - General/Frame 2147228847.png",
+      "size_bytes": 1144261,
+      "sha256": "abc4bba612ab8cd35730da64fd3022af39080a86ae9d60fdf112f9182f6ee2ef"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Social Banners/X - General/Frame 2147228842.png",
+      "local_path": "Social Banners/X - General/Frame 2147228842.png",
+      "size_bytes": 2651368,
+      "sha256": "d06634aa247d7019b3470352e300d426b2294617cd8694949bb9135ffe9e11d9"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Social Banners/X - General/Frame 2147228841.png",
+      "local_path": "Social Banners/X - General/Frame 2147228841.png",
+      "size_bytes": 2770599,
+      "sha256": "ff1823e4efa4f10ae2c939e34047fc2386d367af77e086a3631a8e0bd40ff6ae"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Social Banners/X - General/Frame 2147228840.png",
+      "local_path": "Social Banners/X - General/Frame 2147228840.png",
+      "size_bytes": 1553654,
+      "sha256": "52e341454aec2b64c25e887662e1c086c6f79e1debc2776f8c9acbd647571313"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Social Banners/X - General/Frame 2147228837.png",
+      "local_path": "Social Banners/X - General/Frame 2147228837.png",
+      "size_bytes": 551269,
+      "sha256": "85b8c0cc900a4bdd875ac66929a0fb67e89b0cdd5d7b21d3952e54a4a3bc82cb"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Social Banners/Linkedin/Frame 2147228865.png",
+      "local_path": "Social Banners/Linkedin/Frame 2147228865.png",
+      "size_bytes": 2026299,
+      "sha256": "61ae02bf283a2a5dd52aa2f8a3b368fef6e8cb69eee2e703c873de0aa735d098"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Social Banners/Linkedin/Frame 2147228859.png",
+      "local_path": "Social Banners/Linkedin/Frame 2147228859.png",
+      "size_bytes": 714792,
+      "sha256": "e2710adc832e6e33d1b42ac0f886fe11696e8a47f8bb37db6073045dcf1054b8"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Social Banners/Linkedin/Frame 2147228864.png",
+      "local_path": "Social Banners/Linkedin/Frame 2147228864.png",
+      "size_bytes": 1631949,
+      "sha256": "e91431b70d1e5ccca158200df80984630b20ec2128376ec7ae0531ff26550fbd"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Social Banners/Linkedin/Frame 2147228866.png",
+      "local_path": "Social Banners/Linkedin/Frame 2147228866.png",
+      "size_bytes": 3490477,
+      "sha256": "a9a729298a41de82cc5ffb64b12d9205a57f1f3601c103196bf166bd0a26d613"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Social Banners/Linkedin/Frame 2147228867.png",
+      "local_path": "Social Banners/Linkedin/Frame 2147228867.png",
+      "size_bytes": 3600667,
+      "sha256": "3ffd9de8a6b2c5350bb4b8bbd751501efd8ad34385e8e479d9833df3ecb70878"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Social Banners/Linkedin/Frame 2147228863.png",
+      "local_path": "Social Banners/Linkedin/Frame 2147228863.png",
+      "size_bytes": 21387,
+      "sha256": "fde7652f4f7b3b83f2549a462b69b70d15d9feae5a5bc04d727b0f1a652aced4"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Social Banners/Linkedin/Frame 2147228862.png",
+      "local_path": "Social Banners/Linkedin/Frame 2147228862.png",
+      "size_bytes": 19573,
+      "sha256": "5b150cf5a99f145466082ee04bea1e6677f51fe40bd78a52a052c5203a0617b3"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Social Banners/Linkedin/Frame 2147228860.png",
+      "local_path": "Social Banners/Linkedin/Frame 2147228860.png",
+      "size_bytes": 25208,
+      "sha256": "45dd594f0f873e9b633111b079fed975297b9ef863018c2d81938e67e8f2b21f"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Social Banners/Linkedin/Frame 2147228861.png",
+      "local_path": "Social Banners/Linkedin/Frame 2147228861.png",
+      "size_bytes": 21444,
+      "sha256": "07adf6304087192fc7d272b730717ce9a76ea8925b7830b3926955655071576d"
+    },
+    {
+      "archive_path": "Tavus Brand Lite/Social Banners/Linkedin/Frame 2147228868.png",
+      "local_path": "Social Banners/Linkedin/Frame 2147228868.png",
+      "size_bytes": 428983,
+      "sha256": "4d5dd164b462d5b4ddd5dbc78701e193729370c9ec09b3129763248dec084a04"
+    }
+  ]
+}

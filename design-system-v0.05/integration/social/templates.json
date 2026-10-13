@@ -1,0 +1,72 @@
+{
+  "templates": [
+    {
+      "id": "Ywcph",
+      "title": "Culture in context",
+      "purpose": "Sparse identity banner with a GMD wordmark, pink pixel texture and cropped 16-star medallion",
+      "format": "banner",
+      "language": "en",
+      "width": 1584,
+      "height": 396
+    },
+    {
+      "id": "rP97Q",
+      "title": "A poster holds more than a film",
+      "purpose": "Poster-led film banner with a large editorial statement and generous negative space",
+      "format": "banner",
+      "language": "en",
+      "width": 1500,
+      "height": 500
+    },
+    {
+      "id": "BC2q0",
+      "title": "Where stories intersect",
+      "purpose": "Editorial portrait cover with a scaled interlace field",
+      "format": "post",
+      "language": "en",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "id": "ZF6PF",
+      "title": "A film is never alone",
+      "purpose": "Square knowledge relationship card with a two-level geometric field",
+      "format": "post",
+      "language": "en",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": "LjkAT",
+      "title": "Look closer",
+      "purpose": "Vertical cinema story with a poster and a large closing statement",
+      "format": "story",
+      "language": "en",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "PfP8U",
+      "title": "Egyptian cinema, connected",
+      "purpose": "Link preview with an Egyptian pendant-register illustration",
+      "format": "link",
+      "language": "en",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "id": "j5N3a",
+      "title": "حكايات السينما المصرية",
+      "purpose": "Arabic editorial cover with an RTL headline and poster composition",
+      "format": "post",
+      "language": "ar",
+      "width": 1080,
+      "height": 1350
+    }
+  ],
+  "sourceNotes": {
+    "reference": "Tavus Brand Lite: 20 flattened social banner references; GMD compositions are newly authored.",
+    "poster": "Existing local Egyptian cinema poster, source/rights not independently established; review before public reuse.",
+    "geometry": "Contemporary source studies using editable native Pen paths."
+  }
+}

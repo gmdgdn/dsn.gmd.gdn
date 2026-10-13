@@ -1,0 +1,224 @@
+- main:
+  - complementary:
+    - navigation:
+      - link "Go to Home Page":
+        - /url: /dev/home
+      - link "New PAL":
+        - /url: /dev/pals/create
+        - generic: New PAL
+      - list:
+        - link "Home":
+          - /url: /dev/home
+          - generic: Home
+        - link "PALs":
+          - /url: /dev/pals
+          - generic: PALs
+        - link "Deployments":
+          - /url: /dev/deployments
+          - generic: Deployments
+        - link "Conversations":
+          - /url: /dev/conversations
+          - generic: Conversations
+      - heading "ASSETS" [level=3]
+      - list:
+        - link "Starter Kits":
+          - /url: /dev/starter-kits
+          - generic: Starter Kits
+        - link "Faces":
+          - /url: /dev/faces
+          - generic: Faces
+        - link "Voices":
+          - /url: /dev/voices
+          - generic: Voices
+        - link "Knowledge Base":
+          - /url: /dev/documents
+          - generic: Knowledge Base
+        - link "Memories":
+          - /url: /dev/memories
+          - generic: Memories
+        - link "Connectors & Tools" [active]:
+          - /url: /dev/connectors
+          - generic: Connectors & Tools
+        - link "Guardrails":
+          - /url: /dev/guardrails
+          - generic: Guardrails
+        - link "Pronunciations":
+          - /url: /dev/pronunciation-dictionaries
+          - generic: Pronunciations
+    - list:
+      - link "Get 2× minutes when you upgrade":
+        - /url: /dev/billing
+        - generic: Get 2× minutes when you upgrade
+      - list:
+        - link "API Keys":
+          - /url: /dev/api-keys
+          - generic: API Keys
+        - button "Support":
+          - generic: Support
+      - button "gg gmd gdn":
+        - generic: gg
+        - generic: gmd gdn
+  - complementary "Griffin announcement":
+    - paragraph: "Coming soon: Griffin"
+    - paragraph: The first Human Interaction Model
+    - link "Read the research":
+      - /url: https://www.tavus.io/griffin
+      - text: Read the research
+    - link "Join the waitlist":
+      - /url: https://griffin.tavus.io/waitlist
+      - text: Join the waitlist
+    - button "Dismiss the Griffin announcement":
+  - tablist:
+    - tab "Connectors" [selected]
+    - tab "Tools"
+  - heading "Connectors" [level=1]
+  - paragraph: Give your PAL the tools you already use, so it can act while you talk — file the Linear issue, pull up the meeting notes, run the Zap. Connect one here, then add it to a PAL's MCP layer.
+  - heading "Available" [level=2]
+  - textbox "Search integrations":
+    - /placeholder: Search connectors
+  - heading "Tavus" [level=3]
+  - button "About Tavus"
+  - heading "Tavus" [level=3]
+  - paragraph: Let a PAL manage your own PALs, replicas and conversations.
+  - button "Connect Tavus":
+  - generic: API key
+  - button "About Tavus Docs"
+  - heading "Tavus Docs" [level=3]
+  - paragraph: Let your PAL answer Tavus API questions from the docs. No account needed.
+  - button "Connect Tavus Docs":
+  - generic: No sign-in
+  - heading "Product & engineering" [level=3]
+  - button "About Linear"
+  - heading "Linear" [level=3]
+  - paragraph: Let your PAL file the bug or check what's in this cycle while you talk.
+  - button "Connect Linear":
+  - generic: OAuth
+  - button "About Jira & Confluence"
+  - heading "Jira & Confluence" [level=3]
+  - paragraph: Let your PAL file the Jira ticket or read you the Confluence page.
+  - button "Connect Jira & Confluence":
+  - generic: OAuth
+  - button "About Braintrust"
+  - heading "Braintrust" [level=3]
+  - paragraph: Let your PAL pull eval scores and say if the last run beat the baseline.
+  - button "Connect Braintrust":
+  - generic: OAuth
+  - button "About Slack"
+  - heading "Slack" [level=3]
+  - paragraph: Let your PAL read a channel and post the follow-up while you talk.
+  - button "Connect Slack":
+  - generic: OAuth
+  - button "About Coda"
+  - heading "Coda" [level=3]
+  - paragraph: Let your PAL read a doc or update a table in your workspace.
+  - button "Connect Coda":
+  - generic: OAuth
+  - heading "Design & docs" [level=3]
+  - button "About Excalidraw"
+  - heading "Excalidraw" [level=3]
+  - paragraph: Let your PAL draw the diagram you just described into your workspace.
+  - button "Connect Excalidraw":
+  - generic: API key
+  - button "About Mintlify"
+  - heading "Mintlify" [level=3]
+  - paragraph: Let your PAL look up your docs, or write the page you dictate.
+  - button "Connect Mintlify":
+  - generic: OAuth
+  - button "About Notion"
+  - heading "Notion" [level=3]
+  - paragraph: Let your PAL find the page you mean and write the note back into it.
+  - button "Connect Notion":
+  - generic: OAuth
+  - button "About Webflow"
+  - heading "Webflow" [level=3]
+  - paragraph: Let your PAL check what's live and update a CMS item.
+  - button "Connect Webflow":
+  - generic: OAuth
+  - button "About Google Drive"
+  - heading "Google Drive" [level=3]
+  - paragraph: Let your PAL find the file and read you what's in it.
+  - button "Connect Google Drive":
+  - generic: OAuth
+  - heading "Sales & marketing" [level=3]
+  - button "About Google Calendar"
+  - heading "Google Calendar" [level=3]
+  - paragraph: Let your PAL read your week and book the meeting while you talk.
+  - button "Connect Google Calendar":
+  - generic: OAuth
+  - button "About Gmail"
+  - heading "Gmail" [level=3]
+  - paragraph: Let your PAL find the thread and draft the reply for you.
+  - button "Connect Gmail":
+  - generic: OAuth
+  - button "About Apollo.io"
+  - heading "Apollo.io" [level=3]
+  - paragraph: Let your PAL look up a prospect or add someone to a sequence.
+  - button "Connect Apollo.io":
+  - generic: OAuth
+  - button "About Calendly"
+  - heading "Calendly" [level=3]
+  - paragraph: Let your PAL check your availability and book the meeting mid-call.
+  - button "Connect Calendly":
+  - generic: OAuth
+  - button "About Customer.io"
+  - heading "Customer.io" [level=3]
+  - paragraph: Let your PAL check a segment and how the last campaign did.
+  - button "Connect Customer.io":
+  - generic: OAuth
+  - heading "Analytics & support" [level=3]
+  - button "About Windsor.ai"
+  - heading "Windsor.ai" [level=3]
+  - paragraph: Let your PAL pull yesterday's ad spend across your channels.
+  - button "Connect Windsor.ai":
+  - generic: OAuth
+  - button "About Amplitude"
+  - heading "Amplitude" [level=3]
+  - paragraph: Let your PAL check how a funnel converts or what a cohort did.
+  - button "Connect Amplitude":
+  - generic: OAuth
+  - button "About LogRocket"
+  - heading "LogRocket" [level=3]
+  - paragraph: Let your PAL find the session where it broke and read back the errors.
+  - button "Connect LogRocket":
+  - generic: OAuth
+  - button "About Pylon"
+  - heading "Pylon" [level=3]
+  - paragraph: Let your PAL check open support issues and what an account needs.
+  - button "Connect Pylon":
+  - generic: OAuth
+  - button "About Granola"
+  - heading "Granola" [level=3]
+  - paragraph: Let your PAL recall what was said in a meeting and what you agreed.
+  - button "Connect Granola":
+  - generic: OAuth
+  - button "About Consensus"
+  - heading "Consensus" [level=3]
+  - paragraph: Let your PAL find the research behind a claim and what it says.
+  - button "Connect Consensus":
+  - generic: OAuth
+  - heading "Automation & payments" [level=3]
+  - button "About Zapier"
+  - heading "Zapier" [level=3]
+  - paragraph: Let your PAL fire any Zap you've built — including posting to Slack.
+  - button "Connect Zapier":
+  - generic: OAuth
+  - button "About Higgsfield"
+  - heading "Higgsfield" [level=3]
+  - paragraph: Let your PAL generate a video asset and say when it's ready.
+  - button "Connect Higgsfield":
+  - generic: OAuth
+  - button "About Stripe"
+  - heading "Stripe" [level=3]
+  - paragraph: Let your PAL check balances, look up a subscription, or send an invoice.
+  - button "Connect Stripe":
+  - generic: OAuth
+  - heading "Not in the list" [level=3]
+  - button "Custom MCP server Point Tavus at any MCP server over HTTPS.":
+    - heading "Custom MCP server" [level=3]
+    - paragraph: Point Tavus at any MCP server over HTTPS.
+  - button "Request a connector Tell us which one you need and we'll look at building it.":
+    - heading "Request a connector" [level=3]
+    - paragraph: Tell us which one you need and we'll look at building it.
+- region "Notifications (F8)":
+  - list
+- iframe [id="I0_1791015854049"] [name="I0_1791015854049"]

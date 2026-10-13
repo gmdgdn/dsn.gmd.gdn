@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "defaultTheme": "gmd",
+  "attribute": "data-gmd-theme",
+  "themes": {
+    "gmd": {
+      "description": "Editorial company system: paper/ink structure, Nile navigation, action pink invitation.",
+      "tokens": {
+        "--gmd-project-canvas": "var(--background)",
+        "--gmd-project-surface": "var(--card)",
+        "--gmd-project-ink": "var(--gmd-ink)",
+        "--gmd-project-accent": "var(--gmd-action)",
+        "--gmd-project-detail": "var(--gmd-action)",
+        "--gmd-project-action": "var(--gmd-action)",
+        "--gmd-project-action-text": "var(--gmd-ink)",
+        "--gmd-project-action-hover": "var(--gmd-action)",
+        "--gmd-project-link": "var(--gmd-nile)",
+        "--gmd-project-selected": "var(--gmd-nile-soft)",
+        "--gmd-project-pattern": "url('/assets/true-interlace-panel.svg')"
+      }
+    },
+    "film": {
+      "description": "Film discovery direction: ink action on paper, with sand and pink media detail.",
+      "tokens": {
+        "--gmd-project-canvas": "var(--gmd-paper)",
+        "--gmd-project-surface": "var(--gmd-paper)",
+        "--gmd-project-ink": "var(--gmd-ink)",
+        "--gmd-project-accent": "var(--gmd-warm)",
+        "--gmd-project-detail": "var(--gmd-action)",
+        "--gmd-project-action": "var(--gmd-ink)",
+        "--gmd-project-action-text": "var(--gmd-paper)",
+        "--gmd-project-action-hover": "var(--gmd-nile)",
+        "--gmd-project-link": "var(--gmd-nile)",
+        "--gmd-project-selected": "var(--gmd-nile-soft)",
+        "--gmd-project-pattern": "url('/assets/connected-parquet-morph.svg')"
+      }
+    },
+    "archive": {
+      "description": "Archive direction: warm paper and Nile structure, with optional faience accent.",
+      "tokens": {
+        "--gmd-project-canvas": "var(--gmd-warm)",
+        "--gmd-project-surface": "var(--gmd-warm)",
+        "--gmd-project-ink": "var(--gmd-ink)",
+        "--gmd-project-accent": "var(--gmd-nile-soft)",
+        "--gmd-project-detail": "#176F73",
+        "--gmd-project-action": "var(--gmd-nile)",
+        "--gmd-project-action-text": "var(--gmd-paper)",
+        "--gmd-project-action-hover": "var(--gmd-nile)",
+        "--gmd-project-link": "var(--gmd-nile)",
+        "--gmd-project-selected": "var(--gmd-nile-soft)",
+        "--gmd-project-pattern": "url('/assets/egyptian-pendant-register.svg')",
+        "--gmd-project-faience": "#176F73"
+      }
+    }
+  }
+}
+

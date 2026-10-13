@@ -1,0 +1,104 @@
+- main:
+  - button:
+    - generic: Exit
+  - generic: U
+  - generic: Untitled PAL
+  - radio [checked]: BUILD
+  - radio: TEST
+  - radio: DEPLOY
+  - button:
+  - generic: Not yet saved
+  - status:
+    - generic: Changes in this draft haven't gone out yet.
+    - button: Update
+  - complementary:
+    - paragraph: "Coming soon: Griffin"
+    - paragraph: The first Human Interaction Model
+    - link:
+      - /url: https://www.tavus.io/griffin
+      - text: Read the research
+    - link:
+      - /url: https://griffin.tavus.io/waitlist
+      - text: Join the waitlist
+    - button:
+  - button:
+    - generic: Charlie
+    - generic: Tap to continue
+  - main:
+    - button:
+      - generic: Select face
+    - heading [level=1]: Untitled PAL
+    - paragraph: Add a short description
+    - generic: Voice
+    - button: Face default
+    - generic: •
+    - generic: Language
+    - button: English
+    - generic: •
+    - generic: Greeting
+    - button: Contextual
+    - generic: •
+    - button: Advanced Settings
+    - textbox:
+      - heading [level=2]: Identity & Role
+      - paragraph: Who your PAL is and the role it plays.
+      - paragraph: Start typing here…
+    - heading [level=2]:
+      - generic: Knowledge
+    - paragraph: Documents your PAL can reference during a call.
+    - button: + Add
+    - heading [level=2]:
+      - generic: Capabilities
+    - paragraph: What your PAL can do during a call.
+    - button: + Add
+    - paragraph: During the call
+    - button:
+      - generic: Perception
+      - button:
+      - button:
+    - button:
+      - generic: Memory
+      - button:
+      - button:
+    - heading [level=2]:
+      - generic: Guardrails
+    - paragraph: Things your PAL should never do.
+    - button: + Add
+    - heading [level=2]:
+      - generic: Objectives
+    - paragraph: Charlie can build objectives if the PAL needs them.
+- list
+- iframe [id="I0_1791015854049"] [name="I0_1791015854049"]
+- dialog "Advanced settings":
+  - heading "Advanced settings" [level=2]
+  - paragraph: Configure model, voice, perception, turn-taking, and pronunciation settings for this PAL.
+  - heading "Advanced settings" [level=2]
+  - paragraph: Model, voice, turn-taking, and more.
+  - button "Close" [active]:
+  - button "Language model tavus-gemma-4":
+    - generic: Language model
+    - generic: tavus-gemma-4
+  - button "Turn detection Sparrow 2":
+    - generic: Turn detection
+    - generic: Sparrow 2
+  - button "Greeting Contextual":
+    - generic: Greeting
+    - generic: Contextual
+  - button "Wake/Sleep phrase Off":
+    - generic: Wake/Sleep phrase
+    - generic: "Off"
+  - button "Speech-to-text tavus-auto":
+    - generic: Speech-to-text
+    - generic: tavus-auto
+  - button "Voice Face default":
+    - generic: Voice
+    - generic: Face default
+  - button "Languages English":
+    - generic: Languages
+    - generic: English
+  - button "Policy behavior Auto / Auto":
+    - generic: Policy behavior
+    - generic: Auto / Auto
+  - button "Pronunciation dictionary None":
+    - generic: Pronunciation dictionary
+    - generic: None

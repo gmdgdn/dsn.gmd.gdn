@@ -1,0 +1,13 @@
+{
+  "version": "0.01-revision",
+  "sourceDocument": "C:/Users/khorm/.pencil/documents/8b4c9a2a-091b-4893-b343-951b27b66afc/pencil-new.pen",
+  "boards": [
+    {"name":"Color and type","nodeId":"XgYOW","sizePx":"1800x1000","preview":"revision/previews/XgYOW.png","sha256":"9926FE8B6A348C8087076518D28A9DD19801FE4F47095C2A4213E10CBA255388"},
+    {"name":"Depth and separators","nodeId":"JXFyT","sizePx":"1800x1200","preview":"revision/previews/depth-separators-final.png","sha256":"58C91C60A4B0FC84FA4530E39D726104BD5C58245F6ED5B8DCDC61D27DA67484"},
+    {"name":"Image and icon direction","nodeId":"N71po2","sizePx":"1800x1200","preview":"revision/previews/N71po2.png","sha256":"AE670D295945CD219345B34D4E595BC5A196570CD6DD5912F627072FD3BE1131"}
+  ],
+  "review": "revision/REVISION-QA.md",
+  "tokens": "tokens.json",
+  "spec": "REVISION-SPEC.md",
+  "limits": ["Static boards do not prove browser behavior, timing, responsive layouts, or keyboard support.", "Film poster image rights must be verified before production reuse.", "No homepage implementation is included."]
+}

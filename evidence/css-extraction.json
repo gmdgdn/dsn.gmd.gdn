@@ -1,0 +1,508 @@
+[
+  {
+    "file": "2025-tavus-staging.6aa06206f4627ab7365a4764.35728905c.opt.css",
+    "rootCustomProperties": {
+      "--primatives--pc-plastic-1": "#f7f4ef",
+      "--themes--background": "#f7f4ef",
+      "--_typography---primary-font-family": "\"Suisse Intl\", Arial, sans-serif",
+      "--themes--text": "var(--primatives--hardware-gray-9)",
+      "--_typography---secondary-font-family": "Perfectlynineties, Georgia, sans-serif",
+      "--primatives--hardware-gray-9": "#28292a",
+      "--white-fff": "white",
+      "--buttons--button-border": "var(--themes--border)",
+      "--buttons--primary-background": "var(--primatives--bubbletech-4)",
+      "--_typography---tertiary-font-family": "\"Fk Raster Grotesk Compact Blended\", Arial, sans-serif",
+      "--buttons--button-text": "var(--themes--text)",
+      "--buttons--secondary-background": "var(--primatives--pc-plastic-2)",
+      "--primatives--neon-field-4": "#0cb531",
+      "--primatives--neon-field-2": "#38f261",
+      "--primatives--atomic-glow-1": "#ffb835",
+      "--primatives--static-white": "white",
+      "--primatives--atomic-glow-4": "#ff6810",
+      "--primatives--neon-field-1": "#7cff98",
+      "--primatives--floppy-fog-1": "#e4e0f2",
+      "--primatives--pc-plastic-2": "#eae5de",
+      "--themes--background-2": "var(--primatives--pc-plastic-2)",
+      "--sizes--border-width-1": ".08rem",
+      "--themes--background-v1": "#f3eee7",
+      "--primatives--pc-plastic-3": "#e4ddd2",
+      "--primatives--bubbletech-4": "#ff6183",
+      "--primatives--terminal-black": "#140206",
+      "--primatives--hardware-gray-8": "#484748",
+      "--themes--border": "var(--primatives--terminal-black)",
+      "--primatives--atomic-glow-00": "#fff5e3",
+      "--primatives--keyboard-tan-1": "#f6c1a8",
+      "--primatives--floppy-fog-3": "#b0a8d1",
+      "--primatives--frost-5": "#b8deff",
+      "--primatives--bubbletech-1": "#ffb4c5",
+      "--primatives--atomic-glow-5": "#ffe8bc",
+      "--primatives--bubbletech-2": "#ff8ba6",
+      "--_typography---text-weight-regular": "400",
+      "--primatives--keyboard-tan-2": "#e4a88d",
+      "--space--small": "2.5rem",
+      "--transparent": "#fff0",
+      "--primatives--atomic-glow-0": "#f6d18b",
+      "--primatives--bubbletech-3": "#ff7392",
+      "--sizes--border-width-2": ".06rem",
+      "--primatives--pc-plastic-4": "#d9d0c2",
+      "--sizes--border-width-3": "1px",
+      "--primatives--retrograde-lilac-1": "#fed7ff",
+      "--primatives--floppy-fog-2": "#d0c9ed",
+      "--primatives--atomic-glow-6": "#ffda95",
+      "--primatives--atomic-glow-2": "#ff9626",
+      "--primatives--floppy-fog-8": "#433d5b",
+      "--primatives--neon-field-3": "#1bd944",
+      "--primatives--atomic-glow-3": "#fd7f00",
+      "--primatives--frost-1": "#f4faff",
+      "--primatives--frost-2": "#e8f4ff",
+      "--primatives--frost-3": "#d8edff",
+      "--primatives--frost-4": "#cbe7ff",
+      "--space--medium": "4.38rem",
+      "--_typography---paragraph-small": "1.13rem",
+      "--_typography---text-weight-medium": "500",
+      "--primatives--retrograde-lilac-0": "#ffedff",
+      "--beige-800": "#5e5850",
+      "--primatives--retrograde-lilac-3": "#fdb3ff",
+      "--primatives--keyboard-tan-4": "#bf8a71",
+      "--primatives--floppy-fog-4": "#9e94c8",
+      "--space--gap": "1.88rem",
+      "--neon-field-0": "#b1f2be",
+      "--primatives--retrograde-lilac-4": "#ef8cf2",
+      "--primatives--keyboard-tan-3": "#d5997d",
+      "--themes--foreground": "var(--primatives--static-white)"
+    },
+    "fontFaces": [],
+    "keyframes": [],
+    "durationLiterals": [
+      "12s",
+      "15s",
+      "18s",
+      "25s",
+      "2s",
+      "3s"
+    ]
+  },
+  {
+    "file": "2025-tavus-staging.shared.309e872bd.css",
+    "rootCustomProperties": {},
+    "fontFaces": [
+      {
+        "family": "webflow-icons",
+        "weight": "normal",
+        "source": [
+          "data:application/x-font-ttf;charset=utf-8;base64,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"
+        ]
+      },
+      {
+        "family": "Fk Raster Grotesk Compact Blended",
+        "weight": "400",
+        "source": [
+          "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a21_FK%20Raster%20Grotesk%20Compact%20Blended.woff2",
+          "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a1f_FK%20Raster%20Grotesk%20Compact%20Font.woff"
+        ]
+      },
+      {
+        "family": "Suisse Intl",
+        "weight": "300",
+        "source": [
+          "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a37_SuisseIntl-LightIt.woff2",
+          "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a0e_SuisseIntl-LightIt.ttf"
+        ]
+      },
+      {
+        "family": "Suisse Intl",
+        "weight": "300",
+        "source": [
+          "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a26_SuisseIntl-Light.woff2",
+          "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a1c_SuisseIntl-Light.ttf"
+        ]
+      },
+      {
+        "family": "Suisse Intl",
+        "weight": "400",
+        "source": [
+          "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a28_SuisseIntl-RegularIt.woff2",
+          "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a0f_SuisseIntl-RegularIt.ttf"
+        ]
+      },
+      {
+        "family": "Suisse Intl",
+        "weight": "400",
+        "source": [
+          "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a38_SuisseIntl-Regular.woff2",
+          "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a19_SuisseIntl-Regular.ttf"
+        ]
+      },
+      {
+        "family": "Suisse Intl",
+        "weight": "500",
+        "source": [
+          "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a27_SuisseIntl-Medium.woff2",
+          "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a18_SuisseIntl-Medium.ttf"
+        ]
+      },
+      {
+        "family": "Suisse Intl",
+        "weight": "500",
+        "source": [
+          "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a36_SuisseIntl-MediumIt.woff2",
+          "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a12_SuisseIntl-MediumIt.ttf"
+        ]
+      },
+      {
+        "family": "Perfectlynineties",
+        "weight": "400",
+        "source": [
+          "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a23_PerfectlyNineties-Regular.woff",
+          "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a24_PerfectlyNineties-Regular.otf"
+        ]
+      },
+      {
+        "family": "Perfectlynineties",
+        "weight": "400",
+        "source": [
+          "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a22_PerfectlyNineties-Italic.woff",
+          "https://cdn.prod.website-files.com/68c8e57d6e512b9573db146f/68c8e57e6e512b9573db1a25_PerfectlyNineties-Italic.otf"
+        ]
+      }
+    ],
+    "keyframes": [
+      {
+        "name": "spin",
+        "body": "\n  0% {\n    transform: rotate(0);\n  }\n\n  100% {\n    transform: rotate(360deg);\n  }\n"
+      }
+    ],
+    "durationLiterals": [
+      "1s",
+      "3s",
+      "8s"
+    ]
+  },
+  {
+    "file": "index-CumBjg-h.css",
+    "rootCustomProperties": {
+      "--background": "0 0% 100%",
+      "--foreground": "36 7.9% 24.7%",
+      "--card": "0 0% 100%",
+      "--card-foreground": "36 7.9% 24.7%",
+      "--popover": "0 0% 100%",
+      "--popover-foreground": "210 2.4% 16.1%",
+      "--primary": "347 85.5% 62.2%",
+      "--primary-foreground": "345 100% 97%",
+      "--secondary": "0 0% 100%",
+      "--secondary-foreground": "300 2.9% 93.1%",
+      "--muted": "300 2.9% 93.1%",
+      "--row-hover": "255 33% 97.6%",
+      "--muted-foreground": "330 1% 38.4%",
+      "--accent": "210 3.1% 87.5%",
+      "--accent-foreground": "36 7.9% 24.7%",
+      "--destructive": "347 71.7% 55.7%",
+      "--destructive-foreground": "0 72.2% 50.6% / .18",
+      "--terminal-black": "347 80% 4%",
+      "--success": "132 70.6% 34.7%",
+      "--success-foreground": "133 87.6% 37.8% / .18",
+      "--warning": "38 92% 40%",
+      "--warning-foreground": "38 92% 40% / .18",
+      "--progress": "251 21.2% 55.7%",
+      "--progress-foreground": "251 21.2% 55.7% / .18",
+      "--premium": "39 100% 60.4%",
+      "--premium-foreground": "39 100% 60.4% / .18",
+      "--bg-primary90": "347 85.5% 62.2% / .9",
+      "--chart-1": "#2a78d6",
+      "--chart-2": "#eb6834",
+      "--chart-3": "#1baf7a",
+      "--chart-4": "#eda100",
+      "--chart-5": "#e87ba4",
+      "--chart-6": "#008300",
+      "--chart-7": "#4a3aa7",
+      "--chart-8": "#e34948",
+      "--border": "180 1.3% 84.5%",
+      "--input": "180 1.3% 84.5%",
+      "--ring": "347 85.5% 62.2% / .25",
+      "--radius": "0",
+      "--radius-md": ".1875rem",
+      "--radius-sm": ".09375rem",
+      "--radius-xs": "var(--radius)",
+      "--radius-lg": ".3125rem",
+      "--radius-xl": ".5rem",
+      "--radius-2xl": ".5rem",
+      "--radius-3xl": ".5rem",
+      "--radius-4xl": ".5rem",
+      "--seek-backward-button": "none",
+      "--seek-forward-button": "none",
+      "--sidebar-background": "38 30% 95%",
+      "--sidebar-foreground": "240 6% 12%",
+      "--sidebar-primary": "266 65% 60%",
+      "--sidebar-primary-foreground": "0 0% 100%",
+      "--sidebar-accent": "266 35% 96%",
+      "--sidebar-accent-foreground": "266 40% 28%",
+      "--sidebar-border": "30 10% 80%",
+      "--sidebar-ring": "266 65% 60%",
+      "--app-background": "38 30% 95%",
+      "--app-foreground": "0 0% 16%",
+      "--gray-700": "0 2% 28%",
+      "--beige-50": "38 30% 95%",
+      "--app-card": "0 0% 100%",
+      "--app-card-foreground": "0 0% 10%",
+      "--app-popover": "0 0% 100%",
+      "--app-popover-foreground": "0 0% 10%",
+      "--app-border": "0 0% 52%",
+      "--app-input": "0 0% 52%",
+      "--app-ring": "120 100% 40%",
+      "--app-primary": "120 100% 40%",
+      "--app-primary-foreground": "0 0% 100%",
+      "--app-secondary": "36 19% 81%",
+      "--app-secondary-foreground": "0 0% 10%",
+      "--app-accent": "260 50% 60%",
+      "--app-accent-foreground": "0 0% 100%",
+      "--app-muted": "0 0% 95%",
+      "--app-muted-foreground": "0 2% 39%",
+      "--app-destructive": "340 100% 50%",
+      "--app-destructive-foreground": "0 0% 100%",
+      "--app-error": "351 56% 56%",
+      "--app-error-background": "351 100% 94%",
+      "--app-foreground-dark": "210 2% 16%",
+      "--app-success": "120 100% 40%",
+      "--app-success-foreground": "0 0% 100%",
+      "--app-warning": "30 100% 50%",
+      "--app-warning-foreground": "0 0% 10%",
+      "--app-info": "260 50% 60%",
+      "--app-info-foreground": "0 0% 100%",
+      "--app-special-default": "347 85% 62%",
+      "--app-special-active": "347 56% 49%",
+      "--app-special-disabled": "347 56% 49%",
+      "--app-primary-btn-default": "133 100% 74%",
+      "--app-primary-btn-active": "133 88% 58%",
+      "--app-primary-btn-disabled": "210 3% 87%",
+      "--app-secondary-btn-default": "0 0% 100%",
+      "--app-secondary-btn-active": "180 1% 85%",
+      "--app-secondary-btn-disabled": "210 3% 87%",
+      "--app-destructive-btn-default": "347 56% 49%",
+      "--app-destructive-btn-active": "347 52% 37%",
+      "--app-destructive-btn-disabled": "210 3% 87%",
+      "--app-radius": "0rem",
+      "--app-divider": "38 24% 77%",
+      "--surface-subtle": "0 0% 97.6%",
+      "--surface-subtle-hover": "0 0% 94.1%"
+    },
+    "fontFaces": [
+      {
+        "family": "SuisseIntl",
+        "weight": "300",
+        "source": [
+          "/fonts/SuisseIntl-Light.woff2"
+        ]
+      },
+      {
+        "family": "SuisseIntl",
+        "weight": "400",
+        "source": [
+          "/fonts/SuisseIntl-Regular.woff2"
+        ]
+      },
+      {
+        "family": "SuisseIntl",
+        "weight": "500",
+        "source": [
+          "/fonts/SuisseIntl-Medium.woff2"
+        ]
+      },
+      {
+        "family": "SuisseIntl",
+        "weight": "600",
+        "source": [
+          "/fonts/SuisseIntl-Semibold.woff2"
+        ]
+      },
+      {
+        "family": "PerfectlyNineties",
+        "weight": "400",
+        "source": [
+          "/fonts/PerfectlyNineties-Regular.woff"
+        ]
+      },
+      {
+        "family": "PerfectlyNineties",
+        "weight": "400",
+        "source": [
+          "/fonts/PerfectlyNineties-Italic.woff"
+        ]
+      },
+      {
+        "family": "FKRasterGroteskCompact",
+        "weight": "400",
+        "source": [
+          "/fonts/FKRasterGroteskCompact.woff2"
+        ]
+      },
+      {
+        "family": "BerkeleyMono",
+        "weight": "400",
+        "source": [
+          "/fonts/BerkeleyMono-Regular.woff2"
+        ]
+      },
+      {
+        "family": "BerkeleyMono",
+        "weight": "500",
+        "source": [
+          "/fonts/BerkeleyMono-Medium.woff2"
+        ]
+      },
+      {
+        "family": "BerkeleyMono",
+        "weight": "500",
+        "source": [
+          "/fonts/BerkeleyMono-Medium-Oblique.woff2"
+        ]
+      },
+      {
+        "family": "BerkeleyMono",
+        "weight": "600",
+        "source": [
+          "/fonts/BerkeleyMono-SemiBold.woff2"
+        ]
+      },
+      {
+        "family": "BerkeleyMono",
+        "weight": "700",
+        "source": [
+          "/fonts/BerkeleyMono-Bold.woff2"
+        ]
+      },
+      {
+        "family": "BerkeleyMono",
+        "weight": "400",
+        "source": [
+          "/fonts/BerkeleyMono-Oblique.woff2"
+        ]
+      }
+    ],
+    "keyframes": [
+      {
+        "name": "live-pulse",
+        "body": "0%{opacity:.5;transform:scale(1)}80%,to{opacity:0;transform:scale(2.4)}"
+      },
+      {
+        "name": "shimmer",
+        "body": "0%{background-position:0 0,0 0,0 0}to{background-position:180px 108px,-144px 84px,98px -126px}"
+      },
+      {
+        "name": "accordion-down",
+        "body": "0%{height:0}to{height:var(--radix-accordion-content-height,var(--bits-accordion-content-height,var(--reka-accordion-content-height,var(--kb-accordion-content-height,var(--ngp-accordion-content-height,auto)))))}"
+      },
+      {
+        "name": "accordion-up",
+        "body": "0%{height:var(--radix-accordion-content-height,var(--bits-accordion-content-height,var(--reka-accordion-content-height,var(--kb-accordion-content-height,var(--ngp-accordion-content-height,auto)))))}to{height:0}"
+      },
+      {
+        "name": "collapsible-down",
+        "body": "0%{height:0}to{height:var(--radix-collapsible-content-height,var(--bits-collapsible-content-height,var(--reka-collapsible-content-height,var(--kb-collapsible-content-height,auto))))}"
+      },
+      {
+        "name": "collapsible-up",
+        "body": "0%{height:var(--radix-collapsible-content-height,var(--bits-collapsible-content-height,var(--reka-collapsible-content-height,var(--kb-collapsible-content-height,auto))))}to{height:0}"
+      },
+      {
+        "name": "chatter-sweep",
+        "body": "0%{-webkit-mask-position:100% 0;mask-position:100% 0}to{-webkit-mask-position:0 0;mask-position:0 0}"
+      },
+      {
+        "name": "typing-dot-bounce",
+        "body": "0%,40%{transform:translateY(0)}20%{transform:translateY(-.25rem)}"
+      },
+      {
+        "name": "charlie-pulse",
+        "body": "0%,to{opacity:.5;box-shadow:0 0 3px 1px #00d93059}50%{opacity:1;box-shadow:0 0 9px 2px #00d930cc}"
+      },
+      {
+        "name": "composer-open",
+        "body": "0%{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:translateY(0)}"
+      },
+      {
+        "name": "composer-close",
+        "body": "0%{opacity:1;transform:translateY(0)}to{opacity:0;transform:translateY(-6px)}"
+      },
+      {
+        "name": "composer-item",
+        "body": "0%{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}"
+      },
+      {
+        "name": "dp-intro-rise",
+        "body": "0%{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}"
+      },
+      {
+        "name": "section-row-in",
+        "body": "0%{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}"
+      },
+      {
+        "name": "fadeIn",
+        "body": "0%{opacity:0}to{opacity:1}"
+      },
+      {
+        "name": "fade-up",
+        "body": "0%{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}"
+      },
+      {
+        "name": "row-added-wash",
+        "body": "0%{background-color:var(--color-dp-version-changed)}55%{background-color:var(--color-dp-version-changed)}to{background-color:#0000}"
+      },
+      {
+        "name": "share-ghost-enter",
+        "body": "0%{opacity:0}to{opacity:.5}"
+      },
+      {
+        "name": "share-ghost-pulse",
+        "body": "0%{opacity:.5}to{opacity:.2}"
+      },
+      {
+        "name": "spin",
+        "body": "to{transform:rotate(360deg)}"
+      },
+      {
+        "name": "pulse",
+        "body": "50%{opacity:.5}"
+      },
+      {
+        "name": "bounce",
+        "body": "0%,to{animation-timing-function:cubic-bezier(.8,0,1,1);transform:translateY(-25%)}50%{animation-timing-function:cubic-bezier(0,0,.2,1);transform:none}"
+      },
+      {
+        "name": "enter",
+        "body": "0%{opacity:var(--tw-enter-opacity,1);transform:translate3d(var(--tw-enter-translate-x,0),var(--tw-enter-translate-y,0),0)scale3d(var(--tw-enter-scale,1),var(--tw-enter-scale,1),var(--tw-enter-scale,1))rotate(var(--tw-enter-rotate,0));filter:blur(var(--tw-enter-blur,0))}"
+      },
+      {
+        "name": "exit",
+        "body": "to{opacity:var(--tw-exit-opacity,1);transform:translate3d(var(--tw-exit-translate-x,0),var(--tw-exit-translate-y,0),0)scale3d(var(--tw-exit-scale,1),var(--tw-exit-scale,1),var(--tw-exit-scale,1))rotate(var(--tw-exit-rotate,0));filter:blur(var(--tw-exit-blur,0))}"
+      },
+      {
+        "name": "caret-blink",
+        "body": "0%,70%,to{opacity:1}20%,50%{opacity:0}"
+      }
+    ],
+    "durationLiterals": [
+      "0s",
+      "1.25s",
+      "1.2s",
+      "12s",
+      "15s",
+      "180ms",
+      "18s",
+      "1s",
+      "2.25s",
+      "2.6s",
+      "24s",
+      "25s",
+      "28s",
+      "2s",
+      "36s",
+      "3s",
+      "4s",
+      "55s",
+      "5s",
+      "75ms",
+      "7s",
+      "90ms"
+    ]
+  }
+]

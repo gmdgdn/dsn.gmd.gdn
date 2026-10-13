@@ -1,0 +1,254 @@
+{
+  "title": "Khedival Cairo facade and ornament vector studies",
+  "status": "source-informed drawn studies; not measured architectural survey",
+  "sources": [
+    {
+      "id": "source-kh01",
+      "filename": "khedival cairo architecture 1.jpg",
+      "path": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\khedival cairo architecture\\khedival cairo architecture 1.jpg",
+      "bytes": 340398,
+      "width": 1542,
+      "height": 2047,
+      "sha256": "3dc4882f7320a40c14a9227f80f83f0d9dff7fcbe6ad66ab3ec8f24899750d34",
+      "role": "Building 01 full visible front elevation"
+    },
+    {
+      "id": "source-kh01-close",
+      "filename": "khedival cairo architecture 1 closeup.jpg",
+      "path": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\khedival cairo architecture\\khedival cairo architecture 1 closeup.jpg",
+      "bytes": 383203,
+      "width": 1542,
+      "height": 2047,
+      "sha256": "8ada31e1de902228142de1e81316042a520f0b4dd67a5cae64f27ef092c7f7b7",
+      "role": "Building 01 balcony rail, frieze and window ornament closeup"
+    },
+    {
+      "id": "source-kh02",
+      "filename": "khedival cairo architecture 2.jpg",
+      "path": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\khedival cairo architecture\\khedival cairo architecture 2.jpg",
+      "bytes": 359615,
+      "width": 1542,
+      "height": 2047,
+      "sha256": "f9caecd72846d2bb777fc9c79f0ab2132401fdc9bac182175d4ae224b1c32613",
+      "role": "Building 02 full visible front elevation"
+    },
+    {
+      "id": "source-kh02-close1",
+      "filename": "khedival cairo architecture 2 closeup 1.jpg",
+      "path": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\khedival cairo architecture\\khedival cairo architecture 2 closeup 1.jpg",
+      "bytes": 434839,
+      "width": 1542,
+      "height": 2047,
+      "sha256": "9afea2645375b79a348d549c2cd85d98c78665cbc6edc1b2fc57c0fafe314595",
+      "role": "Building 02 facade, pointed window and railing closeup"
+    },
+    {
+      "id": "source-kh02-close2",
+      "filename": "khedival cairo architecture 2 closeup 2.jpg",
+      "path": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\khedival cairo architecture\\khedival cairo architecture 2 closeup 2.jpg",
+      "bytes": 464141,
+      "width": 1542,
+      "height": 2047,
+      "sha256": "f93055493d64dd9948ec473250f4b2aeb469dcf25dc67034db48afbdac440df5",
+      "role": "Building 02 balcony grille and pointed surround closeup"
+    }
+  ],
+  "elevations": [
+    {
+      "id": "kh-01-corner-turret-facade",
+      "file": "assets/kh-01-corner-turret-facade.svg",
+      "source": "source-kh01",
+      "orientation": "front elevation only",
+      "viewBox": "0 0 1450 1320",
+      "floors": "four upper window rows plus ground arcade",
+      "features": [
+        "wide low facade",
+        "rounded left corner with cupola turret",
+        "stepped central pediment and round crest",
+        "six approximate window bays",
+        "individual end balconies and shared central balconies at floors 2–3",
+        "fluted pilasters, dense cornice and pendant brackets",
+        "round-arched ground-floor arcade"
+      ],
+      "editableGroups": [
+        "b1-rounded-corner-and-walls",
+        "b1-floor-1..4-window-bay-*",
+        "b1-cornice-and-roofline",
+        "b1-fluted-brackets",
+        "b1-street-level-arcade"
+      ],
+      "claims": {
+        "surveyDimensionAccuracy": false,
+        "hiddenFaces": false
+      }
+    },
+    {
+      "id": "kh-02-pointed-arch-five-bay-facade",
+      "file": "assets/kh-02-pointed-arch-five-bay-facade.svg",
+      "source": "source-kh02",
+      "orientation": "front elevation only",
+      "viewBox": "0 0 1370 1730",
+      "floors": "six distinct window tiers: two upper tiers, elevated central third tier, three lower residential tiers; continuous baluster terrace; stone arcade; blank shop ground",
+      "features": [
+        "five vertical bays divided by pilaster-like piers",
+        "narrow stepped central crown around one large pointed recess",
+        "two upper single-opening tiers",
+        "distinctive tier-3 heights across central bays",
+        "three lower tiers with single/pair/single/pair/single groups",
+        "continuous sixth-tier baluster terrace",
+        "round-arch stone register",
+        "blank rectangular shop openings"
+      ],
+      "editableGroups": [
+        "kh2-crown-and-parapet",
+        "b2-floor-1..5-bay-*-*",
+        "kh2-stone-arcade",
+        "kh2-ground-shops"
+      ],
+      "claims": {
+        "surveyDimensionAccuracy": false,
+        "hiddenFaces": false,
+        "windowGroupAlignment": "original study layout; separate centered-window variant provided"
+      }
+    },
+    {
+      "id": "kh-02-centered-window-bays",
+      "file": "assets/kh-02-centered-window-bays.svg",
+      "source": "source-kh02",
+      "orientation": "front elevation only",
+      "status": "separate alignment variant; original layout preserved",
+      "viewBox": "0 0 1200 1870",
+      "features": [
+        "whole single and paired window groups centered within five bay bounds",
+        "balconies move with associated window group",
+        "central crown aligned to median bay axis"
+      ],
+      "preserves": "assets/kh-02-pointed-arch-five-bay-facade-original-layout.svg",
+      "claims": {
+        "surveyDimensionAccuracy": false,
+        "hiddenFaces": false,
+        "translatedWindowGroups": true
+      }
+    },
+    {
+      "id": "kh-01-source-specific-cupola-terrace",
+      "file": "assets/kh-01-source-specific-cupola-terrace.svg",
+      "source": "source-kh01",
+      "detailSource": "source-kh01-close",
+      "orientation": "front elevation only",
+      "status": "added source-specific alternative for comparison; earlier draft retained",
+      "viewBox": "0 0 1440 1780",
+      "floors": "four tall window levels, continuous lower terrace, open arched ground arcade",
+      "features": [
+        "tall ribbed onion cupola with pointed lantern finial and three oval cartouches",
+        "large concave-shouldered fluted central pediment and oval crest",
+        "five primary window axes",
+        "top balcony groupings span paired bays 1–2 and 4–5",
+        "middle groupings emphasize center bay and paired bays 4–5",
+        "no individual balconies at lowest window tier",
+        "continuous lowest hourglass-baluster terrace",
+        "open round arches without inserted window crossbars"
+      ],
+      "editableGroups": [
+        "b1a-massing-and-rounded-return",
+        "b1a-onion-cupola",
+        "b1a-raised-center-pediment",
+        "b1a-roof-parapet",
+        "b1a-four-distinct-window-levels",
+        "b1a-continuous-terrace-rail",
+        "b1a-open-arcade"
+      ],
+      "claims": {
+        "surveyDimensionAccuracy": false,
+        "hiddenFaces": false
+      }
+    },
+    {
+      "id": "kh-02-pointed-arch-five-bay-facade-original-layout",
+      "file": "assets/kh-02-pointed-arch-five-bay-facade-original-layout.svg",
+      "source": "source-kh02",
+      "orientation": "front elevation only",
+      "status": "preserved original-layout snapshot; do not overwrite",
+      "viewBox": "0 0 1200 1870",
+      "claims": {
+        "surveyDimensionAccuracy": false,
+        "hiddenFaces": false
+      }
+    }
+  ],
+  "ornaments": [
+    {
+      "id": "kh-p01-swag-scroll-iron-rail",
+      "file": "assets/kh-p01-swag-scroll-iron-rail.svg",
+      "source": "source-kh01-close",
+      "role": "Paired boundary scrolls, twin beaded swags and centered pendant",
+      "repeatable": true,
+      "repeatUnit": {
+        "width": 120,
+        "height": 120
+      },
+      "repeatVerification": "The 120×120 unit has matching horizontal rails at its boundaries; the comparison strip is exactly one cell high."
+    },
+    {
+      "id": "kh-p02-hourglass-baluster",
+      "file": "assets/kh-p02-hourglass-baluster.svg",
+      "source": "source-kh01-close",
+      "role": "02 hourglass baluster",
+      "repeatable": true,
+      "repeatUnit": {
+        "width": 90,
+        "height": 120
+      },
+      "repeatVerification": "Explicit SVG pattern unit with identical repeated cell and aligned rails; bounded panel example."
+    },
+    {
+      "id": "kh-p03-fluted-dentil-rosette-frieze",
+      "file": "assets/kh-p03-fluted-dentil-rosette-frieze.svg",
+      "source": "source-kh01-close",
+      "role": "03 fluted dentil rosette frieze",
+      "repeatable": true,
+      "repeatUnit": {
+        "width": 144,
+        "height": 90
+      },
+      "repeatVerification": "Explicit SVG pattern unit with identical repeated cell and aligned rails; bounded panel example."
+    },
+    {
+      "id": "kh-p04-pointed-trefoil-rail",
+      "file": "assets/kh-p04-pointed-trefoil-rail.svg",
+      "source": "source-kh02-close2",
+      "role": "Centered trefoil openings within three equal Gothic grille bays",
+      "repeatable": true,
+      "repeatUnit": {
+        "width": 144,
+        "height": 136
+      },
+      "repeatVerification": "Three 48-unit pointed bays and their centered trefoil/bar sets repeat in a 144×136 cell with matching edge rails."
+    },
+    {
+      "id": "kh-p05-nested-pointed-window-arch",
+      "file": "assets/kh-p05-nested-pointed-window-arch.svg",
+      "source": "source-kh02-close1",
+      "role": "05 nested pointed window arch",
+      "repeatable": false,
+      "repeatUnit": null,
+      "repeatVerification": "Single nested archivolt surround; explicitly not a plane repeat."
+    }
+  ],
+  "palette": {
+    "ink": "#140206",
+    "paper": "#F7F4EF",
+    "nile": "#1034A6",
+    "terracotta": "#9C4937"
+  },
+  "limitations": [
+    "These reconstructions trace only the photographed visible elevations. They do not infer hidden sides, interiors, locations, architects, dates or measured dimensions.",
+    "Fine motifs and proportions are approximations from printed drawings and photographs, not survey documents.",
+    "Repeat is claimed only for four explicit ornament cells, not for the facade compositions."
+  ],
+  "validation": {
+    "xmlParsed": true,
+    "xmlParsedAssetCount": 10,
+    "notes": "All 10 SVG assets parse as XML. Browser-rendered source and variant images load; B1 source-specific alternative, B2 bay-centered variant, P01 and P04 were visually checked. Source fidelity remains interpretive and is pending parent review."
+  }
+}

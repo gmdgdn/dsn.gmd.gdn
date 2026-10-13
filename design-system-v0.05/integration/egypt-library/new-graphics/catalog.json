@@ -1,0 +1,610 @@
+{
+  "collection": "New Egyptian inspiration batch 2",
+  "sourceFolder": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2",
+  "count": 25,
+  "idOrder": "case-insensitive filename sort",
+  "entries": [
+    {
+      "id": "G2-001",
+      "originalFilename": "825256711_1636834191415179_8560419575304202912_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\825256711_1636834191415179_8560419575304202912_n.jpg",
+      "reviewCopy": "sources/G2-001.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 384081,
+      "sha256": "e71032ea4d48c038104d31889970ecd2d8284036fcc01ceed64ac2006e1af1bc",
+      "visualNotes": "A dense black-ink, portrait-format scene on muted rose paper: people, tall staffs and a large sweeping creature-like banner; photograph appears rotated relative to page text.",
+      "curatedUse": "Archival illustration viewer with full image and rotation control; avoid separating/branding the individual figures.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": null,
+      "sourceCrop": null,
+      "cropCoordinatesPx": null,
+      "phash64": null
+    },
+    {
+      "id": "G2-002",
+      "originalFilename": "825256750_1116978884030484_8086006700757686010_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\825256750_1116978884030484_8086006700757686010_n.jpg",
+      "reviewCopy": "sources/G2-002.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 178602,
+      "sha256": "71085d5bf8bf65c7ca74de28b0d1668b59fdc76f708d3dc4e03041a833ad7e5f",
+      "visualNotes": "A single muted-green, oversized round callout form with a long two-bend taper and small terminal loop; Arabic headline sits inside.",
+      "curatedUse": "Pull-quote/campaign title field with live text layered separately; source lettering is not traced.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": "g2-002-callout-silhouette",
+      "sourceCrop": "source-crops/G2-002.jpg",
+      "cropCoordinatesPx": [
+        100,
+        150,
+        1430,
+        1830
+      ],
+      "phash64": null
+    },
+    {
+      "id": "G2-003",
+      "originalFilename": "825256768_1681944333338771_6686200812712191346_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\825256768_1681944333338771_6686200812712191346_n.jpg",
+      "reviewCopy": "sources/G2-003.jpg",
+      "width": 2048,
+      "height": 1542,
+      "bytes": 331697,
+      "sha256": "22ea9af07ba69f87405d1aef6355cfa77c040a41d5cf1a4b3dc53acb8ec3d0a2",
+      "visualNotes": "Large radially divided fan/dial with densely striped wedges, nested rim triangles, a long diamond-grid handle, and two net-filled oval attachments.",
+      "curatedUse": "Large editorial diagram/seal, with the source center image left as a replaceable aperture.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "same radial-dial illustration appears again as G2-021; treated as duplicate photo/source object.",
+      "derivedStudy": "g2-003-striped-fan-dial",
+      "sourceCrop": "source-crops/G2-003.jpg",
+      "cropCoordinatesPx": [
+        0,
+        0,
+        2048,
+        1250
+      ],
+      "phash64": null
+    },
+    {
+      "id": "G2-004",
+      "originalFilename": "825256790_1028381976900050_9080545589109461343_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\825256790_1028381976900050_9080545589109461343_n.jpg",
+      "reviewCopy": "sources/G2-004.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 394977,
+      "sha256": "90b40a4be99ce1feebbafccfd1b140ccd15e679be3e17cb370e1d75815c8889f",
+      "visualNotes": "Black line illustration of a seated figure crossed by dense diagonal construction lines and layered circular/rectilinear marks.",
+      "curatedUse": "Contextual source-image viewer; do not convert human figure into a generic logo.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": null,
+      "sourceCrop": null,
+      "cropCoordinatesPx": null,
+      "phash64": null
+    },
+    {
+      "id": "G2-005",
+      "originalFilename": "825256821_1425077589585486_2403146973244780135_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\825256821_1425077589585486_2403146973244780135_n.jpg",
+      "reviewCopy": "sources/G2-005.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 218844,
+      "sha256": "4e5f382d26e2a161784be5273ebbe4fb548d36ee0223e7ad3ff0e998fac8f109",
+      "visualNotes": "Photographed magazine page organized as four differently colored image-and-caption panels with mixed illustration scales.",
+      "curatedUse": "Four-panel editorial grid; preserve the supplied page and derive content/layout slots only.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": null,
+      "sourceCrop": null,
+      "cropCoordinatesPx": null,
+      "phash64": null
+    },
+    {
+      "id": "G2-006",
+      "originalFilename": "828304676_987138407757944_506388023552591513_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\828304676_987138407757944_506388023552591513_n.jpg",
+      "reviewCopy": "sources/G2-006.jpg",
+      "width": 2048,
+      "height": 1542,
+      "bytes": 325369,
+      "sha256": "79b7a0e7cbf0549281f32419348c973ac524b7cebf15a18016b6173a0137c968",
+      "visualNotes": "Light horizontal page with a bold blue edge rule, tiny colored marks, four blue wave strokes, a diagonal plotted route, and a red square image plate.",
+      "curatedUse": "Archive or chapter layout with separate image, metadata, route and caption slots.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": "g2-006-rail-wave-index",
+      "sourceCrop": "source-crops/G2-006.jpg",
+      "cropCoordinatesPx": [
+        0,
+        0,
+        2048,
+        1542
+      ],
+      "phash64": null
+    },
+    {
+      "id": "G2-007",
+      "originalFilename": "828615665_1504848201450455_2487698917471301448_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\828615665_1504848201450455_2487698917471301448_n.jpg",
+      "reviewCopy": "sources/G2-007.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 208789,
+      "sha256": "ea1417007d42e776ae4c6717bff929af1965d63abd569d0e0751afe9d19a7574",
+      "visualNotes": "A page spread with a tall film-strip-like illustration column beside Arabic body copy and an adjacent image.",
+      "curatedUse": "Film/editorial narrative rail; retain copy as type and source drawing as image.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": null,
+      "sourceCrop": null,
+      "cropCoordinatesPx": null,
+      "phash64": null
+    },
+    {
+      "id": "G2-008",
+      "originalFilename": "829554237_1619454296357949_4865594336347228965_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\829554237_1619454296357949_4865594336347228965_n.jpg",
+      "reviewCopy": "sources/G2-008.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 381541,
+      "sha256": "142ccd63de3bbc4b0b642c881fbef582cee0fd08418fb02332dfd86c36611229",
+      "visualNotes": "Dense black printed dot field with slightly irregular spacing and dot weights across a light sheet.",
+      "curatedUse": "Print-inspired peripheral texture; use a regularized repeat only as a clearly labeled new graphic.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": "g2-008-halftone-dot-matrix",
+      "sourceCrop": "source-crops/G2-008.jpg",
+      "cropCoordinatesPx": [
+        0,
+        0,
+        1542,
+        2047
+      ],
+      "phash64": null
+    },
+    {
+      "id": "G2-009",
+      "originalFilename": "829872620_1421641943277443_8638951766202731725_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\829872620_1421641943277443_8638951766202731725_n.jpg",
+      "reviewCopy": "sources/G2-009.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 299048,
+      "sha256": "db2478b35c79aecd7bd2b3ae5202048b1f8dbdbcf94cc69585dc4fb1665a6a98",
+      "visualNotes": "Editorial page collage of portrait crops, red/blue blocks, and a dense Arabic text panel.",
+      "curatedUse": "People/collection collage; source images need caption and provenance, not decorative reuse.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": null,
+      "sourceCrop": null,
+      "cropCoordinatesPx": null,
+      "phash64": null
+    },
+    {
+      "id": "G2-010",
+      "originalFilename": "830186740_1118827464421194_8080629488412690931_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\830186740_1118827464421194_8080629488412690931_n.jpg",
+      "reviewCopy": "sources/G2-010.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 241731,
+      "sha256": "1a8cfd6b9fb066c8266d0dd1df95030aacb9582c8c2239b744a0e477c8819b7e",
+      "visualNotes": "Close crop of expressive hand-painted Arabic display lettering, green marks, and punctuation on paper.",
+      "curatedUse": "Display typography reference only; never approximate the source lettering with geometric marks.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": null,
+      "sourceCrop": null,
+      "cropCoordinatesPx": null,
+      "phash64": null
+    },
+    {
+      "id": "G2-011",
+      "originalFilename": "830232409_2165628633990940_7449908802334916034_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\830232409_2165628633990940_7449908802334916034_n.jpg",
+      "reviewCopy": "sources/G2-011.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 235361,
+      "sha256": "2d3fec43788e05c9f6955ab150ef11175bdda47cf893e70f6aad376304c94379",
+      "visualNotes": "Sideways page view with two decorative floral/figure vignettes and a central long linear ornament.",
+      "curatedUse": "Page rotation and illustration placement study; preserve original crop and avoid transcribing.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": null,
+      "sourceCrop": null,
+      "cropCoordinatesPx": null,
+      "phash64": null
+    },
+    {
+      "id": "G2-012",
+      "originalFilename": "830433433_857075077431962_7576702943643661977_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\830433433_857075077431962_7576702943643661977_n.jpg",
+      "reviewCopy": "sources/G2-012.jpg",
+      "width": 2048,
+      "height": 1542,
+      "bytes": 310811,
+      "sha256": "c521cca6d4adb235bd08b7dc33cac94a9d769ec7a066019500ff48cf5f467146",
+      "visualNotes": "Landscape crop of a stylized woman portrait on a geometric/organic ground, with parallel hatch strokes and a green hat.",
+      "curatedUse": "Editorial portrait image; provide original-view route and focal crop controls.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "same portrait drawing appears again as G2-018; alternate photograph/crop.",
+      "derivedStudy": null,
+      "sourceCrop": null,
+      "cropCoordinatesPx": null,
+      "phash64": null
+    },
+    {
+      "id": "G2-013",
+      "originalFilename": "830452346_1607659984131867_1119807409296312904_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\830452346_1607659984131867_1119807409296312904_n.jpg",
+      "reviewCopy": "sources/G2-013.jpg",
+      "width": 2048,
+      "height": 1542,
+      "bytes": 319519,
+      "sha256": "72ec1bb3cf35b0ef9ecd2fa43ad5ecf9fd19d7f2dc6999a27c1d1f56ad9374fb",
+      "visualNotes": "Long narrow band of expressive stylized faces and hair/eye marks running between Arabic text columns.",
+      "curatedUse": "Illustrated margin and column rhythm; keep faces contextualized and do not extract into anonymous ornament.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "same expressive face strip appears again as G2-020; alternate photograph/crop.",
+      "derivedStudy": null,
+      "sourceCrop": null,
+      "cropCoordinatesPx": null,
+      "phash64": null
+    },
+    {
+      "id": "G2-014",
+      "originalFilename": "830694491_1676958827185456_3937584801894932885_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\830694491_1676958827185456_3937584801894932885_n.jpg",
+      "reviewCopy": "sources/G2-014.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 191008,
+      "sha256": "0e5138e002d5ffa45563c3c54cf3ab42d49a9a9d254d4fc85c4a1b300d3feb1e",
+      "visualNotes": "Abstract black-line scene of angular pylons, a broad sweep, nested opening, mesh-like lozenge, triangle cluster and scattered dots.",
+      "curatedUse": "Conceptual illustration; drawable construction vocabulary without asserting a real architectural site.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "related angular linework companion appears again as G2-023; views overlap in vocabulary but differ in crop/composition.",
+      "derivedStudy": "g2-014-angular-architecture",
+      "sourceCrop": "source-crops/G2-014.jpg",
+      "cropCoordinatesPx": [
+        0,
+        0,
+        1542,
+        2047
+      ],
+      "phash64": null
+    },
+    {
+      "id": "G2-015",
+      "originalFilename": "830787517_1091289046819370_8487935465852161691_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\830787517_1091289046819370_8487935465852161691_n.jpg",
+      "reviewCopy": "sources/G2-015.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 316850,
+      "sha256": "6963be1a535fe679b1ab4b272e7d9a9994c9c9dd746f14d30e4283c09fa11e39",
+      "visualNotes": "Portrait poster with inked portrait framed by a double rectangular rule, looped corners, unequal burst marks, and a dark caption plaque.",
+      "curatedUse": "Replaceable portrait aperture; extract frame geometry only, not portrait or lettering.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": "g2-015-loop-burst-aperture",
+      "sourceCrop": "source-crops/G2-015.jpg",
+      "cropCoordinatesPx": [
+        0,
+        0,
+        1542,
+        2047
+      ],
+      "phash64": null
+    },
+    {
+      "id": "G2-016",
+      "originalFilename": "831154036_1601167731484512_4031912321573404135_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\831154036_1601167731484512_4031912321573404135_n.jpg",
+      "reviewCopy": "sources/G2-016.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 273038,
+      "sha256": "1f33c16082cbacedcde7c756579b0dbf7f6db704b30e4ace691077c2cb2bb6fd",
+      "visualNotes": "Tall line drawing of a seated person with a long tapering smoke plume above a small vessel.",
+      "curatedUse": "Full editorial illustration only; not an interface motif or generic lifestyle symbol.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": null,
+      "sourceCrop": null,
+      "cropCoordinatesPx": null,
+      "phash64": null
+    },
+    {
+      "id": "G2-017",
+      "originalFilename": "831154036_1804936920833198_1583804643893970977_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\831154036_1804936920833198_1583804643893970977_n.jpg",
+      "reviewCopy": "sources/G2-017.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 296224,
+      "sha256": "c0cab73e18385c2049f9c7f8c1d7bb086efbca7ca0d19810a71e0e5700406243",
+      "visualNotes": "Cartoon figure carries a framed image of another cartoon figure; line motion marks sit around the figure.",
+      "curatedUse": "Character illustration; keep as a source image, not an icon family.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": null,
+      "sourceCrop": null,
+      "cropCoordinatesPx": null,
+      "phash64": null
+    },
+    {
+      "id": "G2-018",
+      "originalFilename": "831235921_1102708535944360_3662685562113198592_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\831235921_1102708535944360_3662685562113198592_n.jpg",
+      "reviewCopy": "sources/G2-018.jpg",
+      "width": 2048,
+      "height": 1542,
+      "bytes": 267000,
+      "sha256": "80763255fcef897ca482faa83b626c4523d1345007e111fb05de68c5d12280b1",
+      "visualNotes": "Landscape crop of the same stylized woman portrait/green-hat drawing visible in G2-012, photographed at a different scale/crop.",
+      "curatedUse": "Duplicate/crop candidate of G2-012; compare source before selecting one for a layout.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": null,
+      "sourceCrop": null,
+      "cropCoordinatesPx": null,
+      "phash64": null
+    },
+    {
+      "id": "G2-019",
+      "originalFilename": "831905475_1863910681656021_2347050042683160535_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\831905475_1863910681656021_2347050042683160535_n.jpg",
+      "reviewCopy": "sources/G2-019.jpg",
+      "width": 2048,
+      "height": 1542,
+      "bytes": 481263,
+      "sha256": "2f0596d60d74598f72efae4822186ccbcbe51f409ba20b1b6ec17fecdaf27bed",
+      "visualNotes": "Muted-red horizontal field of fine parallel rules; one outlined angular connector with circular hub and three small stacked diagram stages.",
+      "curatedUse": "Process/diagram composition, with the labels and source drawing replaced independently.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": "g2-019-red-angular-sequence",
+      "sourceCrop": "source-crops/G2-019.jpg",
+      "cropCoordinatesPx": [
+        0,
+        0,
+        2048,
+        1542
+      ],
+      "phash64": null
+    },
+    {
+      "id": "G2-020",
+      "originalFilename": "832130180_1974975376518033_7601523503456395483_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\832130180_1974975376518033_7601523503456395483_n.jpg",
+      "reviewCopy": "sources/G2-020.jpg",
+      "width": 2048,
+      "height": 1542,
+      "bytes": 294764,
+      "sha256": "65191b0c413c4922a75288bddefbb03845c76005df03fbf9dda631fa39a8db0f",
+      "visualNotes": "A vertical strip of expressive cartoon-like faces and eye/hair marks between text blocks, visually matching G2-013.",
+      "curatedUse": "Duplicate/crop candidate of G2-013; do not use faces as anonymous repeat.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": null,
+      "sourceCrop": null,
+      "cropCoordinatesPx": null,
+      "phash64": null
+    },
+    {
+      "id": "G2-021",
+      "originalFilename": "832526729_1777099353570350_7448531030968252998_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\832526729_1777099353570350_7448531030968252998_n.jpg",
+      "reviewCopy": "sources/G2-021.jpg",
+      "width": 2048,
+      "height": 1542,
+      "bytes": 303674,
+      "sha256": "aa062b6bae1713840c93054cddf1f17d4ceb1afaf337dacc1f6487aa685a06c0",
+      "visualNotes": "Same radial fan/dial, diamond-grid handle and netted oval attachments shown in G2-003, in another page photograph.",
+      "curatedUse": "Duplicate illustration candidate of G2-003; best used as a single source reference.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": "g2-003-striped-fan-dial",
+      "sourceCrop": "source-crops/G2-021.jpg",
+      "cropCoordinatesPx": [
+        0,
+        0,
+        2048,
+        1250
+      ],
+      "phash64": null
+    },
+    {
+      "id": "G2-022",
+      "originalFilename": "833162509_1449534357077945_4278073456350365343_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\833162509_1449534357077945_4278073456350365343_n.jpg",
+      "reviewCopy": "sources/G2-022.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 446534,
+      "sha256": "05189314582457b7ed65ac5ce8650ccc94b168915a43356729e20280d4fc956a",
+      "visualNotes": "Dense cream/black/ochre illustrated collage with concentric disks, broken triangle/zigzag bands, dotted fields, figure-like symbols and large display lettering.",
+      "curatedUse": "Extract layered mark density and bands only; do not redraw figures or title lettering.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": "g2-022-concentric-collage-grammar",
+      "sourceCrop": "source-crops/G2-022.jpg",
+      "cropCoordinatesPx": [
+        120,
+        450,
+        1450,
+        1390
+      ],
+      "phash64": null
+    },
+    {
+      "id": "G2-023",
+      "originalFilename": "833215824_935227265940146_8084306094220971949_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\833215824_935227265940146_8084306094220971949_n.jpg",
+      "reviewCopy": "sources/G2-023.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 199354,
+      "sha256": "4320a78453859814800fc715894392cced26dfb3a1f8f3d73527167af6c027d9",
+      "visualNotes": "A second photographed view of the angular abstract line drawing family in G2-014; shows more of the surrounding composition and scattered marks.",
+      "curatedUse": "Related companion/crop to G2-014; use both to understand the compositional vocabulary, not as separate historical objects.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": "g2-014-angular-architecture",
+      "sourceCrop": "source-crops/G2-023.jpg",
+      "cropCoordinatesPx": [
+        0,
+        0,
+        1542,
+        2047
+      ],
+      "phash64": null
+    },
+    {
+      "id": "G2-024",
+      "originalFilename": "833924204_1646028680222873_3485928923557583651_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\833924204_1646028680222873_3485928923557583651_n.jpg",
+      "reviewCopy": "sources/G2-024.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 281133,
+      "sha256": "4506e80d7e116bb84189c74be5cb359d4a2265ed3b305bb078d0e0f277596b0a",
+      "visualNotes": "Text-heavy editorial page with a narrow vertical line of expressive face/plant-like doodles and a small cartoon vignette.",
+      "curatedUse": "Narrow illustrated margin and text-column relationship; retain as a contextual image.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": null,
+      "sourceCrop": null,
+      "cropCoordinatesPx": null,
+      "phash64": null
+    },
+    {
+      "id": "G2-025",
+      "originalFilename": "EGYPT 1971 FDC FIRST DAY COVER OPERA OF AIDA.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\2\\EGYPT 1971 FDC FIRST DAY COVER OPERA OF AIDA.jpg",
+      "reviewCopy": "sources/G2-025.jpg",
+      "width": 2048,
+      "height": 1542,
+      "bytes": 233484,
+      "sha256": "7d7e1ec6a5c0b3c40a21c0d6911cc17f732ffc22bc466c4a401fe66bed2bbaec",
+      "visualNotes": "Black/yellow/cream illustrated book spread with people, faces, round forms, and a dark ground; the filename misleadingly calls this a 1971 first-day cover.",
+      "curatedUse": "The actual content is an illustrated spread, not the mail object named by the file. Treat filename as unverified metadata and link to source image.",
+      "duplicateAgainstEG": {
+        "exactHashMatches": [],
+        "visualCheck": "No exact content duplicate confirmed by contact-sheet/original review; filename collision G2-025 vs EG-002 is not a content match."
+      },
+      "sourceStatus": "supplied visual reference; provenance/date/rights unverified",
+      "internalDuplicateNotes": "",
+      "derivedStudy": null,
+      "sourceCrop": null,
+      "cropCoordinatesPx": null,
+      "phash64": null
+    }
+  ],
+  "visualReview": "All 25 contact-sheet entries were visually inspected; selected source crops were compared against the original review copies. Content notes report visible features, not provenance.",
+  "duplicateMethod": "Exact SHA-256 comparison against 37 EG review-image hashes plus visual comparison of G2 contact sheets and repeated candidate originals. Filename similarity alone is not treated as an image duplicate."
+}

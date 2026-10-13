@@ -1,0 +1,420 @@
+- main:
+  - complementary:
+    - navigation:
+      - link "Go to Home Page":
+        - /url: /dev/home
+      - link "New PAL":
+        - /url: /dev/pals/create
+        - generic: New PAL
+      - list:
+        - link "Home":
+          - /url: /dev/home
+          - generic: Home
+        - link "PALs":
+          - /url: /dev/pals
+          - generic: PALs
+        - link "Deployments":
+          - /url: /dev/deployments
+          - generic: Deployments
+        - link "Conversations":
+          - /url: /dev/conversations
+          - generic: Conversations
+      - heading "ASSETS" [level=3]
+      - list:
+        - link "Starter Kits":
+          - /url: /dev/starter-kits
+          - generic: Starter Kits
+        - link "Faces" [active]:
+          - /url: /dev/faces
+          - generic: Faces
+        - link "Voices":
+          - /url: /dev/voices
+          - generic: Voices
+        - link "Knowledge Base":
+          - /url: /dev/documents
+          - generic: Knowledge Base
+        - link "Memories":
+          - /url: /dev/memories
+          - generic: Memories
+        - link "Connectors & Tools":
+          - /url: /dev/connectors
+          - generic: Connectors & Tools
+        - link "Guardrails":
+          - /url: /dev/guardrails
+          - generic: Guardrails
+        - link "Pronunciations":
+          - /url: /dev/pronunciation-dictionaries
+          - generic: Pronunciations
+    - list:
+      - link "Get 2× minutes when you upgrade":
+        - /url: /dev/billing
+        - generic: Get 2× minutes when you upgrade
+      - list:
+        - link "API Keys":
+          - /url: /dev/api-keys
+          - generic: API Keys
+        - button "Support":
+          - generic: Support
+      - button "gg gmd gdn":
+        - generic: gg
+        - generic: gmd gdn
+  - complementary "Griffin announcement":
+    - paragraph: "Coming soon: Griffin"
+    - paragraph: The first Human Interaction Model
+    - link "Read the research":
+      - /url: https://www.tavus.io/griffin
+      - text: Read the research
+    - link "Join the waitlist":
+      - /url: https://griffin.tavus.io/waitlist
+      - text: Join the waitlist
+    - button "Dismiss the Griffin announcement":
+  - heading "Faces" [level=1]
+  - paragraph:
+    - text: The visual likeness of your PALs.
+    - link "Read the docs ↗":
+      - /url: https://docs.tavus.io/api-reference/faces/list-faces
+  - group "Type":
+    - radio "All" [checked]
+    - radio "Stock"
+    - radio "Custom"
+  - textbox "Search by name or ID"
+  - button "Model":
+    - generic: Model
+  - button "Sort":
+    - generic: Sort
+  - button "Tags":
+    - generic: Tags
+  - button "New Face" [disabled]:
+    - text: New Face
+  - heading "System Faces" [level=2]
+  - img "Daniel - Library"
+  - generic: PRO
+  - generic: phoenix-4.5
+  - heading "Daniel - Library" [level=4]: Daniel Library
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=rc39f215e8cb
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=rc39f215e8cb
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=rc39f215e8cb
+    - generic: Generate Video
+  - img "Lucy - Home"
+  - generic: PRO
+  - generic: phoenix-4.5
+  - heading "Lucy - Home" [level=4]: Lucy Home
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=r4067604db72
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=r4067604db72
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=r4067604db72
+    - generic: Generate Video
+  - generic: PRO
+  - generic: phoenix-4.5
+  - heading "Jackie - Office" [level=4]: Jackie Office
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=rb32069a3012
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=rb32069a3012
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=rb32069a3012
+    - generic: Generate Video
+  - img "Darius - Outdoor"
+  - generic: PRO
+  - generic: phoenix-4.5
+  - heading "Darius - Outdoor" [level=4]: Darius Outdoor
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=rccbeedfc684
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=rccbeedfc684
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=rccbeedfc684
+    - generic: Generate Video
+  - img "Victor - Office"
+  - generic: PRO
+  - generic: phoenix-4.5
+  - heading "Victor - Office" [level=4]: Victor Office
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=rb1d65103218
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=rb1d65103218
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=rb1d65103218
+    - generic: Generate Video
+  - img "Lucas - Studio"
+  - generic: PRO
+  - generic: phoenix-4.5
+  - heading "Lucas - Studio" [level=4]: Lucas Studio
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=r3f4182ef554
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=r3f4182ef554
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=r3f4182ef554
+    - generic: Generate Video
+  - img "Anna - Casual"
+  - generic: PRO
+  - generic: phoenix-4.5
+  - heading "Anna - Casual" [level=4]: Anna Casual
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=rc9cff32ceba
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=rc9cff32ceba
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=rc9cff32ceba
+    - generic: Generate Video
+  - img "Ruby - Office"
+  - generic: phoenix-4.5
+  - heading "Ruby - Office" [level=4]: Ruby Office
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=rf90eb925bd8
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=rf90eb925bd8
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=rf90eb925bd8
+    - generic: Generate Video
+  - img "Dr. Paws"
+  - generic: phoenix-4.5
+  - heading "Dr. Paws" [level=4]
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=r21a52c53fa4
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=r21a52c53fa4
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=r21a52c53fa4
+    - generic: Generate Video
+  - img "Gloria - Warm"
+  - generic: phoenix-4
+  - heading "Gloria - Warm" [level=4]: Gloria Warm
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=r3f427f43c9d
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=r3f427f43c9d
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=r3f427f43c9d
+    - generic: Generate Video
+  - img "Daniel - Office"
+  - generic: phoenix-4
+  - heading "Daniel - Office" [level=4]: Daniel Office
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=r72f7f7f7c8b
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=r72f7f7f7c8b
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=r72f7f7f7c8b
+    - generic: Generate Video
+  - img "Julia - Business"
+  - generic: phoenix-4
+  - heading "Julia - Business" [level=4]: Julia Business
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=rd27826c12a6
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=rd27826c12a6
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=rd27826c12a6
+    - generic: Generate Video
+  - img "Raj - Home"
+  - generic: phoenix-4
+  - heading "Raj - Home" [level=4]: Raj Home
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=rf8f3aa4b33e
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=rf8f3aa4b33e
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=rf8f3aa4b33e
+    - generic: Generate Video
+  - img "Darius - Outdoor"
+  - generic: phoenix-4
+  - heading "Darius - Outdoor" [level=4]: Darius Outdoor
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=r4ba1277e4fb
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=r4ba1277e4fb
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=r4ba1277e4fb
+    - generic: Generate Video
+  - img "Gabby - Home"
+  - generic: phoenix-4
+  - heading "Gabby - Home" [level=4]: Gabby Home
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=r291e545fd67
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=r291e545fd67
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=r291e545fd67
+    - generic: Generate Video
+  - img "Gloria - Studio"
+  - generic: phoenix-4
+  - heading "Gloria - Studio" [level=4]: Gloria Studio
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=r9664272580d
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=r9664272580d
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=r9664272580d
+    - generic: Generate Video
+  - img "Mary - Business"
+  - generic: phoenix-4
+  - heading "Mary - Business" [level=4]: Mary Business
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=r55e6793f10f
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=r55e6793f10f
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=r55e6793f10f
+    - generic: Generate Video
+  - img "Raj - Business"
+  - generic: phoenix-4
+  - heading "Raj - Business" [level=4]: Raj Business
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=re6220ec0195
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=re6220ec0195
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=re6220ec0195
+    - generic: Generate Video
+  - img "Mary - Home"
+  - generic: phoenix-4
+  - heading "Mary - Home" [level=4]: Mary Home
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=r378d159c7b0
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=r378d159c7b0
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=r378d159c7b0
+    - generic: Generate Video
+  - img "Lucy - Home"
+  - generic: phoenix-4
+  - heading "Lucy - Home" [level=4]: Lucy Home
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=rfc63eab317e
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=rfc63eab317e
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=rfc63eab317e
+    - generic: Generate Video
+  - img "Lucy - Studio"
+  - generic: phoenix-4
+  - heading "Lucy - Studio" [level=4]: Lucy Studio
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=r53a461095cf
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=r53a461095cf
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=r53a461095cf
+    - generic: Generate Video
+  - img "Helen - Home"
+  - generic: phoenix-4
+  - heading "Helen - Home" [level=4]: Helen Home
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=rbd2cdb9a3f3
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=rbd2cdb9a3f3
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=rbd2cdb9a3f3
+    - generic: Generate Video
+  - img "Helen - Casual"
+  - generic: phoenix-4
+  - heading "Helen - Casual" [level=4]: Helen Casual
+  - button "More options":
+    - generic: More options
+  - link "Create PAL":
+    - /url: /dev/pals/create?replicaId=r12d3eb75ec2
+    - generic: Create PAL
+  - link "Call PAL":
+    - /url: /dev/conversations/create?replicaId=r12d3eb75ec2
+    - generic: Call PAL
+  - link "Generate Video":
+    - /url: /dev/videos/create?replicaId=r12d3eb75ec2
+    - generic: Generate Video
+- region "Notifications (F8)":
+  - list
+- iframe [id="I0_1791015854049"] [name="I0_1791015854049"]

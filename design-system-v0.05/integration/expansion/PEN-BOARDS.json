@@ -1,0 +1,37 @@
+{
+  "document": "C:/Users/khorm/.pencil/documents/8b4c9a2a-091b-4893-b343-951b27b66afc/pencil-new.pen",
+  "boards": [
+    {
+      "id": "SSwwg",
+      "title": "GMD Expansion v0.05 â€” Semantic foundations",
+      "status": "draft",
+      "width": 1440,
+      "height": 1120,
+      "export": "pen-exports/SSwwg.png"
+    },
+    {
+      "id": "mFZgh",
+      "title": "GMD Expansion v0.05 â€” Component anatomy and density",
+      "status": "draft",
+      "width": 1440,
+      "height": 1360,
+      "export": "pen-exports/mFZgh.png"
+    },
+    {
+      "id": "XtRCB",
+      "title": "GMD Expansion v0.05 â€” Construction atlas",
+      "status": "study",
+      "width": 1440,
+      "height": 1160,
+      "export": "pen-exports/XtRCB.png"
+    },
+    {
+      "id": "CUwKJ",
+      "title": "GMD Expansion v0.05 â€” Eight section vocabulary",
+      "status": "draft",
+      "width": 1800,
+      "height": 1080,
+      "export": "pen-exports/CUwKJ.png"
+    }
+  ]
+}

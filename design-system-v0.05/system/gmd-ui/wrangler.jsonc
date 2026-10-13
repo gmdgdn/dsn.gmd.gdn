@@ -1,0 +1,9 @@
+{
+  "name": "gmd-ui-registry",
+  "account_id": "e18437e0f43bf91a8a38bd39c988001c",
+  "compatibility_date": "2026-10-05",
+  "assets": {
+    "directory": "./registry-dist",
+    "not_found_handling": "404-page"
+  }
+}

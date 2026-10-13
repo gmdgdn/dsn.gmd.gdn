@@ -1,0 +1,135 @@
+- main:
+  - complementary:
+    - navigation:
+      - link:
+        - /url: /dev/home
+      - link:
+        - /url: /dev/pals/create
+        - generic: New PAL
+      - list:
+        - link:
+          - /url: /dev/home
+          - generic: Home
+        - link:
+          - /url: /dev/pals
+          - generic: PALs
+        - link:
+          - /url: /dev/deployments
+          - generic: Deployments
+        - link:
+          - /url: /dev/conversations
+          - generic: Conversations
+      - heading [level=3]: ASSETS
+      - list:
+        - link:
+          - /url: /dev/starter-kits
+          - generic: Starter Kits
+        - link:
+          - /url: /dev/faces
+          - generic: Faces
+        - link:
+          - /url: /dev/voices
+          - generic: Voices
+        - link:
+          - /url: /dev/documents
+          - generic: Knowledge Base
+        - link:
+          - /url: /dev/memories
+          - generic: Memories
+        - link:
+          - /url: /dev/connectors
+          - generic: Connectors & Tools
+        - link:
+          - /url: /dev/guardrails
+          - generic: Guardrails
+        - link:
+          - /url: /dev/pronunciation-dictionaries
+          - generic: Pronunciations
+    - list:
+      - link:
+        - /url: /dev/billing
+        - generic: Get 2× minutes when you upgrade
+      - list:
+        - link:
+          - /url: /dev/api-keys
+          - generic: API Keys
+        - button:
+          - generic: Support
+      - button:
+        - generic: gg
+        - generic: gmd gdn
+  - complementary:
+    - paragraph: "Coming soon: Griffin"
+    - paragraph: The first Human Interaction Model
+    - link:
+      - /url: https://www.tavus.io/griffin
+      - text: Read the research
+    - link:
+      - /url: https://griffin.tavus.io/waitlist
+      - text: Join the waitlist
+    - button:
+  - heading [level=1]: Guardrails
+  - paragraph:
+    - text: Behavioural rules PALs must follow during conversations.
+    - link:
+      - /url: https://docs.tavus.io/api-reference/guardrails/create-guardrails
+      - text: Read the docs ↗
+  - textbox:
+    - /placeholder: Search by name or ID
+  - button:
+    - generic: Modality
+  - button:
+    - generic: Tags
+  - button [active]:
+    - text: New Guardrail
+  - table:
+    - rowgroup:
+      - row:
+        - cell:
+          - heading [level=3]: You don’t have any guardrails yet
+          - paragraph: "Set boundaries for your PALs: what to avoid and how to redirect. Start from a preset, or build your own from scratch."
+          - button:
+            - generic: Safety boundaries
+            - generic: Detect requests for dangerous, harmful, or illegal content.
+            - text: Verbal
+            - generic: Safety
+          - button:
+            - generic: Focus
+            - generic: Detect persistent off-topic or off-role steering attempts.
+            - text: Verbal
+            - generic: Focus
+          - button:
+            - generic: Single user only
+            - generic: Trigger when more than one person is visible in the camera.
+            - text: Visual
+            - generic: Privacy
+- list
+- iframe [id="I0_1791015854049"] [name="I0_1791015854049"]
+- dialog "New guardrail":
+  - heading "New guardrail" [level=2]
+  - paragraph: A single rule PALs must follow. Group related rules with tags.
+  - text: Modality
+  - combobox "Modality":
+    - generic: Verbal
+  - generic: Name*
+  - paragraph: A short label for this rule. We'll convert it to a snake_case identifier for the API.
+  - textbox "Name":
+    - /placeholder: Profanity filter
+  - generic: Prompt*
+  - paragraph: The behaviour the PAL must follow. Keep it short and direct.
+  - textbox "Prompt":
+    - /placeholder: Do not use profanity. If the user does, politely redirect.
+  - text: When triggered, notify via
+  - button "App message Emit an event to your app.":
+    - generic: App message
+    - generic: Emit an event to your app.
+  - button "Callback URL POST to a webhook.":
+    - generic: Callback URL
+    - generic: POST to a webhook.
+  - generic: Tags
+  - textbox "Add a tag…"
+  - link "Read the docs":
+    - /url: https://docs.tavus.io/api-reference/guardrails/create-guardrails
+    - text: Read the docs
+  - button "Cancel"
+  - button "Create guardrail"

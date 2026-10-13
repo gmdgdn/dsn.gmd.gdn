@@ -1,0 +1,24 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "date-picker",
+  "title": "GMD date-picker",
+  "dependencies": [
+    "lucide-react@1.52.0",
+    "date-fns@4.4.0"
+  ],
+  "registryDependencies": [
+    "https://gmd-ui-registry.anagmdgdn.workers.dev/r/v0.7.2/foundations.json",
+    "https://gmd-ui-registry.anagmdgdn.workers.dev/r/v0.7.2/button.json",
+    "https://gmd-ui-registry.anagmdgdn.workers.dev/r/v0.7.2/calendar.json",
+    "https://gmd-ui-registry.anagmdgdn.workers.dev/r/v0.7.2/popover.json"
+  ],
+  "files": [
+    {
+      "path": "src/components/gmd/DatePicker.tsx",
+      "content": "import { useState } from \"react\"\nimport { CalendarDays } from \"lucide-react\"\nimport { ar as arabic } from \"date-fns/locale\"\nimport { Button } from \"@/components/ui/button\"\nimport { Calendar } from \"@/components/ui/calendar\"\nimport { Popover, PopoverContent, PopoverTrigger } from \"@/components/ui/popover\"\n\nexport function DatePicker({ locale=\"en\" }: { locale?: \"en\"|\"ar\" }) {\n  const [date,setDate]=useState<Date|undefined>(new Date(2026,9,5))\n  const ar=locale===\"ar\"\n  return <Popover><PopoverTrigger asChild><Button variant=\"outline\"><CalendarDays/>{date?.toLocaleDateString(ar?\"ar-EG\":\"en-US\")??(ar?\"اختر تاريخًا\":\"Choose a date\")}</Button></PopoverTrigger><PopoverContent align=\"start\" aria-label={ar ? \"اختيار التاريخ\" : \"Choose date\"}><Calendar mode=\"single\" selected={date} onSelect={setDate} locale={ar?arabic:undefined} dir={ar?\"rtl\":\"ltr\"}/></PopoverContent></Popover>\n}\n",
+      "type": "registry:component",
+      "target": "@components/gmd/DatePicker.tsx"
+    }
+  ],
+  "type": "registry:component"
+}

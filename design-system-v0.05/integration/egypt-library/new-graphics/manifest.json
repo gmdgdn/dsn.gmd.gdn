@@ -1,0 +1,355 @@
+{
+  "name": "GMD Egyptian inspiration graphics batch 2 — selected studies",
+  "classification": "Eight original vector studies that abstract visible source components; not direct tracings. Source photos are retained, linked and cropped for comparison.",
+  "sourceCatalog": "catalog.json",
+  "inspection": "inspection.html",
+  "assets": [
+    {
+      "id": "g2-002-callout-silhouette",
+      "file": "assets/g2-002-callout-silhouette.svg",
+      "sourceIDs": [
+        "G2-002"
+      ],
+      "sourceCrop": "source-crops/G2-002.jpg",
+      "family": "Asymmetric callout silhouette",
+      "parts": [
+        "round field",
+        "tapering S-tail",
+        "terminal loop"
+      ],
+      "construction": "A large almost-circular field narrows into a two-bend tail and ends in a small return loop. Leave the interior empty; all Arabic copy in the source is excluded.",
+      "classification": "source-informed contemporary adaptation; not a direct tracing or historical reconstruction",
+      "usage": "Editorial pull-quote field with live HTML text positioned separately; not a speech icon or call-to-action by default.",
+      "minimumUse": "320 px wide; 24 px text inset minimum.",
+      "viewBox": "0 0 480 500",
+      "namedSVGGroups": [
+        "g2-002-callout-silhouette-callout-field"
+      ],
+      "paletteRoles": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "action": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "ornamentTerracotta": "#9C4937",
+        "sand": "#D5C4A8"
+      },
+      "repeat": {
+        "claimed": false,
+        "method": "No repeat claim; inspect as a bounded composition.",
+        "edgeTest": null
+      },
+      "download": "assets/g2-002-callout-silhouette.svg"
+    },
+    {
+      "id": "g2-003-striped-fan-dial",
+      "file": "assets/g2-003-striped-fan-dial.svg",
+      "sourceIDs": [
+        "G2-003",
+        "G2-021"
+      ],
+      "sourceCrop": "source-crops/G2-003.jpg",
+      "family": "Striped fan-dial with grid handle",
+      "parts": [
+        "16 wedge sectors",
+        "stepped rim",
+        "diamond handle",
+        "twin mesh ovals"
+      ],
+      "construction": "Sixteen equal angular sectors share one center. Eight straight three-point V chords per sector alternate their apex direction between adjacent wedges; each sector has a nested rim triangle. A narrow tapering handle carries diamond cells. Two mesh ovals attach above and below the handle near the hub. Sector count and spacing are a contemporary measured approximation.",
+      "classification": "source-informed contemporary adaptation; not a direct tracing or historical reconstruction",
+      "usage": "Large editorial seal/diagram focal; the source uses a figurative image at the hub, so this study intentionally leaves that center open.",
+      "minimumUse": "200 px diameter; handle linework >=1.4 px.",
+      "viewBox": "0 0 600 480",
+      "namedSVGGroups": [
+        "g2-003-striped-fan-dial-fan-wedges",
+        "g2-003-striped-fan-dial-fan-stripe-chords",
+        "g2-003-striped-fan-dial-outer-triangle-inlays",
+        "g2-003-striped-fan-dial-diamond-grid-handle",
+        "g2-003-striped-fan-dial-mesh-oval-pendants"
+      ],
+      "paletteRoles": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "action": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "ornamentTerracotta": "#9C4937",
+        "sand": "#D5C4A8"
+      },
+      "repeat": {
+        "claimed": false,
+        "method": "No repeat claim; inspect as a bounded composition.",
+        "edgeTest": null
+      },
+      "download": "assets/g2-003-striped-fan-dial.svg"
+    },
+    {
+      "id": "g2-006-rail-wave-index",
+      "file": "assets/g2-006-rail-wave-index.svg",
+      "sourceIDs": [
+        "G2-006"
+      ],
+      "sourceCrop": "source-crops/G2-006.jpg",
+      "family": "Rail / wave / index layout specimen",
+      "parts": [
+        "edge rail",
+        "plotted diagonal",
+        "four wave strokes",
+        "blank square index",
+        "copy bars"
+      ],
+      "construction": "A strong vertical edge rail balances a sparse center; one oblique route crosses a dotted field; four short waves sit near the index; a blank square plate anchors the opposite corner. Source text and picture are not recreated.",
+      "classification": "source-informed contemporary adaptation; not a direct tracing or historical reconstruction",
+      "usage": "Archive object or chapter opener composition; replace plate with approved image and keep copy as HTML.",
+      "minimumUse": "320 px wide; maintain 16 px copy-safe rail inset.",
+      "viewBox": "0 0 480 360",
+      "namedSVGGroups": [
+        "g2-006-rail-wave-index-page-field",
+        "g2-006-rail-wave-index-edge-rail",
+        "g2-006-rail-wave-index-image-field",
+        "g2-006-rail-wave-index-route-line",
+        "g2-006-rail-wave-index-water-mark",
+        "g2-006-rail-wave-index-blank-index-stamp",
+        "g2-006-rail-wave-index-copy-slots"
+      ],
+      "paletteRoles": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "action": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "ornamentTerracotta": "#9C4937",
+        "sand": "#D5C4A8"
+      },
+      "repeat": {
+        "claimed": false,
+        "method": "No repeat claim; inspect as a bounded composition.",
+        "edgeTest": null
+      },
+      "download": "assets/g2-006-rail-wave-index.svg"
+    },
+    {
+      "id": "g2-008-halftone-dot-matrix",
+      "file": "assets/g2-008-halftone-dot-matrix.svg",
+      "sourceIDs": [
+        "G2-008"
+      ],
+      "sourceCrop": "source-crops/G2-008.jpg",
+      "family": "Offset halftone field",
+      "parts": [
+        "2x2 dot cell",
+        "16-unit translation cell",
+        "paper window"
+      ],
+      "construction": "A two-column/two-row dot cell is spaced on a 16 by 16 unit lattice. The source is an irregular printed halftone photograph; this clean periodic dot matrix is a contemporary regularization, not a facsimile.",
+      "classification": "source-informed contemporary adaptation; not a direct tracing or historical reconstruction",
+      "usage": "Bounded peripheral field; never behind small text. The SVG contains a verified 16x16 translation cell.",
+      "minimumUse": "Use at 96 px tile scale or larger; dots must remain >=1.2 px.",
+      "viewBox": "0 0 128 128",
+      "namedSVGGroups": [
+        "g2-008-halftone-dot-matrix-periodic-dot-field",
+        "g2-008-halftone-dot-matrix-source-texture-note-window"
+      ],
+      "paletteRoles": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "action": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "ornamentTerracotta": "#9C4937",
+        "sand": "#D5C4A8"
+      },
+      "repeat": {
+        "claimed": true,
+        "method": "Exact 16x16 translation cell (dot centers repeat by identical x/y vector)",
+        "edgeTest": "Source code defines pattern width/height 16 with identical cells under integer 16-unit translations."
+      },
+      "download": "assets/g2-008-halftone-dot-matrix.svg"
+    },
+    {
+      "id": "g2-014-angular-architecture",
+      "file": "assets/g2-014-angular-architecture.svg",
+      "sourceIDs": [
+        "G2-014",
+        "G2-023"
+      ],
+      "sourceCrop": "source-crops/G2-014.jpg",
+      "family": "Angular bird / architecture linework study",
+      "parts": [
+        "angular bird contour",
+        "triangular wing",
+        "eye and beak",
+        "broad sweep",
+        "nested opening",
+        "mesh lozenge",
+        "triangle cluster",
+        "scatter marks"
+      ],
+      "construction": "One angular bird-like contour captures the source’s rising triangular wing, narrow neck/head, small eye, long beak and sweeping body. A broad crossing curve, nested opening, irregular mesh lozenge, wire triangle constellation, and scattered marks retain the contrast between bold silhouette and thin linework. Contemporary adaptation; not a site or species claim.",
+      "classification": "source-informed contemporary adaptation; not a direct tracing or historical reconstruction",
+      "usage": "Large conceptual editorial illustration or chapter title plate; keep explanatory text outside the contour.",
+      "minimumUse": "300 px tall; maintain fine-grid region >=100 px.",
+      "viewBox": "0 0 600 460",
+      "namedSVGGroups": [
+        "g2-014-angular-architecture-baseline-and-plinth",
+        "g2-014-angular-architecture-angular-bird-contour",
+        "g2-014-angular-architecture-broad-sweep",
+        "g2-014-angular-architecture-nested-opening",
+        "g2-014-angular-architecture-mesh-lozenge",
+        "g2-014-angular-architecture-triangulated-wire-cluster",
+        "g2-014-angular-architecture-scatter-marks"
+      ],
+      "paletteRoles": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "action": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "ornamentTerracotta": "#9C4937",
+        "sand": "#D5C4A8"
+      },
+      "repeat": {
+        "claimed": false,
+        "method": "No repeat claim; inspect as a bounded composition.",
+        "edgeTest": null
+      },
+      "download": "assets/g2-014-angular-architecture.svg"
+    },
+    {
+      "id": "g2-015-loop-burst-aperture",
+      "file": "assets/g2-015-loop-burst-aperture.svg",
+      "sourceIDs": [
+        "G2-015"
+      ],
+      "sourceCrop": "source-crops/G2-015.jpg",
+      "family": "Loop-corner portrait aperture",
+      "parts": [
+        "central open window",
+        "double rule",
+        "four loop corners",
+        "two burst marks",
+        "lower nameplate"
+      ],
+      "construction": "Rectangular picture aperture with orthogonal double rule. Each corner continues into a double-loop return. Two unequal hand-drawn burst marks interrupt the top rail. The portrait and Arabic nameplate remain absent.",
+      "classification": "source-informed contemporary adaptation; not a direct tracing or historical reconstruction",
+      "usage": "Replaceable portrait/photo frame; preserve the original image route and focal controls outside this SVG.",
+      "minimumUse": "240 px tall; clear window >=65% of inner width.",
+      "viewBox": "0 0 440 530",
+      "namedSVGGroups": [
+        "g2-015-loop-burst-aperture-media-aperture",
+        "g2-015-loop-burst-aperture-corner-loops",
+        "g2-015-loop-burst-aperture-top-bursts",
+        "g2-015-loop-burst-aperture-caption-plaque"
+      ],
+      "paletteRoles": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "action": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "ornamentTerracotta": "#9C4937",
+        "sand": "#D5C4A8"
+      },
+      "repeat": {
+        "claimed": false,
+        "method": "No repeat claim; inspect as a bounded composition.",
+        "edgeTest": null
+      },
+      "download": "assets/g2-015-loop-burst-aperture.svg"
+    },
+    {
+      "id": "g2-019-red-angular-sequence",
+      "file": "assets/g2-019-red-angular-sequence.svg",
+      "sourceIDs": [
+        "G2-019"
+      ],
+      "sourceCrop": "source-crops/G2-019.jpg",
+      "family": "Angular connector and three-step strip",
+      "parts": [
+        "screened horizontal field",
+        "linked angular track",
+        "circular hub",
+        "three miniature stages",
+        "baseline"
+      ],
+      "construction": "A horizontal field of parallel fine rules supports one long angular connector that turns around an open hub. Three small right-aligned stage windows repeat a reduced zig-zag/bridge silhouette. This reproduces the composition logic, not the source illustration or typography.",
+      "classification": "source-informed contemporary adaptation; not a direct tracing or historical reconstruction",
+      "usage": "Technical explainer, process overview, or editorial section transition. Keep explanatory labels separate.",
+      "minimumUse": "340 px wide; each stage window >=48 px wide.",
+      "viewBox": "0 0 480 360",
+      "namedSVGGroups": [
+        "g2-019-red-angular-sequence-parallel-field-rules",
+        "g2-019-red-angular-sequence-angular-track",
+        "g2-019-red-angular-sequence-three-mini-stages",
+        "g2-019-red-angular-sequence-baseline"
+      ],
+      "paletteRoles": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "action": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "ornamentTerracotta": "#9C4937",
+        "sand": "#D5C4A8"
+      },
+      "repeat": {
+        "claimed": false,
+        "method": "No repeat claim; inspect as a bounded composition.",
+        "edgeTest": null
+      },
+      "download": "assets/g2-019-red-angular-sequence.svg"
+    },
+    {
+      "id": "g2-022-concentric-collage-grammar",
+      "file": "assets/g2-022-concentric-collage-grammar.svg",
+      "sourceIDs": [
+        "G2-022"
+      ],
+      "sourceCrop": "source-crops/G2-022.jpg",
+      "family": "Concentric mark / chevron collage grammar",
+      "parts": [
+        "offset concentric disks",
+        "nested ring marks",
+        "broken chevron bands",
+        "dot screen",
+        "open field"
+      ],
+      "construction": "Three different-sized concentric disks sit off-axis; alternating outlined/filled triangles form two broken zig-zag bands; sparse dots bridge the bands while an intentionally open center keeps space for source imagery or title. Figurative symbols and lettering in the source are not redrawn.",
+      "classification": "source-informed contemporary adaptation; not a direct tracing or historical reconstruction",
+      "usage": "Large bounded campaign texture behind illustration only; keep the central title/image field legible.",
+      "minimumUse": "360 px wide; dots >=1.4 px.",
+      "viewBox": "0 0 520 360",
+      "namedSVGGroups": [
+        "g2-022-concentric-collage-grammar-quiet-art-field",
+        "g2-022-concentric-collage-grammar-offset-concentric-disks",
+        "g2-022-concentric-collage-grammar-broken-chevron-bands",
+        "g2-022-concentric-collage-grammar-screen-dots",
+        "g2-022-concentric-collage-grammar-open-center-field"
+      ],
+      "paletteRoles": {
+        "ink": "#140206",
+        "paper": "#F7F4EF",
+        "nile": "#1034A6",
+        "action": "#FF6183",
+        "ornamentTeal": "#176F73",
+        "ornamentOchre": "#8B661E",
+        "ornamentTerracotta": "#9C4937",
+        "sand": "#D5C4A8"
+      },
+      "repeat": {
+        "claimed": false,
+        "method": "No repeat claim; inspect as a bounded composition.",
+        "edgeTest": null
+      },
+      "download": "assets/g2-022-concentric-collage-grammar.svg"
+    }
+  ]
+}

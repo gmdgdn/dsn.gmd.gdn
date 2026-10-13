@@ -1,0 +1,347 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GMD v0.05 · Direction review</title>
+<style>
+@font-face{font-family:"Perfectly Nineties";src:url("fonts/PerfectlyNineties-Regular.woff") format("woff");font-weight:400}
+@font-face{font-family:"Suisse Intl";src:url("fonts/SuisseIntl-Regular.woff2") format("woff2");font-weight:400}
+@font-face{font-family:"Suisse Intl";src:url("fonts/SuisseIntl-Medium.woff2") format("woff2");font-weight:500}
+@font-face{font-family:"FK Raster";src:url("fonts/FKRasterGroteskCompact.woff2") format("woff2")}
+@font-face{font-family:"Noto Naskh Arabic";src:url("fonts/NotoNaskhArabic-Regular.ttf") format("truetype");font-weight:400}
+@font-face{font-family:"Noto Naskh Arabic";src:url("fonts/NotoNaskhArabic-Bold.ttf") format("truetype");font-weight:700}
+@font-face{font-family:"Noto Sans Arabic";src:url("fonts/NotoSansArabic-Regular.ttf") format("truetype")}
+:root{
+  --ink:#140206;--paper:#F7F4EF;--warm:#EAE5DE;--surface:#FFFDFB;
+  --nile:#1034A6;--pink:#FF6183;--sand:#D5C4A8;--muted:#625E5B;
+  --scaffold:#C9573F;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--paper);color:var(--ink)}
+body{font:16px/1.5 "Suisse Intl",system-ui,sans-serif;overflow-x:hidden}
+img{max-width:100%;height:auto}
+a{color:var(--nile)}
+code,pre{overflow-wrap:anywhere;word-break:break-all}
+.frame{max-width:100%}
+.rail{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:10px 24px;border-bottom:1px solid var(--ink);background:var(--surface);position:sticky;top:0;z-index:8}
+.seg{display:flex;border:1px solid var(--ink)}
+.seg a,.seg span{padding:6px 10px;text-decoration:none;color:var(--ink);font-family:"FK Raster",monospace;font-size:12px;letter-spacing:.04em;border-right:1px solid var(--ink)}
+.seg a:last-child,.seg span:last-child{border-right:0}
+.seg .on{background:var(--ink);color:var(--paper)}
+.dot{width:18px;height:18px;background:var(--pink);border:1px solid var(--ink);flex:none}
+main{max-width:1280px;margin:0 auto;padding:0 24px 80px}
+.kicker{font-family:"FK Raster",monospace;font-size:12px;letter-spacing:.08em;text-transform:uppercase}
+h1,h2,h3{font-family:"Perfectly Nineties","Noto Naskh Arabic",Georgia,serif;font-weight:400;letter-spacing:-.02em;margin:0}
+h1{font-size:clamp(42px,7vw,84px);line-height:.95;margin:.2em 0 .4em}
+h2{font-size:clamp(28px,4vw,44px);line-height:1.05;margin:0 0 .4em}
+h3{font-size:26px;line-height:1.15}
+.lede{max-width:62ch;font-size:18px;color:var(--muted)}
+.rule{height:1px;background:var(--ink);margin:36px 0}
+.stripe{height:14px;background:repeating-linear-gradient(90deg,var(--ink) 0 2px,transparent 2px 8px);border-top:1px solid var(--ink);border-bottom:1px solid var(--ink)}
+.frame{border:1px solid var(--ink);background:var(--surface);box-shadow:5px 5px 0 var(--ink)}
+.winbar{display:flex;align-items:center;gap:8px;padding:6px 10px;border-bottom:1px solid var(--ink);background:var(--warm);font-family:"FK Raster",monospace;font-size:11px;letter-spacing:.06em}
+.winbar i{display:block;width:10px;height:10px;border:1px solid var(--ink);background:var(--paper)}
+.pad{padding:20px}
+.grid{display:grid;gap:16px}
+.g2{grid-template-columns:1fr 1fr}
+.g3{grid-template-columns:repeat(3,1fr)}
+.g4{grid-template-columns:repeat(4,1fr)}
+.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+table{width:100%;min-width:640px;border-collapse:collapse;font-size:14px}
+th,td{border:1px solid var(--ink);padding:8px 10px;vertical-align:top;text-align:left}
+th{background:var(--warm);font-family:"FK Raster",monospace;font-size:11px;letter-spacing:.05em;font-weight:400}
+.note{font-size:13px;color:var(--muted)}
+.tag{display:inline-block;border:1px solid var(--ink);padding:2px 6px;font-family:"FK Raster",monospace;font-size:11px;letter-spacing:.04em}
+.tag.rec{background:var(--pink)}
+.tag.warn{background:var(--sand)}
+.tag.ok{background:#E3E9F7}
+img.full{display:block;width:100%;border:1px solid var(--ink)}
+figure{margin:0}
+figcaption{font-size:13px;color:var(--muted);padding:8px 0 0}
+.hero{padding:48px 0 24px}
+.swatch{display:flex;gap:8px;flex-wrap:wrap}
+.swatch b{width:28px;height:28px;border:1px solid var(--ink);display:block}
+.oct{clip-path:polygon(29% 0,71% 0,100% 29%,100% 71%,71% 100%,29% 100%,0 71%,0 29%)}
+.preview{position:relative;min-height:420px;overflow:hidden;border:1px solid var(--ink);background:var(--paper)}
+.preview .field{position:absolute;inset:0;background-size:cover;background-position:center;opacity:.95}
+.preview .copy{position:relative;z-index:1;padding:28px;max-width:42em}
+.aperture{display:grid;grid-template-columns:minmax(140px,220px) 1fr;gap:28px;align-items:end}
+.btn{display:inline-block;background:var(--pink);color:var(--ink);border:1px solid var(--ink);box-shadow:5px 5px 0 var(--ink);padding:8px 14px;text-decoration:none;font-family:"FK Raster",monospace;font-size:12px;letter-spacing:.05em}
+.btn:hover{box-shadow:3px 3px 0 var(--ink);transform:translate(2px,2px)}
+.dir{border:1px solid var(--ink);background:var(--surface)}
+.dir header{padding:16px 20px;border-bottom:1px solid var(--ink);display:flex;justify-content:space-between;gap:12px;align-items:flex-start}
+.rtl{direction:rtl;font-family:"Noto Sans Arabic","Suisse Intl",sans-serif}
+.rtl h3{font-family:"Noto Naskh Arabic",Georgia,serif}
+.focus{outline:2px solid var(--nile);outline-offset:2px}
+@media (max-width:860px){
+  .g2,.g3,.g4,.aperture{grid-template-columns:1fr}
+  .rail{flex-wrap:wrap}
+  .seg{flex-wrap:wrap}
+  main{padding:0 14px 64px}
+  h1{font-size:42px}
+  table{min-width:0}
+  img.full{height:auto}
+}
+</style>
+</head>
+<body>
+<header class="rail">
+  <div class="seg" aria-label="Section index">
+    <span class="on">GMD / v0.05</span>
+    <a href="#access">Access</a>
+    <a href="#map">Map</a>
+    <a href="#sources">Sources</a>
+    <a href="#geometry">Geometry</a>
+    <a href="#directions">Directions</a>
+    <a href="#next">Sequence</a>
+  </div>
+  <span class="dot" aria-hidden="true"></span>
+</header>
+
+<main>
+<section class="hero" id="top">
+  <p class="kicker">Direction review · not the completed system · v0.01 unchanged</p>
+  <h1>Geometry that allocates space, not wallpaper that fills it.</h1>
+  <p class="lede">GMD / gmd.gdn collects, organizes, preserves, and distributes Egyptian content. This review confirms the Bonner constructions we can actually use, reconstructs several of them from rules, and asks you to choose one system direction before any library, theme set, or production page is built.</p>
+</section>
+
+<div class="stripe" aria-hidden="true"></div>
+
+<section id="access">
+  <p class="kicker">01 · Attachments I can actually open</p>
+  <h2>Two source families, kept separate.</h2>
+  <div class="grid g2">
+    <div class="frame">
+      <div class="winbar"><i></i><i></i><span>Islamic Geometric Patterns · Bonner 2017</span></div>
+      <div class="pad">
+        <p><code>C:\Users\khorm\Downloads\978-1-4419-0217-7.pdf</code> · 616 PDF pages.</p>
+        <p><strong>Printed folio = PDF page − 22.</strong> Checked on the printed numbers 175 (PDF 197), 255 (PDF 277), and 549 (PDF 571). Every figure you named lands on the cited page.</p>
+        <p class="note">Surveyed Chapter 2 classification through Chapter 4 algorithms (printed 175–573). This is a construction survey, not a claim that every paragraph was read.</p>
+      </div>
+    </div>
+    <div class="frame">
+      <div class="winbar"><i></i><i></i><span>Ancient Egyptian Designs · 29-page booklet</span></div>
+      <div class="pad">
+        <p><code>C:\Users\khorm\Downloads\79176a587b864217-high.pdf</code> · image-only, no author, date, or object provenance in the file.</p>
+        <p>Useful as a <em>separate</em> construction family: square modules, pendant registers, radial fans, circle weaves. Not blended into Islamic geometry, and not labelled as identified Pharaonic artifacts.</p>
+        <p class="note">Existing GMD v0.01 tokens, Tavus evidence, Perfectly Nineties / Suisse Intl / FK Raster, and Film local posters are present. Native <code>.pen</code> masters are not readable in this session.</p>
+      </div>
+    </div>
+  </div>
+  <p class="note" style="margin-top:16px">Fonts on this board: Perfectly Nineties (display), Suisse Intl (interface), FK Raster Grotesk Compact (labels). Arabic: Noto Naskh (display) and Noto Sans Arabic (UI) — explicit substitutes; Suisse contains some Arabic codepoints but is not the reading face.</p>
+  <div class="swatch" style="margin-top:12px">
+    <b style="background:#140206" title="ink"></b>
+    <b style="background:#F7F4EF" title="paper"></b>
+    <b style="background:#EAE5DE" title="warm"></b>
+    <b style="background:#1034A6" title="nile"></b>
+    <b style="background:#FF6183" title="pink"></b>
+    <b style="background:#D5C4A8" title="sand"></b>
+  </div>
+</section>
+
+<div class="rule"></div>
+
+<section id="map">
+  <p class="kicker">02 · Bonner section map · printed / PDF</p>
+  <h2>Construction methods, not a motif catalog.</h2>
+  <div class="scroll"><table>
+    <thead><tr><th>Printed</th><th>PDF</th><th>What the source actually covers</th></tr></thead>
+    <tbody>
+      <tr><td>175–219</td><td>197–241</td><td>Ch.2 classification: numeric quality, wallpaper groups, methodology (polygonal, point-joining, grid, radii, compass), line treatment.</td></tr>
+      <tr><td>221–253</td><td>243–275</td><td>Ch.3.1 polygonal technique; system of regular polygons.</td></tr>
+      <tr><td>254–259</td><td>276–281</td><td>Octagon-and-square on the 4.8² tessellation. Figs.123–128.</td></tr>
+      <tr><td>260–293</td><td>282–315</td><td>Fourfold System A, then Fourfold System B.</td></tr>
+      <tr><td>294–375</td><td>316–397</td><td>Fivefold System: families, rhombic / rectangular / hexagonal repeats, radial, hybrid, variable scale. Then Sevenfold.</td></tr>
+      <tr><td>376–489</td><td>398–511</td><td>Nonsystematic: isometric, orthogonal, rectangular, hexagonal, radial; single and multiple local-symmetry regions. Compound 12/8 fields live here.</td></tr>
+      <tr><td>490–529</td><td>512–551</td><td>Dual-level Types A–D; recursive multilevel potential.</td></tr>
+      <tr><td>530–548</td><td>552–570</td><td>Dome ornament: radial gores; Platonic / Archimedean mappings.</td></tr>
+      <tr><td>549–573</td><td>571–595</td><td>Ch.4 algorithms (Kaplan): tilings, rays, motifs, rosettes, filling, thick bands, interlacement. Equation: 2θ + α = 180°.</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<div class="rule"></div>
+
+<section id="sources">
+  <p class="kicker">03 · Twelve constructions with web potential</p>
+  <h2>Verified plates. Proposed uses sit underneath.</h2>
+  <p class="lede">Crops are study references. “Verified” restates Bonner. “GMD use” is a design interpretation, not a historical claim, and not a claim that these patterns are Egyptian.</p>
+  <figure>
+    <img class="full" src="source/source-atlas-12.png" alt="Twelve annotated Bonner figure crops with printed and PDF page numbers">
+    <figcaption>Source atlas · Figs. 60, 89, 123, 126, 130, 187, 258, 379, 448, 453, 490, 508/534. Full sheet: source/source-atlas-12.png</figcaption>
+  </figure>
+  <div class="scroll"><table style="margin-top:20px">
+    <thead><tr><th>#</th><th>Figure · pages</th><th>Verified construction</th><th>Proposed GMD role</th><th>Responsive fit</th></tr></thead>
+    <tbody>
+      <tr><td>S01</td><td>Fig.60 · p.195 / 217</td><td>8- and 10-fold star profiles: obtuse → acute, midpoint-to-midpoint.</td><td>Star-profile token: order × family.</td><td>Easy. One parameter.</td></tr>
+      <tr><td>S02</td><td>Fig.89 · p.227 / 249</td><td>Archimedean tessellations as generative grids (incl. 4.8², 4.6.12).</td><td>Grid library under every motif.</td><td>Easy. Orthogonal and isometric cells.</td></tr>
+      <tr><td>S03</td><td>Fig.123 · p.255 / 277</td><td>4.8² modules with acute 45°, median 60/90°, obtuse 135°, six two-point variants.</td><td>Default fourfold lattice and media aperture.</td><td>Best default. Square pitch.</td></tr>
+      <tr><td>S04</td><td>Fig.126 · p.257 / 279</td><td>Eight skins on the same median 4.8² cell. 126c: Córdoba 971. 126g–h Maghreb.</td><td>Theme skins without changing structure.</td><td>Easy once the cell is frozen.</td></tr>
+      <tr><td>S05</td><td>Fig.130 · p.261 / 283</td><td>Fourfold System A module kit; four contact-angle families.</td><td>Mixed-span collection windows.</td><td>Medium. Many tile types.</td></tr>
+      <tr><td>S06</td><td>Fig.187 · p.299 / 321</td><td>Fivefold modules; α = 36 / 72 / 108°; two-point 36/144°.</td><td>Kayffa / encyclopedia module kit.</td><td>Medium. Non-square repeats.</td></tr>
+      <tr><td>S07</td><td>Fig.258 · p.347 / 369</td><td>Two-point fivefold, hexagonal repeat; isolated rectangle used at Ashrafiyya, Jerusalem 1482.</td><td>Precedent for cropping a field to a usable region.</td><td>Hard as infinite field; easy as a medallion.</td></tr>
+      <tr><td>S08</td><td>Fig.379 · p.444 / 466</td><td>12-stars at square vertices, 8-stars at centres; two related tessellations (p.439). 379b Divriği 1180–81.</td><td>Hierarchy field / campaign cover.</td><td>Medium. Square pitch, dense detail.</td></tr>
+      <tr><td>S09</td><td>Fig.448 · p.498 / 520</td><td>Type A dual-level hex; 6-point median stars both levels; scale 2√3 (1:3.4610…); 90° turn. Agra 1622–28. Scale-invariant.</td><td>Knowledge atlas: primary path, secondary texture.</td><td>Hard. Two scales; simplify secondary first.</td></tr>
+      <tr><td>S10</td><td>Fig.453 · p.503 / 525</td><td>Fivefold Type A; acute primary, obtuse secondary; scale 1:13.7082 = 4+φ·6. Madar-i Shah 1706–14. Not scale-invariant.</td><td>Hero cover only. Do not fake this with nested stars.</td><td>Hard. Stage 2 only if A is approved.</td></tr>
+      <tr><td>S11</td><td>Fig.490 · p.534 / 556</td><td>Eightfold dome gore: flat segment, elevation, plan, eight laid flat.</td><td>Radial canopy / segmented header.</td><td>Easy as 2D gore; 3D mapping later.</td></tr>
+      <tr><td>S12</td><td>Figs.508, 534 · p.552 / 568</td><td>Decorated tiles assemble a field; mitred bands; over/under from face colouring.</td><td>The engine: tiling + θ + band + weave.</td><td>This is how all families scale.</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<div class="rule"></div>
+
+<section id="geometry">
+  <p class="kicker">04 · Reconstructions already running</p>
+  <h2>Rules, not traced stars.</h2>
+  <p class="lede">Parametric engine in <code>geometry/gmdgeo.py</code>: tiling → rays at contact angle θ → motif segments → strands → bands / interlace. Validated: area ratio 1, no overlaps, no unmatched edges, no unpaired rays, no interior seam breaks, interlace conflicts 0 on the cases below.</p>
+  <div class="grid g2">
+    <figure>
+      <img class="full" src="assets/plate-488-families.png" alt="Acute, median, and obtuse line families on the octagon-square tessellation, with interlaced finishes">
+      <figcaption>4.8² after Fig.123. Acute octagon uses full {8/3} chords as Bonner draws. Obtuse octagon degenerates to the midpoint octagon, also as drawn. Bottom row: closed bands, alternating crossings.</figcaption>
+    </figure>
+    <figure>
+      <img class="full" src="assets/plate-12-8-compound.png" alt="12 and 8 point compound field scaffold and interlaced finish">
+      <figcaption>12/8 edge-to-edge tessellation (p.439). Extended 12-star lines are a <strong>provisional</strong> match to Fig.379a/d — overlay in Stage 2 before calling it plate-faithful.</figcaption>
+    </figure>
+    <figure>
+      <img class="full" src="assets/radial-fivefold-median.png" alt="Radial fivefold construction with decagon, pentagons, and rhombi">
+      <figcaption>Radial fivefold assembly from Fig.187 modules (not a traced Fig.258 plate). Rim edges emit no rays; remaining rays cap on the boundary.</figcaption>
+    </figure>
+    <figure>
+      <img class="full" src="assets/dual-level-448.png" alt="Dual-level hexagonal field with large white bands over a finer star texture">
+      <figcaption>Dual-level study using Fig.448 parameters (2√3, 90°). Secondary-in-band registration is still under review; this is not yet a certified plate reconstruction.</figcaption>
+    </figure>
+  </div>
+</section>
+
+<div class="rule"></div>
+
+<section id="directions">
+  <p class="kicker">05 · Three directions</p>
+  <h2>Same tokens. Different jobs for the geometry.</h2>
+  <p class="lede">All three keep paper, ink, Nile, pink, serif / sans / raster, segmented nav, stripe bars, and 5 / 3 / 0 hard depth. They differ in which construction organizes the page.</p>
+
+  <article class="dir" style="margin-bottom:28px">
+    <header>
+      <div>
+        <p class="kicker">Direction A · recommended</p>
+        <h3>Polygonal construction system</h3>
+      </div>
+      <span class="tag rec">Recommend</span>
+    </header>
+    <div class="preview">
+      <div class="field" style="background-image:url('assets/field-4612-median.svg');opacity:.18"></div>
+      <div class="copy aperture">
+        <div>
+          <img src="assets/sample-poster-01.jpg" alt="Sample Egyptian film poster, local archive file" class="oct" style="width:100%;border:2px solid var(--ink);background:#000">
+          <p class="note">Octagon aperture · 4.8² cell · sample poster, not a rights statement</p>
+        </div>
+        <div>
+          <p class="kicker">Film · film.gmd.gdn · existing project</p>
+          <h3 style="font-size:40px;margin:.15em 0 .3em">A window cut from the lattice, not a card with a star on it.</h3>
+          <p>The 4.8² cell is the media opening. Neighbouring squares hold title, year, credits, and provenance. The same lattice, at a quieter skin, becomes a collection index. Tools hide the strokes and keep the spans.</p>
+          <p><a class="btn" href="#rec">Why this direction</a></p>
+        </div>
+      </div>
+    </div>
+    <div class="pad">
+      <p><strong>Thesis.</strong> Every surface starts as a tiling + contact angle. Product themes change family, density, and whether strokes are drawn. Geometry remains in the allocation of space when ornament is off.</p>
+      <p><strong>Assign.</strong> Film → 4.8² (Figs.123–126). Kayffa / encyclopedia → fivefold + radial (Figs.187, 258). Data → dual-level hex (Fig.448). Covers → 12/8 (Fig.379). Tools → same spans, no motif. Games → denser skin inside the shared shell.</p>
+      <p><strong>Egyptian booklet</strong> stays a labelled second family: square modules, pendant registers, spines. Used where a chapter or archive rail needs a different motion. Never mixed into one “heritage” fill.</p>
+      <p class="note">Tradeoff: less immediately exotic than covering every page in dual-level or radial ornament. Gain: one engine, honest reconstructions, usable forms, portable SVG.</p>
+    </div>
+  </article>
+
+  <article class="dir" style="margin-bottom:28px">
+    <header>
+      <div>
+        <p class="kicker">Direction B</p>
+        <h3>Dual-scale knowledge fabric</h3>
+      </div>
+      <span class="tag warn">Ambitious</span>
+    </header>
+    <div class="preview" style="min-height:380px">
+      <div class="field" style="background-image:url('assets/dual-level-448.svg');opacity:.85"></div>
+      <div class="copy">
+        <div class="frame" style="max-width:22em;box-shadow:5px 5px 0 var(--ink)">
+          <div class="winbar"><i></i><span>Selected path · sample relation</span></div>
+          <div class="pad">
+            <p class="kicker">Kayffa · existing project</p>
+            <h3>Primary band is the relation. Secondary field is the archive.</h3>
+            <p class="note">Fig.448 logic: identical pattern at two scales, 90° apart. A selected Nile band would be a real edge in the graph, not a highlight wash.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pad">
+      <p><strong>Thesis.</strong> Dual-level Type A is the system. Macro geometry = navigation and selected paths. Micro geometry = collection texture. Fig.453 (mixed families, scale ~1:13.7) reserved for rare covers — and only if reconstructed from its modules, not faked with nested stars.</p>
+      <p class="note">Tradeoff: the most distinctive knowledge surface, and the hardest to keep faithful. Secondary registration is not certified yet. Overpowers tools, tables, and long reading if used as a default field.</p>
+    </div>
+  </article>
+
+  <article class="dir">
+    <header>
+      <div>
+        <p class="kicker">Direction C</p>
+        <h3>Register, spine, and canopy</h3>
+      </div>
+      <span class="tag">Secondary family</span>
+    </header>
+    <div class="preview">
+      <div class="field" style="background-image:url('assets/radial-fivefold-median.svg');background-size:720px;background-repeat:no-repeat;background-position:120% -40%;opacity:.55"></div>
+      <div class="copy rtl">
+        <p class="kicker">موسوعة · اتجاه مخطط · ليست إصدارًا معلنًا</p>
+        <h3>سجل أفقي، وعمود فهرسة، وفتحة دائرية للنص.</h3>
+        <p>العائلات المصرية في الكتيّب (المربعات، السجلات المعلقة، المراوح الشعاعية) تُبنى كعائلة مستقلة: إيقاع رأسي وأفقي، لا نجمة إسلامية ملصقة على الخلفية. النص العربي يعاد ترتيب المكوّنات فيه، ولا تُعكس أشكال البناء.</p>
+      </div>
+    </div>
+    <div class="pad">
+      <p><strong>Thesis.</strong> Lead with Egyptian-booklet registers and radial canopies (PDF pp.8–16, 20–27) plus Bonner’s gore (Fig.490) for segmented headers. Islamic lattices become optional graphic fields, not the spatial engine.</p>
+      <p class="note">Tradeoff: strong for encyclopedia and archive spines, and this RTL block shows why registers matter. If C leads the whole ecosystem, Film and Data lose the construction system we just proved we can build. Treat C as a composition family <em>inside</em> A, not as the master direction.</p>
+    </div>
+  </article>
+</section>
+
+<div class="rule"></div>
+
+<section id="rec">
+  <p class="kicker">06 · Recommendation</p>
+  <h2>Build Direction A. Keep B and C as compositions inside it.</h2>
+  <div class="grid g3">
+    <div class="frame"><div class="pad">
+      <p class="tag rec">A leads</p>
+      <p>One construction engine. Product themes pick a family and a density. Quiet utility is the same grammar with strokes off. Matches the brief: geometry organizes space.</p>
+    </div></div>
+    <div class="frame"><div class="pad">
+      <p class="tag warn">B is a theme</p>
+      <p>Use dual-level for Kayffa / data atlas compositions after Fig.448 registration is overlaid on the plate. Do not make it the default skin.</p>
+    </div></div>
+    <div class="frame"><div class="pad">
+      <p class="tag">C is a composition</p>
+      <p>Register / spine / canopy become layout families 4 and 5. Egyptian sources stay attributed and unblended.</p>
+    </div></div>
+  </div>
+</section>
+
+<div class="rule"></div>
+
+<section id="next">
+  <p class="kicker">07 · After you review</p>
+  <h2>Implementation sequence.</h2>
+  <ol>
+    <li>You confirm Direction A, or name the change (B-led, C-led, or a hybrid rule).</li>
+    <li><strong>Stage 2.</strong> Eight families: 4.8² (already in), 4.6.12, Fourfold A subset, fivefold modules, 12/8 plate overlay, Fig.448 overlay, radial/gore, bands/interlace. Each: construction diagram, cell, repeat, field, ±, outline/fill/band/interlace, source-faithful vs labelled GMD adaptation, SVG, parameters.</li>
+    <li><strong>Stage 3.</strong> Tokens: visual + geometric (family, pitch, θ, density, aperture, joint, crop, optical tiers). Macro / medium / micro + minimum sizes.</li>
+    <li><strong>Stage 4.</strong> Six compositions: editorial aperture, collection lattice, knowledge atlas, radial canopy, register/spine, quiet utility. Long content, missing image, narrow, RTL.</li>
+    <li><strong>Stage 5.</strong> Component library with the listed states. Geometry on frames, not on hit targets or tables.</li>
+    <li><strong>Stage 6–7.</strong> Six product themes. Four web studies: ecosystem, Film or Kayffa, data/archive, tools or encyclopedia. Desktop, narrow, one real Arabic/RTL composition.</li>
+    <li>Copy v0.01 into a <em>new</em> v0.05 Pen file only if Pen is available. Until then, HTML/SVG masters in this folder. v0.01 stays intact.</li>
+  </ol>
+  <p class="lede">I am stopping here. No complete system, no production site, no Pen overwrite, until you review this direction.</p>
+  <p><a class="btn focus" href="DIRECTION.md">Written companion · DIRECTION.md</a></p>
+</section>
+</main>
+</body>
+</html>

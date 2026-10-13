@@ -1,0 +1,5 @@
+.gmd-icon{inline-size:20px;block-size:20px;flex-shrink:0;color:currentColor}
+.gmd-icon[data-scale="compact"]{inline-size:16px;block-size:16px}
+.gmd-icon[data-scale="large"]{inline-size:24px;block-size:24px}
+:dir(rtl) .gmd-icon[data-directional="true"]{transform:scaleX(-1)}
+@media (forced-colors:active){.gmd-icon{color:ButtonText}}

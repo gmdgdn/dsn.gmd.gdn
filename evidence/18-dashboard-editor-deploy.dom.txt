@@ -1,0 +1,49 @@
+- main:
+  - button "Exit":
+    - generic: Exit
+  - generic: U
+  - generic: Untitled PAL
+  - group "Builder mode":
+    - radio "BUILD"
+    - radio "TEST"
+    - radio "DEPLOY" [checked] [active]
+  - button "Version history":
+  - generic: Not yet saved
+  - status:
+    - generic: Changes in this draft haven't gone out yet.
+    - button: Update
+  - button "Expand Charlie":
+    - img "Charlie"
+    - generic: Charlie
+    - generic: Tap to continue
+  - text: Untitled PAL Add a short description Start typing here…
+  - heading "How would you like to deploy your PAL?" [level=2]
+  - paragraph: Deployments make it easy to use, embed, and share your PAL with others.
+  - generic: Have your PAL join meetings
+  - button "Google Meet / Zoom / Teams your PAL can join your Google Meet, Zoom, or Teams calls via a calendar invite for one-time or recurring meetings, or instantly from meeting links you provide.":
+    - generic: Google Meet / Zoom / Teams
+    - generic: your PAL can join your Google Meet, Zoom, or Teams calls via a calendar invite for one-time or recurring meetings, or instantly from meeting links you provide.
+  - generic: Share your PAL with a link
+  - button "PAL page your PAL gets a hosted page you can open on any device or share with others to start a conversation instantly.":
+    - generic: PAL page
+    - generic: your PAL gets a hosted page you can open on any device or share with others to start a conversation instantly.
+  - generic: Put your PAL on your website
+  - button "An embed Embed your PAL directly into any page on your website, like an iframe.":
+    - generic: An embed
+    - generic: Embed your PAL directly into any page on your website, like an iframe.
+  - button "A widget Add your PAL as a floating widget visitors can open from anywhere on your website.":
+    - generic: A widget
+    - generic: Add your PAL as a floating widget visitors can open from anywhere on your website.
+  - generic: Use your PAL in your app
+  - paragraph:
+    - text: You (or your coding agent) can integrate your PAL into your app with full control over the experience using our API or SDK.
+    - link "Read the docs":
+      - /url: https://docs.tavus.io/sections/conversational-video-interface/quickstart/build-first-app
+    - text: or use the
+    - link "Tavus MCP server":
+      - /url: https://docs.tavus.io/sections/agent-tools/mcp-server
+    - text: .
+  - paragraph: Every PAL you build here has an ID. Use it with the API or SDK to run the PAL from your own app. Deploy through the places above, the API, or both.
+- region "Notifications (F8)":
+  - list
+- iframe [id="I0_1791015854049"] [name="I0_1791015854049"]

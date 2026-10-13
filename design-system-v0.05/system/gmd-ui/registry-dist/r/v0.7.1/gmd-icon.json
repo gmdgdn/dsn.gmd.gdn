@@ -1,0 +1,21 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "gmd-icon",
+  "title": "GMD gmd-icon",
+  "dependencies": [
+    "lucide-react@1.52.0",
+    "cn@0.4.0"
+  ],
+  "registryDependencies": [
+    "https://gmd-ui-registry.anagmdgdn.workers.dev/r/v0.7.1/foundations.json"
+  ],
+  "files": [
+    {
+      "path": "src/components/gmd/GMDIcon.tsx",
+      "content": "import type { LucideIcon, LucideProps } from 'lucide-react'\nimport { cn } from 'cn'\n\nexport type GMDIconProps = Omit<LucideProps, 'size' | 'strokeWidth'> & {\n  icon: LucideIcon\n  scale?: 'compact' | 'default' | 'large'\n  directional?: boolean\n  label?: string\n}\n\n/** Functional line icon. Labels are for standalone informational icons;\n * icon-only actions must also name their button. Mirror navigation arrows only. */\nexport function GMDIcon({ icon: Icon, scale = 'default', directional = false, label, className, ...props }: GMDIconProps) {\n  return <Icon {...props} className={cn('gmd-icon', className)} data-scale={scale} data-directional={directional || undefined}\n    strokeWidth={2} role={label ? 'img' : undefined} aria-label={label} aria-hidden={label ? undefined : true} focusable=\"false\" />\n}\n",
+      "type": "registry:component",
+      "target": "@components/gmd/GMDIcon.tsx"
+    }
+  ],
+  "type": "registry:component"
+}

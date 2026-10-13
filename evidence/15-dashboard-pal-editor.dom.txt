@@ -1,0 +1,74 @@
+- main:
+  - button "Exit":
+    - generic: Exit
+  - generic: U
+  - generic: Untitled PAL
+  - group "Builder mode":
+    - radio "BUILD" [checked]
+    - radio "TEST"
+    - radio "DEPLOY"
+  - button "Version history":
+  - generic: Not yet saved
+  - status:
+    - generic: Changes in this draft haven't gone out yet.
+    - button: Update
+  - complementary "Griffin announcement":
+    - paragraph: "Coming soon: Griffin"
+    - paragraph: The first Human Interaction Model
+    - link "Read the research":
+      - /url: https://www.tavus.io/griffin
+      - text: Read the research
+    - link "Join the waitlist":
+      - /url: https://griffin.tavus.io/waitlist
+      - text: Join the waitlist
+    - button "Dismiss the Griffin announcement":
+  - button "Expand Charlie":
+    - img "Charlie"
+    - generic: Charlie
+    - generic: Tap to continue
+  - main:
+    - button "Pick replica":
+      - generic: Select face
+    - heading "Untitled PAL" [level=1]
+    - paragraph: Add a short description
+    - generic: Voice
+    - button "Face default"
+    - generic: •
+    - generic: Language
+    - button "English"
+    - generic: •
+    - generic: Greeting
+    - button "Contextual"
+    - generic: •
+    - button "Advanced Settings"
+    - textbox:
+      - heading "Identity & Role" [level=2]
+      - paragraph: Who your PAL is and the role it plays.
+      - paragraph: Start typing here…
+    - heading "Knowledge" [level=2]:
+      - generic: Knowledge
+    - paragraph: Documents your PAL can reference during a call.
+    - button "+ Add"
+    - heading "Capabilities" [level=2]:
+      - generic: Capabilities
+    - paragraph: What your PAL can do during a call.
+    - button "+ Add"
+    - paragraph: During the call
+    - button "Open Perception settings":
+      - generic: Perception
+      - button "Open Perception settings":
+      - button "Detach Perception":
+    - button "Open Memory settings":
+      - generic: Memory
+      - button "Open Memory settings":
+      - button "Detach Memory":
+    - heading "Guardrails" [level=2]:
+      - generic: Guardrails
+    - paragraph: Things your PAL should never do.
+    - button "+ Add"
+    - heading "Objectives" [level=2]:
+      - generic: Objectives
+    - paragraph: Charlie can build objectives if the PAL needs them.
+- region "Notifications (F8)":
+  - list
+- iframe [id="I0_1791015854049"] [name="I0_1791015854049"]

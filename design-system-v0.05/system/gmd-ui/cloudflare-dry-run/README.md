@@ -1,0 +1,1 @@
+This folder contains the built output assets for the worker "gmd-ui-registry" generated at 2026-10-05T12:20:42.501Z.

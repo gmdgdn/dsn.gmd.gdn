@@ -1,0 +1,189 @@
+[
+  {
+    "name": "desktop-en",
+    "facts": {
+      "width": 1440,
+      "viewport": 1440,
+      "broken": [],
+      "font": "\"Source Serif 4\"",
+      "size": "99.2px",
+      "duplicates": [],
+      "marks": [
+        "rgb(232, 163, 61)",
+        "rgb(201, 195, 234)",
+        "rgb(240, 168, 216)",
+        "rgb(232, 163, 61)",
+        "rgb(201, 195, 234)",
+        "rgb(240, 168, 216)"
+      ],
+      "motion": "0.22s"
+    },
+    "disclosures": [
+      "true",
+      "false",
+      "true",
+      "false",
+      "true",
+      "false"
+    ],
+    "selection": [
+      "step",
+      "step",
+      "step",
+      "step"
+    ],
+    "errors": []
+  },
+  {
+    "name": "mobile-en",
+    "facts": {
+      "width": 390,
+      "viewport": 390,
+      "broken": [],
+      "font": "\"Source Serif 4\"",
+      "size": "52.8px",
+      "duplicates": [],
+      "marks": [
+        "rgb(232, 163, 61)",
+        "rgb(201, 195, 234)",
+        "rgb(240, 168, 216)",
+        "rgb(232, 163, 61)",
+        "rgb(201, 195, 234)",
+        "rgb(240, 168, 216)"
+      ],
+      "motion": "0.22s"
+    },
+    "disclosures": [
+      "true",
+      "false",
+      "true",
+      "false",
+      "true",
+      "false"
+    ],
+    "selection": [
+      "step",
+      "step",
+      "step",
+      "step"
+    ],
+    "errors": []
+  },
+  {
+    "name": "desktop-ar",
+    "facts": {
+      "width": 1440,
+      "viewport": 1440,
+      "broken": [],
+      "font": "Mada",
+      "size": "64px",
+      "duplicates": [],
+      "marks": [
+        "rgb(232, 163, 61)",
+        "rgb(201, 195, 234)",
+        "rgb(240, 168, 216)",
+        "rgb(232, 163, 61)",
+        "rgb(201, 195, 234)",
+        "rgb(240, 168, 216)"
+      ],
+      "motion": "0.22s"
+    },
+    "disclosures": [
+      "true",
+      "false",
+      "true",
+      "false",
+      "true",
+      "false"
+    ],
+    "selection": [
+      "step",
+      "step",
+      "step",
+      "step"
+    ],
+    "errors": []
+  },
+  {
+    "name": "mobile-ar",
+    "facts": {
+      "width": 390,
+      "viewport": 390,
+      "broken": [],
+      "font": "Mada",
+      "size": "41.6px",
+      "duplicates": [],
+      "marks": [
+        "rgb(232, 163, 61)",
+        "rgb(201, 195, 234)",
+        "rgb(240, 168, 216)",
+        "rgb(232, 163, 61)",
+        "rgb(201, 195, 234)",
+        "rgb(240, 168, 216)"
+      ],
+      "motion": "0.22s"
+    },
+    "disclosures": [
+      "true",
+      "false",
+      "true",
+      "false",
+      "true",
+      "false"
+    ],
+    "selection": [
+      "step",
+      "step",
+      "step",
+      "step"
+    ],
+    "errors": []
+  },
+  {
+    "name": "reduced-motion",
+    "facts": {
+      "width": 1440,
+      "viewport": 1440,
+      "broken": [],
+      "font": "\"Source Serif 4\"",
+      "size": "99.2px",
+      "duplicates": [],
+      "marks": [
+        "rgb(232, 163, 61)",
+        "rgb(201, 195, 234)",
+        "rgb(240, 168, 216)",
+        "rgb(232, 163, 61)",
+        "rgb(201, 195, 234)",
+        "rgb(240, 168, 216)"
+      ],
+      "motion": "1e-05s"
+    },
+    "disclosures": [
+      "true",
+      "false",
+      "true",
+      "false",
+      "true",
+      "false"
+    ],
+    "selection": [
+      "step",
+      "step",
+      "step",
+      "step"
+    ],
+    "errors": []
+  },
+  {
+    "page": "home",
+    "integrated": 1
+  },
+  {
+    "page": "services",
+    "integrated": 1
+  },
+  {
+    "page": "data",
+    "integrated": 1
+  }
+]

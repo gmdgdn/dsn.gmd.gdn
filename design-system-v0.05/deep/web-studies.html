@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GMD v0.05 — constructed web compositions</title>
+  <style>
+    @font-face{font-family:Perfectly;src:url('../../evidence/assets/public-fonts/1b2817a1bf827bf7.woff') format('woff');font-display:swap}
+    @font-face{font-family:Suisse;src:url('../../evidence/assets/public-fonts/43dea5611f14d9ab.woff2') format('woff2');font-display:swap}
+    @font-face{font-family:Raster;src:url('../../evidence/assets/public-fonts/d1a02040b2c0179e.woff2') format('woff2');font-display:swap}
+    :root{--paper:#f7f4ef;--white:#fffdfb;--warm:#eae5de;--sand:#d5c4a8;--ink:#140206;--muted:#625e5b;--nile:#1034a6;--pale:#e9eefb;--pink:#ff6183;--rule:1px solid var(--ink);--page:1560px}
+    *{box-sizing:border-box}
+    html{background:var(--paper);scroll-behavior:smooth}
+    body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.5 Suisse,Arial,sans-serif}
+    a{color:inherit}
+    a:focus-visible,button:focus-visible{outline:2px solid var(--nile);outline-offset:3px}
+    svg{display:block}
+    .canvas{max-width:var(--page);margin:auto;padding:0 clamp(16px,3vw,48px) 72px}
+    .eyebrow,.smallcap,.index,.stat-label,.source-label{font:12px/1.35 Raster,Suisse,Arial,sans-serif;letter-spacing:.065em;text-transform:uppercase}
+    .mast{padding-top:28px}
+    .mast-top{display:flex;justify-content:space-between;gap:24px;align-items:center;padding:0 0 19px;border-bottom:var(--rule)}
+    .mark{display:flex;align-items:center;gap:12px;text-decoration:none;font:26px/1 Perfectly,Georgia,serif}
+    .mark-icon{width:35px;height:35px;border:2px solid var(--ink);position:relative;display:grid;place-items:center;background:var(--pink);box-shadow:4px 4px 0 var(--ink)}
+    .mark-icon:before,.mark-icon:after{content:"";position:absolute;background:var(--ink)}
+    .mark-icon:before{width:17px;height:2px;transform:rotate(45deg)}
+    .mark-icon:after{width:17px;height:2px;transform:rotate(-45deg)}
+    .mast-note{color:var(--muted);text-align:right;max-width:340px}
+    .site-nav{display:flex;align-items:stretch;justify-content:space-between;gap:24px;border-bottom:var(--rule);min-height:52px}
+    .nav-links{display:flex;align-items:stretch;flex-wrap:wrap}
+    .nav-links a{padding:16px 20px 13px;text-decoration:none;border-right:var(--rule);font:11px/1.2 Raster,Suisse,sans-serif;letter-spacing:.07em;text-transform:uppercase}
+    .nav-links a:first-child{border-left:var(--rule)}
+    .nav-links a:hover{background:var(--warm)}
+    .nav-links a.current{background:var(--ink);color:var(--paper)}
+    .nav-end{display:flex;align-items:center;color:var(--nile);font-size:13px;white-space:nowrap}
+    .intro{display:grid;grid-template-columns:minmax(0,1fr) minmax(220px,365px);gap:32px;align-items:end;padding:70px 0 54px}
+    .intro h1{font:clamp(54px,7.4vw,116px)/.94 Perfectly,Georgia,serif;letter-spacing:-.05em;max-width:1000px;margin:14px 0 0}
+    .intro h1 em{font-style:normal;color:var(--nile)}
+    .intro aside{border-left:3px solid var(--nile);padding:0 0 0 18px;font-size:16px;line-height:1.55}
+    .intro aside p{margin:0 0 12px}
+    .intro aside .tiny{font-size:12px;color:var(--muted)}
+    .seven{height:20px;background:repeating-linear-gradient(to bottom,var(--ink) 0,var(--ink) 1px,transparent 1px,transparent 3px);max-width:164px}
+    .strip{display:grid;grid-template-columns:1fr auto;gap:16px;align-items:center;border-block:var(--rule);padding:10px 0;margin:0 0 40px}
+    .strip span:last-child{color:var(--muted)}
+    .study{margin-top:52px;border-top:2px solid var(--ink)}
+    .study-head{display:grid;grid-template-columns:90px minmax(0,1fr) minmax(160px,330px);gap:20px;align-items:end;padding:20px 0 24px}
+    .study-head h2{font:clamp(36px,4.1vw,68px)/1.02 Perfectly,Georgia,serif;letter-spacing:-.035em;margin:0}
+    .study-head p{margin:0;color:var(--muted);font-size:14px}
+    .study-index{color:var(--nile);align-self:start}
+    .source-bar{display:flex;gap:12px 30px;flex-wrap:wrap;align-items:center;padding:11px 14px;border-top:var(--rule);border-bottom:var(--rule);background:var(--warm);font-size:12px}
+    .source-bar b{font-weight:400;color:var(--nile)}
+    .source-bar .source-label{margin-right:auto}
+    .film{background:var(--white);border:var(--rule);box-shadow:8px 8px 0 var(--ink);margin:0 8px 24px 0;overflow:hidden}
+    .film-top{display:grid;grid-template-columns:42% 58%;min-height:640px}
+    .film-copy{padding:clamp(25px,4vw,66px);display:flex;flex-direction:column;position:relative;z-index:2;border-right:var(--rule)}
+    .film-copy:before{content:"";width:46px;height:46px;border-top:2px solid var(--nile);border-left:2px solid var(--nile);position:absolute;top:28px;left:28px;pointer-events:none}
+    .film-copy .overline{margin:0 0 50px 26px;color:var(--nile)}
+    .film-copy h3{font:clamp(58px,6.1vw,98px)/.91 Perfectly,Georgia,serif;letter-spacing:-.055em;margin:0 0 24px;max-width:650px}
+    .film-copy .lead{font-size:19px;line-height:1.45;max-width:430px;margin:0 0 32px}
+    .film-copy .meta-line{display:grid;grid-template-columns:82px 1fr;gap:8px;border-top:var(--rule);padding-top:12px;font-size:13px;margin:0 0 26px;max-width:450px}
+    .film-copy .meta-line strong{font-weight:400;color:var(--muted)}
+    .button{display:inline-flex;align-items:center;gap:35px;background:var(--pink);border:var(--rule);box-shadow:5px 5px 0 var(--ink);padding:13px 16px;color:var(--ink);font:12px/1.2 Raster,Suisse,sans-serif;letter-spacing:.06em;text-transform:uppercase;text-decoration:none;align-self:start;transition:transform .15s,box-shadow .15s}
+    .button:hover{transform:translate(2px,2px);box-shadow:3px 3px 0 var(--ink)}
+    .button:active{transform:translate(5px,5px);box-shadow:none}
+    .film-copy .caption{margin-top:auto;padding-top:40px;color:var(--muted);font-size:12px;max-width:420px}
+    .film-art{position:relative;min-height:640px;background:var(--sand);overflow:hidden;isolation:isolate}
+    .film-art:before{content:"";position:absolute;inset:0;background:url('motifs/egyptian-circle-weave.svg') center / 720px 480px repeat,linear-gradient(90deg,rgba(20,2,6,.13) 1px,transparent 1px),linear-gradient(0deg,rgba(20,2,6,.13) 1px,transparent 1px);background-size:720px 480px,98px 98px,98px 98px;opacity:.56;z-index:0}
+    .film-aperture{position:absolute;inset:36px 34px 38px 32px;background:var(--ink);clip-path:polygon(16% 0,84% 0,84% 6%,94% 6%,94% 16%,100% 16%,100% 84%,94% 84%,94% 94%,84% 94%,84% 100%,16% 100%,16% 94%,6% 94%,6% 84%,0 84%,0 16%,6% 16%,6% 6%,16% 6%);display:grid;place-items:center;z-index:1}
+    .film-aperture:before{content:"";position:absolute;inset:7px;background:var(--nile);clip-path:inherit}
+    .film-aperture:after{content:"";position:absolute;inset:18px;border:1px solid rgba(247,244,239,.75);clip-path:inherit}
+    .hero-rosette{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:brightness(0) invert(1);opacity:.8;z-index:1;pointer-events:none}
+    .film-art-center{position:relative;z-index:2;width:46%;aspect-ratio:1;border:1px solid var(--paper);border-radius:50%;background:var(--ink);display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;color:var(--paper);box-shadow:0 0 0 9px rgba(247,244,239,.14),0 0 0 10px var(--paper)}
+    .film-art-center span{font:12px/1.2 Raster,Suisse,sans-serif;letter-spacing:.2em;position:relative;z-index:3}
+    .film-art-center b{font:clamp(46px,6vw,93px)/.9 Perfectly,Georgia,serif;letter-spacing:-.05em;position:relative;z-index:3;margin:10px 0}
+    .film-art-center small{font:11px/1.2 Raster,Suisse,sans-serif;letter-spacing:.1em;position:relative;z-index:3}
+    .cut-index{position:absolute;right:22px;bottom:18px;font:12px Raster,Suisse,sans-serif;background:var(--paper);padding:8px 10px;border:var(--rule);z-index:4}
+    .film-foot{display:grid;grid-template-columns:repeat(12,1fr);border-top:var(--rule);min-height:112px;position:relative}
+    .film-foot:before{content:"";position:absolute;left:17%;right:0;top:-54px;height:52px;background:url('motifs/egyptian-pendant-register.svg') left center / auto 52px repeat-x;pointer-events:none;opacity:.75;z-index:2}
+    .film-foot>div{border-right:var(--rule);padding:18px 20px;display:flex;flex-direction:column;justify-content:space-between;gap:15px}
+    .film-foot>div:nth-child(1){grid-column:span 2;background:var(--ink);color:var(--paper)}
+    .film-foot>div:nth-child(2){grid-column:span 4}
+    .film-foot>div:nth-child(3){grid-column:span 3;background:var(--warm)}
+    .film-foot>div:nth-child(4){grid-column:span 3;border-right:0}
+    .film-foot strong{font:23px/1 Perfectly,Georgia,serif;font-weight:400}
+    .film-foot small{color:var(--muted);font-size:11px}
+    .film-foot>div:first-child small{color:var(--sand)}
+    .square-index{width:24px;height:24px;border:3px solid currentColor;display:block;position:relative}
+    .square-index:after{content:"";width:7px;height:7px;background:currentColor;position:absolute;inset:5px}
+    .study-atlas{margin-top:90px}
+    .atlas{background:var(--ink);color:var(--paper);border:1px solid var(--ink);position:relative;overflow:hidden}
+    .atlas:before{content:"";height:22px;position:absolute;top:0;left:0;right:0;background:repeating-linear-gradient(0deg,var(--paper) 0,var(--paper) 1px,transparent 1px,transparent 3px);opacity:.7}
+    .atlas-top{padding:55px clamp(26px,4vw,64px) 26px;display:grid;grid-template-columns:1fr minmax(200px,360px);gap:38px;align-items:end;position:relative;isolation:isolate}
+    .atlas-top:before{content:"";position:absolute;inset:0 0 0 auto;width:min(50%,560px);background:url('motifs/dual-level-rosette.svg') right center / 500px auto no-repeat;filter:brightness(0) invert(1);opacity:.12;z-index:-1;pointer-events:none}
+    .atlas-top h3{font:clamp(49px,6vw,90px)/.94 Perfectly,Georgia,serif;letter-spacing:-.045em;max-width:700px;margin:13px 0 0}
+    .atlas-top p{font-size:16px;margin:0;color:var(--warm)}
+    .atlas-main{display:grid;grid-template-columns:minmax(0,1.58fr) minmax(290px,.82fr);border-top:1px solid rgba(247,244,239,.45);min-height:700px}
+    .graph{position:relative;min-height:690px;border-right:1px solid rgba(247,244,239,.45);background:radial-gradient(circle at 51% 50%,rgba(16,52,166,.72),transparent 29%),repeating-linear-gradient(0deg,transparent 0 83px,rgba(247,244,239,.07) 84px),repeating-linear-gradient(90deg,transparent 0 83px,rgba(247,244,239,.07) 84px)}
+    .graph:before{content:"";position:absolute;inset:0;background:url('motifs/fourfold-lattice.svg') center / 720px 480px repeat;filter:brightness(0) invert(1);opacity:.12;pointer-events:none}
+    .graph svg{position:absolute;inset:0;width:100%;height:100%}
+    .graph-note{position:absolute;left:28px;top:25px;color:var(--sand);font-size:12px;max-width:210px}
+    .node{position:absolute;transform:translate(-50%,-50%);display:grid;place-items:center;text-align:center;clip-path:polygon(29% 0,71% 0,100% 29%,100% 71%,71% 100%,29% 100%,0 71%,0 29%);width:clamp(125px,14vw,205px);aspect-ratio:1;background:var(--paper);color:var(--ink);padding:22px}
+    .node:before{content:"";position:absolute;inset:8px;clip-path:inherit;border:1px solid var(--ink);pointer-events:none}
+    .node .in{position:relative;z-index:1}
+    .node small{display:block;font:10px Raster,Suisse,sans-serif;letter-spacing:.08em;text-transform:uppercase;margin-bottom:8px;color:var(--nile)}
+    .node b{display:block;font:clamp(16px,1.7vw,25px)/1.1 Perfectly,Georgia,serif;font-weight:400}
+    .node.selected{left:51%;top:52%;width:clamp(205px,25vw,345px);background:var(--nile);color:var(--paper);box-shadow:none}
+    .node.selected:before{border-color:var(--paper)}
+    .node.selected small{color:var(--paper)}
+    .node.n2{left:21%;top:25%}
+    .node.n3{left:80%;top:22%}
+    .node.n4{left:80%;top:78%}
+    .node.n5{left:20%;top:80%}
+    .edge-label{position:absolute;background:var(--ink);padding:2px 6px;color:var(--sand);font:10px Raster,Suisse,sans-serif;letter-spacing:.08em;text-transform:uppercase}
+    .edge-label.e1{left:31%;top:35%;transform:rotate(28deg)}
+    .edge-label.e2{left:67%;top:35%;transform:rotate(-26deg)}
+    .edge-label.e3{left:68%;top:68%;transform:rotate(25deg)}
+    .edge-label.e4{left:30%;top:68%;transform:rotate(-25deg)}
+    .graph-footer{position:absolute;left:26px;right:26px;bottom:22px;display:flex;justify-content:space-between;gap:16px;color:var(--sand);font:11px Raster,Suisse,sans-serif;text-transform:uppercase}
+    .inspector{background:var(--paper);color:var(--ink);padding:0 30px 28px;display:flex;flex-direction:column}
+    .inspector-head{margin:0 -30px 28px;padding:22px 30px;background:var(--pale);border-bottom:var(--rule);display:flex;justify-content:space-between;gap:16px;color:var(--nile)}
+    .inspector h4{font:clamp(33px,3.2vw,52px)/1.02 Perfectly,Georgia,serif;letter-spacing:-.035em;margin:0 0 14px}
+    .inspector p{margin:0 0 24px;font-size:14px;line-height:1.5}
+    .inspector dl{margin:0 0 28px;border-top:var(--rule)}
+    .inspector dl div{display:grid;grid-template-columns:82px 1fr;gap:8px;padding:12px 0;border-bottom:var(--rule);font-size:13px}
+    .inspector dt{color:var(--muted)}
+    .inspector dd{margin:0}
+    .inspector .button{margin-top:auto}
+    .atlas-bottom{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid rgba(247,244,239,.5)}
+    .atlas-bottom div{padding:18px 22px;min-height:95px;border-right:1px solid rgba(247,244,239,.5)}
+    .atlas-bottom div:last-child{border:0}
+    .atlas-bottom b{display:block;font:22px Perfectly,Georgia,serif;font-weight:400;margin-top:10px}
+    .atlas-bottom .smallcap{color:var(--sand)}
+    .study-lattice{margin-top:90px}
+    .lattice{border:var(--rule);background:var(--sand);padding:clamp(12px,2vw,25px);position:relative;overflow:hidden}
+    .lattice:before{content:"";position:absolute;inset:0;background:repeating-linear-gradient(0deg,transparent 0 69px,rgba(20,2,6,.16) 70px),repeating-linear-gradient(90deg,transparent 0 69px,rgba(20,2,6,.16) 70px);pointer-events:none}
+    .lattice-intro{position:relative;display:grid;grid-template-columns:1fr minmax(180px,300px);align-items:end;gap:24px;padding:25px 20px 34px}
+    .lattice-intro h3{font:clamp(54px,6vw,90px)/.94 Perfectly,Georgia,serif;letter-spacing:-.045em;margin:10px 0 0;max-width:780px}
+    .lattice-intro p{font-size:15px;margin:0}
+    .window-grid{position:relative;display:grid;grid-template-columns:repeat(12,1fr);grid-auto-rows:minmax(110px,auto);gap:10px}
+    .window{position:relative;background:var(--paper);border:var(--rule);padding:24px;display:flex;flex-direction:column;overflow:hidden;min-height:220px}
+    .window:after{content:"";position:absolute;right:0;top:0;width:42px;height:42px;background:var(--sand);clip-path:polygon(0 0,100% 100%,100% 0);border-left:1px solid var(--ink)}
+    .window .smallcap{position:relative;z-index:2;color:var(--nile)}
+    .window h4{font:clamp(33px,3.5vw,57px)/.98 Perfectly,Georgia,serif;font-weight:400;letter-spacing:-.035em;margin:auto 0 11px;position:relative;z-index:2}
+    .window p{font-size:14px;max-width:420px;margin:0 0 18px;position:relative;z-index:2}
+    .window .status{display:inline-flex;width:max-content;border-top:var(--rule);padding-top:7px;font:11px Raster,Suisse,sans-serif;text-transform:uppercase;letter-spacing:.08em;position:relative;z-index:2}
+    .window.film-window{grid-column:span 7;grid-row:span 2;min-height:480px;background:var(--ink);color:var(--paper);padding:32px}
+    .window.film-window:after{background:var(--sand)}
+    .window.film-window .smallcap{color:var(--pink)}
+    .window.film-window .status{border-color:var(--paper)}
+    .window-art{position:absolute;width:52%;right:4%;top:5%;height:75%;opacity:.85}
+    .window-art svg{height:100%;width:100%}
+    .window.film-window h4{font-size:clamp(68px,7vw,110px);max-width:440px;z-index:2}
+    .window.kayffa-window{grid-column:span 5;grid-row:span 1;background:var(--pale)}
+    .window.data-window{grid-column:span 5;grid-row:span 1;background:var(--white)}
+    .window.tools-window{grid-column:span 4;background:var(--white)}
+    .window.play-window{grid-column:span 4;background:var(--pink)}
+    .window.research-window{grid-column:span 4;background:var(--warm)}
+    .window.play-window .smallcap{color:var(--ink)}
+    .window.play-window:after{background:var(--sand)}
+    .window-aside{position:absolute;right:14px;top:45px;color:var(--nile);font:12px Raster,Suisse,sans-serif;writing-mode:vertical-rl;letter-spacing:.15em}
+    .lattice-foot{display:flex;justify-content:space-between;gap:20px;align-items:center;position:relative;padding:22px 18px 6px;font-size:13px}
+    .lattice-foot span:last-child{color:var(--nile)}
+    .review{display:grid;grid-template-columns:1fr 1fr;gap:36px;padding:48px 0 0;border-top:var(--rule);margin-top:78px}
+    .review h2{font:clamp(35px,4vw,60px)/1 Perfectly,Georgia,serif;margin:0}
+    .review p{margin:0 0 14px}
+    .review a{color:var(--nile)}
+    footer{border-top:var(--rule);margin-top:60px;padding-top:18px;display:flex;justify-content:space-between;gap:20px;color:var(--muted);font-size:12px}
+    @media(max-width:1050px){.film-top{grid-template-columns:48% 52%}.film-copy h3{font-size:clamp(52px,6vw,72px)}.atlas-main{grid-template-columns:1.3fr .8fr}.node{width:135px}.node.selected{width:230px}.window.film-window{grid-column:span 6}.window.kayffa-window,.window.data-window{grid-column:span 6}.window.tools-window,.window.play-window,.window.research-window{grid-column:span 4}}
+    @media(max-width:760px){.canvas{padding-inline:16px}.mast-top{align-items:start}.mast-note{display:none}.site-nav{overflow-x:auto}.nav-links{flex-wrap:nowrap}.nav-links a{white-space:nowrap}.nav-end{display:none}.intro{grid-template-columns:1fr;padding:45px 0 35px}.intro h1{font-size:clamp(52px,11vw,78px)}.intro aside{max-width:480px}.study-head{grid-template-columns:48px 1fr;gap:10px}.study-head p{grid-column:2}.study-head h2{font-size:43px}.film-top{grid-template-columns:1fr}.film-copy{min-height:510px;border-right:0;border-bottom:var(--rule)}.film-copy .overline{margin-bottom:36px}.film-copy h3{font-size:clamp(62px,12vw,88px)}.film-art{min-height:570px}.film-foot>div:nth-child(1){grid-column:span 3}.film-foot>div:nth-child(2){grid-column:span 9}.film-foot>div:nth-child(3),.film-foot>div:nth-child(4){grid-column:span 6;border-top:var(--rule)}.atlas-top{grid-template-columns:1fr}.atlas-main{grid-template-columns:1fr}.graph{min-height:570px;border-right:0;border-bottom:1px solid var(--paper)}.node{width:clamp(100px,24vw,150px)}.node.selected{width:clamp(190px,40vw,270px)}.inspector{min-height:500px}.atlas-bottom{grid-template-columns:repeat(2,1fr)}.atlas-bottom div:nth-child(2){border-right:0}.atlas-bottom div:nth-child(-n+2){border-bottom:1px solid rgba(247,244,239,.5)}.lattice-intro{grid-template-columns:1fr}.window.film-window{grid-column:span 12}.window.kayffa-window,.window.data-window{grid-column:span 6}.window.tools-window,.window.play-window,.window.research-window{grid-column:span 4}.window{padding:18px}.review{grid-template-columns:1fr}}
+    @media(max-width:520px){.mast{padding-top:17px}.intro h1{font-size:56px}.study-head h2{font-size:38px}.film-copy{padding:32px 24px;min-height:500px}.film-copy:before{left:15px;top:19px}.film-copy h3{font-size:65px}.film-copy .lead{font-size:17px}.film-art{min-height:430px}.film-aperture{inset:22px 12px}.film-art-center{width:55%}.film-art-center b{font-size:44px}.film-foot>div{padding:15px}.film-foot strong{font-size:18px}.source-bar{font-size:11px}.graph{min-height:490px}.graph-note{font-size:10px}.node{width:100px;padding:8px}.node b{font-size:15px}.node small{font-size:8px}.node.selected{left:50%;top:50%;width:175px}.node.selected b{font-size:26px}.node.n2{left:18%;top:22%}.node.n3{left:82%;top:22%}.node.n4{left:82%;top:78%}.node.n5{left:18%;top:78%}.edge-label{display:none}.graph-footer{font-size:9px}.inspector{padding-inline:20px}.inspector-head{margin-inline:-20px;padding-inline:20px}.atlas-bottom b{font-size:19px}.lattice{padding:10px}.window-grid{grid-template-columns:repeat(2,1fr);gap:8px}.window.film-window,.window.kayffa-window,.window.data-window{grid-column:span 2}.window.tools-window,.window.play-window{grid-column:span 1;min-height:290px}.window.research-window{grid-column:span 2}.window{padding:16px;min-height:200px}.window h4{font-size:32px}.window p{font-size:12px}.window.film-window{min-height:430px}.window.film-window h4{font-size:70px}.window-art{width:70%;top:7%;right:-5%}.lattice-foot{display:block}.lattice-foot span{display:block;margin:0 0 8px}footer{display:block}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.button{transition:none}}
+  </style>
+</head>
+<body>
+<div class="canvas">
+  <header class="mast">
+    <div class="mast-top"><a class="mark" href="#top" aria-label="GMD direction study top"><span class="mark-icon" aria-hidden="true"></span><span>GMD <span style="font:12px Raster,Suisse,sans-serif">/ GMD.GDN</span></span></a><div class="mast-note eyebrow">V0.05 / GENERATIVE VISUAL SYSTEM<br>WEB COMPOSITIONS FOR DIRECTION REVIEW</div></div>
+    <nav class="site-nav" aria-label="Study navigation"><div class="nav-links"><a class="current" href="#top">Overview</a><a href="#aperture">01 / Aperture</a><a href="#atlas">02 / Atlas</a><a href="#lattice">03 / Lattice</a><a href="SYSTEM-ARCHITECTURE.md">System rules</a></div><div class="nav-end eyebrow">EN / AR <span style="margin-left:18px;color:var(--ink)">↗</span></div></nav>
+  </header>
+  <main id="top">
+    <div class="intro"><div><div class="eyebrow" style="color:var(--nile)">GMD / VISUAL SYSTEM / NEXT ITERATION</div><h1>Geometry that <em>builds</em> the page.</h1></div><aside><p>Three full web sections test how a source-informed geometric grammar can organize media, relationships and a growing product portfolio.</p><p class="tiny">Illustrative content and modern vector studies. These are review examples, not finished product screens or historical reconstructions.</p><div class="seven" aria-hidden="true"></div></aside></div>
+    <div class="strip"><span class="eyebrow">PAPER × INK × NILE × PINK / EDITORIAL CORE PRESERVED</span><span class="eyebrow">DESKTOP → NARROW / NO PEN MASTERS CHANGED</span></div>
+
+    <section class="study" id="aperture" aria-labelledby="aperture-title">
+      <div class="study-head"><div class="study-index eyebrow">01 / 03</div><h2 id="aperture-title">The editorial aperture</h2><p>A shaped media opening controls the whole section: title bay, image or graphic bay, index and provenance pocket.</p></div>
+      <div class="film">
+        <div class="film-top">
+          <div class="film-copy"><div class="overline eyebrow">FILM × KAYFFA / EDITORIAL FAMILY</div><h3>Every story has an opening.</h3><p class="lead">A window for cinema, an object, or a collection. Its geometry frames the material; its context remains readable beside it.</p><div class="meta-line"><strong>EXAMPLE</strong><span>Illustrative title panel, used where no cleared archive image is supplied.</span></div><a class="button" href="#film-note">Examine the structure <span aria-hidden="true">↗</span></a><div class="caption">The content column follows the aperture's stepped outer rhythm. Real record pages would show the full source image, creator, date and rights together.</div></div>
+          <div class="film-art" aria-label="Abstract, modern geometric media aperture study">
+            <div class="film-aperture">
+              <img class="hero-rosette" src="motifs/dual-level-rosette.svg" alt="" aria-hidden="true">
+              <div class="film-art-center"><span>GMD / 01</span><b>Film</b><small>A FIELD FOR STORIES</small></div>
+            </div><div class="cut-index">01 / SHAPED MEDIA WINDOW</div>
+          </div>
+        </div>
+        <div class="film-foot"><div><span class="square-index" aria-hidden="true"></span><small>REGISTER UNIT</small></div><div><span class="smallcap">01 / APERTURE</span><strong>Media sets the scale.</strong></div><div><span class="smallcap">02 / READING</span><strong>Context stays clear.</strong></div><div><span class="smallcap">03 / PROVENANCE</span><strong>Source beside object.</strong></div></div>
+      </div>
+      <div class="source-bar" id="film-note"><span class="source-label">GEOMETRY RECORD</span><span><b>Egyptian booklet</b> PDF p. 8, pp. 12–16, 20–25 / fan, pendant and circle studies</span><span><b>Bonner</b> Fig. 123, printed p. 255 / PDF p. 277; Fig. 126, printed p. 257 / PDF p. 279</span><span>Modern stepped aperture and separate parent/child rosette; no historical composite claimed</span></div>
+    </section>
+
+    <section class="study study-atlas" id="atlas" aria-labelledby="atlas-title">
+      <div class="study-head"><div class="study-index eyebrow">02 / 03</div><h2 id="atlas-title">The knowledge atlas</h2><p>Polygon geometry expresses real relationships only when attached to labeled entities, links and a textual equivalent.</p></div>
+      <div class="atlas">
+        <div class="atlas-top"><div><span class="eyebrow" style="color:var(--pink)">KAYFFA × DATA / RELATION FAMILY</span><h3>A collection is a network of context.</h3></div><p>The visual field locates linked things. The selected record remains a plain reading cell, with source and permission fields that can grow.</p></div>
+        <div class="atlas-main">
+          <div class="graph" aria-label="Illustrative relationship layout for a sample film record">
+            <svg viewBox="0 0 900 700" preserveAspectRatio="none" aria-hidden="true"><defs><pattern id="star-cell" width="90" height="90" patternUnits="userSpaceOnUse"><path d="M45 2L61 29L88 45L61 61L45 88L29 61L2 45L29 29Z" fill="none" stroke="#f7f4ef" stroke-width=".65" opacity=".18"/><path d="M45 2V88M2 45H88" stroke="#f7f4ef" stroke-width=".45" opacity=".12"/></pattern></defs><rect width="900" height="700" fill="url(#star-cell)"/><g fill="none" stroke="#f7f4ef" stroke-width="2"><path d="M452 360L187 170M452 360L718 155M452 360L719 540M452 360L183 560"/></g><path d="M452 360L718 155" stroke="#ff6183" stroke-width="5" fill="none"/><g fill="none" stroke="#f7f4ef" opacity=".5"><circle cx="452" cy="360" r="220"/><circle cx="452" cy="360" r="280" stroke-dasharray="2 9"/><path d="M452 70L742 360L452 650L162 360Z"/></g></svg>
+            <div class="graph-note eyebrow">SCHEMATIC LINKS<br>ILLUSTRATIVE ENTITIES / NO LIVE DATA</div>
+            <div class="node selected"><div class="in"><small>SELECTED</small><b>Film record</b><small style="margin:10px 0 0">CENTER / 01</small></div></div>
+            <div class="node n2"><div class="in"><small>LINKED</small><b>Person</b></div></div>
+            <div class="node n3"><div class="in"><small>LINKED</small><b>Collection</b></div></div>
+            <div class="node n4"><div class="in"><small>LINKED</small><b>Place</b></div></div>
+            <div class="node n5"><div class="in"><small>LINKED</small><b>Work</b></div></div>
+            <span class="edge-label e1">made by</span><span class="edge-label e2">held in</span><span class="edge-label e3">located at</span><span class="edge-label e4">related to</span>
+            <div class="graph-footer"><span>VISUAL MAP / ONE SELECTED PATH</span><span>TEXT LIST REQUIRED IN REAL PRODUCT</span></div>
+          </div>
+          <div class="inspector"><div class="inspector-head"><span class="smallcap">SELECTED / 01</span><span class="smallcap">↗ DETAILS</span></div><h4>Film record</h4><p>This panel demonstrates where meaning and rights live. The relation field is an index into documented material, not a decorative net.</p><dl><div><dt>Type</dt><dd>Illustrative media record</dd></div><div><dt>Links</dt><dd>Person · Collection · Place · Work</dd></div><div><dt>Source</dt><dd>Example only; no archival source asserted</dd></div><div><dt>Rights</dt><dd>Unspecified in this study</dd></div><div><dt>AI use</dt><dd>Not determined</dd></div></dl><a class="button" href="#atlas-note">Read system rule <span aria-hidden="true">↗</span></a></div>
+        </div>
+        <div class="atlas-bottom"><div><span class="smallcap">NODE</span><b>Named entity</b></div><div><span class="smallcap">EDGE</span><b>Declared relation</b></div><div><span class="smallcap">FIELD</span><b>Source and rights</b></div><div><span class="smallcap">FALLBACK</span><b>Linear linked list</b></div></div>
+      </div>
+      <div class="source-bar" id="atlas-note"><span class="source-label">GEOMETRY RECORD</span><span><b>Bonner</b> compound examples, Fig. 379 printed p. 444 / PDF p. 466 and Fig. 380 p. 445 / PDF p. 467</span><span>Dual-level studies: Type A Fig. 448 p. 498 / PDF p. 520; fivefold Fig. 453 p. 503 / PDF p. 525</span><span>Modern map, not exact reconstruction; links illustrative</span></div>
+    </section>
+
+    <section class="study study-lattice" id="lattice" aria-labelledby="lattice-title">
+      <div class="study-head"><div class="study-index eyebrow">03 / 03</div><h2 id="lattice-title">The collection lattice</h2><p>A flexible window grid gives current projects and future directions different spans, status and visual weight.</p></div>
+      <div class="lattice"><div class="lattice-intro"><div><span class="eyebrow" style="color:var(--nile)">GMD / PORTFOLIO FAMILY</span><h3>One maker. Many windows.</h3></div><p>A repeated square unit generates unequal but related openings. The portfolio is legible before pattern lines or artwork are added.</p></div>
+        <div class="window-grid">
+          <article class="window film-window"><div class="window-art" aria-hidden="true"><svg viewBox="0 0 400 400"><defs><pattern id="lattice-sq" width="80" height="80" patternUnits="userSpaceOnUse"><rect x="8" y="8" width="64" height="64" fill="none" stroke="#f7f4ef" stroke-width="1.4"/><rect x="22" y="22" width="36" height="36" fill="none" stroke="#f7f4ef" stroke-width="1.4"/><rect x="34" y="34" width="12" height="12" fill="#ff6183"/></pattern></defs><rect width="400" height="400" fill="url(#lattice-sq)"/><path d="M0 0H400V400H0Z" fill="none" stroke="#ff6183" stroke-width="3"/></svg></div><span class="smallcap">01 / MEDIA & DISCOVERY</span><h4>Film</h4><p>Discover and connect Egyptian cinema.</p><span class="status">CURRENT PROJECT</span></article>
+          <article class="window kayffa-window"><span class="smallcap">02 / ARCHIVE & GRAPH</span><h4>Kayffa</h4><p>A cultural archive that keeps objects and their relationships in context.</p><span class="status">BUILDING FOUNDATION</span></article>
+          <article class="window data-window"><span class="smallcap">03 / STRUCTURED KNOWLEDGE</span><h4>Data</h4><p>Documented collections, coverage and permitted use.</p><span class="status">PROPOSED DIRECTION</span></article>
+          <article class="window tools-window"><span class="smallcap">04 / WORKFLOWS</span><h4>Tools</h4><p>Useful systems for content work.</p><span class="status">EXPLORING</span></article>
+          <article class="window play-window"><span class="smallcap">05 / INTERACTIVE</span><h4>Play</h4><p>Stories that can be explored.</p><span class="status">EXPLORING</span></article>
+          <article class="window research-window"><span class="smallcap">06 / REFERENCE</span><h4>Portals</h4><p>Focused public knowledge views.</p><span class="status">EXPLORING</span></article>
+        </div><div class="lattice-foot"><span class="smallcap">THE GRID SETS THE HIERARCHY / STATUS IS PART OF THE CONTENT</span><span class="smallcap">OPENINGS EXPAND OR CONTRACT WITH ACTUAL PROJECTS ↗</span></div>
+      </div>
+      <div class="source-bar"><span class="source-label">GEOMETRY RECORD</span><span><b>Egyptian booklet</b> PDF pp. 9–11 / nested-square rhythm</span><span><b>Bonner</b> Fig. 123 printed p. 255 / PDF p. 277 / octagon-square construction study</span><span>Modern asymmetric windows; project status follows the v0.01 ecosystem inventory</span></div>
+    </section>
+
+    <section class="review" aria-labelledby="review-title"><h2 id="review-title">What the studies test</h2><div><p>Each composition changes the allocation of space: a shaped media bay, a meaningful relation field, and a modular hierarchy. This is the visual direction to review before copying or editing Pen components.</p><p><a href="SYSTEM-ARCHITECTURE.md">Architecture and QA contract</a> · <a href="EGYPTIAN-ATLAS.md">Egyptian booklet atlas</a> · <a href="ISLAMIC-ATLAS.md">Islamic geometry atlas</a></p></div></section>
+  </main>
+  <footer><span>GMD V0.05 / WEB-FIRST DIRECTION STUDIES / MODERN DERIVATIONS</span><span>ILLUSTRATIVE CONTENT · NO SOURCE ARTIFACT OR PRODUCT STATUS IMPLIED BEYOND THE LABELS SHOWN</span></footer>
+</div>
+</body>
+</html>

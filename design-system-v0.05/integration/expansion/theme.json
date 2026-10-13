@@ -1,0 +1,43 @@
+{
+  "version": "0.05-expansion-draft",
+  "extends": "../tokens.json",
+  "status": "draft",
+  "ornament": {
+    "faience": { "value": "#176F73", "on": "#FFFFFF", "use": "optional graphic fill" },
+    "terracotta": { "value": "#9C4937", "on": "#FFFFFF", "use": "optional graphic fill" },
+    "ochre": { "value": "#8B661E", "on": "#FFFFFF", "use": "optional graphic fill" },
+    "limestone": { "value": "#EEE6D7", "on": "#140206", "use": "optional neutral graphic fill" }
+  },
+  "interaction": {
+    "hover": "var(--warm)",
+    "selected": "var(--gmd-v01-nile-100)",
+    "selectedOn": "var(--ink)",
+    "pressed": "var(--ink)",
+    "disabled": "#D7D1C9",
+    "disabledOn": "#625E5B",
+    "focus": "var(--focus)"
+  },
+  "feedback": {
+    "info": "var(--nile)",
+    "infoSurface": "var(--gmd-v01-nile-50)",
+    "success": "var(--success)",
+    "warning": "var(--warning)",
+    "error": "var(--error)"
+  },
+  "dataSeries": ["var(--nile)", "#176F73", "#9C4937"],
+  "density": {
+    "editorial": { "gap": "clamp(24px,4vw,64px)", "depth": "var(--depth-default)", "display": "var(--font-display)" },
+    "workspace": { "gap": "12px", "depth": "none on repeated rows", "body": "var(--font-body)" }
+  },
+  "layout": { "readingMeasure": "64ch", "minimumControlTarget": "44px", "corners": "square editorial / 2px workspace / 1px control" },
+  "pairsToReview": [
+    ["--ink", "--paper"],
+    ["--ink", "--pink"],
+    ["--paper", "--nile"],
+    ["--gmd-exp-faience-on", "--gmd-exp-faience"],
+    ["--gmd-exp-terracotta-on", "--gmd-exp-terracotta"],
+    ["--gmd-exp-ochre-on", "--gmd-exp-ochre"],
+    ["--gmd-exp-limestone-on", "--gmd-exp-limestone"]
+  ],
+  "sourceNote": "Contemporary palette direction based on supplied Egyptian visual reference; no historical pigment claim. Pink remains the action role."
+}

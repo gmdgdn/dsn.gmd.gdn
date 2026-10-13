@@ -1,0 +1,102 @@
+{
+  "captureContext": {
+    "source": "Tavus public site and authenticated PAL Maker dashboard",
+    "viewport": "1026 x 668 CSS px",
+    "sourceFiles": [
+      "01-public-home.styles.json",
+      "02-dashboard-home-top.styles.json"
+    ],
+    "note": "Values below are computed samples captured from representative visible elements, not a complete sitewide token declaration."
+  },
+  "publicSite": {
+    "fonts": {
+      "body": "Suisse Intl, Arial, sans-serif",
+      "display": "Perfectlynineties, Georgia, sans-serif",
+      "labelsAndNavigation": "Fk Raster Grotesk Compact Blended, Arial, sans-serif",
+      "cssSources": [
+        "assets/2025-tavus-staging.shared.309e872bd.css",
+        "assets/2025-tavus-staging.6aa06206f4627ab7365a4764.35728905c.opt.css"
+      ],
+      "fontFiles": "Source CSS lists WOFF2/WOFF/OTF/TTF URLs; fetch failed for required first-choice WOFF files in the public-bundle capture.",
+      "localAssets": {
+        "Suisse Intl 400": "assets/dashboard/SuisseIntl-Regular.woff2 (served by maker.tavus.io, same site family)",
+        "Suisse Intl 500": "assets/dashboard/SuisseIntl-Medium.woff2 (served by maker.tavus.io, same site family)",
+        "Perfectlynineties 400": "assets/dashboard/PerfectlyNineties-Regular.woff (served by maker.tavus.io, same site family)",
+        "FK Raster Grotesk Compact Blended": "source CSS name and remote asset URL confirmed; no local binary captured"
+      }
+    },
+    "colors": {
+      "ink": "rgb(20, 2, 6)",
+      "charcoal": "rgb(40, 41, 42)",
+      "mutedText": "rgb(78, 76, 71)",
+      "paper": "rgb(247, 244, 239)",
+      "warmSurface": "rgb(255, 253, 251)",
+      "white": "rgb(255, 255, 255)",
+      "accentPink": "rgb(255, 97, 131)",
+      "softPink": "rgb(255, 180, 197)",
+      "warmGray": "rgb(234, 229, 222)"
+    },
+    "typeScaleSamples": {
+      "editorialHeroH1": "62.78px / 400, 59.64px line-height (home); other public templates observed from 33.10px to 71.34px",
+      "sectionH2": "50px, 45.66px, 42.12px, 33.10px / 400 (template-dependent)",
+      "sectionH3": "28.54px / 400, 31.39px line-height",
+      "body": "16.44px / 400",
+      "navigationAndButtons": "10.04px / 400",
+      "eyebrow": "6.85px / 400"
+    },
+    "geometryAndMotion": {
+      "sampledBorderRadius": "0px across 180 sampled visible elements",
+      "navigationHeight": "35.83px",
+      "primaryButtonHeight": "41.18px",
+      "transitionsObserved": [
+        "background-color 0.15s",
+        "color 0.2s",
+        "transform 0.25s"
+      ],
+      "sampledCssAnimation": "none; animated media/scroll behaviors require dedicated interaction captures"
+    }
+  },
+  "dashboard": {
+    "fonts": {
+      "body": "SuisseIntl, ui-sans-serif, system-ui, sans-serif",
+      "monospace": "BerkeleyMono, ui-monospace, monospace",
+      "displayAccent": "PerfectlyNineties, ui-sans-serif, system-ui, sans-serif",
+      "localAssets": {
+        "SuisseIntl 400": "assets/dashboard/SuisseIntl-Regular.woff2",
+        "SuisseIntl 500": "assets/dashboard/SuisseIntl-Medium.woff2",
+        "PerfectlyNineties 400": "assets/dashboard/PerfectlyNineties-Regular.woff",
+        "BerkeleyMono 400": "assets/dashboard/BerkeleyMono-Regular.woff2",
+        "BerkeleyMono 500": "assets/dashboard/BerkeleyMono-Medium.woff2"
+      }
+    },
+    "colors": {
+      "foreground": "rgb(68, 64, 58)",
+      "muted": "rgb(99, 97, 98)",
+      "secondaryMuted": "rgb(98, 98, 98)",
+      "sidebarSurface": "rgb(252, 252, 252)",
+      "cardSurface": "rgb(255, 255, 255)",
+      "pinkAccent": "rgb(241, 76, 112)",
+      "pinkTint": "rgb(255, 240, 244)",
+      "charcoal": "rgb(18, 2, 6)",
+      "tourGreen": "rgb(122, 255, 151)",
+      "cream": "rgb(247, 244, 239)"
+    },
+    "typeScaleSamples": {
+      "contentListPageH1": "20px / 500",
+      "homeAndBuilderHeading": "32px / 500",
+      "editorDisplayCard": "30px / 400 PerfectlyNineties",
+      "secondaryH2": "24px / 500",
+      "body": "14px / 400",
+      "button": "14px / 500",
+      "sidebarBody": "16px / 400",
+      "compactLabel": "12px"
+    },
+    "geometryAndMotion": {
+      "sidebarWidth": "240.8px fixed in captured desktop viewport",
+      "cardRadius": "1.5px",
+      "announcementCloseTransition": "color/background 0.2s cubic-bezier(0,0,0.2,1)",
+      "starterCardHover": "translateY(-2px) and border-gray-400, 200ms ease-out",
+      "buttonHover": "translateY(-2px), stronger shadow, 200ms ease-out"
+    }
+  }
+}

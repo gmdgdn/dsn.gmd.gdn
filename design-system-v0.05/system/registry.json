@@ -1,0 +1,346 @@
+{
+  "name": "GMD v0.05 design system inventory",
+  "snapshotDate": "2026-10-05",
+  "scope": "design-system-v0.05; detailed integration inventory",
+  "excluded": [
+    {
+      "pattern": "**/*.pen",
+      "reason": "Encrypted Pen files were not read; board IDs and export mappings are sourced from readable documentation."
+    }
+  ],
+  "counts": {
+    "integrationFilesExcludingPen": 478,
+    "integrationByTopDirectory": {
+      "assets": 40,
+      "egypt-library": 239,
+      "expansion": 68,
+      "pen-archive-before-unification": 10,
+      "pen-exports": 3,
+      "qa": 5,
+      "scripts": 2,
+      "social": 13,
+      "ui-templates": 74,
+      "unified-boards": 13,
+      "rootFiles": 11
+    },
+    "integrationByExtension": {
+      "svg": 134,
+      "png": 103,
+      "jpg": 75,
+      "html": 38,
+      "md": 33,
+      "css": 19,
+      "json": 18,
+      "ttf": 16,
+      "js": 12,
+      "py": 10,
+      "txt": 8,
+      "woff2": 3,
+      "webp": 3,
+      "mjs": 2,
+      "pyc": 1,
+      "csv": 1,
+      "zip": 1,
+      "woff": 1
+    }
+  },
+  "categories": {
+    "foundations": [
+      {
+        "name": "Current semantic token source",
+        "path": "system/tokens/tokens.json",
+        "status": "prototype",
+        "notes": "Current reference, semantic and component hierarchy; generated with system/tokens/build.py."
+      },
+      {
+        "name": "Current system portal",
+        "path": "system/index.html",
+        "status": "prototype",
+        "notes": "Canonical navigation, foundation guidance and local native component demonstrations."
+      },
+      {
+        "name": "Legacy integration tokens",
+        "path": "integration/tokens.json",
+        "status": "reference",
+        "notes": "Preserved pipeline source. Current authority is system/tokens/tokens.json; compatibility.css bridges legacy consumers."
+      },
+      {
+        "name": "Legacy generated CSS",
+        "path": "integration/tokens.css",
+        "status": "reference",
+        "notes": "Preserved generated styles. Current aliases are supplied by system/compatibility.css."
+      },
+      {
+        "name": "Additive expansion theme",
+        "path": "integration/expansion/theme.json",
+        "status": "prototype",
+        "notes": "Optional ornament/state/density/layout roles; explicitly additive to shared tokens."
+      },
+      {
+        "name": "Current bilingual role mapping",
+        "path": "integration/ui-templates/typography.css",
+        "status": "prototype",
+        "notes": "Source Sans 3 / Source Serif 4, Mada / Amiri, and selective Handjet; current GMD pages load it after shared and page styles."
+      }
+    ],
+    "components": [
+      {
+        "name": "Framework-neutral interaction controllers and pure helpers",
+        "path": "integration/expansion/components.js",
+        "status": "prototype",
+        "notes": "Contract documented in CONTRACTS.md; tests cover selected filtering/export/form helpers, not full visual or consumer behavior."
+      },
+      {
+        "name": "Component lab and state matrix",
+        "path": "integration/expansion/component-lab.html",
+        "status": "prototype",
+        "notes": "Local review harness; not a complete production component package."
+      },
+      {
+        "name": "Current GMD public shell and pages",
+        "path": "integration/ui-templates/gmd/index.html",
+        "status": "prototype",
+        "notes": "Six-page static public preview; Arabic and responsive QA documented in ui-templates/QA.md and PREMIUM-DIRECTION.md. Backend/consumer integrations are not present."
+      }
+    ],
+    "patterns": [
+      {
+        "name": "Egyptian source-informed SVG families",
+        "path": "integration/egypt-library/manifest.json",
+        "status": "reference",
+        "notes": "Manifest catalogues contemporary adaptations and construction notes. No historical reconstruction or seamless repeat is claimed."
+      },
+      {
+        "name": "G2 source-informed vector library",
+        "path": "integration/egypt-library/new-graphics/manifest.json",
+        "status": "reference",
+        "notes": "Generated editable SVGs with source IDs and palette roles; source-specific builds/galleries retained."
+      },
+      {
+        "name": "G3 source-traced drawings and layouts",
+        "path": "integration/egypt-library/graphics-3/catalog.json",
+        "status": "reference",
+        "notes": "Catalog and gallery document user-provided sources, orientation, and reconstruction classifications; see per-family folders for generated assets."
+      },
+      {
+        "name": "Islamic geometry source atlas",
+        "path": "deep/ISLAMIC-ATLAS.md",
+        "status": "reference",
+        "notes": "Research atlas spanning later book methods; construction studies should cite exact source figure/page and distinguish proposed web transformations from observed construction."
+      },
+      {
+        "name": "Egyptian motif source atlas",
+        "path": "deep/EGYPTIAN-ATLAS.md",
+        "status": "reference",
+        "notes": "Source review and contemporary web/layout studies; not an approved production motif library."
+      }
+    ],
+    "assets": [
+      {
+        "name": "Curated icon, frame, medallion, poster, and pattern set",
+        "path": "integration/assets/",
+        "status": "reference",
+        "notes": "Utility icons are optical-review candidates. Poster provenance/rights are unresolved. SVG review manifest describes treatment boundaries."
+      },
+      {
+        "name": "Egyptian library assets and originals",
+        "path": "integration/egypt-library/assets/",
+        "status": "reference",
+        "notes": "Use manifest/gallery for per-file source, role, minimum size, classification, and limitations."
+      },
+      {
+        "name": "User G3 source inventory and derived studies",
+        "path": "integration/egypt-library/graphics-3/",
+        "status": "reference",
+        "notes": "Original images, catalog, source comparisons, drawings, layouts, and architecture branch. Do not infer provenance beyond user-provided catalog."
+      },
+      {
+        "name": "Supplied public-page illustration copies",
+        "path": "integration/ui-templates/gmd/assets/",
+        "status": "reference",
+        "notes": "Copies are used in the public preview; source art is preserved separately and no new reconstruction is implied."
+      }
+    ],
+    "pages": [
+      {
+        "name": "Integration review gallery",
+        "path": "integration/index.html",
+        "status": "prototype",
+        "notes": "Main coded integration gallery; local sample data and demonstrations, not a production homepage/application."
+      },
+      {
+        "name": "Expansion gallery, component lab, and geometry atlas",
+        "path": "integration/expansion/index.html",
+        "status": "prototype",
+        "notes": "Eight sections, controller specimens, and 10 geometry seeds/32 variants; readiness docs identify open release gates."
+      },
+      {
+        "name": "Egyptian library gallery",
+        "path": "integration/egypt-library/index.html",
+        "status": "prototype",
+        "notes": "Generated source-informed selector; use alongside manifest and per-branch galleries."
+      },
+      {
+        "name": "Social composition gallery",
+        "path": "integration/social/index.html",
+        "status": "prototype",
+        "notes": "Seven Pen-authored layouts with local filters; no platform-crop approval implied."
+      },
+      {
+        "name": "Six-page GMD public company preview",
+        "path": "integration/ui-templates/gmd/index.html",
+        "status": "prototype",
+        "notes": "Home, Company, Products, Services, Data, Contact. Contact state is local-only; no production message delivery or product consumer build."
+      },
+      {
+        "name": "Earlier marketing, collection, and editorial drafts",
+        "path": "integration/ui-templates/marketing/index.html",
+        "status": "legacy",
+        "notes": "Retained for comparison; current public-site brief takes precedence."
+      }
+    ],
+    "templates": [
+      {
+        "name": "Social layout presets",
+        "path": "integration/social/templates.json",
+        "status": "prototype",
+        "notes": "Seven editable Pen layouts and GMD working sizes. Export PNGs are delivery previews; check platform fit separately."
+      },
+      {
+        "name": "Expansion page compositions",
+        "path": "integration/expansion/READINESS.md",
+        "status": "prototype",
+        "notes": "Eight section studies list their components, limitations, and status."
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Integration QA record",
+        "path": "integration/QA.md",
+        "status": "verified",
+        "notes": "Recorded checks on 2026-10-03 with explicit boundaries; not blanket release approval."
+      },
+      {
+        "name": "Expansion QA and web QA",
+        "path": "integration/expansion/QA.md",
+        "status": "verified",
+        "notes": "Review evidence for stated checks only; read alongside READINESS.md and WEB-QA.md."
+      },
+      {
+        "name": "Public UI and typography QA",
+        "path": "integration/ui-templates/QA.md",
+        "status": "verified",
+        "notes": "Recorded six-page responsive/Arabic checks; prototype/backend and production accessibility gates remain."
+      },
+      {
+        "name": "G3 asset review and source catalogue",
+        "path": "integration/egypt-library/graphics-3/ROOT-REVIEW.md",
+        "status": "reference",
+        "notes": "Human review notes and source observations, not general rights clearance."
+      }
+    ],
+    "archive": [
+      {
+        "name": "Pre-unification board exports",
+        "path": "integration/pen-archive-before-unification/",
+        "status": "legacy",
+        "notes": "PNG snapshots retained for before/after comparison."
+      },
+      {
+        "name": "Previous public GMD iteration",
+        "path": "integration/ui-templates/gmd/previous-public/",
+        "status": "legacy",
+        "notes": "Older page styles/scripts retained; current six-page preview takes precedence."
+      },
+      {
+        "name": "Deferred workspace/project UI drafts",
+        "path": "integration/ui-templates/",
+        "status": "legacy",
+        "notes": "dataset/intake/insights and earlier editorial/collection drafts remain separate from current public-company priority."
+      }
+    ]
+  },
+  "consumers": [
+    {
+      "name": "Integration review",
+      "entry": "integration/index.html",
+      "foundation": "integration/tokens.json -> integration/tokens.css"
+    },
+    {
+      "name": "GMD public preview",
+      "entry": "integration/ui-templates/gmd/index.html",
+      "foundation": "integration/tokens.css + ui-templates/typography.css + premium shell"
+    },
+    {
+      "name": "Geometry and component review",
+      "entry": "integration/expansion/index.html",
+      "foundation": "integration/tokens.css + additive expansion theme"
+    }
+  ],
+  "driftAndDuplicates": [
+    {
+      "kind": "typography-role-migration",
+      "paths": [
+        "integration/tokens.css",
+        "integration/ui-templates/typography.css",
+        "integration/egypt-library/fonts/manifest.json"
+      ],
+      "detail": "Legacy Suisse/FK/Noto family and newer Source Sans/Source Serif/Mada/Amiri/Handjet roles coexist. Current public pages should consistently layer typography.css last; optional IBM Plex Arabic/Rakkas remain library specimens."
+    },
+    {
+      "kind": "duplicate-font-files",
+      "paths": [
+        "integration/egypt-library/fonts/Amiri-Regular.ttf",
+        "integration/ui-templates/fonts/Amiri-Regular.ttf",
+        "integration/egypt-library/fonts/Amiri-Bold.ttf",
+        "integration/ui-templates/fonts/Amiri-Bold.ttf",
+        "integration/egypt-library/fonts/Amiri-OFL.txt",
+        "integration/ui-templates/fonts/Amiri-OFL.txt"
+      ],
+      "detail": "Byte-identical duplicate static files. Older integration fonts also duplicate direction-review inputs."
+    },
+    {
+      "kind": "duplicate-board-exports",
+      "paths": [
+        "integration/pen-exports/",
+        "integration/unified-boards/",
+        "integration/egypt-library/pen-exports/",
+        "integration/pen-archive-before-unification/"
+      ],
+      "detail": "SHA-256 shows repeated board PNGs across current/export/archive folders. Preserve these as snapshots; use documented current unified exports for review."
+    },
+    {
+      "kind": "cross-catalog-source-duplicates",
+      "paths": [
+        "integration/egypt-library/graphics-3/sources/",
+        "integration/egypt-library/new-graphics/sources/"
+      ],
+      "detail": "Exact duplicate images have different catalogue IDs: G3-001/G2-017, G3-002/G2-005, G3-014/G2-014, G3-015/G2-022, G3-021/G2-002."
+    },
+    {
+      "kind": "page-css-copies",
+      "paths": [
+        "integration/ui-templates/gmd/gmd.css",
+        "integration/ui-templates/gmd/previous-public/gmd.css",
+        "integration/ui-templates/gmd/public.js",
+        "integration/ui-templates/gmd/previous-public/public.js"
+      ],
+      "detail": "Current and previous-public copies hash identically at inventory time; keep the previous-public location historical rather than an alternate import path."
+    }
+  ],
+  "maturityDefinitions": {
+    "verified": "Recorded, scoped validation exists; not automatically product/release ready.",
+    "prototype": "Runnable specimen or authored design with known integration/QA boundaries.",
+    "reference": "Evidence, source, candidate, or static export that informs design; not a supported consumer API.",
+    "legacy": "Superseded or archived material retained for context and provenance."
+  },
+  "currentAuthority": {
+    "entry": "system/index.html",
+    "tokens": "system/tokens/tokens.json",
+    "generatedCSS": "system/tokens/tokens.css",
+    "builder": "system/tokens/build.py",
+    "compatibility": "system/compatibility.css",
+    "status": "prototype"
+  },
+  "snapshotNote": "478 integration files counted before this consolidation. New system files are additive."
+}

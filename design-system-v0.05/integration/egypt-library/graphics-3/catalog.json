@@ -1,0 +1,407 @@
+{
+  "collection": "G3 — user-directed inspiration references",
+  "sourceFolder": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3",
+  "count": 21,
+  "idOrder": "case-insensitive filename sort",
+  "provenance": "filenames are user-authored briefs and are retained verbatim; no other provenance inferred",
+  "entries": [
+    {
+      "id": "G3-001",
+      "filenameBrief": "831154036_1804936920833198_1583804643893970977_n.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\831154036_1804936920833198_1583804643893970977_n.jpg",
+      "reviewCopy": "sources/G3-001.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 296224,
+      "sha256": "c0cab73e18385c2049f9c7f8c1d7bb086efbca7ca0d19810a71e0e5700406243",
+      "userRequest": "Numeric-name source; no filename brief was supplied.",
+      "visibleEvidence": "Cartoon drawing of a walking bespectacled figure holding up a framed portrait of a similar cartoon figure.",
+      "orientation": "upright as supplied; portrait page",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "editable SVG comparison published in drawings/index.html",
+      "vectorFiles": [
+        "drawings/svg/G3-001-cartoon-pair-traced.svg"
+      ],
+      "fidelity": "source-traced ink contours"
+    },
+    {
+      "id": "G3-002",
+      "filenameBrief": "copy layout and colors according to the design system colors.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\copy layout and colors according to the design system colors.jpg",
+      "reviewCopy": "sources/G3-002.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 218844,
+      "sha256": "4e5f382d26e2a161784be5273ebbe4fb548d36ee0223e7ad3ff0e998fac8f109",
+      "userRequest": "Copy the layout and colors according to the design-system colors.",
+      "visibleEvidence": "An upright page of four distinct cartoon panels, including a long horizontal group scene at the bottom; retain panel hierarchy and color placement as layout evidence.",
+      "orientation": "upright as supplied; portrait page",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "editable SVG comparison published in drawings/index.html",
+      "vectorFiles": [
+        "drawings/svg/G3-002-four-panel-layout.svg"
+      ],
+      "fidelity": "contemporary editable source-informed study"
+    },
+    {
+      "id": "G3-003",
+      "filenameBrief": "could be a graphic for conversations, remove the text inside the bubbles and recreate..jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\could be a graphic for conversations, remove the text inside the bubbles and recreate..jpg",
+      "reviewCopy": "sources/G3-003.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 510202,
+      "sha256": "63430f47738c06e46513cd38697127aa474665043a88b047ac0659b35e4718a8",
+      "userRequest": "Could be a conversations graphic; remove text inside bubbles and recreate.",
+      "visibleEvidence": "Upright black-and-white page interleaves illustrated people, flowers, and fish around a vertical column of oval speech balloons containing Arabic writing.",
+      "orientation": "upright as supplied; portrait page",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "editable SVG comparison published in drawings/index.html",
+      "vectorFiles": [
+        "drawings/svg/G3-003-empty-conversations.svg"
+      ],
+      "fidelity": "contemporary editable source-informed study"
+    },
+    {
+      "id": "G3-004",
+      "filenameBrief": "EEGYPT Aziz & Dorés in Alexandria Kids Fashion Vintage Print c.1908 - back wow.png",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\EEGYPT Aziz & Dorés in Alexandria Kids Fashion Vintage Print c.1908 - back wow.png",
+      "reviewCopy": "sources/G3-004.png",
+      "width": 826,
+      "height": 1600,
+      "bytes": 2828209,
+      "sha256": "9e04d0c7e72c0a6b4486cfc8c35a9b87f5a580aed5d7a2d3dc3eb6407a05843b",
+      "userRequest": "Filename identifies a vintage Alexandria kids-fashion print, back side.",
+      "visibleEvidence": "Tall, upright vintage cover/back-print composition: central calligraphic/logo-like mark with thin orbital/ornamental framing and Alexandria label.",
+      "orientation": "upright as supplied; portrait page",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "source-only preservation card in drawings/index.html",
+      "vectorFiles": [],
+      "fidelity": "original source retained; lettering not redrawn"
+    },
+    {
+      "id": "G3-005",
+      "filenameBrief": "egyptian Pixelated style of a poster or a frame of a person.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\egyptian Pixelated style of a poster or a frame of a person.jpg",
+      "reviewCopy": "sources/G3-005.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 758946,
+      "sha256": "5417d919e4a3321d1a85b887adb2a1e92a78352642d3e1b4a358549e452610aa",
+      "userRequest": "Egyptian pixelated style of a poster or a frame of a person.",
+      "visibleEvidence": "Upright printed poster with a woman in a waving pose, Egyptian flag, dot/halftone field, and ornate border; the visible image is not a coarse pixel grid.",
+      "orientation": "upright as supplied; portrait page",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "editable SVG comparison published in drawings/index.html",
+      "vectorFiles": [
+        "drawings/svg/G3-005-poster-figure-traced.svg"
+      ],
+      "fidelity": "source-traced ink contours"
+    },
+    {
+      "id": "G3-006",
+      "filenameBrief": "Egyptian windows, recreate.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\Egyptian windows, recreate.jpg",
+      "reviewCopy": "sources/G3-006.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 712525,
+      "sha256": "b5ec74696e9ba99e65759379d90bdfff278c3f565911c3aada58f9091d5570e1",
+      "userRequest": "Egyptian windows, recreate.",
+      "visibleEvidence": "Upright blue-ink scene contained by a large rounded arch: a grid of framed cartoon faces above a street-level group, with sun and buildings; windows are the main repeated feature.",
+      "orientation": "upright as supplied; portrait page",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "editable SVG comparison published in drawings/index.html",
+      "vectorFiles": [
+        "drawings/svg/G3-006-window-village.svg"
+      ],
+      "fidelity": "contemporary editable source-informed study"
+    },
+    {
+      "id": "G3-007",
+      "filenameBrief": "footer inspiration, not main footer but could be used, this is part one, extract it and flip to normal position, try to make it geometric without changing the style, this is part  2.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\footer inspiration, not main footer but could be used, this is part one, extract it and flip to normal position, try to make it geometric without changing the style, this is part  2.jpg",
+      "reviewCopy": "sources/G3-007.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 378509,
+      "sha256": "635f8704de6e1da34d9e08b06581e2d50798a9007123a53d21a537f0a1f7b469",
+      "userRequest": "Footer inspiration; not the main footer; extract and flip to normal position, geometricize without changing style.",
+      "visibleEvidence": "Photo of a book page laid on its side: a long comic-like line of people/objects follows a meandering connected contour beside Arabic body text.",
+      "orientation": "rotate source page 90 degrees clockwise; horizontal scene reads normally alongside upright Arabic text",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "editable SVG comparison published in drawings/index.html",
+      "vectorFiles": [
+        "drawings/svg/G3-007-footer-strip-part1.svg"
+      ],
+      "fidelity": "contemporary editable source-informed study"
+    },
+    {
+      "id": "G3-008",
+      "filenameBrief": "footer inspiration, not main footer but could be used, this is part one, extract it and flip to normal position, try to make it geometric without changing the style, this is part 1.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\footer inspiration, not main footer but could be used, this is part one, extract it and flip to normal position, try to make it geometric without changing the style, this is part 1.jpg",
+      "reviewCopy": "sources/G3-008.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 462275,
+      "sha256": "6afb1a81b07222bd2653c8d1771439383fe75de23eaab5b2cf5e9e27de189b16",
+      "userRequest": "Footer inspiration; not the main footer; extract and flip to normal position, geometricize without changing style.",
+      "visibleEvidence": "Second sideways book-page scene with an extended connected line of small figures/objects and Arabic text; related visual treatment to G3-007, but different drawing.",
+      "orientation": "rotate source page 90 degrees clockwise; horizontal scene reads normally alongside upright Arabic text",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "editable SVG comparison published in drawings/index.html",
+      "vectorFiles": [
+        "drawings/svg/G3-008-footer-strip-part2.svg"
+      ],
+      "fidelity": "contemporary editable source-informed study"
+    },
+    {
+      "id": "G3-009",
+      "filenameBrief": "patterns could be extracted, also recreate as a poster template after enhancing.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\patterns could be extracted, also recreate as a poster template after enhancing.jpg",
+      "reviewCopy": "sources/G3-009.jpg",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 525952,
+      "sha256": "2eadbe5b150df4309301990641854b8813d4fa81fd18f381d066747fbd36d643",
+      "userRequest": "Extract patterns and recreate as a poster template after enhancing.",
+      "visibleEvidence": "Upright green cover: dense white floral border, central dark panel with geometric/calligraphic artwork and round medallions, plus a black calligraphy band and animal motif at top; preserve source typography as source content, not redraw it as generic pattern.",
+      "orientation": "upright as supplied; portrait page",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "editable SVG comparison published in drawings/index.html",
+      "vectorFiles": [
+        "drawings/svg/G3-009-pattern-poster-template.svg"
+      ],
+      "fidelity": "contemporary editable source-informed study"
+    },
+    {
+      "id": "G3-010",
+      "filenameBrief": "photo frame, recreate and enhance.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\photo frame, recreate and enhance.jpg",
+      "reviewCopy": "sources/G3-010.jpg",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 368438,
+      "sha256": "988e62e98e195502ad8201f3c1778d4ded0142213de09b2dd57df6c9ebd38209",
+      "userRequest": "Photo frame, recreate and enhance.",
+      "visibleEvidence": "Upright portrait of a man enclosed in a strongly colored oval opening, layered blue floral frame, and rectangular outer field.",
+      "orientation": "upright as supplied; portrait page",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "editable SVG comparison published in drawings/index.html",
+      "vectorFiles": [
+        "drawings/svg/G3-010-portrait-frame.svg"
+      ],
+      "fidelity": "contemporary editable source-informed study"
+    },
+    {
+      "id": "G3-011",
+      "filenameBrief": "poster of king fouad egypt, drawn by arabic letters.png",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\poster of king fouad egypt, drawn by arabic letters.png",
+      "reviewCopy": "sources/G3-011.png",
+      "width": 411,
+      "height": 676,
+      "bytes": 406232,
+      "sha256": "a3c17ecb542af734e3ad10770079b7365d5b26763035d779016bb42d0f601920",
+      "userRequest": "Poster of King Fouad of Egypt, drawn by Arabic letters.",
+      "visibleEvidence": "Upright monochrome portrait: a standing suited man constructed from repeated Arabic lettering, with printed Arabic caption beneath; portrait and lettering are inseparable source content.",
+      "orientation": "upright as supplied; portrait page",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "editable SVG comparison published in drawings/index.html",
+      "vectorFiles": [
+        "drawings/svg/G3-011-letterform-portrait-traced.svg"
+      ],
+      "fidelity": "source-traced ink contours"
+    },
+    {
+      "id": "G3-012",
+      "filenameBrief": "recreate as a photo frame and descreption, use same graphics.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\recreate as a photo frame and descreption, use same graphics.jpg",
+      "reviewCopy": "sources/G3-012.jpg",
+      "width": 1600,
+      "height": 1200,
+      "bytes": 351001,
+      "sha256": "baa09386bde5551b9bb7a795015c9d5584c4a6e5dd7c514ca23f456c8bc26ff5",
+      "userRequest": "Recreate as a photo frame and description, use same graphics.",
+      "visibleEvidence": "Landscape postcard composition: central monochrome river photograph, framed by illustrated palms, pyramids, water/reeds, small red corner flourishes, and an English caption panel below.",
+      "orientation": "upright landscape as supplied",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "editable SVG comparison published in drawings/index.html",
+      "vectorFiles": [
+        "drawings/svg/G3-012-river-postcard-frame.svg"
+      ],
+      "fidelity": "contemporary editable source-informed study"
+    },
+    {
+      "id": "G3-013",
+      "filenameBrief": "recreate as a seven triangles in the head, recreate the woman and its dress pattern.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\recreate as a seven triangles in the head, recreate the woman and its dress pattern.jpg",
+      "reviewCopy": "sources/G3-013.jpg",
+      "width": 1542,
+      "height": 2048,
+      "bytes": 332816,
+      "sha256": "9ac29e7c52e96182074fbc37880303bf1a105777ab99ba863d5c682285e40cb1",
+      "userRequest": "Recreate as seven triangles in the head; recreate the woman and her dress pattern.",
+      "visibleEvidence": "Upright woman figure with a large seven-wedge circular disk/headdress, dense V-shaped straight hatching, nested rim triangles, pebble-pattern ovals, a small framed face, narrow long diamond gown, and hands at the hem.",
+      "orientation": "upright as supplied; portrait page",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "editable SVG comparison published in drawings/index.html",
+      "vectorFiles": [
+        "drawings/svg/G3-013-seven-triangle-woman-loose.svg",
+        "drawings/svg/G3-013-seven-triangle-woman.svg"
+      ],
+      "fidelity": "contemporary editable source-informed study"
+    },
+    {
+      "id": "G3-014",
+      "filenameBrief": "recreate the man looking like a star, make the background draeings as a little dimmed background.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\recreate the man looking like a star, make the background draeings as a little dimmed background.jpg",
+      "reviewCopy": "sources/G3-014.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 191008,
+      "sha256": "0e5138e002d5ffa45563c3c54cf3ab42d49a9a9d254d4fc85c4a1b300d3feb1e",
+      "userRequest": "Recreate the man who looks like a star; make background drawings slightly dimmed.",
+      "visibleEvidence": "Upright elongated angular man with a face/eye at the top, dark edge at the right of the face, sharp raised left arm, long pointed legs and a netted heart-like chest; surrounding small drawings are separate background material to dim. Not a bird or a building.",
+      "orientation": "upright as supplied; portrait page",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "editable SVG comparison published in drawings/index.html",
+      "vectorFiles": [
+        "drawings/svg/G3-014-angular-man.svg"
+      ],
+      "fidelity": "contemporary editable source-informed study"
+    },
+    {
+      "id": "G3-015",
+      "filenameBrief": "recreate the same drawing as its and extract it.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\recreate the same drawing as its and extract it.jpg",
+      "reviewCopy": "sources/G3-015.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 446534,
+      "sha256": "05189314582457b7ed65ac5ce8650ccc94b168915a43356729e20280d4fc956a",
+      "userRequest": "Recreate the same drawing as is and extract it.",
+      "visibleEvidence": "Upright dense black-and-ochre illustrated panel with a tree silhouette, a small mask-like face, rosettes, triangles, zigzag registers, circles, and stippled/mesh fields; Arabic headline and page text sit outside the panel.",
+      "orientation": "upright as supplied; portrait page",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "editable SVG comparison published in drawings/index.html",
+      "vectorFiles": [
+        "drawings/svg/G3-015-dense-illustration-traced.svg"
+      ],
+      "fidelity": "source-traced ink contours"
+    },
+    {
+      "id": "G3-016",
+      "filenameBrief": "rotate to be normal heart, keep it as it is, just make it more clear and SVG.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\rotate to be normal heart, keep it as it is, just make it more clear and SVG.jpg",
+      "reviewCopy": "sources/G3-016.jpg",
+      "width": 2048,
+      "height": 1542,
+      "bytes": 573061,
+      "sha256": "d66e22504f3aa123dfa46c6c7562a5b3572371b1563c7602943d58ea9cc183c2",
+      "userRequest": "Rotate to a normal heart; keep it as it is, make it clearer and SVG.",
+      "visibleEvidence": "Dense black ornamental heart assembled from many small figure/face motifs, with a few larger figures in the central mass. In the supplied photo its point faces left.",
+      "orientation": "rotate source 90 degrees counterclockwise to put the point down and figures upright",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "editable SVG comparison published in drawings/index.html",
+      "vectorFiles": [
+        "drawings/svg/G3-016-crowd-heart-traced.svg"
+      ],
+      "fidelity": "source-traced ink contours"
+    },
+    {
+      "id": "G3-017",
+      "filenameBrief": "rotate, and recreate, they are chairs but kinda looks like building, could use in something.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\rotate, and recreate, they are chairs but kinda looks like building, could use in something.jpg",
+      "reviewCopy": "sources/G3-017.jpg",
+      "width": 2048,
+      "height": 1542,
+      "bytes": 329150,
+      "sha256": "78eaf6c78d6a2e6ef7e172ef4f00750c8ba12f245577612be5f20dc1ec9d74b0",
+      "userRequest": "Rotate and recreate; these are chairs though they look like buildings; could use in something.",
+      "visibleEvidence": "A row/cluster of repeated ornate high-backed chairs with narrow legs/rails, finials, and seat panels; not buildings.",
+      "orientation": "rotate source 90 degrees counterclockwise so chair feet point down and backs face up",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "editable SVG comparison published in drawings/index.html",
+      "vectorFiles": [
+        "drawings/svg/G3-017-ornate-chair-row.svg"
+      ],
+      "fidelity": "contemporary editable source-informed study"
+    },
+    {
+      "id": "G3-018",
+      "filenameBrief": "spae ship in the form of egypt pyramids, extract and enhance.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\spae ship in the form of egypt pyramids, extract and enhance.jpg",
+      "reviewCopy": "sources/G3-018.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 393213,
+      "sha256": "99456ef690875a38a4402562a6b2a94a8427f73d66094ec11afcc3fabb2552ab",
+      "userRequest": "Spaceship in the form of Egyptian pyramids; extract and enhance.",
+      "visibleEvidence": "Upright narrow rocket/ship illustration: triangular outer silhouette, decorated central body with a small person, smoke/cloud forms at side, and segmented exhaust below.",
+      "orientation": "upright as supplied; portrait page",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "editable SVG comparison published in drawings/index.html",
+      "vectorFiles": [
+        "drawings/svg/G3-018-pyramid-ship.svg"
+      ],
+      "fidelity": "contemporary editable source-informed study"
+    },
+    {
+      "id": "G3-019",
+      "filenameBrief": "the framing and the drawings.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\the framing and the drawings.jpg",
+      "reviewCopy": "sources/G3-019.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 471616,
+      "sha256": "fe999f5abab0db26bb9ed163baaa91f868eb985ea91fd2228e8349609c41c2a2",
+      "userRequest": "The framing and the drawings.",
+      "visibleEvidence": "Upright editorial page with a patterned diamond side border, zigzag scroll-like heading frame, heavy side bars around a man's portrait, and Arabic editorial text below.",
+      "orientation": "upright as supplied; portrait page",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "editable SVG comparison published in drawings/index.html",
+      "vectorFiles": [
+        "drawings/svg/G3-019-editorial-frame.svg"
+      ],
+      "fidelity": "contemporary editable source-informed study"
+    },
+    {
+      "id": "G3-020",
+      "filenameBrief": "the pyramids, bricks and pixles.png",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\the pyramids, bricks and pixles.png",
+      "reviewCopy": "sources/G3-020.png",
+      "width": 609,
+      "height": 379,
+      "bytes": 416938,
+      "sha256": "4fa450f791d5fcc74abff37663c068d936db29e5d31da5960bb6da0c129f1041",
+      "userRequest": "The pyramids, bricks and pixels.",
+      "visibleEvidence": "Upright landscape cartoon of a large pyramid built from staggered rectangular masonry courses, with smaller pyramid and two running figures; small screen/figure appears near the apex. It is not a pixel-art grid.",
+      "orientation": "upright landscape as supplied",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "editable SVG comparison published in drawings/index.html",
+      "vectorFiles": [
+        "drawings/svg/G3-020-brick-pyramids.svg"
+      ],
+      "fidelity": "contemporary editable source-informed study"
+    },
+    {
+      "id": "G3-021",
+      "filenameBrief": "this is an arabic question mark, recreate as it is and remove the text.jpg",
+      "sourcePath": "C:\\Users\\khorm\\Desktop\\gmd design system inspiration graphics\\graphics\\3\\this is an arabic question mark, recreate as it is and remove the text.jpg",
+      "reviewCopy": "sources/G3-021.jpg",
+      "width": 1542,
+      "height": 2047,
+      "bytes": 178602,
+      "sha256": "71085d5bf8bf65c7ca74de28b0d1668b59fdc76f708d3dc4e03041a833ad7e5f",
+      "userRequest": "This is an Arabic question mark; recreate it as-is and remove the text.",
+      "visibleEvidence": "Upright green Arabic question-mark silhouette with oversized circular head, curling tapered stem, bottom dot/terminal, and Arabic words reversed out in pale ink. This is the Arabic question mark ؟, not a speech callout.",
+      "orientation": "upright as supplied; preserve the question-mark glyph orientation; remove only internal wording if recreation is later approved",
+      "visualNotes": "Direct review of supplied full-resolution source image; concise description records visible content, not inferred historical provenance. No reconstruction performed.",
+      "status": "editable SVG comparison published in drawings/index.html",
+      "vectorFiles": [
+        "drawings/svg/G3-021-arabic-question-mark.svg"
+      ],
+      "fidelity": "contemporary editable source-informed study"
+    }
+  ]
+}

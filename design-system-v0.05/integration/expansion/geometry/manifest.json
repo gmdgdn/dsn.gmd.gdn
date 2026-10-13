@@ -1,0 +1,854 @@
+{
+  "version": "0.1.0",
+  "generator": "build_geometry.py",
+  "classification": "contemporary parameterized construction studies; never historical facsimiles",
+  "assets": [
+    {
+      "id": "hex-01-outline",
+      "specimen": "hex-01",
+      "variant": "outline",
+      "file": "assets/hex-01-outline.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "hex-dodecagonal",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.92, printed p.229 / PDF p.251; angle and polygon vocabulary reference, not traced.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "hostPolygonSides": 6,
+        "orientationDeg": -30,
+        "sourceAngleReferenceDeg": 60,
+        "rayStep": 2,
+        "outerRadius": 112,
+        "innerRadiusRatio": 0.48,
+        "innerRingPhaseDeg": 30.0,
+        "construction": "rotated regular host; half-step inner ring; each outer vertex connects to inner index (i + rayStep) mod n; local radial specimen"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 144,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "hex-01-filled",
+      "specimen": "hex-01",
+      "variant": "filled",
+      "file": "assets/hex-01-filled.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "hex-dodecagonal",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.92, printed p.229 / PDF p.251; angle and polygon vocabulary reference, not traced.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "hostPolygonSides": 6,
+        "orientationDeg": -30,
+        "sourceAngleReferenceDeg": 60,
+        "rayStep": 2,
+        "outerRadius": 112,
+        "innerRadiusRatio": 0.48,
+        "innerRingPhaseDeg": 30.0,
+        "construction": "rotated regular host; half-step inner ring; each outer vertex connects to inner index (i + rayStep) mod n; local radial specimen"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 96,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "hex-01-band",
+      "specimen": "hex-01",
+      "variant": "band",
+      "file": "assets/hex-01-band.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "hex-dodecagonal",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.92, printed p.229 / PDF p.251; angle and polygon vocabulary reference, not traced.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "hostPolygonSides": 6,
+        "orientationDeg": -30,
+        "sourceAngleReferenceDeg": 60,
+        "rayStep": 2,
+        "outerRadius": 112,
+        "innerRadiusRatio": 0.48,
+        "innerRingPhaseDeg": 30.0,
+        "construction": "rotated regular host; half-step inner ring; each outer vertex connects to inner index (i + rayStep) mod n; local radial specimen"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 112,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "hex-02-outline",
+      "specimen": "hex-02",
+      "variant": "outline",
+      "file": "assets/hex-02-outline.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "hex-dodecagonal",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.92, printed p.229 / PDF p.251; angle and polygon vocabulary reference, not traced.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "hostPolygonSides": 6,
+        "orientationDeg": 0,
+        "sourceAngleReferenceDeg": 90,
+        "rayStep": 1,
+        "outerRadius": 112,
+        "innerRadiusRatio": 0.62,
+        "innerRingPhaseDeg": 30.0,
+        "construction": "rotated regular host; half-step inner ring; each outer vertex connects to inner index (i + rayStep) mod n; local radial specimen"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 144,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "hex-02-filled",
+      "specimen": "hex-02",
+      "variant": "filled",
+      "file": "assets/hex-02-filled.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "hex-dodecagonal",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.92, printed p.229 / PDF p.251; angle and polygon vocabulary reference, not traced.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "hostPolygonSides": 6,
+        "orientationDeg": 0,
+        "sourceAngleReferenceDeg": 90,
+        "rayStep": 1,
+        "outerRadius": 112,
+        "innerRadiusRatio": 0.62,
+        "innerRingPhaseDeg": 30.0,
+        "construction": "rotated regular host; half-step inner ring; each outer vertex connects to inner index (i + rayStep) mod n; local radial specimen"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 96,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "hex-02-band",
+      "specimen": "hex-02",
+      "variant": "band",
+      "file": "assets/hex-02-band.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "hex-dodecagonal",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.92, printed p.229 / PDF p.251; angle and polygon vocabulary reference, not traced.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "hostPolygonSides": 6,
+        "orientationDeg": 0,
+        "sourceAngleReferenceDeg": 90,
+        "rayStep": 1,
+        "outerRadius": 112,
+        "innerRadiusRatio": 0.62,
+        "innerRingPhaseDeg": 30.0,
+        "construction": "rotated regular host; half-step inner ring; each outer vertex connects to inner index (i + rayStep) mod n; local radial specimen"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 112,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "dodec-01-outline",
+      "specimen": "dodec-01",
+      "variant": "outline",
+      "file": "assets/dodec-01-outline.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "hex-dodecagonal",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.92, printed p.229 / PDF p.251; angle and polygon vocabulary reference, not traced.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "hostPolygonSides": 12,
+        "orientationDeg": -60,
+        "sourceAngleReferenceDeg": 30,
+        "rayStep": 5,
+        "outerRadius": 112,
+        "innerRadiusRatio": 0.48,
+        "innerRingPhaseDeg": 15.0,
+        "construction": "rotated regular host; half-step inner ring; each outer vertex connects to inner index (i + rayStep) mod n; local radial specimen"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 144,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "dodec-01-filled",
+      "specimen": "dodec-01",
+      "variant": "filled",
+      "file": "assets/dodec-01-filled.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "hex-dodecagonal",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.92, printed p.229 / PDF p.251; angle and polygon vocabulary reference, not traced.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "hostPolygonSides": 12,
+        "orientationDeg": -60,
+        "sourceAngleReferenceDeg": 30,
+        "rayStep": 5,
+        "outerRadius": 112,
+        "innerRadiusRatio": 0.48,
+        "innerRingPhaseDeg": 15.0,
+        "construction": "rotated regular host; half-step inner ring; each outer vertex connects to inner index (i + rayStep) mod n; local radial specimen"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 96,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "dodec-01-band",
+      "specimen": "dodec-01",
+      "variant": "band",
+      "file": "assets/dodec-01-band.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "hex-dodecagonal",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.92, printed p.229 / PDF p.251; angle and polygon vocabulary reference, not traced.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "hostPolygonSides": 12,
+        "orientationDeg": -60,
+        "sourceAngleReferenceDeg": 30,
+        "rayStep": 5,
+        "outerRadius": 112,
+        "innerRadiusRatio": 0.48,
+        "innerRingPhaseDeg": 15.0,
+        "construction": "rotated regular host; half-step inner ring; each outer vertex connects to inner index (i + rayStep) mod n; local radial specimen"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 112,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "dodec-02-outline",
+      "specimen": "dodec-02",
+      "variant": "outline",
+      "file": "assets/dodec-02-outline.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "hex-dodecagonal",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.92, printed p.229 / PDF p.251; angle and polygon vocabulary reference, not traced.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "hostPolygonSides": 12,
+        "orientationDeg": -30,
+        "sourceAngleReferenceDeg": 60,
+        "rayStep": 4,
+        "outerRadius": 112,
+        "innerRadiusRatio": 0.62,
+        "innerRingPhaseDeg": 15.0,
+        "construction": "rotated regular host; half-step inner ring; each outer vertex connects to inner index (i + rayStep) mod n; local radial specimen"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 144,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "dodec-02-filled",
+      "specimen": "dodec-02",
+      "variant": "filled",
+      "file": "assets/dodec-02-filled.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "hex-dodecagonal",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.92, printed p.229 / PDF p.251; angle and polygon vocabulary reference, not traced.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "hostPolygonSides": 12,
+        "orientationDeg": -30,
+        "sourceAngleReferenceDeg": 60,
+        "rayStep": 4,
+        "outerRadius": 112,
+        "innerRadiusRatio": 0.62,
+        "innerRingPhaseDeg": 15.0,
+        "construction": "rotated regular host; half-step inner ring; each outer vertex connects to inner index (i + rayStep) mod n; local radial specimen"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 96,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "dodec-02-band",
+      "specimen": "dodec-02",
+      "variant": "band",
+      "file": "assets/dodec-02-band.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "hex-dodecagonal",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.92, printed p.229 / PDF p.251; angle and polygon vocabulary reference, not traced.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "hostPolygonSides": 12,
+        "orientationDeg": -30,
+        "sourceAngleReferenceDeg": 60,
+        "rayStep": 4,
+        "outerRadius": 112,
+        "innerRadiusRatio": 0.62,
+        "innerRingPhaseDeg": 15.0,
+        "construction": "rotated regular host; half-step inner ring; each outer vertex connects to inner index (i + rayStep) mod n; local radial specimen"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 112,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "square-oct-01-outline",
+      "specimen": "square-oct-01",
+      "variant": "outline",
+      "file": "assets/square-oct-01-outline.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "square-octagon",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.123, printed p.255 / PDF p.277; 4.8.8 construction family.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "tiling": "4.8.8",
+        "cellPitch": 64.0,
+        "seed": "median",
+        "sourceAngleReferenceDeg": 45,
+        "octagonChordStep": 2,
+        "construction": "regular squares and octagons on a square translation cell with local star-chord overlays; the angle is recorded as source-family vocabulary, not as a reproduced ray construction"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 144,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "square-oct-01-filled",
+      "specimen": "square-oct-01",
+      "variant": "filled",
+      "file": "assets/square-oct-01-filled.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "square-octagon",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.123, printed p.255 / PDF p.277; 4.8.8 construction family.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "tiling": "4.8.8",
+        "cellPitch": 64.0,
+        "seed": "median",
+        "sourceAngleReferenceDeg": 45,
+        "octagonChordStep": 2,
+        "construction": "regular squares and octagons on a square translation cell with local star-chord overlays; the angle is recorded as source-family vocabulary, not as a reproduced ray construction"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 96,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "square-oct-01-band",
+      "specimen": "square-oct-01",
+      "variant": "band",
+      "file": "assets/square-oct-01-band.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "square-octagon",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.123, printed p.255 / PDF p.277; 4.8.8 construction family.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "tiling": "4.8.8",
+        "cellPitch": 64.0,
+        "seed": "median",
+        "sourceAngleReferenceDeg": 45,
+        "octagonChordStep": 2,
+        "construction": "regular squares and octagons on a square translation cell with local star-chord overlays; the angle is recorded as source-family vocabulary, not as a reproduced ray construction"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 112,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "square-oct-01-aperture",
+      "specimen": "square-oct-01",
+      "variant": "aperture",
+      "file": "assets/square-oct-01-aperture.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "square-octagon",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.123, printed p.255 / PDF p.277; 4.8.8 construction family.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "tiling": "4.8.8",
+        "cellPitch": 64.0,
+        "seed": "median",
+        "sourceAngleReferenceDeg": 45,
+        "octagonChordStep": 2,
+        "construction": "regular squares and octagons on a square translation cell with local star-chord overlays; the angle is recorded as source-family vocabulary, not as a reproduced ray construction"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 96,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "square-oct-02-outline",
+      "specimen": "square-oct-02",
+      "variant": "outline",
+      "file": "assets/square-oct-02-outline.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "square-octagon",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.123, printed p.255 / PDF p.277; 4.8.8 construction family.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "tiling": "4.8.8",
+        "cellPitch": 64.0,
+        "seed": "extended",
+        "sourceAngleReferenceDeg": 67.5,
+        "octagonChordStep": 3,
+        "construction": "regular squares and octagons on a square translation cell with local star-chord overlays; the angle is recorded as source-family vocabulary, not as a reproduced ray construction"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 144,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "square-oct-02-filled",
+      "specimen": "square-oct-02",
+      "variant": "filled",
+      "file": "assets/square-oct-02-filled.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "square-octagon",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.123, printed p.255 / PDF p.277; 4.8.8 construction family.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "tiling": "4.8.8",
+        "cellPitch": 64.0,
+        "seed": "extended",
+        "sourceAngleReferenceDeg": 67.5,
+        "octagonChordStep": 3,
+        "construction": "regular squares and octagons on a square translation cell with local star-chord overlays; the angle is recorded as source-family vocabulary, not as a reproduced ray construction"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 96,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "square-oct-02-band",
+      "specimen": "square-oct-02",
+      "variant": "band",
+      "file": "assets/square-oct-02-band.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "square-octagon",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.123, printed p.255 / PDF p.277; 4.8.8 construction family.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "tiling": "4.8.8",
+        "cellPitch": 64.0,
+        "seed": "extended",
+        "sourceAngleReferenceDeg": 67.5,
+        "octagonChordStep": 3,
+        "construction": "regular squares and octagons on a square translation cell with local star-chord overlays; the angle is recorded as source-family vocabulary, not as a reproduced ray construction"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 112,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "square-oct-02-aperture",
+      "specimen": "square-oct-02",
+      "variant": "aperture",
+      "file": "assets/square-oct-02-aperture.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "square-octagon",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.123, printed p.255 / PDF p.277; 4.8.8 construction family.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "tiling": "4.8.8",
+        "cellPitch": 64.0,
+        "seed": "extended",
+        "sourceAngleReferenceDeg": 67.5,
+        "octagonChordStep": 3,
+        "construction": "regular squares and octagons on a square translation cell with local star-chord overlays; the angle is recorded as source-family vocabulary, not as a reproduced ray construction"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 96,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "radial-01-outline",
+      "specimen": "radial-01",
+      "variant": "outline",
+      "file": "assets/radial-01-outline.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "radial-gore",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.490D, printed p.534 / PDF p.556; eight radial segments, used only as 2D composition reference.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "sectorCount": 8,
+        "sectorAngleDeg": 45,
+        "seed": "open",
+        "innerRadius": 48,
+        "outerRadiiAlternating": [
+          126,
+          112
+        ],
+        "construction": "2D radial fan segments; not a dome surface or flattened gore reconstruction"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 144,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "radial-01-filled",
+      "specimen": "radial-01",
+      "variant": "filled",
+      "file": "assets/radial-01-filled.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "radial-gore",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.490D, printed p.534 / PDF p.556; eight radial segments, used only as 2D composition reference.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "sectorCount": 8,
+        "sectorAngleDeg": 45,
+        "seed": "open",
+        "innerRadius": 48,
+        "outerRadiiAlternating": [
+          126,
+          112
+        ],
+        "construction": "2D radial fan segments; not a dome surface or flattened gore reconstruction"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 96,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "radial-01-band",
+      "specimen": "radial-01",
+      "variant": "band",
+      "file": "assets/radial-01-band.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "radial-gore",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.490D, printed p.534 / PDF p.556; eight radial segments, used only as 2D composition reference.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "sectorCount": 8,
+        "sectorAngleDeg": 45,
+        "seed": "open",
+        "innerRadius": 48,
+        "outerRadiiAlternating": [
+          126,
+          112
+        ],
+        "construction": "2D radial fan segments; not a dome surface or flattened gore reconstruction"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 112,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "radial-02-outline",
+      "specimen": "radial-02",
+      "variant": "outline",
+      "file": "assets/radial-02-outline.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "radial-gore",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.490D, printed p.534 / PDF p.556; eight radial segments, used only as 2D composition reference.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "sectorCount": 8,
+        "sectorAngleDeg": 45,
+        "seed": "ribbed",
+        "innerRadius": 28,
+        "outerRadiiAlternating": [
+          126,
+          112
+        ],
+        "construction": "2D radial fan segments; not a dome surface or flattened gore reconstruction"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 144,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "radial-02-filled",
+      "specimen": "radial-02",
+      "variant": "filled",
+      "file": "assets/radial-02-filled.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "radial-gore",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.490D, printed p.534 / PDF p.556; eight radial segments, used only as 2D composition reference.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "sectorCount": 8,
+        "sectorAngleDeg": 45,
+        "seed": "ribbed",
+        "innerRadius": 28,
+        "outerRadiiAlternating": [
+          126,
+          112
+        ],
+        "construction": "2D radial fan segments; not a dome surface or flattened gore reconstruction"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 96,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "radial-02-band",
+      "specimen": "radial-02",
+      "variant": "band",
+      "file": "assets/radial-02-band.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "radial-gore",
+      "source": "Jay Bonner, Islamic Geometric Patterns, Fig.490D, printed p.534 / PDF p.556; eight radial segments, used only as 2D composition reference.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "sectorCount": 8,
+        "sectorAngleDeg": 45,
+        "seed": "ribbed",
+        "innerRadius": 28,
+        "outerRadiiAlternating": [
+          126,
+          112
+        ],
+        "construction": "2D radial fan segments; not a dome surface or flattened gore reconstruction"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 112,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "egyptian-01-outline",
+      "specimen": "egyptian-01",
+      "variant": "outline",
+      "file": "assets/egyptian-01-outline.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "egyptian-register",
+      "source": "Ancient Egyptian Designs, PDF pp.12\u201316; visual register reference. Artifact, date and object attribution unverified.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "seed": "pendant",
+        "moduleCenters": [
+          52,
+          124,
+          196,
+          268
+        ],
+        "modulePitch": 72,
+        "baselineY": 225,
+        "construction": "contemporary vector register, paired variation and baseline; source page is visual reference only"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 144,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "egyptian-01-filled",
+      "specimen": "egyptian-01",
+      "variant": "filled",
+      "file": "assets/egyptian-01-filled.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "egyptian-register",
+      "source": "Ancient Egyptian Designs, PDF pp.12\u201316; visual register reference. Artifact, date and object attribution unverified.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "seed": "pendant",
+        "moduleCenters": [
+          52,
+          124,
+          196,
+          268
+        ],
+        "modulePitch": 72,
+        "baselineY": 225,
+        "construction": "contemporary vector register, paired variation and baseline; source page is visual reference only"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 96,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "egyptian-01-band",
+      "specimen": "egyptian-01",
+      "variant": "band",
+      "file": "assets/egyptian-01-band.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "egyptian-register",
+      "source": "Ancient Egyptian Designs, PDF pp.12\u201316; visual register reference. Artifact, date and object attribution unverified.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "seed": "pendant",
+        "moduleCenters": [
+          52,
+          124,
+          196,
+          268
+        ],
+        "modulePitch": 72,
+        "baselineY": 225,
+        "construction": "contemporary vector register, paired variation and baseline; source page is visual reference only"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 112,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "egyptian-02-outline",
+      "specimen": "egyptian-02",
+      "variant": "outline",
+      "file": "assets/egyptian-02-outline.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "egyptian-register",
+      "source": "Ancient Egyptian Designs, PDF pp.12\u201316; visual register reference. Artifact, date and object attribution unverified.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "seed": "rosette-chevron",
+        "moduleCenters": [
+          52,
+          124,
+          196,
+          268
+        ],
+        "modulePitch": 72,
+        "baselineY": 225,
+        "construction": "contemporary vector register, paired variation and baseline; source page is visual reference only"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 144,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "egyptian-02-filled",
+      "specimen": "egyptian-02",
+      "variant": "filled",
+      "file": "assets/egyptian-02-filled.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "egyptian-register",
+      "source": "Ancient Egyptian Designs, PDF pp.12\u201316; visual register reference. Artifact, date and object attribution unverified.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "seed": "rosette-chevron",
+        "moduleCenters": [
+          52,
+          124,
+          196,
+          268
+        ],
+        "modulePitch": 72,
+        "baselineY": 225,
+        "construction": "contemporary vector register, paired variation and baseline; source page is visual reference only"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 96,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    },
+    {
+      "id": "egyptian-02-band",
+      "specimen": "egyptian-02",
+      "variant": "band",
+      "file": "assets/egyptian-02-band.svg",
+      "dimensions": [
+        320,
+        320
+      ],
+      "family": "egyptian-register",
+      "source": "Ancient Egyptian Designs, PDF pp.12\u201316; visual register reference. Artifact, date and object attribution unverified.",
+      "status": "contemporary parameterized construction study",
+      "parameters": {
+        "seed": "rosette-chevron",
+        "moduleCenters": [
+          52,
+          124,
+          196,
+          268
+        ],
+        "modulePitch": 72,
+        "baselineY": 225,
+        "construction": "contemporary vector register, paired variation and baseline; source page is visual reference only"
+      },
+      "periodic": false,
+      "minimumSizeCssPx": 112,
+      "safeArea": "Central geometry inset 9%; keep text and controls outside strokes."
+    }
+  ],
+  "specimens": {
+    "hex-01": "Six-sided host / step-2 rays",
+    "hex-02": "Six-sided host / step-1 rays",
+    "dodec-01": "Twelve-sided host / step-5 rays",
+    "dodec-02": "Twelve-sided host / step-4 rays",
+    "square-oct-01": "4.8.8 median chord field",
+    "square-oct-02": "4.8.8 extended star-chord field",
+    "radial-01": "Eight-sector open-center fan",
+    "radial-02": "Eight-sector ribbed fan",
+    "egyptian-01": "Alternating open/closed pendant register",
+    "egyptian-02": "Rosette-chevron register"
+  },
+  "validation": "validation.json"
+}

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <style>
+    .scaffold { stroke: var(--sand, #D5C4A8); stroke-width: 1; stroke-dasharray: 4,4; fill: none; opacity: 0.8; }
+    .ink-line { stroke: var(--ink, #140206); stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+    .heavy-line { stroke: var(--ink, #140206); stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+    .blue-line { stroke: var(--nile, #1034A6); stroke-width: 2; fill: none; }
+    .pink-line { stroke: var(--pink, #FF6183); stroke-width: 2; fill: none; }
+    .star-fill-paper { fill: var(--paper, #F7F4EF); stroke: var(--ink, #140206); stroke-width: 1.5; }
+    .star-fill-warm { fill: var(--warm, #EAE5DE); stroke: var(--ink, #140206); stroke-width: 1.5; }
+    .star-fill-blue { fill: var(--nile, #1034A6); stroke: var(--ink, #140206); stroke-width: 1.5; }
+    .star-fill-pink { fill: var(--pink, #FF6183); stroke: var(--ink, #140206); stroke-width: 1.5; }
+    .star-fill-sand { fill: var(--sand, #D5C4A8); stroke: var(--ink, #140206); stroke-width: 1.5; }
+    .star-fill-ink { fill: var(--ink, #140206); stroke: var(--paper, #F7F4EF); stroke-width: 1.5; }
+    .ribbon { fill: none; stroke: var(--ink, #140206); stroke-width: 6; }
+    .ribbon-inner { fill: none; stroke: var(--paper, #F7F4EF); stroke-width: 3; }
+  </style>
+  
+  
+    <!-- Dark Ink Ground -->
+    <rect width="500" height="500" fill="var(--ink, #140206)" />
+    <!-- 16-pointed Outer Petal Ring -->
+    <path d="M 455.96,290.97 L 376.11,302.24 L 424.61,366.67 L 346.52,346.52 L 366.67,424.61 L 302.24,376.11 L 290.97,455.96 L 250,386.5 L 209.03,455.96 L 197.76,376.11 L 133.33,424.61 L 153.48,346.52 L 75.39,366.67 L 123.89,302.24 L 44.04,290.97 L 113.5,250 L 44.04,209.03 L 123.89,197.76 L 75.39,133.33 L 153.48,153.48 L 133.33,75.39 L 197.76,123.89 L 209.03,44.04 L 250,113.5 L 290.97,44.04 L 302.24,123.89 L 366.67,75.39 L 346.52,153.48 L 424.61,133.33 L 376.11,197.76 L 455.96,209.03 L 386.5,250 Z" fill="#2B2627" stroke="var(--sand, #D5C4A8)" stroke-width="2" />
+    <!-- Intermediate Ring -->
+    <circle cx="250" cy="250" r="130" fill="none" stroke="var(--sand, #D5C4A8)" stroke-width="1.5" />
+    <!-- Core 16-Pointed Ivory Star -->
+    <path d="M 367.69,273.41 L 322.06,279.85 L 349.78,316.67 L 305.15,305.15 L 316.67,349.78 L 279.85,322.06 L 273.41,367.69 L 250,328 L 226.59,367.69 L 220.15,322.06 L 183.33,349.78 L 194.85,305.15 L 150.22,316.67 L 177.94,279.85 L 132.31,273.41 L 172,250 L 132.31,226.59 L 177.94,220.15 L 150.22,183.33 L 194.85,194.85 L 183.33,150.22 L 220.15,177.94 L 226.59,132.31 L 250,172 L 273.41,132.31 L 279.85,177.94 L 316.67,150.22 L 305.15,194.85 L 349.78,183.33 L 322.06,220.15 L 367.69,226.59 L 328,250 Z" fill="var(--paper, #F7F4EF)" stroke="var(--ink, #140206)" stroke-width="1.5" />
+    <!-- Central Jewel Aperture -->
+    <circle cx="250" cy="250" r="50" fill="var(--nile, #1034A6)" stroke="var(--sand, #D5C4A8)" stroke-width="2" />
+    <circle cx="250" cy="250" r="18" fill="var(--pink, #FF6183)" />
+  
+</svg>

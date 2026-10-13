@@ -1,0 +1,16 @@
+# Tavus layout inventory for four new GMD templates
+
+Source review: retained Tavus exports at `exports/pen/{homepage,vision,cvi,pricing,pal-maker,blog-index,blog-memories}/` and their `png/` captures. These are visual references, not assets to paste into GMD or claims about a live site. The captures include long blank areas and loading placeholders, so the new templates use the **layout grammar**, not literal page content.
+
+| Tavus export | Observed visual pattern | GMD application |
+|---|---|---|
+| `homepage/png/A0DZwY.png` | Segmented navigation, dark cinematic media hero, narrow proof rail, large centered serif statement, browser-window media, asymmetric capability tiles, landscape section, alternating split panels, dense directory and pixel-pink close | Company mission page: one large sourced image/illustration opening, collect→describe→connect→distribute sequence, varied full-width evidence/product sections and directory footer |
+| `vision/png/BlyMq.png` | Quiet essay title, isolated media window, unusually long paper pauses, one photographic landscape statement, personal-history section, split editorial panel, dual CTA | Film/person editorial: generous headline, full media and provenance, chronological person/credit passages and related works without a uniform card grid |
+| `cvi/png/nLmug.png` | Browser-window demo, modes across chat/audio/video, paper-to-cloud bands, four-column model comparison, action diagrams, developer/code surface, metrics/enterprise area, CTA | Data/service portal: workspace-dense table/filter mode, schema/version/rights panel, real local CSV export and disclosure, then quieter explanation and service entry |
+| `pricing/png/OJZH3.png` | Horizontal tier rail, highlighted option, grouped comparison table, explanatory full-stack block, FAQ, ruled directory | Data/service portal: offering matrix and field-level schema, no invented pricing, capacity or availability |
+| `pal-maker/png/ywTw0.png` | Three-step explanation, product window, vertical capability sequence, persona/creation story | Kayffa essay/archive: object→reading→links in an editorial sequence, with source viewer and reading tools |
+| `blog-index/png/i8Rbt.png`, `blog-memories/png/M2dVVM.png` | Article feed and longform article with TOC, inline imagery/diagrams and related links | Kayffa essay/archive and Film/person editorial: readable TOC, source and related-item treatments, not a marketing tile wall |
+
+Shared web rules: load `../../../tokens.css` from this directory; preserve Perfectly Nineties / Suisse Intl / FK Raster, paper/ink/Nile/pink, segmented navigation, striped title bars, 5/3/0 hard depth, visible rules, and a directory/pixel close. Arabic uses the locally bundled Amiri/IBM Plex Sans Arabic only as a documented extension. Use actual source files with full-object access and rights/provenance slots. Keep hit targets rectangular and text in HTML. Each page must express a different reading density and composition.
+
+Planned templates: `company.html` (mission/data network), `film.html` (person editorial), `kayffa.html` (essay/archive), `data.html` (business data/service portal). Each will be responsive and locally interactive where a control is shown. Graphics-3 sources will be selected only after the source inventory and orientation approval; existing EG/G2 work remains untouched.
